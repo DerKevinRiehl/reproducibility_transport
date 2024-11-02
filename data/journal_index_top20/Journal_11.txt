@@ -1,0 +1,1096 @@
+title,url
+Editorial Board,https://doi.org/10.1016/S2590-1982(19)30047-8
+"Swim lanes, stovepipes, and inside baseball: Fostering interdisciplinary transportation research",https://doi.org/10.1016/j.trip.2019.100023
+Learning to build strategic capacity for transportation policy change: An interdisciplinary exploration,https://doi.org/10.1016/j.trip.2019.100006
+Evaluation of sustainable urban mobility using comparative environmental life cycle assessment: A case study of Qatar,https://doi.org/10.1016/j.trip.2019.100003
+Progress or regress on gender equality: The case study of selected transport STEM careers and their vocational education and training in Japan,https://doi.org/10.1016/j.trip.2019.100009
+Increasing civil aviation capacity in China requires harmonizing the physical and human components of capacity: A review and investigation,https://doi.org/10.1016/j.trip.2019.100005
+Antecedents of flight delays in the Australian domestic aviation market,https://doi.org/10.1016/j.trip.2019.100007
+What passengers really want: Assessing the value of rail innovation to improve experiences,https://doi.org/10.1016/j.trip.2019.100014
+Michigan's public transportation: An application of statewide performance assessment and management,https://doi.org/10.1016/j.trip.2019.100013
+Audio on the go: The effect of audio cues on memory in driving,https://doi.org/10.1016/j.trip.2019.100004
+"Safety, stress and work zone complexity: A field study on police officers performing on-foot traffic control",https://doi.org/10.1016/j.trip.2019.100018
+Multiobjective integrated signal-control system calibration in urban areas: Application of response surface methodology,https://doi.org/10.1016/j.trip.2019.100011
+Decentralized network level adaptive signal control by multi-agent deep reinforcement learning,https://doi.org/10.1016/j.trip.2019.100020
+Practitioners' perspective on user experience and design of cycle highways,https://doi.org/10.1016/j.trip.2019.100010
+"Assessing service and price sensitivities, and pivot elasticities of public bikeshare system users through monadic design and ordered logit regression",https://doi.org/10.1016/j.trip.2019.100015
+Physical activity of electric bicycle users compared to conventional bicycle users and non-cyclists: Insights based on health and transport data from an online survey in seven European cities,https://doi.org/10.1016/j.trip.2019.100017
+"An informal transportation as a feeder of the rapid transit system. Spatial analysis of the e-bike taxi service in Shenzhen, China",https://doi.org/10.1016/j.trip.2019.100002
+"A socioeconomic analysis of ride-hailing emergence and expansion in São Paulo, Brazil",https://doi.org/10.1016/j.trip.2019.100016
+Comparison of Waze crash and disabled vehicle records with video ground truth,https://doi.org/10.1016/j.trip.2019.100019
+"Are you going to get a ticket or a warning for speeding? An autologistic regression analysis in Burlington, VT",https://doi.org/10.1016/j.trip.2019.100001
+Crowd-shipping services for last mile delivery: Analysis from American survey data,https://doi.org/10.1016/j.trip.2019.100008
+Planning for walking and cycling in an autonomous-vehicle future,https://doi.org/10.1016/j.trip.2019.100012
+"Automated speed control on urban arterial road: An experience from Khon Kaen City, Thailand",https://doi.org/10.1016/j.trip.2019.100032
+Evaluation on the coordinated development of air logistics in Beijing-Tianjin-Hebei,https://doi.org/10.1016/j.trip.2019.100034
+Editorial Board,https://doi.org/10.1016/S2590-1982(19)30082-X
+Computing optimum traffic signal cycle length considering vehicle delay and fuel consumption,https://doi.org/10.1016/j.trip.2019.100021
+Flood evacuation and rescue: The identification of critical road segments using whole-landscape features,https://doi.org/10.1016/j.trip.2019.100022
+Innovative scenarios for modeling intra-city freight delivery,https://doi.org/10.1016/j.trip.2019.100024
+Geoanalysis of park-and-ride facilities for future laboratory-wide commuting program,https://doi.org/10.1016/j.trip.2019.100025
+Embedding aircraft system modeling to ATM safety assessment techniques: The runway excursion safety case for runway strips with reduced strength,https://doi.org/10.1016/j.trip.2019.100026
+"Factors associated with physical, psychological and functional outcomes in adult trauma patients following Road Traffic Crash: A scoping literature review",https://doi.org/10.1016/j.trip.2019.100061
+,https://doi.org/10.1016/j.trip.2019.100062
+The irresistible peak-hour: Instrumental and axiological rationales of work hours' synchronisation,https://doi.org/10.1016/j.trip.2019.100063
+How to support cooperative driving by HMI design?,https://doi.org/10.1016/j.trip.2019.100064
+Factors influencing Pedestrian Speed in Level of Service (LOS) of pedestrian facilities,https://doi.org/10.1016/j.trip.2019.100066
+Using the abstraction hierarchy to identify how the purpose and structure of road transport systems contributes to road trauma,https://doi.org/10.1016/j.trip.2019.100067
+Link-level travel time measures-based level of service thresholds by the posted speed limit,https://doi.org/10.1016/j.trip.2019.100068
+Identification of trip generators using remote sensing and geographic information system,https://doi.org/10.1016/j.trip.2019.100069
+The impact on neighbourhood residential property valuations of a newly proposed public transport project: The Sydney Northwest Metro case study,https://doi.org/10.1016/j.trip.2019.100070
+An adaptive big data weather system for surface transportation,https://doi.org/10.1016/j.trip.2019.100071
+An interdisciplinary review to develop guidelines for modeling population displacement as a function of infrastructure reconstruction decisions,https://doi.org/10.1016/j.trip.2019.100072
+Does news coverage of traffic crashes affect perceived blame and preferred solutions? Evidence from an experiment,https://doi.org/10.1016/j.trip.2019.100073
+Rural Transport Services Indicators: Using a new mixed-methods methodology to inform policy in Ghana,https://doi.org/10.1016/j.trip.2019.100074
+Creating a prediction model of passenger preference between low cost and legacy airlines,https://doi.org/10.1016/j.trip.2019.100075
+Driving performance and specific attentional domains,https://doi.org/10.1016/j.trip.2019.100077
+Introducing a mobility on demand system to prospective users with the help of a serious game,https://doi.org/10.1016/j.trip.2019.100079
+Editorial Board,https://doi.org/10.1016/S2590-1982(20)30035-X
+From knowledge to action: Measuring the gaps between the evidence and adapted driver education services for young adults with disabilities,https://doi.org/10.1016/j.trip.2019.100065
+"Ranking factors affecting public transport mode choice of commuters in an urban city of a developing country using analytic hierarchy process: The case of Metro Cebu, Philippines",https://doi.org/10.1016/j.trip.2019.100078
+Using social media to evaluate associations between parking supply and parking sentiment,https://doi.org/10.1016/j.trip.2019.100085
+Mathematical modeling of air pollution in city tunnels and evaluating mitigation strategies,https://doi.org/10.1016/j.trip.2019.100086
+Evaluating driver cognitive distraction by eye tracking: From simulator to driving,https://doi.org/10.1016/j.trip.2019.100087
+Drones for parcel and passenger transportation: A literature review,https://doi.org/10.1016/j.trip.2019.100088
+"How are automobile fuel quality standards guaranteed? Evidence from Indonesia, Malaysia and Vietnam",https://doi.org/10.1016/j.trip.2019.100089
+Adolescents' attitudes and intentions to use a smartphone app to promote safe driving,https://doi.org/10.1016/j.trip.2020.100090
+A simulation-based approach to provide insights on Hyperloop network operations,https://doi.org/10.1016/j.trip.2020.100092
+Effects of the driving context on the usage of Automated Driver Assistance Systems (ADAS) -Naturalistic Driving Study for ADAS evaluation,https://doi.org/10.1016/j.trip.2020.100093
+Perceived safety and experienced incidents between pedestrians and cyclists in a high-volume non-motorized shared space,https://doi.org/10.1016/j.trip.2020.100094
+Insects and aviation safety: The case of the keyhole wasp ,https://doi.org/10.1016/j.trip.2020.100096
+Exploring the price of motor vehicle collisions – A compensation cost approach,https://doi.org/10.1016/j.trip.2020.100097
+Investigating the influence of highway median design on driver stress,https://doi.org/10.1016/j.trip.2020.100098
+"Impeding access: The frequency and characteristics of improper scooter, bike, and car parking",https://doi.org/10.1016/j.trip.2020.100099
+"Evaluation of pavement condition index by different methods: Case study of Maringá, Brazil",https://doi.org/10.1016/j.trip.2020.100100
+Optimal locations for bikeshare stations: A new GIS based spatial approach,https://doi.org/10.1016/j.trip.2020.100101
+"Pathways to sustainable urban mobility planning: A case study applied in São Luís, Brazil",https://doi.org/10.1016/j.trip.2020.100102
+How are car buyers and car sellers currently informed about ADAS? An investigation among drivers and car sellers in the Netherlands,https://doi.org/10.1016/j.trip.2020.100103
+The illusion of aircrews' fatigue risk control,https://doi.org/10.1016/j.trip.2020.100104
+Application of tablet-based cognitive tasks to predict unsafe drivers in older adults,https://doi.org/10.1016/j.trip.2020.100105
+"Designing with differences, cross-disciplinary collaboration in transport infrastructure planning and design",https://doi.org/10.1016/j.trip.2020.100106
+"Children, Young people and Mobility as a Service: Opportunities and barriers for future mobility",https://doi.org/10.1016/j.trip.2020.100107
+World economic growth and seaborne trade volume: Quantifying the relationship,https://doi.org/10.1016/j.trip.2020.100108
+"A systematic overview of transportation equity in terms of accessibility, traffic emissions, and safety outcomes: From conventional to emerging technologies",https://doi.org/10.1016/j.trip.2020.100091
+Emerging data for pedestrian and bicycle monitoring: Sources and applications,https://doi.org/10.1016/j.trip.2020.100095
+Editorial Board,https://doi.org/10.1016/S2590-1982(20)30067-1
+Testing on the move: South Korea's rapid response to the COVID-19 pandemic,https://doi.org/10.1016/j.trip.2020.100111
+COVID-19 and airline employment: Insights from historical uncertainty shocks to the industry,https://doi.org/10.1016/j.trip.2020.100123
+The effect of COVID-19 and subsequent social distancing on travel behavior,https://doi.org/10.1016/j.trip.2020.100121
+The cruise industry and the COVID-19 outbreak,https://doi.org/10.1016/j.trip.2020.100136
+Framing systemic traffic violence: Media coverage of Dutch traffic crashes,https://doi.org/10.1016/j.trip.2020.100109
+"Interprofessional collaboration to promote transportation equity for environmental justice populations: A mixed methods study of civil engineers, transportation planners, and social workers' perspectives",https://doi.org/10.1016/j.trip.2020.100110
+A framework for end-to-end deep learning-based anomaly detection in transportation networks,https://doi.org/10.1016/j.trip.2020.100112
+Autonowashing: The Greenwashing of Vehicle Automation,https://doi.org/10.1016/j.trip.2020.100113
+Does a fighter pilot live in the danger zone? A risk assessment applied to military aviation,https://doi.org/10.1016/j.trip.2020.100114
+Spoilt - Ocean Cleanup: Alternative logistics chains to accommodate plastic waste recycling: An economic evaluation,https://doi.org/10.1016/j.trip.2020.100115
+Comparative studies into public private partnership and traditional investment approaches on the high-speed rail project linking 3 airports in Thailand,https://doi.org/10.1016/j.trip.2020.100116
+Is Bluetooth Low Energy feasible for mobile ticketing in urban passenger transport?,https://doi.org/10.1016/j.trip.2020.100120
+Rail and road public transport: Cooperation or coexistence?,https://doi.org/10.1016/j.trip.2020.100122
+Distracted by “distracted pedestrians”?,https://doi.org/10.1016/j.trip.2020.100118
+"An exploration of policy knowledge-seeking on high-volume, low-carbon transport: findings from expert interviews in selected African and South-Asian countries",https://doi.org/10.1016/j.trip.2020.100117
+"Transit in flex: Examining service fragmentation of app-based, on-demand transit services in Texas",https://doi.org/10.1016/j.trip.2019.100060
+"Which activities do those with long commutes forego, and should we care?",https://doi.org/10.1016/j.trip.2020.100119
+Can Sharing Economy Platforms Increase Social Equity for Vulnerable Populations in Disaster Response and Relief? A Case Study of the 2017 and 2018 California Wildfires,https://doi.org/10.1016/j.trip.2020.100131
+Socio-technical scenarios and local practice – Assessing the future use of fossil-free alternatives in a regional energy and transport system,https://doi.org/10.1016/j.trip.2020.100128
+The ultimate smart mobility combination for sustainable transport? A case study on shared electric automated mobility initiatives in the Netherlands,https://doi.org/10.1016/j.trip.2020.100129
+How to ‘do’ a bike plan: Collating best practices to synthesise a Maturity Model of planning for cycling,https://doi.org/10.1016/j.trip.2020.100130
+Influenza risk perception and travel-related health protection behavior in the US: Insights for the aftermath of the COVID-19 outbreak,https://doi.org/10.1016/j.trip.2020.100127
+Survey on residents' willingness in the renovation of traffic environments in old communities,https://doi.org/10.1016/j.trip.2020.100132
+"Exploring the relationship between the built environment, trip chain complexity, and auto mode choice, applying a large national data set",https://doi.org/10.1016/j.trip.2020.100134
+Air quality and fossil fuel driven transportation in the Metropolitan Area of São Paulo,https://doi.org/10.1016/j.trip.2020.100137
+Individuals’ willingness to rent their personal vehicle to others: An exploratory assessment of peer-to-peer carsharing,https://doi.org/10.1016/j.trip.2020.100138
+Agent-based vulnerability assessment at airport security checkpoints: A case study on security operator behavior,https://doi.org/10.1016/j.trip.2020.100139
+Ethical decision making behind the wheel – A driving simulator study,https://doi.org/10.1016/j.trip.2020.100147
+Editorial Board,https://doi.org/10.1016/S2590-1982(20)30107-X
+"How COVID-19 and the Dutch ‘intelligent lockdown’ change activities, work and travel behaviour: Evidence from longitudinal data in the Netherlands",https://doi.org/10.1016/j.trip.2020.100150
+"Impact of COVID-19 on transportation in Lagos, Nigeria",https://doi.org/10.1016/j.trip.2020.100154
+Compensation effect between deaths from Covid-19 and crashes: The Italian case,https://doi.org/10.1016/j.trip.2020.100170
+The link between bike sharing and subway use during the COVID-19 pandemic: The case-study of New York's Citi Bike,https://doi.org/10.1016/j.trip.2020.100166
+The impact of COVID-19 on transport volume and freight capacity dynamics: An empirical analysis in German food retail logistics,https://doi.org/10.1016/j.trip.2020.100165
+The impact of government measures and human mobility trend on COVID-19 related deaths in the UK,https://doi.org/10.1016/j.trip.2020.100167
+Responsible Transport: A post-COVID agenda for transport policy and practice,https://doi.org/10.1016/j.trip.2020.100151
+Exploring network properties of social media interactions and activities during Hurricane Sandy,https://doi.org/10.1016/j.trip.2020.100143
+Multimodal evacuation after subway breakdown: A modeling framework and mode choice behavior,https://doi.org/10.1016/j.trip.2020.100177
+A constructive role for social science in the development of automated vehicles,https://doi.org/10.1016/j.trip.2020.100133
+The development and reliability of a national survey of police officers regarding the enforceability of cell phone use while driving laws,https://doi.org/10.1016/j.trip.2020.100140
+Forgotten or never consciously processed? A comparison of immediate and delayed recall of driving details,https://doi.org/10.1016/j.trip.2020.100149
+Rail factor and realism of the unconscious,https://doi.org/10.1016/j.trip.2020.100144
+Exploratory analysis of recent trends in school travel mode choices in the U.S.,https://doi.org/10.1016/j.trip.2020.100146
+Unsafe motorization: A clog in the wheels of sustainable transportation,https://doi.org/10.1016/j.trip.2020.100153
+Autonomous driving cargo bikes – Introducing an acceptability-focused approach towards a new mobility offer,https://doi.org/10.1016/j.trip.2020.100135
+"College student mobility in emerging countries: Case study on Universidad Autónoma de Querétaro, México",https://doi.org/10.1016/j.trip.2020.100155
+Population size and transport company efficiency – Evidence from Czech Republic,https://doi.org/10.1016/j.trip.2020.100145
+Is caring about the environment enough for sustainable mobility? An exploratory case study from South Tyrol (Italy),https://doi.org/10.1016/j.trip.2020.100148
+A comparative analysis of service quality among ECOWAS seaports,https://doi.org/10.1016/j.trip.2020.100152
+Estimating bus passenger volume based on a Wi-Fi scanner survey,https://doi.org/10.1016/j.trip.2020.100142
+Satisfaction from satisficing: Understanding commuters' satisficing tendencies,https://doi.org/10.1016/j.trip.2020.100158
+Inflection point: The future of subcontracting in the petroleum industry,https://doi.org/10.1016/j.trip.2020.100159
+A mixed-methods study of the demographic and behavioural correlates of walking to a more distant bus stop,https://doi.org/10.1016/j.trip.2020.100164
+Toward sustainable travel: An analysis of campus bikeshare use,https://doi.org/10.1016/j.trip.2020.100162
+Towards more sustainable transport in Metro Manila: A case study of household vehicle ownership and energy consumption,https://doi.org/10.1016/j.trip.2020.100163
+Evaluating spatial and temporal effects of planned special events on travel time performance measures,https://doi.org/10.1016/j.trip.2020.100168
+Potential for improving the environmental performance of railway sleepers with an outer shell made of recycled materials,https://doi.org/10.1016/j.trip.2020.100160
+"Road transport energy consumption and vehicular emissions in Lagos, Nigeria: An application of the LEAP model",https://doi.org/10.1016/j.trip.2020.100172
+Driver compliance and safety effects of three-foot bicycle passing laws,https://doi.org/10.1016/j.trip.2020.100173
+Vehicle involvements in hydroplaning crashes: Applying interpretable machine learning,https://doi.org/10.1016/j.trip.2020.100176
+Vulnerability assessment of Alberta's provincial highway network,https://doi.org/10.1016/j.trip.2020.100171
+Associations between self-rated personality traits and automobile fatality rates across small geographic areas,https://doi.org/10.1016/j.trip.2020.100175
+Editorial Board,https://doi.org/10.1016/S2590-1982(20)30139-1
+Every-day mobility anecdotes: Addressing the blind spot of goal- and expert-oriented mobility research,https://doi.org/10.1016/j.trip.2020.100169
+Travel behavior changes during the COVID-19 pandemic in Japan: Analyzing the effects of risk perception and social influence on going-out self-restriction,https://doi.org/10.1016/j.trip.2020.100181
+Case study of road rage incidents resulting from the illegal use of high beams,https://doi.org/10.1016/j.trip.2020.100184
+"Taming the eHMI jungle: A classification taxonomy to guide, compare, and assess the design principles of automated vehicles' external human-machine interfaces",https://doi.org/10.1016/j.trip.2020.100174
+"Analyzing the influence of social, cultural, behavioral traits on cycling and walking in Pakistan",https://doi.org/10.1016/j.trip.2020.100182
+Shipping markets in turmoil: An analysis of the Covid-19 outbreak and its implications,https://doi.org/10.1016/j.trip.2020.100178
+Modeling social network influence on hurricane evacuation decision consistency and sharing capacity,https://doi.org/10.1016/j.trip.2020.100180
+Implication of repatriating migrant workers on COVID-19 spread and transportation requirements,https://doi.org/10.1016/j.trip.2020.100187
+Autonomous vehicles and cycling: Policy implications and management issues,https://doi.org/10.1016/j.trip.2020.100188
+A descriptive analysis of the effect of the COVID-19 pandemic on driving behavior and road safety,https://doi.org/10.1016/j.trip.2020.100186
+Adherence to social distancing and wearing of masks within public transportation during the COVID 19 pandemic,https://doi.org/10.1016/j.trip.2020.100191
+Activating inclusive growth in railway SMEs by workplace innovation,https://doi.org/10.1016/j.trip.2020.100193
+An overview of air delay: A case study of the Brazilian scenario,https://doi.org/10.1016/j.trip.2020.100189
+Understanding social processes of shopping destination choice - An approach to model stability and variability,https://doi.org/10.1016/j.trip.2020.100183
+COVID-19 indoor exposure levels: An analysis of foot traffic scenarios within an academic building,https://doi.org/10.1016/j.trip.2020.100185
+Comparison of competing market mechanisms with reinforcement learning in a carpooling scenario,https://doi.org/10.1016/j.trip.2020.100190
+Digitalisation and automation of transport: A lifeworld perspective of travellers,https://doi.org/10.1016/j.trip.2020.100195
+Air emission impacts of low-level automated vehicle technologies in U.S. metropolitan areas,https://doi.org/10.1016/j.trip.2020.100194
+VIEWPOINT: Accelerating reform to govern streets in support of human-scaled accessibility,https://doi.org/10.1016/j.trip.2020.100199
+Trusting autonomous vehicles: An interdisciplinary approach,https://doi.org/10.1016/j.trip.2020.100201
+Impact of physical distancing due to novel coronavirus (SARS-CoV-2) on daily travel for work during transition to lockdown,https://doi.org/10.1016/j.trip.2020.100203
+Tram drivers' perceived safety and driving stress evaluation. A stated preference experiment,https://doi.org/10.1016/j.trip.2020.100205
+Impact of Covid-19 on passengers and airlines from passenger measurements: Managing customer satisfaction while putting the US Air Transportation System to sleep,https://doi.org/10.1016/j.trip.2020.100179
+Activity-based travel as a social signal of the City Satisfaction Index. Study case in a medium-sized city of Argentina,https://doi.org/10.1016/j.trip.2020.100207
+"Spatial inequalities and media representation of cycling safety in Bogotá, Colombia",https://doi.org/10.1016/j.trip.2020.100208
+What is a parked bicycle? Vehicle fleet characteristics in Australia,https://doi.org/10.1016/j.trip.2020.100204
+A field study of sensors for winter road assessment,https://doi.org/10.1016/j.trip.2020.100206
+The challenge of the bicycle street: Applying collaborative governance processes while protecting user centered innovations,https://doi.org/10.1016/j.trip.2020.100209
+Simulation pipeline for traffic evacuation in urban areas and emergency traffic management policy improvements through case studies,https://doi.org/10.1016/j.trip.2020.100210
+Rail versus bus local public transport services: A social cost comparison methodology,https://doi.org/10.1016/j.trip.2020.100200
+The influences of father absence on primary school children's pedestrian behaviors: The mediating effect of self-control,https://doi.org/10.1016/j.trip.2020.100202
+GPS-data in bicycle planning: “Which cyclist leaves what kind of traces?” Results of a representative user study in Germany,https://doi.org/10.1016/j.trip.2020.100192
+"Influence of demand and capacity in transportation simulations of short-notice, distant-tsunami evacuations",https://doi.org/10.1016/j.trip.2020.100211
+Bangkok motorcycle taxis as eyes on the street?,https://doi.org/10.1016/j.trip.2020.100220
+"Do students, workers, and unemployed passengers respond differently to the intention to evade fares? An empirical research",https://doi.org/10.1016/j.trip.2020.100215
+How is COVID-19 reshaping activity-travel behavior? Evidence from a comprehensive survey in Chicago,https://doi.org/10.1016/j.trip.2020.100216
+Estimating the impacts of lockdown on Covid-19 cases in Nigeria,https://doi.org/10.1016/j.trip.2020.100217
+"Changes in urban mobility in Sapporo city, Japan due to the Covid-19 emergency declarations",https://doi.org/10.1016/j.trip.2020.100212
+Editorial Board,https://doi.org/10.1016/S2590-1982(20)30196-2
+"COVID-19 lockdown and reduction of traffic accidents in Tarragona province, Spain",https://doi.org/10.1016/j.trip.2020.100218
+Exploring the intention of out-of-home activities participation during new normal conditions in Indonesian cities,https://doi.org/10.1016/j.trip.2020.100237
+"Impacts of COVID-19 on public transport ridership in Sweden: Analysis of ticket validations, sales and passenger counts",https://doi.org/10.1016/j.trip.2020.100242
+COVID-19 spread and inter-county travel: Daily evidence from the U.S.,https://doi.org/10.1016/j.trip.2020.100244
+Exploring the impacts of COVID-19 on travel behavior and mode preferences,https://doi.org/10.1016/j.trip.2020.100255
+Modelling the effects of COVID-19 on travel mode choice behaviour in India,https://doi.org/10.1016/j.trip.2020.100273
+Impacts of COVID-19 on access to transportation for people with disabilities,https://doi.org/10.1016/j.trip.2020.100263
+Is bicycling getting safer? Bicycle fatality rates (1985–2017) using four exposure metrics,https://doi.org/10.1016/j.trip.2020.100219
+The influence of passenger air traffic on the spread of COVID-19 in the world,https://doi.org/10.1016/j.trip.2020.100213
+The association between lifestyle and aberrant driving behavior among Iranian car drivers,https://doi.org/10.1016/j.trip.2020.100221
+"Agents, environments, scenarios: A framework for examining models and simulations of human-vehicle interaction",https://doi.org/10.1016/j.trip.2020.100214
+Urban transportation in Libya: An overview,https://doi.org/10.1016/j.trip.2020.100161
+Modal share changes due to COVID-19: The case of Budapest,https://doi.org/10.1016/j.trip.2020.100141
+The acceptability value of autonomous vehicles: A quantitative analysis of the willingness to pay for shared autonomous vehicles (SAVs) mobility services,https://doi.org/10.1016/j.trip.2020.100224
+Prospects of alternative funding sourcing for maintenance of road networks in developing countries,https://doi.org/10.1016/j.trip.2020.100225
+Transit use for single-parent households: Evidence from Maryland,https://doi.org/10.1016/j.trip.2020.100223
+"Understanding young drivers in Turkey: Time perspective, driving skills, and driver behaviors",https://doi.org/10.1016/j.trip.2020.100226
+Caught in a crossfire: Front-end decision-making in airport expansion programmes,https://doi.org/10.1016/j.trip.2020.100222
+A data-driven approach to calibrate microsimulation models based on the degree of saturation at signalized intersections,https://doi.org/10.1016/j.trip.2020.100231
+A decentralized optimization approach employing cooperative cycle-regulation in an intersection-centric manner: A complex urban simulative case study,https://doi.org/10.1016/j.trip.2020.100232
+Vehicle routing problem of contactless joint distribution service during COVID-19 pandemic,https://doi.org/10.1016/j.trip.2020.100233
+"“More sidewalks, more bus stops”: Travel behaviors and opinions of Connecticut teenagers",https://doi.org/10.1016/j.trip.2020.100238
+Transport-related experiences in China in response to the Coronavirus (COVID-19),https://doi.org/10.1016/j.trip.2020.100246
+"Asset tracking, condition visibility and sustainability using unmanned aerial systems in global logistics",https://doi.org/10.1016/j.trip.2020.100234
+Are women greener than men? A preference analysis of women and men from major German cities over sustainable urban mobility,https://doi.org/10.1016/j.trip.2020.100236
+Development of freight travel demand model with characteristics of vehicle tour activities,https://doi.org/10.1016/j.trip.2020.100241
+Core and comprehensive ports: The new challenge for the development of the Spanish port system,https://doi.org/10.1016/j.trip.2020.100243
+Assessment of children's independent mobility variables by mixed method,https://doi.org/10.1016/j.trip.2020.100239
+Dissimilarities between the national cost/benefit models of road projects: Comparing appraisals in Nordic countries,https://doi.org/10.1016/j.trip.2020.100235
+Researching cycling innovations: The contested nature of understanding and shaping smart cycling futures,https://doi.org/10.1016/j.trip.2020.100247
+Key barriers in MaaS development and implementation: Lessons learned from testing Corporate MaaS (CMaaS),https://doi.org/10.1016/j.trip.2020.100227
+Justification for considering zero-inflated models in crash frequency analysis,https://doi.org/10.1016/j.trip.2020.100249
+UK and China: Will electric vehicle integration meet Paris Agreement Targets?,https://doi.org/10.1016/j.trip.2020.100245
+Stepping over the threshold linking understanding and usage of Automated Driver Assistance Systems (ADAS),https://doi.org/10.1016/j.trip.2020.100252
+Back-propagation neural network model to predict visibility at a road link-level,https://doi.org/10.1016/j.trip.2020.100250
+Evaluate the impact of COVID-19 prevention policies on supply chain aspects under uncertainty,https://doi.org/10.1016/j.trip.2020.100240
+Regional dynamic traffic assignment with bounded rational drivers as a tool for assessing the emissions in large metropolitan areas,https://doi.org/10.1016/j.trip.2020.100248
+Impacts of assimilating observations from connected vehicles into a numerical weather prediction model,https://doi.org/10.1016/j.trip.2020.100253
+Do engineer perceptions about automated vehicles match user trust? Consequences for design,https://doi.org/10.1016/j.trip.2020.100251
+"Identifying the areas of walking, transit and automobile urban fabrics in Finnish intermediate cities",https://doi.org/10.1016/j.trip.2020.100257
+Multi-criteria systems-based benefits assessment framework for transport research projects,https://doi.org/10.1016/j.trip.2020.100262
+"Relationships between density, transit, and household expenditures in small urban areas",https://doi.org/10.1016/j.trip.2020.100260
+Evaluation of dynamic passive pedestrian detection,https://doi.org/10.1016/j.trip.2020.100268
+Investigating the factors affecting the distance travel and health conditions of e-bike users in Toronto,https://doi.org/10.1016/j.trip.2020.100265
+"Motoboys in São Paulo, Brazil: Precarious work, conflicts and fatal traffic accidents by motorcycle",https://doi.org/10.1016/j.trip.2020.100261
+Image-based activity pattern segmentation using longitudinal data of the German Mobility Panel,https://doi.org/10.1016/j.trip.2020.100264
+Re-claiming the responsivity gap: The co-creation of cycling policies in Berlin’s mobility law,https://doi.org/10.1016/j.trip.2020.100270
+Succeeding without success: Demonstrating a residential bicycle sharing system in Sweden,https://doi.org/10.1016/j.trip.2020.100271
+Risky behaviors of older taxi drivers and suggested requirements for renewing their professional driver’s licenses,https://doi.org/10.1016/j.trip.2020.100272
+City logistics: Towards a blockchain decision framework for collaborative parcel deliveries in micro-hubs,https://doi.org/10.1016/j.trip.2020.100274
+Mode choice and spatial distribution in long-distance passenger transport – Does mobile network data deliver similar results to other transportation models?,https://doi.org/10.1016/j.trip.2020.100254
+When connectivity makes safer routes to school: Conclusions from aggregate data on child transportation in Shanghai,https://doi.org/10.1016/j.trip.2020.100267
+Exploration of an integrated automated public transportation system,https://doi.org/10.1016/j.trip.2020.100275
+Editorial Board,https://doi.org/10.1016/S2590-1982(21)00061-0
+An exploratory real-world wayfinding experiment: A comparison of drivers’ spatial learning with a paper map vs. turn-by-turn audiovisual route guidance,https://doi.org/10.1016/j.trip.2020.100280
+"The impact of courier-, express- and parcel (CEP) service providers on urban road traffic: The case of Vienna",https://doi.org/10.1016/j.trip.2020.100278
+Identifying salient beliefs underlying speeding behaviour: An elicitation study of nigerian drivers,https://doi.org/10.1016/j.trip.2020.100279
+Cycling towards sustainability: The transformative potential of urban design thinking in a sustainable living lab,https://doi.org/10.1016/j.trip.2020.100269
+Understanding the formation of rubbernecking queues on urban freeways,https://doi.org/10.1016/j.trip.2020.100266
+Erratum regarding missing declaration of competing interest statements in previously published articles,https://doi.org/10.1016/j.trip.2020.100256
+Erratum regarding previously published articles,https://doi.org/10.1016/j.trip.2020.100258
+Erratum regarding missing Declaration of Competing Interest statements in previously published articles,https://doi.org/10.1016/j.trip.2020.100259
+The impact of COVID-19 on domestic U.S. air travel operations and commercial airport service,https://doi.org/10.1016/j.trip.2020.100277
+Unruly users: Cycling governance in context,https://doi.org/10.1016/j.trip.2020.100281
+Bikeshare and safety: Risk assessment and management,https://doi.org/10.1016/j.trip.2020.100276
+"Measuring potential assisted-transport demand for older adult care-recipients in Hamilton, Canada",https://doi.org/10.1016/j.trip.2020.100284
+"COVID-19 effects on shared-biking in New York, Boston, and Chicago",https://doi.org/10.1016/j.trip.2020.100282
+Projecting daily travel behavior by distance during the pandemic and the spread of COVID-19 infections – Are we in a closed loop scenario?,https://doi.org/10.1016/j.trip.2020.100283
+Optimal competitive pricing in European port container terminals: A game-theoretical framework,https://doi.org/10.1016/j.trip.2020.100287
+COVID-19: Are you satisfied with traveling during the pandemic?,https://doi.org/10.1016/j.trip.2020.100292
+"Systematic literature review on collaborative sustainable transportation: overview, analysis and perspectives",https://doi.org/10.1016/j.trip.2020.100291
+Considerations for the transportation of school aged children amid the Coronavirus pandemic,https://doi.org/10.1016/j.trip.2020.100290
+Vulnerable road users and the coming wave of automated vehicles: Expert perspectives,https://doi.org/10.1016/j.trip.2020.100293
+"Collaboration, experimentation, continuous improvement: Exploring an iterative way of working in the Municipality of Amsterdam’s Bicycle Program",https://doi.org/10.1016/j.trip.2020.100289
+Sharing or owning autonomous vehicles? Comprehending the role of ideology in the adoption of autonomous vehicles in the society of automobility,https://doi.org/10.1016/j.trip.2020.100294
+"Difference in travel behavior between immigrants in the u.s. and us born residents: The immigrant effect for car-sharing, ride-sharing, and bike-sharing services",https://doi.org/10.1016/j.trip.2020.100296
+Japanese travel behavior trends and change under COVID-19 state-of-emergency declaration: Nationwide observation by mobile phone location data,https://doi.org/10.1016/j.trip.2020.100288
+Impacts of COVID-19 on transportation: Summary and synthesis of interdisciplinary research,https://doi.org/10.1016/j.trip.2021.100305
+Social impact assessment towards sustainable urban mobility in Qatar: Understanding behavioral change triggers,https://doi.org/10.1016/j.trip.2020.100295
+"Analysis of a driving behavior measurement model using a modified driver behavior questionnaire encompassing texting, social media use, and drug and alcohol consumption",https://doi.org/10.1016/j.trip.2021.100302
+Land transport greenhouse gas mitigation scenarios for Mauritius based on modelling transport demand,https://doi.org/10.1016/j.trip.2021.100299
+Modelling cyclists’ route choice using Strava and OSMnx: A case study of the City of Glasgow,https://doi.org/10.1016/j.trip.2021.100301
+Impact of vehicular traffic stream on pedestrian crossing behavior at an uncontrolled mid-block section,https://doi.org/10.1016/j.trip.2021.100298
+Analysis of shared parking demander’ choice behavior based on elaboration likelihood model,https://doi.org/10.1016/j.trip.2021.100311
+"New paradigm of logistics space reorganization: E-commerce, land use, and supply chain management",https://doi.org/10.1016/j.trip.2021.100300
+Microscopic Simulation-based Pedestrian Distribution Service Network in Urban Rail Station,https://doi.org/10.1016/j.trip.2021.100313
+Operation optimizing for minimizing passenger travel time cost and operating cost with time-dependent demand and skip-stop patterns: Nonlinear integer programming model with linear constraints,https://doi.org/10.1016/j.trip.2021.100309
+A time-independent trajectory optimization approach for connected and autonomous vehicles under reservation-based intersection control,https://doi.org/10.1016/j.trip.2021.100312
+A cooperative lane change model for connected and autonomous vehicles on two lanes highway by considering the traffic efficiency on both lanes,https://doi.org/10.1016/j.trip.2021.100310
+"Investigating heterogeneous car-following behaviors of different vehicle types, traffic densities and road types",https://doi.org/10.1016/j.trip.2021.100315
+A robust path tracking algorithm for connected and automated vehicles under i-VICS,https://doi.org/10.1016/j.trip.2021.100314
+Electronic crash reporting: Implementation of the Model Minimum Uniform crash Criteria (MMUCC) and crash record life cycle comparison,https://doi.org/10.1016/j.trip.2021.100318
+Optimizing actuated traffic signal control using license plate recognition data: Methods for modeling and algorithm development,https://doi.org/10.1016/j.trip.2021.100319
+Exploring work zone late merge strategies with and without enabling connected vehicles technologies,https://doi.org/10.1016/j.trip.2021.100316
+"Mathematical modeling and heuristic approaches to optimize shared parking resources: A case study of Beijing, China",https://doi.org/10.1016/j.trip.2021.100317
+Erratum regarding missing Declaration of Competing Interest statements in previously published articles,https://doi.org/10.1016/j.trip.2021.100306
+Erratum regarding missing Declaration of Competing Interest statements in previously published articles,https://doi.org/10.1016/j.trip.2021.100307
+Erratum regarding missing Declaration of Competing Interest statements in previously published articles,https://doi.org/10.1016/j.trip.2021.100308
+Lessons from case studies of flood resilience: Institutions and built systems,https://doi.org/10.1016/j.trip.2021.100297
+How realistic is static traffic assignment? Analyzing automatic number-plate recognition data and image processing of real-time traffic maps for investigation,https://doi.org/10.1016/j.trip.2021.100320
+Shifting streets COVID-19 mobility data: Findings from a global dataset and a research agenda for transport planning and policy,https://doi.org/10.1016/j.trip.2021.100322
+The relationship between municipal highway expenditures and socio-demographic status: Are safety investments equitably distributed?,https://doi.org/10.1016/j.trip.2021.100321
+Review of social influence in crisis communications and evacuation decision-making,https://doi.org/10.1016/j.trip.2021.100325
+Understanding cross-border mobility in medium-small Mexico-U.S. Binational regions. Mexicali-Imperial Valley case study,https://doi.org/10.1016/j.trip.2021.100324
+Flight safety during Covid-19: A study of Charles de Gaulle airport atypical energy approaches,https://doi.org/10.1016/j.trip.2021.100327
+Cruising through a pandemic: The impact of COVID-19 on intentions to cruise,https://doi.org/10.1016/j.trip.2021.100328
+"Internal combustion engine to electric vehicle retrofitting: Potential customer’s needs, public perception and business model implications",https://doi.org/10.1016/j.trip.2021.100330
+Simulating and assessing the effect of a protected intersection design for bicyclists on traffic operational performance and safety,https://doi.org/10.1016/j.trip.2021.100329
+Exploring equity: How equity norms have been applied implicitly and explicitly in transportation research and practice,https://doi.org/10.1016/j.trip.2021.100332
+The role of route familiarity in traffic participants’ behaviour and transport psychology research: A systematic review,https://doi.org/10.1016/j.trip.2021.100331
+Modelling traffic during Lilac Wildfire evacuation using cellular data,https://doi.org/10.1016/j.trip.2021.100335
+Exploring the travel behavior changes caused by the COVID-19 crisis: A case study for a developing country,https://doi.org/10.1016/j.trip.2021.100334
+A fallback mechanism or a commander? A discussion about the role and skill needs of future drivers within partially automated vehicles,https://doi.org/10.1016/j.trip.2021.100337
+A model for modifying the public transport service patterns to account for the imposed COVID-19 capacity,https://doi.org/10.1016/j.trip.2021.100336
+Editorial Board,https://doi.org/10.1016/S2590-1982(21)00119-6
+COVID-19 and social distancing: Disparities in mobility adaptation between income groups,https://doi.org/10.1016/j.trip.2021.100333
+Does improving stop amenities help increase Bus Rapid Transit ridership? Findings based on a quasi-experiment,https://doi.org/10.1016/j.trip.2021.100323
+Evaluation model of bus routes optimization scheme based on multi-source bus data,https://doi.org/10.1016/j.trip.2021.100342
+Moving towards “mobile warehouse”: Last-mile logistics during COVID-19 and beyond,https://doi.org/10.1016/j.trip.2021.100339
+"Perceived risk of infection while traveling during the COVID-19 pandemic: Insights from Columbus, OH",https://doi.org/10.1016/j.trip.2021.100326
+The urban form and the social dimension of commuting in México City. An individual trip-level analysis,https://doi.org/10.1016/j.trip.2021.100346
+"The effects of COVID-19 epidemic on public transport ridership and frequencies. A case study from Tampere, Finland",https://doi.org/10.1016/j.trip.2021.100348
+"COVID-19 lockdown measures and travel behavior: The case of Thessaloniki, Greece",https://doi.org/10.1016/j.trip.2021.100345
+Integration of ridesharing with public transport in rural Switzerland: Practice and outcomes,https://doi.org/10.1016/j.trip.2021.100340
+Who lives in transit-friendly neighborhoods? An analysis of California neighborhoods over time,https://doi.org/10.1016/j.trip.2021.100341
+"Electric bicycles, next generation low carbon transport systems: A survey",https://doi.org/10.1016/j.trip.2021.100347
+Relationship between Internet use and out-of-home activities during the first wave of the COVID-19 outbreak in Japan,https://doi.org/10.1016/j.trip.2021.100343
+How is the COVID-19 pandemic shaping transportation access to health care?,https://doi.org/10.1016/j.trip.2021.100338
+Japan and the UK: Emission predictions of electric and hydrogen trains to 2050,https://doi.org/10.1016/j.trip.2021.100344
+"COVID-19 and Travel: How Our Out-of-home Travel Activity, In-home Activity, and Long-Distance Travel Have Changed",https://doi.org/10.1016/j.trip.2021.100350
+Bike share responses to COVID-19,https://doi.org/10.1016/j.trip.2021.100353
+Appraising the impact of air transport on the environment: Lessons from the COVID-19 pandemic,https://doi.org/10.1016/j.trip.2021.100351
+Testing of bicycle lighting: Method development and evaluation,https://doi.org/10.1016/j.trip.2021.100349
+"Impact of urban residential location choice on housing, travel demands and associated costs: Comparative analysis with empirical evidence from Pakistan",https://doi.org/10.1016/j.trip.2021.100357
+Dueling emergencies: Flood evacuation ridesharing during the COVID-19 pandemic,https://doi.org/10.1016/j.trip.2021.100352
+Mining crowdsourced data on bicycle safety critical events,https://doi.org/10.1016/j.trip.2021.100360
+"Utilizing an inter-professional online advisory board: A case study to inform innovation in community-engaged, transportation equity research and planning",https://doi.org/10.1016/j.trip.2021.100365
+The relationship between mobility and COVID-19 pandemic: Daily evidence from an emerging country by causality analysis,https://doi.org/10.1016/j.trip.2021.100366
+Super-tailoring: Using self-persuasion to reduce drivers’ car use,https://doi.org/10.1016/j.trip.2021.100359
+High-speed rail and high-tech industry evolution: Empirical evidence from China,https://doi.org/10.1016/j.trip.2021.100358
+Evaluating heavy metals emission’ pattern on road influenced by urban road layout,https://doi.org/10.1016/j.trip.2021.100362
+Understanding and identifying barriers to electric vehicle adoption through thematic analysis,https://doi.org/10.1016/j.trip.2021.100364
+Assessing the sustainability of transportation system in a developing city through estimating CO,https://doi.org/10.1016/j.trip.2021.100361
+Car access and travel behaviour among men and women in car deficient households with children,https://doi.org/10.1016/j.trip.2021.100367
+Applying optimization algorithms for spatial estimation of travel demand variables,https://doi.org/10.1016/j.trip.2021.100369
+Is the take-over paradigm a mere convenience?,https://doi.org/10.1016/j.trip.2021.100370
+Performance assessment of high capacity trucks: Understanding truck selection and deployment economics,https://doi.org/10.1016/j.trip.2021.100363
+COVID-19 – A window of opportunity for the transition toward sustainable mobility?,https://doi.org/10.1016/j.trip.2021.100374
+How do novel seat positions impact usability of child restraints?,https://doi.org/10.1016/j.trip.2021.100372
+Smart transport: A comparative analysis using the most used indicators in the literature juxtaposed with interventions in English metropolitan areas,https://doi.org/10.1016/j.trip.2021.100371
+Data driven methods for effective micromobility parking,https://doi.org/10.1016/j.trip.2021.100368
+Predictor variables influencing merging speed change lane crash risk by interchange type in urban areas,https://doi.org/10.1016/j.trip.2021.100375
+"Impacts of COVID-19 and pandemic control measures on public transport ridership in European urban areas – The cases of Vienna, Innsbruck, Oslo, and Agder",https://doi.org/10.1016/j.trip.2021.100376
+Are multimodal travellers going to abandon sustainable travel for L3 automated vehicles?,https://doi.org/10.1016/j.trip.2021.100380
+Development of a highway geometry based noise abatement model,https://doi.org/10.1016/j.trip.2021.100382
+Development of a machine learning-based sketch planning model for predicting mobile emissions,https://doi.org/10.1016/j.trip.2021.100379
+Vehicle regulations in Africa: Impact on used vehicle import and new vehicle sales,https://doi.org/10.1016/j.trip.2021.100384
+The reactivated bike: Self-reported cycling activity during the 2020 COVID-19 pandemic in Australia,https://doi.org/10.1016/j.trip.2021.100377
+A temporal investigation of crash severity factors in worker-involved work zone crashes: Random parameters and machine learning approaches,https://doi.org/10.1016/j.trip.2021.100378
+An integrated urban-transport smart growth model around metro stations: A case of Qatar,https://doi.org/10.1016/j.trip.2021.100392
+Transit-oriented development and historic preservation across the United States: A geospatial analysis,https://doi.org/10.1016/j.trip.2021.100373
+Are consumer preferences for attributes of alternative vehicles sufficiently accounted for in current policies?,https://doi.org/10.1016/j.trip.2021.100385
+Capable and considerate: Exploring the assigned attributes of an automated vehicle,https://doi.org/10.1016/j.trip.2021.100383
+Safety and experience of other drivers while interacting with automated vehicle platoons,https://doi.org/10.1016/j.trip.2021.100381
+A study of the scheduling effect on shared autonomous vehicles adoption,https://doi.org/10.1016/j.trip.2021.100394
+A Scopus-based bibliometric study of maritime research involving the Automatic Identification System,https://doi.org/10.1016/j.trip.2021.100387
+The airline on-time performance impacts of the COVID-19 pandemic,https://doi.org/10.1016/j.trip.2021.100386
+A low-cost approach to identify hazard curvature for local road networks using open-source data,https://doi.org/10.1016/j.trip.2021.100393
+Establishing the basis for a school bus emergency evacuation time standard,https://doi.org/10.1016/j.trip.2021.100389
+Retooling local transportation financing in a new mobility future,https://doi.org/10.1016/j.trip.2021.100388
+Attitude vs. infrastructure: Influences on the intention to overtake bicycle riders,https://doi.org/10.1016/j.trip.2021.100397
+"Understanding the relations between crowd density, safety perception and risk-taking behavior on train station platforms: A case study from Switzerland",https://doi.org/10.1016/j.trip.2021.100390
+Can mobility on demand bridge the first-last mile transit gap? Equity implications of Los Angeles’ pilot program,https://doi.org/10.1016/j.trip.2021.100396
+Evaluating the performance of highway concessions through public-private partnerships using a fuzzy multi-criteria decision-making procedure,https://doi.org/10.1016/j.trip.2021.100399
+An estimation of the effects of social distancing measures on transit vehicle capacity and operations,https://doi.org/10.1016/j.trip.2021.100398
+"A modeling and micro-simulation approach to estimate the location, number and size of loading/unloading bays: A case study in the city of Querétaro, Mexico",https://doi.org/10.1016/j.trip.2021.100400
+Adaptive routing behavior with real-time information under multiple travel objectives,https://doi.org/10.1016/j.trip.2021.100395
+An overview of the impact of COVID-19 on the cruise industry with considerations for Florida,https://doi.org/10.1016/j.trip.2021.100391
+"Autonomy loss, privacy invasion and data misuse as psychological barriers to peer-to-peer collaborative car use",https://doi.org/10.1016/j.trip.2021.100403
+"Exploratory analysis of factors affecting levels of home deliveries before, during, and post- COVID-19",https://doi.org/10.1016/j.trip.2021.100402
+Impact of political and market-based measures on aviation emissions and passenger behaviors (a Swiss case study),https://doi.org/10.1016/j.trip.2021.100405
+Editorial Board,https://doi.org/10.1016/S2590-1982(21)00180-9
+A feature-oriented vehicle trajectory data processing scheme for data mining: A case study for Statewide truck parking behaviors,https://doi.org/10.1016/j.trip.2021.100401
+Transportation mode choice behavior with recommender systems: A case study on Beijing,https://doi.org/10.1016/j.trip.2021.100408
+Developing an index to evaluate the quality of pedestrian environment: Case study application in an Indian metro,https://doi.org/10.1016/j.trip.2021.100406
+Cost-benefit analyses of policy tools to encourage the use of Plug-in electric vehicles,https://doi.org/10.1016/j.trip.2021.100404
+Estimating urban freight trips using light commercial vehicles in the Indian textile industry,https://doi.org/10.1016/j.trip.2021.100411
+Investigating the state of road vehicle emissions in Africa: A case study of Ghana and Rwanda,https://doi.org/10.1016/j.trip.2021.100409
+The psychological decision-making process model of non-commuting travel mode choice under parking constraints,https://doi.org/10.1016/j.trip.2021.100410
+"Road users’ evaluations and perceptions of road infrastructure, trip characteristics, and daily trip experiences across countries",https://doi.org/10.1016/j.trip.2021.100412
+"Descriptive analysis of air rage incidents aboard international commercial flights, 2000–2020",https://doi.org/10.1016/j.trip.2021.100418
+Taking the freeway: Inferring evacuee route selection from survey data,https://doi.org/10.1016/j.trip.2021.100421
+Social media response and crisis communications in active shootings during COVID-19 pandemic,https://doi.org/10.1016/j.trip.2021.100420
+An agent-based implementation of freight receiver and carrier collaboration with cost sharing,https://doi.org/10.1016/j.trip.2021.100416
+Horizon scanning for transport research and innovation governance: A European perspective,https://doi.org/10.1016/j.trip.2021.100424
+Commuting before and after COVID-19,https://doi.org/10.1016/j.trip.2021.100423
+What do teenagers think about driving? Insights from a bicycling-oriented community in the auto-dependent United States,https://doi.org/10.1016/j.trip.2021.100422
+Covid-19 and its effect on trip mode and destination decisions of transit riders: Experience from Ohio,https://doi.org/10.1016/j.trip.2021.100417
+Predictive policing in the context of road traffic safety: A systematic review and theoretical considerations,https://doi.org/10.1016/j.trip.2021.100429
+Environmental performance of four different heavy-duty propulsion technologies using Life Cycle Assessment,https://doi.org/10.1016/j.trip.2021.100428
+A policy review of electric personal assistive mobility devices,https://doi.org/10.1016/j.trip.2021.100426
+The residential property value premium of the proximity to carsharing and bikesharing services: Evidence from New York City,https://doi.org/10.1016/j.trip.2021.100427
+Deep reinforcement learning in transportation research: A review,https://doi.org/10.1016/j.trip.2021.100425
+Pavement slipperiness detection using wheel speed and acceleration sensor data,https://doi.org/10.1016/j.trip.2021.100431
+Factors associated with differences in initial pandemic preparedness and response: Findings from a nationwide survey in the United states,https://doi.org/10.1016/j.trip.2021.100430
+Redesigning parking facilities using a parking service satisfaction survey at Izumo local airport in Japan,https://doi.org/10.1016/j.trip.2021.100433
+The architecture of complexity in the relationships between information and communication technologies and travel: A review of empirical studies,https://doi.org/10.1016/j.trip.2021.100432
+Scenario planning for transport practitioners,https://doi.org/10.1016/j.trip.2021.100438
+Shared autonomous vehicles implementation for the first and last-mile services,https://doi.org/10.1016/j.trip.2021.100440
+Perception of autonomous vehicles – A Ghanaian perspective,https://doi.org/10.1016/j.trip.2021.100437
+"Engaging citizens in driverless mobility: Insights from a global dialogue for research, design and policy",https://doi.org/10.1016/j.trip.2021.100443
+The effect of a functional prototype on user acceptance in transportation: Assessing the level of acceptance before and after the first demonstration flight of an air taxi,https://doi.org/10.1016/j.trip.2021.100444
+Driver’s views on driverless vehicles: Public perspectives on defining and using autonomous cars,https://doi.org/10.1016/j.trip.2021.100446
+"An empirical study of commuters’ satisfactions with taxi service quality in Abeokuta, Nigeria",https://doi.org/10.1016/j.trip.2021.100434
+A statistical assessment of work-from-home participation during different stages of the COVID-19 pandemic,https://doi.org/10.1016/j.trip.2021.100441
+"Assessment of traffic congestion scenario at the CBD areas in a developing city: In the context of Khulna City, Bangladesh",https://doi.org/10.1016/j.trip.2021.100435
+"Assessment of carbon dioxide emissions during production, construction and use stages of asphalt pavements",https://doi.org/10.1016/j.trip.2021.100436
+Considering ‘non-acoustic factors’ as social and environmental determinants of health equity and environmental justice. Reflections on research and fields of action towards a vision for environmental noise policies,https://doi.org/10.1016/j.trip.2021.100445
+"Activities, time-use and mental health during the first COVID-19 pandemic wave: Insight from Greece",https://doi.org/10.1016/j.trip.2021.100442
+Airport pandemic response: An assessment of impacts and strategies after one year with COVID-19,https://doi.org/10.1016/j.trip.2021.100449
+Exploring the relationship between the COVID-19 pandemic and changes in travel behaviour: A qualitative study,https://doi.org/10.1016/j.trip.2021.100450
+Determinants of the acceptability of autonomous (cargo) mobility,https://doi.org/10.1016/j.trip.2021.100448
+A simulation-based analysis for effective distribution of COVID-19 vaccines: A case study in Norway,https://doi.org/10.1016/j.trip.2021.100453
+Recharging scenarios for differently electrified road vehicles: A methodology and its application to the Italian grid,https://doi.org/10.1016/j.trip.2021.100454
+The response of the U.S. aviation industry to demand and supply shocks in the oil and jet fuel markets,https://doi.org/10.1016/j.trip.2021.100452
+Assessment of electric vehicle repurchase intention: A survey-based study on the Norwegian EV market,https://doi.org/10.1016/j.trip.2021.100439
+Indicators for commuter’s satisfaction and usage of high occupancy public bus transport service in Ghana,https://doi.org/10.1016/j.trip.2021.100458
+Determinants of success and constraints of integrated ridesharing in rural areas,https://doi.org/10.1016/j.trip.2021.100459
+The impacts of vehicle automation on transport-disadvantaged people,https://doi.org/10.1016/j.trip.2021.100447
+Assessing the economic benefits of active transport policy pathways: Opportunities from a local perspective,https://doi.org/10.1016/j.trip.2021.100456
+Driver’s visual perception as a function of age. Using a driving simulator to explore driver’s eye movements in vertical signs,https://doi.org/10.1016/j.trip.2021.100460
+Automotive UX design and data-driven development: Narrowing the gap to support practitioners,https://doi.org/10.1016/j.trip.2021.100455
+Transition of mobility in companies – A semi-systematic literature review and bibliographic analysis on corporate mobility and its management,https://doi.org/10.1016/j.trip.2021.100462
+Changes in the travel patterns of older Americans with medical conditions: A comparison of 2001 and 2017 NHTS data,https://doi.org/10.1016/j.trip.2021.100463
+Editorial Board,https://doi.org/10.1016/S2590-1982(21)00224-4
+Constructing a network fundamental diagram using a sample of connected vehicles and stationary sensors,https://doi.org/10.1016/j.trip.2021.100471
+9/11: Transformation of transportation research,https://doi.org/10.1016/j.trip.2021.100472
+"Children’s mobility in a failed utopia (Brasília, Brazil)",https://doi.org/10.1016/j.trip.2021.100468
+Will pedestrians cross the road before an automated vehicle? The effect of drivers’ attentiveness and presence on pedestrians’ road crossing behavior,https://doi.org/10.1016/j.trip.2021.100466
+"Exploring the changes in travel behavior in a developing country amidst the COVID-19 pandemic: Insights from Metro Cebu, Philippines",https://doi.org/10.1016/j.trip.2021.100461
+Towards an integrated mobility system: The first and last mile solutions in developing countries; the case study of New Cairo,https://doi.org/10.1016/j.trip.2021.100469
+"Canadian transit agencies response to COVID-19: Understanding strategies, information accessibility and the use of social media",https://doi.org/10.1016/j.trip.2021.100465
+The impacts of the COVID-19 pandemic on transportation employment: A comparative analysis,https://doi.org/10.1016/j.trip.2021.100470
+Perceptions of trip making and wellbeing,https://doi.org/10.1016/j.trip.2021.100464
+A gender-based analysis of workforce promotion factors in U.S. transportation agencies,https://doi.org/10.1016/j.trip.2021.100457
+What are the changes in LCA passengers' mobility practices? Insights from a European survey,https://doi.org/10.1016/j.trip.2021.100477
+Optimal path planning of autonomous navigation in outdoor environment via heuristic technique,https://doi.org/10.1016/j.trip.2021.100473
+Evaluation of the impact of runway characteristics on veer-off risk at rapid exit taxiways,https://doi.org/10.1016/j.trip.2021.100480
+"Middle-Class, Cosmopolitans and Precariat among Millennials between Automobility and Multimodality",https://doi.org/10.1016/j.trip.2021.100467
+Road transport electrification – Is timing everything? Implications of emissions analysis’ outcomes for climate and air policy,https://doi.org/10.1016/j.trip.2021.100478
+Integration of shared autonomous vehicles (SAVs) into existing transportation services: A focus group study,https://doi.org/10.1016/j.trip.2021.100481
+"Motorcycle three-wheelers in Pakistan: Low-cost rural transport services, crucial for women’s mobility",https://doi.org/10.1016/j.trip.2021.100479
+Impacts of shared autonomous vehicles: Tradeoff between parking demand reduction and congestion increase,https://doi.org/10.1016/j.trip.2021.100482
+"Simulation-based algorithm for determining best package delivery alternatives under three criteria: Time, cost and sustainability",https://doi.org/10.1016/j.trip.2021.100484
+"Associations between the sense of accessibility, accessibility to specific destinations, and personal factors: A cross-sectional study in Sendai, Japan",https://doi.org/10.1016/j.trip.2021.100491
+"A campus on the move: Modal choices of students and staff at the University of Lausanne, Switzerland",https://doi.org/10.1016/j.trip.2021.100490
+Impact of virtual accessibility on out-of-home activity and travel in Indian urban context: A structural equation analysis,https://doi.org/10.1016/j.trip.2021.100483
+Understanding different car users as starting point for future mobility concepts – A co-creation approach,https://doi.org/10.1016/j.trip.2021.100485
+"Characterization of travel behavior at a university campus: A case study of Sharjah University City, UAE",https://doi.org/10.1016/j.trip.2021.100488
+Impacts of the COVID-19 pandemic on airline passengers’ recovery satisfaction: An experimental study,https://doi.org/10.1016/j.trip.2021.100487
+"Effect of socio-economic and demographic factors on ride-sourcing services in Dhaka City, Bangladesh",https://doi.org/10.1016/j.trip.2021.100492
+An overview of agent-based traffic simulators,https://doi.org/10.1016/j.trip.2021.100486
+Structural equation modeling of public transport use with COVID-19 precautions: An extension of the norm activation model,https://doi.org/10.1016/j.trip.2021.100474
+Exploring neighbourhood-level mobility inequity in Chicago using dynamic transportation mode choice profiles,https://doi.org/10.1016/j.trip.2021.100489
+"Corporate social responsibility, cost structures, and COVID-19: Impact of passenger behavior on business models",https://doi.org/10.1016/j.trip.2021.100494
+Truck travel time performance measures and their association with on- and off-network characteristics,https://doi.org/10.1016/j.trip.2021.100500
+Post COVID-19 teleworking and car use intentions. Evidence from large scale GPS-tracking and survey data in the Netherlands,https://doi.org/10.1016/j.trip.2021.100498
+What encourages people to carpool? A conceptual framework of carpooling psychological factors and research propositions,https://doi.org/10.1016/j.trip.2021.100493
+Developing a holistic decision support framework: From production logistics to sustainable freight transport in an urban environment,https://doi.org/10.1016/j.trip.2021.100496
+Sustainability transitions in coastal shipping: The role of regime segmentation,https://doi.org/10.1016/j.trip.2021.100497
+App-based automatic collection of travel behaviour: A field study comparison with self-reported behaviour,https://doi.org/10.1016/j.trip.2021.100501
+"Alarms, alerts, and warnings in air traffic control: An analysis of reports from the Aviation Safety Reporting System",https://doi.org/10.1016/j.trip.2021.100502
+"Chronicles from the new normal: Urban planning, mobility and land-use management in the face of the COVID-19 crisis",https://doi.org/10.1016/j.trip.2021.100503
+"How will vehicle automation and electrification affect the automotive maintenance, repair sector?",https://doi.org/10.1016/j.trip.2021.100495
+COVID-19 repatriation programs — Classification and optimization models,https://doi.org/10.1016/j.trip.2021.100499
+Multitasking onboard of conventional transport modes and shared autonomous vehicles,https://doi.org/10.1016/j.trip.2021.100505
+Blue collar laborers’ travel pattern recognition: Machine learning classifier approach,https://doi.org/10.1016/j.trip.2021.100506
+"Micromobility, Macro Goals: Aligning scooter parking policy with broader city objectives",https://doi.org/10.1016/j.trip.2021.100508
+"“Slowed for several months”: A mixed methods comparison of minor, moderate, and extreme speeders",https://doi.org/10.1016/j.trip.2021.100511
+"Accessibility of welfare facilities for elderly people in Daejeon, South Korea considering public transportation accessibility",https://doi.org/10.1016/j.trip.2021.100514
+Editorial Board,https://doi.org/10.1016/S2590-1982(22)00046-X
+Will we travel less after the pandemic?,https://doi.org/10.1016/j.trip.2021.100509
+Too much pressure? Driving and restraining forces and pressures relating to the state of connected and autonomous vehicles in cities,https://doi.org/10.1016/j.trip.2021.100507
+Telecommuting and food E-commerce: Socially sustainable practices during the COVID-19 pandemic in Canada,https://doi.org/10.1016/j.trip.2021.100513
+COVID-19 and suburban public transport in the conditions of the Czech Republic,https://doi.org/10.1016/j.trip.2021.100523
+Half-hearted policies on mobility restrictions during COVID-19 in Indonesia: A portrait of large informal economy country,https://doi.org/10.1016/j.trip.2021.100517
+Integrating COVID-19 health risks into crowding costs for transit schedule planning,https://doi.org/10.1016/j.trip.2021.100522
+"Online and in-person activity logging using a smartphone-based travel, activity, and time-use survey",https://doi.org/10.1016/j.trip.2021.100524
+Autonomous vehicle policies with equity implications: Patterns and gaps,https://doi.org/10.1016/j.trip.2021.100521
+Customer perceptions of COVID-19 countermeasures on passenger ships during the pandemic,https://doi.org/10.1016/j.trip.2021.100518
+Structural modeling of COVID-19 spread in relation to human mobility,https://doi.org/10.1016/j.trip.2021.100528
+Timetable rationalization &amp; Operational improvements by human intervention in an urban rail transit system: An exploratory study,https://doi.org/10.1016/j.trip.2021.100526
+"Public health framing in local media coverage of crashes involving pedestrians or bicyclists in Hawai‘i, 2019: A content analysis",https://doi.org/10.1016/j.trip.2021.100525
+Electrifying California fleets: Investigating light-duty vehicle purchase decisions,https://doi.org/10.1016/j.trip.2021.100532
+City selection for fresh produce e-commerce’s market entry strategy: Based on the perspective of urban logistics competitiveness,https://doi.org/10.1016/j.trip.2022.100537
+"Australian and EASA based pilots’ duty schedules, stress, sleep difficulties, fatigue, wellbeing, symptoms of depression and anxiety",https://doi.org/10.1016/j.trip.2021.100529
+Transport impacts in Germany and State of Qatar: An assessment during the first wave of COVID-19,https://doi.org/10.1016/j.trip.2022.100540
+"Introducing CRISTAL: A model of collaborative, informed, strategic trade agents with logistics",https://doi.org/10.1016/j.trip.2022.100539
+Pedestrian movement simulation for an airport considering social distancing strategy,https://doi.org/10.1016/j.trip.2021.100527
+Accessing hemodialysis clinics during the COVID-19 pandemic,https://doi.org/10.1016/j.trip.2021.100533
+Construct validation of the COVID-19 Cavalier Scale: Analysis of indirect effects with optimism on likelihood to travel,https://doi.org/10.1016/j.trip.2022.100538
+"Risk-Based interurban Makassar-Parepare railway development, Indonesia",https://doi.org/10.1016/j.trip.2022.100541
+Impact of Covid-19 on willingness to share trips,https://doi.org/10.1016/j.trip.2022.100544
+The value of travel speed,https://doi.org/10.1016/j.trip.2021.100530
+Drivers’ behavior when driving vehicles with or without advanced driver assistance systems: A driver simulator-based study,https://doi.org/10.1016/j.trip.2022.100545
+Access-oriented design? Disentangling the effect of land use and transport network on accessibility,https://doi.org/10.1016/j.trip.2021.100536
+Travel behaviour and greenhouse gas emissions during the COVID-19 pandemic: A case study in a university setting,https://doi.org/10.1016/j.trip.2021.100531
+Industry 4.0 in shipping: Implications to seafarers' skills and training,https://doi.org/10.1016/j.trip.2022.100542
+Risk perceptions of COVID-19 transmission in different travel modes,https://doi.org/10.1016/j.trip.2022.100548
+Low audibility of trains may contribute to increased collisions with wildlife,https://doi.org/10.1016/j.trip.2021.100516
+Transport policy in the grip of a moral dilemma: a post-COVID reopening of the Russian borders,https://doi.org/10.1016/j.trip.2022.100549
+Repositioning of driverless cars: Is return to home rather than downtown parking economically viable?,https://doi.org/10.1016/j.trip.2022.100547
+Modeling multimodal access to primary care in an urban environment,https://doi.org/10.1016/j.trip.2022.100550
+Towards autonomous public transportation: Attitudes and intentions of the local population,https://doi.org/10.1016/j.trip.2021.100504
+Impact of COVID-19 restrictions on mode use and mode captivity the city of Santo Domingo in Latin America,https://doi.org/10.1016/j.trip.2021.100515
+Mirror or camera? Acceptance and valuation of camera-monitor systems,https://doi.org/10.1016/j.trip.2021.100512
+The 2017 total solar eclipse in the United States: Traffic management and lessons learned,https://doi.org/10.1016/j.trip.2021.100510
+Who took gig jobs during the COVID-19 recession? Evidence from Uber Eats in Japan,https://doi.org/10.1016/j.trip.2022.100543
+Restrictive and stimulative impacts of COVID-19 policies on activity trends: A case study of Kyoto,https://doi.org/10.1016/j.trip.2022.100551
+"Spatiotemporal analysis of urban road congestion during and post COVID-19 pandemic in Shanghai, China",https://doi.org/10.1016/j.trip.2022.100555
+Local energy production scenarios for emissions reduction of pollutants in small-medium ports,https://doi.org/10.1016/j.trip.2022.100554
+Application of grey analytic hierarchy process to estimate mode choice alternatives: A case study from Budapest,https://doi.org/10.1016/j.trip.2022.100560
+Use of GPS-data to improve transport solutions in a cost and environmental perspective,https://doi.org/10.1016/j.trip.2022.100557
+"Improving clarity, cooperation and driver experience in lane change manoeuvres",https://doi.org/10.1016/j.trip.2022.100553
+Strength and leaching characteristics of red mud (bauxite residue) as a geomaterial in synergy with fly ash and gypsum,https://doi.org/10.1016/j.trip.2022.100566
+Service contracting as a policy response for public transport recovery during the Covid-19 Pandemic: A preliminary evaluation,https://doi.org/10.1016/j.trip.2022.100559
+Establishing bicycle logistics in urban areas—Experiences from entrepreneurs and local policy actors,https://doi.org/10.1016/j.trip.2022.100556
+Using machine learning models to predict the willingness to carry lightweight goods by bike and kick-scooter,https://doi.org/10.1016/j.trip.2022.100568
+County-level crash prediction models for Pennsylvania accounting for income characteristics,https://doi.org/10.1016/j.trip.2022.100562
+"Acceptance of automated vehicles: Gender effects, but lack of meaningful association with desire for control in Germany and in the U.S.",https://doi.org/10.1016/j.trip.2022.100563
+Development of a simulation-based experimental research framework for the characterization of cannabis-related driving impairment,https://doi.org/10.1016/j.trip.2022.100561
+Impact of mobility on COVID-19 spread – A time series analysis,https://doi.org/10.1016/j.trip.2022.100567
+"Motorized travel mode choices of smallholder farmers in Akwa Ibom State, Nigeria",https://doi.org/10.1016/j.trip.2022.100569
+"Portraying perceptions of bike-sharing schemes (BSS) in Santiago, Chile: What both regular users and pedestrians tell us",https://doi.org/10.1016/j.trip.2021.100534
+A Non-parametric Bayesian Network for multivariate probabilistic modelling of Weigh-in-Motion System Data,https://doi.org/10.1016/j.trip.2022.100552
+Developing public transport messaging to provide crowding information during COVID-19: Application of the COM-B model and behaviour change wheel,https://doi.org/10.1016/j.trip.2022.100564
+Unpacking transportation barriers and facilitators to accessing health care: Interviews with care coordinators,https://doi.org/10.1016/j.trip.2022.100565
+Benchmarking the recovery of air travel demands for US airports during the COVID-19 Pandemic,https://doi.org/10.1016/j.trip.2022.100570
+"Amending the heston stochastic volatility model to forecast local motor vehicle crash rates: A case study of Washington, D.C.",https://doi.org/10.1016/j.trip.2022.100576
+Jet-setting during COVID-19: Environmental implications of the pandemic induced private aviation boom,https://doi.org/10.1016/j.trip.2022.100575
+"Park-and-ride facility location optimization: A case study for Nashville, Tennessee",https://doi.org/10.1016/j.trip.2022.100578
+Editorial Board,https://doi.org/10.1016/S2590-1982(22)00098-7
+Integrating public transportation and shared autonomous mobility for equitable transit coverage: A cost-efficiency analysis,https://doi.org/10.1016/j.trip.2022.100571
+Perceptions of the ethical permissibility of strict travel restrictions to mitigate transmission of SARS-CoV-2,https://doi.org/10.1016/j.trip.2022.100577
+Micromobility injury events: Motor vehicle crashes and other transportation systems factors,https://doi.org/10.1016/j.trip.2022.100574
+"Investigation of online grocery shopping and delivery preference before, during, and after COVID-19",https://doi.org/10.1016/j.trip.2022.100580
+Implications of COVID-19 pandemic on the governance of passenger mobility innovations in Europe,https://doi.org/10.1016/j.trip.2022.100581
+Clustered randomized controlled trial protocol of a Mobility-as-a-Service app for College campuses,https://doi.org/10.1016/j.trip.2022.100572
+Residents’ acceptance towards car-free street experiments: Focus on perceived quality of life and neighborhood attachment,https://doi.org/10.1016/j.trip.2022.100585
+Testing cycling infrastructure layout in virtual environments: An examination from a bicycle rider’s perspective in simulation and online,https://doi.org/10.1016/j.trip.2022.100586
+Potential impacts of institutional dynamics on the development of automated vehicles: Towards sustainable mobility?,https://doi.org/10.1016/j.trip.2022.100587
+Tunnel effects on road efficiency and travel time explored by a three lane traffic model,https://doi.org/10.1016/j.trip.2022.100573
+The monthly rhythms of aviation: A global analysis of passenger air service seasonality,https://doi.org/10.1016/j.trip.2022.100582
+"Financing low-carbon transport transition in the Philippines: Mapping financing sources, gaps and directionality of innovation",https://doi.org/10.1016/j.trip.2022.100590
+Analysis of the potential of a new concept for urban last-mile delivery: Ducktrain,https://doi.org/10.1016/j.trip.2022.100579
+Macroscopic flow characterization at T-junctions,https://doi.org/10.1016/j.trip.2022.100591
+"Perceived disadvantages or motorized vehicle use habit? Investigating obstacles in bicycle use among adolescents in Yogyakarta, Indonesia",https://doi.org/10.1016/j.trip.2022.100595
+From shifting gears to changing modes: The impact of driver inputs on plug-in hybrid electric vehicle energy use &amp; emissions,https://doi.org/10.1016/j.trip.2022.100597
+Analysis of initial speed pedelec usage for commuting purposes in Flanders,https://doi.org/10.1016/j.trip.2022.100589
+Leveraging the spatial-temporal resolution of crowdsourced cycling data to improve the estimation of hourly bicycle volume,https://doi.org/10.1016/j.trip.2022.100596
+Unravelling the rationalities of childhood cycling promotion,https://doi.org/10.1016/j.trip.2022.100598
+Presence of tourists and perceived safety from COVID-19 among local bus users: Evidence from a Mediterranean city,https://doi.org/10.1016/j.trip.2022.100599
+Can a racial justice frame help overcome opposition to automated traffic enforcement?,https://doi.org/10.1016/j.trip.2022.100594
+Mobility-on-demand (MOD) Projects: A study of the best practices adopted in United States,https://doi.org/10.1016/j.trip.2022.100601
+Is the 15-minute city within reach? Evaluating walking and cycling accessibility to grocery stores in Vancouver,https://doi.org/10.1016/j.trip.2022.100602
+Communicating perceptions of pedestrian comfort and safety: Structural topic modeling of open response survey comments,https://doi.org/10.1016/j.trip.2022.100600
+An alternative regulatory approach for long-distance passenger rail services: An explorative analysis with a focus on Germany,https://doi.org/10.1016/j.trip.2022.100593
+Effects on accidents of police checks of drivers of heavy goods vehicles in Norway,https://doi.org/10.1016/j.trip.2022.100606
+Aggressive-dynamics metrics for drive-cycle characterization,https://doi.org/10.1016/j.trip.2022.100592
+COVID-19 lockdown as an opportunity to rethink urban freight distribution: Lessons from the Barcelona metropolitan area,https://doi.org/10.1016/j.trip.2022.100605
+Feasibility study for the estimation of a motorcycle helmet Centre of Gravity accelerations with 6 Degrees of Freedom (6DOF) system,https://doi.org/10.1016/j.trip.2022.100603
+Active transportation pilot program evaluation: A longitudinal assessment of bicycle facility density changes on use in Minneapolis,https://doi.org/10.1016/j.trip.2022.100604
+Investigating spatial accessibility to urban facility outcome of transit-oriented development in Dhaka,https://doi.org/10.1016/j.trip.2022.100607
+Investigating the interaction between age and liability for crashes at stop-sign-controlled intersections,https://doi.org/10.1016/j.trip.2022.100612
+Examining tourists’ intention to use electric vehicle-sharing services,https://doi.org/10.1016/j.trip.2022.100610
+Development of lower flammability limits testing apparatus for gasoline vapor – Air mixture using an internal vaporizer at ambient conditions,https://doi.org/10.1016/j.trip.2022.100613
+"Cycling in Lagos: The challenges, opportunities, and prospects",https://doi.org/10.1016/j.trip.2022.100608
+Regulating connected and automated vehicles: How do drivers experience being automatically regulated by digital traffic rules?,https://doi.org/10.1016/j.trip.2022.100611
+A review of the socio-demographic characteristics affecting the demand for different car-sharing operational schemes,https://doi.org/10.1016/j.trip.2022.100616
+"Impact of COVID-19 lockdown on the behavior change of cyclists in Lisbon, using multinomial logit regression analysis",https://doi.org/10.1016/j.trip.2022.100609
+To bike or not to bike: Exploring cycling for commuting and non-commuting in Bangladesh,https://doi.org/10.1016/j.trip.2022.100614
+"Cyclists’ exposure to air and noise pollution, comparative approach in seven cities",https://doi.org/10.1016/j.trip.2022.100619
+Airline market exit after a shock event: Insights from the COVID-19 pandemic,https://doi.org/10.1016/j.trip.2022.100621
+Evaluating citizen science data: A citizen observatory to measure cyclists’ waiting times,https://doi.org/10.1016/j.trip.2022.100624
+Using machine learning to examine freight network spatial vulnerabilities to disasters: A new take on partial dependence plots,https://doi.org/10.1016/j.trip.2022.100617
+Detecting aggressive driving patterns in drivers using vehicle sensor data,https://doi.org/10.1016/j.trip.2022.100625
+Political economy and cycling infrastructure investment,https://doi.org/10.1016/j.trip.2022.100618
+Potential effects of the Kra Canal on Vietnam’s maritime industry,https://doi.org/10.1016/j.trip.2022.100622
+"Policy measures and their impact on transport performance, modal split and greenhouse gas emissions in German long-distance passenger transport",https://doi.org/10.1016/j.trip.2022.100615
+Perception of people from educational institution regarding autonomous vehicles,https://doi.org/10.1016/j.trip.2022.100620
+Prediction of urban cyclists’ intentions to ride on the pedestrian lane and against the traffic flow: A sociodemographic and psychosocial approach,https://doi.org/10.1016/j.trip.2022.100626
+Editorial Board,https://doi.org/10.1016/S2590-1982(22)00140-3
+"Dispatches from the field: The 2022 United Nations Global Platform for Disaster Risk Reduction in Bali, Indonesia",https://doi.org/10.1016/j.trip.2022.100644
+An examination of the potential impact of 5G on air travel in the U.S.,https://doi.org/10.1016/j.trip.2022.100627
+Disentangling social capital – Understanding the effect of bonding and bridging on urban activity participation,https://doi.org/10.1016/j.trip.2022.100629
+Evaluating the substitutability of short-haul air transport by high-speed rail using a simulation-based approach,https://doi.org/10.1016/j.trip.2022.100632
+"Vibrotactile guidance for trips with autonomous vehicles for persons with blindness, deafblindness, and deafness",https://doi.org/10.1016/j.trip.2022.100630
+The effects of ridesourcing services on vehicle ownership in large Indian cities,https://doi.org/10.1016/j.trip.2022.100631
+Cycling and transitions theories: A conceptual framework to assess the relationship between cycling innovations and sustainability goals,https://doi.org/10.1016/j.trip.2022.100642
+Effects of autonomous first- and last mile transport in the transport chain,https://doi.org/10.1016/j.trip.2022.100623
+Equity and exclusion issues in cashless fare payment systems for public transportation,https://doi.org/10.1016/j.trip.2022.100628
+Spatio-temporal distribution pattern of COVID-19 in the Northern Italy during the first-wave scenario: The role of the highway network,https://doi.org/10.1016/j.trip.2022.100646
+Corrigendum to Travel behavior changes during the COVID-19 pandemic in Japan: Analyzing the effects of risk perception and social influence on going-out self-restriction [Transp. Res. Interdiscip. Perspect. 7 (2020) 100181],https://doi.org/10.1016/j.trip.2022.100649
+Acceptance of conditionally automated cars: Just one factor?,https://doi.org/10.1016/j.trip.2022.100645
+External human–machine interfaces: Gimmick or necessity?,https://doi.org/10.1016/j.trip.2022.100643
+"The COVID 19 pandemic, daily mobility and household welfare: Evidence from Tajikistan",https://doi.org/10.1016/j.trip.2022.100641
+Vulnerable road user safety and freight vehicles: A case study in North Carolina and Tennessee,https://doi.org/10.1016/j.trip.2022.100650
+Where to improve cycling infrastructure? Assessing bicycle suitability and bikeability with open data in the city of Paris,https://doi.org/10.1016/j.trip.2022.100648
+A systematic review of COVID-19 transport policies and mitigation strategies around the globe,https://doi.org/10.1016/j.trip.2022.100653
+Turn off your engine: Reducing idling amongst professional truck drivers,https://doi.org/10.1016/j.trip.2022.100654
+How do users adapt to a short-range battery electric vehicle in a two-car household? Results from a trial in Sweden,https://doi.org/10.1016/j.trip.2022.100661
+Temporal patterns and factors influencing vertebrate roadkill in China,https://doi.org/10.1016/j.trip.2022.100662
+"Modeling the competing demands of carriers, building managers, and urban planners to identify balanced solutions for allocating building and parking resources",https://doi.org/10.1016/j.trip.2022.100656
+"Impact of COVID-19 on mode choice behavior: A case study for Dhaka, Bangladesh",https://doi.org/10.1016/j.trip.2022.100665
+The impact of adding the Northern sea route to the Belt and Road Initiative for Europe: A chain cost approach,https://doi.org/10.1016/j.trip.2022.100659
+Exploring the potential demand for Jakarta–Bandung high-speed rail,https://doi.org/10.1016/j.trip.2022.100658
+Comparing COVID-19 in the antipodes: Insights from pandemic containment strategies on both sides of the Pacific,https://doi.org/10.1016/j.trip.2022.100660
+The relationship between car shedding and subjective well-being,https://doi.org/10.1016/j.trip.2022.100663
+Workstyle change effects on physical activity and health consciousness in Japan: Results from COVID-19 lifestyle activity survey,https://doi.org/10.1016/j.trip.2022.100657
+Electrified road transport through plug-in hybrid powertrains: Compliance by simulation of CO,https://doi.org/10.1016/j.trip.2022.100651
+On the road safety benefits of advanced driver assistance systems in different driving contexts,https://doi.org/10.1016/j.trip.2022.100670
+"Intervening at the blotter, not the broadcast: Improving crash coverage by targeting police press releases",https://doi.org/10.1016/j.trip.2022.100669
+Effect of vehicle properties and driving environment on fuel consumption and CO,https://doi.org/10.1016/j.trip.2022.100671
+Guardrails on priced lanes: Protecting equity while promoting efficiency,https://doi.org/10.1016/j.trip.2022.100652
+Mobility in pandemic times: Exploring changes and long-term effects of COVID-19 on urban mobility behavior,https://doi.org/10.1016/j.trip.2022.100668
+Riding through the pandemic: Using Strava data to monitor the impacts of COVID-19 on spatial patterns of bicycling,https://doi.org/10.1016/j.trip.2022.100667
+Application of crowdsourced data to infer user satisfaction with Mobility as a Service (MaaS),https://doi.org/10.1016/j.trip.2022.100672
+Older Adults’ concerns regarding Hurricane-Induced evacuations during COVID-19: Questionnaire findings,https://doi.org/10.1016/j.trip.2022.100676
+Short- and long-term effects of COVID-19 on bicycle sharing usage,https://doi.org/10.1016/j.trip.2022.100674
+Understanding the role of transportation in combating human trafficking in California,https://doi.org/10.1016/j.trip.2022.100673
+Cycle campaigning for a just city,https://doi.org/10.1016/j.trip.2022.100678
+Cycling in the era of Covid-19: The effects of the pandemic and pop-up cycle lanes on cycling practices,https://doi.org/10.1016/j.trip.2022.100677
+Editorial Board,https://doi.org/10.1016/S2590-1982(22)00198-1
+Difference in risk perception of onboard security threats by aircrew and aviation security experts,https://doi.org/10.1016/j.trip.2022.100666
+Towards a co-creation framework based on citizens' dreams of future mobility,https://doi.org/10.1016/j.trip.2022.100686
+Transportation and logistics observatories: Guidelines for a conceptual model,https://doi.org/10.1016/j.trip.2022.100682
+Transportation programs under financial uncertainty: Identification of needs for future research,https://doi.org/10.1016/j.trip.2022.100684
+Factors that affect travel behaviour in developing cities: A methodological review,https://doi.org/10.1016/j.trip.2022.100683
+A Delphi-FMEA model to assess county-level speeding crash risk in North Dakota,https://doi.org/10.1016/j.trip.2022.100688
+The future of telecommuting post COVID-19 pandemic,https://doi.org/10.1016/j.trip.2022.100685
+"COVID-19′s impact on older adults’ cycling behaviors in a small, auto-centric urban area",https://doi.org/10.1016/j.trip.2022.100675
+Using factor analyses to understand the post-pandemic travel behavior in domestic tourism through a questionnaire survey,https://doi.org/10.1016/j.trip.2022.100691
+Towards sustainable mobility – Transformative scenarios for 2034,https://doi.org/10.1016/j.trip.2022.100690
+The impact of access prices on train traffic: An econometric study for France,https://doi.org/10.1016/j.trip.2022.100679
+Profitable market mechanism for platform-based aggregator taxi services,https://doi.org/10.1016/j.trip.2022.100687
+Mental barriers in planning for cycling along the urban–rural gradient,https://doi.org/10.1016/j.trip.2022.100689
+Real-time social distance measurement and face mask detection in public transportation systems during the COVID-19 pandemic and post-pandemic Era: Theoretical approach and case study in Italy,https://doi.org/10.1016/j.trip.2022.100693
+"Why do lower-income areas experience worse road safety outcomes? Examining the role of the built environment in Orange County, Florida",https://doi.org/10.1016/j.trip.2022.100696
+Walkability and importance assessment of pedestrian facilities on central business district in capital city of Indonesia,https://doi.org/10.1016/j.trip.2022.100695
+Understanding user perception and feelings for autonomous mobility on demand in the COVID-19 pandemic era,https://doi.org/10.1016/j.trip.2022.100692
+Fleet management and control system for developing countries implemented with Intelligent Transportation Systems (ITS) services,https://doi.org/10.1016/j.trip.2022.100694
+Review of resilience hubs and associated transportation needs,https://doi.org/10.1016/j.trip.2022.100697
+Improving children’s on-road cycling with immersive video-based training: A pilot study,https://doi.org/10.1016/j.trip.2022.100699
+Are self-reported times rounded? Insights from times reported by an objective third party,https://doi.org/10.1016/j.trip.2022.100698
+"Digital civic engagement, open data, and the informal sector: a think piece",https://doi.org/10.1016/j.trip.2022.100700
+A naturalistic study assessing the impact of daytime running lights and vehicle passing events on cyclist’s physiological stress,https://doi.org/10.1016/j.trip.2022.100703
+Is the automated vehicle “aware” of the pedestrian? Examining driving behavior adaptation as a cue to inform the passenger of a potential hazard,https://doi.org/10.1016/j.trip.2022.100701
+Does procedural justice predict intentions to speed? Evidence from a sample of young drivers,https://doi.org/10.1016/j.trip.2022.100709
+Exploring the sustained and divided attention of novice versus experienced drivers,https://doi.org/10.1016/j.trip.2022.100702
+Mode choice of city tourists: Discrete choice modeling based on survey data from a major German city,https://doi.org/10.1016/j.trip.2022.100704
+Locating underground utilities in the United States: A comparative analysis of services provided by private locators,https://doi.org/10.1016/j.trip.2022.100707
+City-oriented and inclusive bicycle-vehicle crash frequency modeling through the integration of bicycle-sharing system and other surrogates,https://doi.org/10.1016/j.trip.2022.100714
+Living in a Silver Zone: Residents’ perceptions of area-wide traffic calming measures in Singapore,https://doi.org/10.1016/j.trip.2022.100710
+The relation between transit service availability and productivity with customers satisfaction,https://doi.org/10.1016/j.trip.2022.100716
+Understanding the road rage behavior and implications: A textual approach using legal cases in Korea,https://doi.org/10.1016/j.trip.2022.100712
+Parcel self-collection for urban last-mile deliveries: A review and research agenda with a dual operations-consumer perspective,https://doi.org/10.1016/j.trip.2022.100719
+Ridership dynamics and characteristics of potential riders of a transit system: The SunRail of Central Florida,https://doi.org/10.1016/j.trip.2022.100720
+Evaluating the impact of private automated vehicles on activity-based accessibility in Japanese regional areas: A case study of Gunma Prefecture,https://doi.org/10.1016/j.trip.2022.100717
+An analytical model for a tandem of two traffic-light intersections under semi-actuated and fixed control,https://doi.org/10.1016/j.trip.2022.100715
+Adapting the behavioral regulation in active commuting to and from school questionnaire in Sweden: BR-ACS(SWE),https://doi.org/10.1016/j.trip.2022.100721
+"Attitude changes, modelling travel behaviour, and ex ante project evaluations",https://doi.org/10.1016/j.trip.2022.100724
+Perception of safety culture in the Nepalese aviation industry: A factor analysis approach,https://doi.org/10.1016/j.trip.2022.100723
+Ridesourcing mode choice: A latent class choice model for UberX in Chile,https://doi.org/10.1016/j.trip.2022.100722
+"COVID-19 pandemic and air transportation: Summary of Recent Research, Policy Consideration and Future Research Directions",https://doi.org/10.1016/j.trip.2022.100718
+Built environment bikeability as a predictor of cycling frequency: Lessons from Barcelona,https://doi.org/10.1016/j.trip.2022.100725
+Electric cargo bikes in urban areas: A new mobility option for private transportation,https://doi.org/10.1016/j.trip.2022.100705
+Beyond fear and abandonment: Public transport resilience during the COVID-19 pandemic,https://doi.org/10.1016/j.trip.2022.100711
+"Urban morphology, lifestyles and work-related travel behaviour: Evidence from the Stockholm region",https://doi.org/10.1016/j.trip.2022.100706
+Examining the ride-hailing adoption behaviors among older adults in an Indonesian city: The case of Yogyakarta,https://doi.org/10.1016/j.trip.2022.100729
+Data-driven risk analysis of unmanned aircraft system operations considering spatiotemporal characteristics of population distribution,https://doi.org/10.1016/j.trip.2022.100732
+Challenges of passenger and freight transportation in mega-city regions: A systematic literature review,https://doi.org/10.1016/j.trip.2022.100730
+"A drone hop from the local shop? Where could drone delivery as a service happen in Europe and the USA, and how many people could benefit from it?",https://doi.org/10.1016/j.trip.2022.100708
+Addressing forced labor in supply chains in California,https://doi.org/10.1016/j.trip.2022.100735
+Dynamic simulation on eye exposure of in-vehicle daylighting in urban environments of China,https://doi.org/10.1016/j.trip.2022.100727
+Editorial Board,https://doi.org/10.1016/S2590-1982(23)00019-2
+"Overview of special issue on urban cycling: Rationalities, justice, safety, and geographical analysis",https://doi.org/10.1016/j.trip.2022.100713
+The limits of soft safety regulation: Does successful work with safety culture require SMS implementation?,https://doi.org/10.1016/j.trip.2022.100733
+The impact of COVID-19 and related containment measures on Bangkok’s public transport ridership,https://doi.org/10.1016/j.trip.2022.100737
+Predicting the impact on road safety of an intersection AEB at urban intersections. Using a novel virtual test field for the assessment of conflict prevention between cyclists/pedelecs and cars,https://doi.org/10.1016/j.trip.2022.100728
+Driven by head or heart? Testing the effect of rational and emotional anti-speeding messages on self-reported speeding intentions,https://doi.org/10.1016/j.trip.2022.100726
+Urban freight logistics and land use planning education: Trends and gaps through the lens of literature,https://doi.org/10.1016/j.trip.2022.100731
+"Decarbonising UK transport: Implications for electricity generation, land use and policy",https://doi.org/10.1016/j.trip.2022.100736
+Factors Influencing the Types of Merchandise Purchased Online: Evidence From the 2018 California Survey of Emerging Transportation Trends,https://doi.org/10.1016/j.trip.2022.100734
+Linking travel behavior and tourism literature: Investigating the impacts of travel satisfaction on destination satisfaction and revisit intention,https://doi.org/10.1016/j.trip.2022.100745
+"Changes in mobility amid the COVID-19 pandemic in Sapporo City, Japan: An investigation through the relationship between spatiotemporal population density and urban facilities",https://doi.org/10.1016/j.trip.2022.100744
+Spatio-temporal constraints of carer-workers in the Greater Toronto and Hamilton Area: An exploratory analysis using potential path areas,https://doi.org/10.1016/j.trip.2022.100749
+Iterated clustering optimization of the split-delivery vehicle routing problem considering passenger walking distance,https://doi.org/10.1016/j.trip.2022.100751
+A method to separate primary and secondary train delays in past and future timetables using macroscopic simulation,https://doi.org/10.1016/j.trip.2022.100747
+Associations between vision impairment and driving performance and the effectiveness of vision-related interventions: A systematic review,https://doi.org/10.1016/j.trip.2022.100753
+Comparative evidence on the impact of the COVID-19 outbreak and vaccine discovery on the global transportation industry,https://doi.org/10.1016/j.trip.2022.100741
+Examining the barriers to electric truck adoption as a system: A Grey-DEMATEL approach,https://doi.org/10.1016/j.trip.2022.100746
+BIM approach for stone pavements in Archaeological Sites: The case study of Vicolo dei Balconi of Pompeii,https://doi.org/10.1016/j.trip.2023.100755
+Functional data analysis approach for mapping change in time series: A case study using bicycle ridership patterns,https://doi.org/10.1016/j.trip.2022.100752
+Napper cycling typology: Identifying and understanding different bicycle trip purposes,https://doi.org/10.1016/j.trip.2022.100740
+Narratives in transport research: A thematic and functional analysis,https://doi.org/10.1016/j.trip.2023.100754
+"Using the extensions of the theory of planned behavior (TPB) for behavioral intentions to use public transport (PT) in Kanazawa, Japan",https://doi.org/10.1016/j.trip.2022.100742
+Public discourse on automated vehicles in online discussion forums: A social constructionist perspective,https://doi.org/10.1016/j.trip.2022.100743
+Linking transportation agent-based model (ABM) outputs with micro-urban social types (MUSTs) via typology transfer for improved community relevance,https://doi.org/10.1016/j.trip.2022.100748
+Investigating equipment productivity in feeder road maintenance in Uganda,https://doi.org/10.1016/j.trip.2023.100756
+Experienced processes and outcomes of driving license withdrawal due to visual field loss: A Swedish survey study of trust in authorities,https://doi.org/10.1016/j.trip.2023.100758
+Corrigendum to “Jet-setting during COVID-19: Environmental implications of the pandemic induced private aviation boom” [Transp. Res. Interdiscip. Perspect. 13 (2022) 100575],https://doi.org/10.1016/j.trip.2022.100750
+Editorial Board,https://doi.org/10.1016/S2590-1982(23)00058-1
+COVID-19 public transit precautions: Trade-offs between risk reduction and costs,https://doi.org/10.1016/j.trip.2023.100762
+Does the AR-HUD system affect driving behaviour? An eye-tracking experiment study,https://doi.org/10.1016/j.trip.2023.100767
+Local travel behaviour under continuing COVID-19 waves– A proxy for pandemic fatigue?,https://doi.org/10.1016/j.trip.2023.100757
+Improving cycling safety through infrastructure design: A bicycle simulator study,https://doi.org/10.1016/j.trip.2023.100768
+Consumer response to transformative transportation innovations: Advancing the reflexive participant approach to survey research,https://doi.org/10.1016/j.trip.2023.100759
+Measurement of the quality of service of the informal transportation mode mototaxi in Mexico,https://doi.org/10.1016/j.trip.2023.100764
+International transfer of railway infrastructure through the intermediation of aid agencies,https://doi.org/10.1016/j.trip.2023.100765
+"Development of short sea shipping in the north coast of Java Island, Indonesia as a potential market",https://doi.org/10.1016/j.trip.2023.100760
+Designing and evaluating a smartphone app to increase underserved communities’ data representation in transportation policy and planning,https://doi.org/10.1016/j.trip.2023.100763
+Behavioral pathway analysis of pedestrian injury severity in pedestrian-motor vehicle crashes,https://doi.org/10.1016/j.trip.2023.100777
+Road rage and aggressive driving behaviors: The role of state-trait anxiety and coping strategies,https://doi.org/10.1016/j.trip.2023.100780
+Escaping the heat: Climate change and visitation to the Lake Tahoe basin,https://doi.org/10.1016/j.trip.2023.100779
+Fields of interest and demands for a digital proving ground twin,https://doi.org/10.1016/j.trip.2023.100782
+Snow coverage estimation using camera data for automated driving applications,https://doi.org/10.1016/j.trip.2023.100766
+Study on facility location of air taxi skyports using a prescriptive analytics approach,https://doi.org/10.1016/j.trip.2023.100761
+Travel behaviour changes and risk perception during COVID-19: A case study of Malaysia,https://doi.org/10.1016/j.trip.2023.100784
+"Identifying individuals’ perceptions, attitudes, preferences, and concerns of shared autonomous vehicles: During- and post-implementation evidence",https://doi.org/10.1016/j.trip.2023.100785
+Keeping older people mobile: Autonomous transport services in rural areas,https://doi.org/10.1016/j.trip.2023.100778
+In the driver’s seat: Pathways to automobile ownership for lower-income households in the United States,https://doi.org/10.1016/j.trip.2023.100787
+“Game over” for autonomous shuttles in mixed traffic? Results from field surveys among pedestrians and cyclists on how they interact with autonomous shuttles in real-life traffic in Norway,https://doi.org/10.1016/j.trip.2023.100781
+The utility of cognitive testing to predict real world commercial driving risk,https://doi.org/10.1016/j.trip.2023.100783
+Ranking sustainable urban mobility indicators and their matching transport policies to support liveable city Futures: A MICMAC approach,https://doi.org/10.1016/j.trip.2023.100788
+Observed sidewalk autonomous delivery robot interactions with pedestrians and bicyclists,https://doi.org/10.1016/j.trip.2023.100789
+"Modeling over speeding behavior of vehicles using a random parameter negative binomial approach: A case study of Mumbai, India",https://doi.org/10.1016/j.trip.2023.100790
+Mixed fleets of automated and human-driven vehicles in public transport systems: An evaluation of feeder line services,https://doi.org/10.1016/j.trip.2023.100791
+Exploring motivating factors and constraints of using and adoption of shared autonomous vehicles (SAVs),https://doi.org/10.1016/j.trip.2023.100794
+Addressing the emergence of drones – A policy development framework for regional drone transportation systems,https://doi.org/10.1016/j.trip.2023.100795
+A human behaviour model and its implications in the transport context,https://doi.org/10.1016/j.trip.2023.100800
+Transportation system functions during hurricane Response: A systematic review of modes and methods,https://doi.org/10.1016/j.trip.2023.100786
+Baggage dissociation for sustainable air travel: Design study of ground baggage distribution networks,https://doi.org/10.1016/j.trip.2023.100797
+Multi-objective optimization and heuristic based solutions for evacuation modeling,https://doi.org/10.1016/j.trip.2023.100798
+Editorial Board,https://doi.org/10.1016/S2590-1982(23)00095-7
+Travel route planning method to avoid epidemic hot-spots in the post-epidemic era,https://doi.org/10.1016/j.trip.2023.100802
+Post-pandemic travel patterns of remote tech workers,https://doi.org/10.1016/j.trip.2023.100804
+Application of hybrid support vector Machine models in analysis of work zone crash injury severity,https://doi.org/10.1016/j.trip.2023.100801
+The role and potential of trusted change agents and freight demand management in mitigating “Panic Buying” shortages,https://doi.org/10.1016/j.trip.2023.100792
+Behaviors of pedestrians on streets with roadside strips,https://doi.org/10.1016/j.trip.2023.100799
+"Data, AI and governance in MaaS – Leading to sustainable mobility?",https://doi.org/10.1016/j.trip.2023.100806
+The overlooked transport project planning process — What happens before selecting the Locally Preferred Alternative?,https://doi.org/10.1016/j.trip.2023.100809
+Influence of cognitive processes on driver decision-making in dilemma zone,https://doi.org/10.1016/j.trip.2023.100805
+Future of mobility in Jakarta Metropolitan Area: A Multi-Stakeholder scenario planning,https://doi.org/10.1016/j.trip.2023.100810
+Private car ownership in Indonesia: Affecting factors and policy strategies,https://doi.org/10.1016/j.trip.2023.100796
+Optimal mechanism design of public policies for promoting electromobility: A dynamic programming formulation,https://doi.org/10.1016/j.trip.2023.100807
+Assessing alternative occupations for truck drivers in an emerging era of autonomous vehicles,https://doi.org/10.1016/j.trip.2023.100793
+Understanding the travel challenges and gaps for older adults during the COVID-19 outbreak: Insights from the New York City area,https://doi.org/10.1016/j.trip.2023.100815
+"Authorized Vehicles Only: Police, parking, and pedestrian access in New York City",https://doi.org/10.1016/j.trip.2023.100816
+How does transportation facilitate regional economic development? A heuristic mapping of the literature,https://doi.org/10.1016/j.trip.2023.100817
+A study on road accident prediction and contributing factors using explainable machine learning models: analysis and performance,https://doi.org/10.1016/j.trip.2023.100814
+An integrated estimation approach to incorporate latent variables through SEM into discrete mode choice models to analyze mode choice attitude of a rider,https://doi.org/10.1016/j.trip.2023.100819
+The impact of the Ukraine conflict in internal and external grain transport costs,https://doi.org/10.1016/j.trip.2023.100803
+Future air transportation and digital work at airports – Review and developments,https://doi.org/10.1016/j.trip.2023.100808
+Wrong way driving intention and behavior of young motorcycle riders,https://doi.org/10.1016/j.trip.2023.100827
+"An archetypal routing network model to help identify potential charging locations for long-haul electric vehicles in Ontario, Canada",https://doi.org/10.1016/j.trip.2023.100825
+"Exploring drivers’ interest in different levels of autonomous vehicles: Insights from Java Island, Indonesia",https://doi.org/10.1016/j.trip.2023.100820
+How do drivers allocate visual attention to vulnerable road users when turning at urban intersections?,https://doi.org/10.1016/j.trip.2023.100822
+Nudging travellers to societally favourable routes: The impact of visual communication and emotional responses on decision making,https://doi.org/10.1016/j.trip.2023.100829
+The use of the CTU Code to increase freight transport safety and business competitiveness: An empirical analysis of a sample of Italian companies,https://doi.org/10.1016/j.trip.2023.100826
+Balancing the efficiency and robustness of traffic operations in signal-free networks,https://doi.org/10.1016/j.trip.2023.100821
+"In the opposite lane: How Women of Colour experience, negotiate and apply an oppositional gaze to dominant cycling discourses",https://doi.org/10.1016/j.trip.2023.100828
+Exploring spatial associations between near-miss and police-reported crashes: The Heinrich’s law in traffic safety,https://doi.org/10.1016/j.trip.2023.100830
+Prevalence of drowsy driving and modeling its intention: An Indonesian case study,https://doi.org/10.1016/j.trip.2023.100824
+Predicting bus ridership based on the weather conditions using deep learning algorithms,https://doi.org/10.1016/j.trip.2023.100833
+Public transport demand estimation by frequency adjustments,https://doi.org/10.1016/j.trip.2023.100832
+Enhancing station level Direct-Demand models with Multi-Scalar accessibility indicators,https://doi.org/10.1016/j.trip.2023.100834
+Spatiotemporal trip profiles in public transportation reveal city modular structure,https://doi.org/10.1016/j.trip.2023.100840
+On the influence of infrastructure availability on companies decisions toward modal shift and relocation of falicities,https://doi.org/10.1016/j.trip.2023.100818
+Urban warehouses as good neighbors: Findings from a New York City case study,https://doi.org/10.1016/j.trip.2023.100823
+Editorial Board,https://doi.org/10.1016/S2590-1982(23)00108-2
+Compliance to eco-riding recommendations on an E-scooter: Effects on energy consumption and user acceptance,https://doi.org/10.1016/j.trip.2023.100831
+GIS-based spatiotemporal analysis for road traffic crashes; in support of sustainable transportation Planning,https://doi.org/10.1016/j.trip.2023.100836
+The expression of anger while driving – The role of personality and self-consciousness in a sample of Chinese drivers,https://doi.org/10.1016/j.trip.2023.100838
+Analysing inequity in land use and transportation models by genetic algorithm for realistically quantified penetration rate of Advanced Driving System Equipped Vehicles,https://doi.org/10.1016/j.trip.2023.100841
+A review of the state-of-the-art methods in estimating crash modification factor (CMF),https://doi.org/10.1016/j.trip.2023.100839
+Comparison of travel attitude study methods using online tools: The case of understanding public acceptance of autonomous vehicles,https://doi.org/10.1016/j.trip.2023.100847
+Demonstration of virtual reality simulation as a tool for understanding and evaluating pedestrian safety and perception at midblock crossings,https://doi.org/10.1016/j.trip.2023.100844
+Assessing the effects of road geometry and fidelity on driver behaviour in driving simulator experiments,https://doi.org/10.1016/j.trip.2023.100835
+Uncovering the spatio-temporal impact of the COVID-19 pandemic on shared e-scooter usage: A spatial panel model,https://doi.org/10.1016/j.trip.2023.100843
+Characterization of the state of the traffic signs focused on cyclists in Bogotá,https://doi.org/10.1016/j.trip.2023.100837
+An AV-MV negotiation method based on synchronous prompt information on a multi-vehicle bottleneck road,https://doi.org/10.1016/j.trip.2023.100845
+Forwarding containers to dry ports in congested logistic networks,https://doi.org/10.1016/j.trip.2023.100846
+Analysis of mode choice affects from the introduction of Doha Metro using machine learning and statistical analysis,https://doi.org/10.1016/j.trip.2023.100852
+Simulation of travel document purchase measures aimed at preventing the spread of COVID-19 – Case study from Slovakia,https://doi.org/10.1016/j.trip.2023.100853
+Understanding children's cycling route selection through spatial trajectory data mining,https://doi.org/10.1016/j.trip.2023.100855
+Evaluating fare evasion risk in bus transit networks,https://doi.org/10.1016/j.trip.2023.100854
+Editorial Board,https://doi.org/10.1016/S2590-1982(23)00170-7
+Dispatches from the Field: 2023 Transportation Research Board (TRB) Annual Meeting,https://doi.org/10.1016/j.trip.2023.100871
+The adoption of industrial logistics decarbonization practices: Evidence from Austria,https://doi.org/10.1016/j.trip.2023.100857
+Non-homogeneous traffic characterization based on driver reaction and stimuli,https://doi.org/10.1016/j.trip.2023.100858
+Factors associated with depressive symptoms in long-haul truck drivers,https://doi.org/10.1016/j.trip.2023.100851
+"Decarbonizing North America’s rail sector, international initiatives and local opportunities",https://doi.org/10.1016/j.trip.2023.100859
+A ,https://doi.org/10.1016/j.trip.2023.100860
+"Can the mode, time, and expense of commuting to work affect our mental health?",https://doi.org/10.1016/j.trip.2023.100850
+A systematic review on detection and prediction of driver drowsiness,https://doi.org/10.1016/j.trip.2023.100864
+Responding to customers while driving: Predictors of intention to text among motorcycle-based ride-hailing drivers,https://doi.org/10.1016/j.trip.2023.100869
+Social equity and public transit in the inland empire: Introducing a transit equity analysis model,https://doi.org/10.1016/j.trip.2023.100870
+Double-layer control architecture for motion and torque optimisation of autonomous electric vehicles,https://doi.org/10.1016/j.trip.2023.100866
+Stagnant logistics growth simulation on West African intermodal corridors,https://doi.org/10.1016/j.trip.2023.100867
+Structural analysis of driver fatigue behavior: A systematic review,https://doi.org/10.1016/j.trip.2023.100865
+Public perception of electric vehicles on Reddit and Twitter: A cross-platform analysis,https://doi.org/10.1016/j.trip.2023.100872
+Does shipping cause environmental emissions? Evidence from African countries,https://doi.org/10.1016/j.trip.2023.100873
+How can authorities be enablers in the deployment of CCAM? An experienced-based expert study from Norway,https://doi.org/10.1016/j.trip.2023.100874
+Challenges of replacing train drivers in driverless and unattended railway mainline systems—A Swedish case study on delay logs descriptions,https://doi.org/10.1016/j.trip.2023.100875
+Provisional drivers intend to speed less: The positive outcome for young drivers of a safe-driving app randomised trial,https://doi.org/10.1016/j.trip.2023.100877
+Bilevel large neighborhood search for the electric autonomous dial-a-ride problem,https://doi.org/10.1016/j.trip.2023.100876
+Operating at the individual level: A review of literature and a research agenda to support needs-forward models of transport resource allocation,https://doi.org/10.1016/j.trip.2023.100887
+Digitizing and inventorying traffic control infrastructures: A review of practices,https://doi.org/10.1016/j.trip.2023.100879
+Significance of face-to-face service quality in last mile delivery for e-commerce platforms,https://doi.org/10.1016/j.trip.2023.100885
+The impact of COVID-19 pandemic on the fundamental urban mobility theories using transit data from Singapore,https://doi.org/10.1016/j.trip.2023.100883
+E-scooter micromobility systems: Review of attributes and impacts,https://doi.org/10.1016/j.trip.2023.100888
+Impact of health and transportation on accessing healthcare in older adults living in rural regions,https://doi.org/10.1016/j.trip.2023.100882
+Analysis of the optimal service lives of trucks under EUAC and benefit-based methods: A case-study of a road tanker fleet,https://doi.org/10.1016/j.trip.2023.100880
+Caregivers on the move: Gender and socioeconomic status in the care mobility in Bogotá,https://doi.org/10.1016/j.trip.2023.100884
+"Vehicle ownership rates: The role of lifecycle, period, and cohort effects",https://doi.org/10.1016/j.trip.2023.100892
+Does built environment matter in a medium-sized African city? Empirical evidence from the interaction between land use and travel behavior,https://doi.org/10.1016/j.trip.2023.100881
+A survey to investigate transport conditions in depopulating cities in Illinois,https://doi.org/10.1016/j.trip.2023.100886
+A note on how public transport announcements affect the spread of COVID-19,https://doi.org/10.1016/j.trip.2023.100893
+Less can be more: Pruning street networks for sustainable city-making,https://doi.org/10.1016/j.trip.2023.100878
+"The Road, Home: Challenges of and Responses to Homelessness in State Transportation Environments",https://doi.org/10.1016/j.trip.2023.100890
+A spatial agent-based model of e-commerce last-mile logistics towards a delivery-oriented development,https://doi.org/10.1016/j.trip.2023.100895
+Remoteness and other risk factors in circumpolar road accident severity,https://doi.org/10.1016/j.trip.2023.100898
+"Modeling the online food delivery pricing and waiting time: Evidence from Davis, Sacramento, and San Francisco",https://doi.org/10.1016/j.trip.2023.100891
+Developing a method to select and rank measures for commuters,https://doi.org/10.1016/j.trip.2023.100899
+Examining the determinants of electric bike riders’ attitudes towards traffic safety and risky driving behaviours amongst high-school students in Vietnam,https://doi.org/10.1016/j.trip.2023.100889
+The Safe Systems Pyramid: A new framework for traffic safety,https://doi.org/10.1016/j.trip.2023.100905
+Machine learning approaches exploring the optimal number of driver profiles based on naturalistic driving data,https://doi.org/10.1016/j.trip.2023.100900
+Expanding the VBN theory on succeeding the transportation demand management policies,https://doi.org/10.1016/j.trip.2023.100903
+"Drivers' reported crash history, sensitivity to reward and punishment, personality, and demographics: A case study in Iran",https://doi.org/10.1016/j.trip.2023.100902
+"Exploring non-mandatory travel behavior in Jakarta City: Travel time, trip frequency, and socio-demographic influences",https://doi.org/10.1016/j.trip.2023.100896
+Freight trip distribution using spatiotemporal aggregate data: A modified collective flow diffusion model-based approach,https://doi.org/10.1016/j.trip.2023.100904
+Automobile technology and tradeoffs: How does automobile footprint affect its fuel economy?,https://doi.org/10.1016/j.trip.2023.100897
+Assessing the effects of geometric layout and signing on drivers’ behavior through work zones,https://doi.org/10.1016/j.trip.2023.100901
+Middle-aged and older adults’ transportation patterns during the COVID-19 pandemic: A mixed methods study,https://doi.org/10.1016/j.trip.2023.100894
+"Aggressive Driving, Rule-Breaking, and Driver Stress in Spanish-speaking countries",https://doi.org/10.1016/j.trip.2023.100907
+Night icing prediction using vehicle-mounted pavement temperature sensor and atmospheric data,https://doi.org/10.1016/j.trip.2023.100910
+Designing for street livability in the era of driverless cars,https://doi.org/10.1016/j.trip.2023.100868
+Fast Corridors: innovative customs processes and technology to increase supply chain competitiveness. The case of IKEA Italy,https://doi.org/10.1016/j.trip.2023.100909
+Impact of a lower demand during the COVID-19 pandemic on the frequency of dwell time delays,https://doi.org/10.1016/j.trip.2023.100911
+"Impacts of COVID-19 on bike-share usage: The case of Daejeon, Korea",https://doi.org/10.1016/j.trip.2023.100856
+Differences in walking and cycling between professional immigrants and comparable ethnic Dutch: A quantitative analysis from the Netherlands,https://doi.org/10.1016/j.trip.2023.100915
+The impact of COVID-19 on Canadian restaurant operations and the likelihood of pivoting off-dining options post-COVID-19,https://doi.org/10.1016/j.trip.2023.100917
+Learning not blaming: Investigating ten fatal road traffic collisions using STAMP-CAST,https://doi.org/10.1016/j.trip.2023.100912
+Editorial Board,https://doi.org/10.1016/S2590-1982(23)00241-5
+Transforming bicycle market: Assessing cyclists route preferences on different bike types in a choice experiment,https://doi.org/10.1016/j.trip.2023.100921
+"Is a car necessary for active aging? Relationships between aging, car use, and time spent on activities that sustain health and well-being",https://doi.org/10.1016/j.trip.2023.100920
+Effects of the COVID-19 pandemic on use and perception of shared e-scooters,https://doi.org/10.1016/j.trip.2023.100925
+"Leisure activity variety before and during the COVID-19 Pandemic: Focus on temporal Stability, gender Differences, and social capital",https://doi.org/10.1016/j.trip.2023.100913
+Gendered access to household car in China: The mediation role of subjective attitudes,https://doi.org/10.1016/j.trip.2023.100914
+Impacts of North Carolina’s medicaid transformation on community transit systems: A qualitative analysis with policy implications,https://doi.org/10.1016/j.trip.2023.100918
+The post-COVID-19 road-based tourism market: Negotiation of travel constraints,https://doi.org/10.1016/j.trip.2023.100908
+Comprehending travel intentions during and after the covid-19 pandemic based on psychological theory models,https://doi.org/10.1016/j.trip.2023.100933
+Rail liberalization for Indonesian railways: Learn from the experience of Germany and France,https://doi.org/10.1016/j.trip.2023.100916
+Exploring walking from the perspective of theory of planned behavior,https://doi.org/10.1016/j.trip.2023.100931
+Brussels mobility in 2050: Participatory mixed-method scenario building to explore alternative futures,https://doi.org/10.1016/j.trip.2023.100919
+Predictors of rural driver self-reported passing behaviors when interacting with farm equipment on the roadway,https://doi.org/10.1016/j.trip.2023.100926
+Prolonged exposure weakens risk perception and behavioral mobility response: Empirical evidence from Covid-19,https://doi.org/10.1016/j.trip.2023.100906
+Railway maintenance windows: Discrepancies between planning and practice in Sweden,https://doi.org/10.1016/j.trip.2023.100927
+Pedestrian moral disengagement scale towards sustainable urban planning,https://doi.org/10.1016/j.trip.2023.100936
+Identification of hotspot areas for traffic accidents and analyzing drivers’ behaviors and road accidents,https://doi.org/10.1016/j.trip.2023.100929
+How do drivers' attitudes to low emission zones change after experiencing it? – A pilot study in Norway,https://doi.org/10.1016/j.trip.2023.100934
+Using vignettes to explore policy tools for a self-driving transport future,https://doi.org/10.1016/j.trip.2023.100922
+Understanding skepticism of smartphones in travel behavior research: A qualitative approach,https://doi.org/10.1016/j.trip.2023.100935
+A study on integration of health and education facilities in Rural Access Index (RAI),https://doi.org/10.1016/j.trip.2023.100930
+Evaluation of bicycle sharing scheme data as a proxy for cycling mobility – How COVID-19 measures influenced cycling in Paris,https://doi.org/10.1016/j.trip.2023.100937
+Association between transport-related physical activity and wellness in sub-Saharan Africa: A systematic literature review,https://doi.org/10.1016/j.trip.2023.100928
+"Road user behavior: Describing, inferring, predicting and beyond",https://doi.org/10.1016/j.trip.2023.100932
+Strategy and safety at stop intersections in older adults with mild cognitive impairment and visual decline,https://doi.org/10.1016/j.trip.2023.100939
+Challenges of commuter carpooling with adapting to Japanese customs and regulations: A pilot study,https://doi.org/10.1016/j.trip.2023.100945
+Systematic review on the evaluation of the effects of ride-hailing services on public road transportation,https://doi.org/10.1016/j.trip.2023.100943
+"E-bikes Toward Inclusive Mobility: A Literature Review of Perceptions, Concerns, and Barriers",https://doi.org/10.1016/j.trip.2023.100940
+"Measuring spatial accessibility of public libraries using floating catchment area methods: A comparative case study in Calhoun County, Florida",https://doi.org/10.1016/j.trip.2023.100944
+Investigating the factors influencing urban residents’ low-carbon travel intention: A comprehensive analysis based on the TPB model,https://doi.org/10.1016/j.trip.2023.100948
+Factors influencing the willingness to pay for motorcycle safety improvement: A structural equation modeling approach,https://doi.org/10.1016/j.trip.2023.100950
+Association of bike-sharing service with gentrification in a transit-rich city: A catalyst or an outcome?,https://doi.org/10.1016/j.trip.2023.100941
+"Evaluation of barriers to electric vehicle adoption: A study of technological, environmental, financial, and infrastructure factors",https://doi.org/10.1016/j.trip.2023.100962
+Predicting modal choice for urban transport using an algebraic equation,https://doi.org/10.1016/j.trip.2023.100947
+"What makes an informative and publication-worthy scientometric analysis of literature: A guide for authors, reviewers and editors",https://doi.org/10.1016/j.trip.2023.100956
+A human factors perspective on how to keep SAE Level 3 conditional automated driving safe,https://doi.org/10.1016/j.trip.2023.100959
+"Older adult access to health care services in Ban Phaeo, Thailand: A case study using geospatial analysis",https://doi.org/10.1016/j.trip.2023.100946
+Contrail minimization through altitude diversions: A feasibility study leveraging global data,https://doi.org/10.1016/j.trip.2023.100953
+"COVID-19 and the activity-travel behavior of low-income, chronically ill individuals in Atlanta, Georgia",https://doi.org/10.1016/j.trip.2023.100951
+Design effects of cycle infrastructure changes: An exploratory analysis of cycle levels,https://doi.org/10.1016/j.trip.2023.100949
+Environmental and energy performance of integrated passenger–freight transport,https://doi.org/10.1016/j.trip.2023.100958
+"Impacts of on-demand ride services on the number of traffic crashes – A case study of RideAustin in Austin, TX",https://doi.org/10.1016/j.trip.2023.100966
+"Comparison of travel pattern before and during COVID-19 restrictions (ease and strict restrictions) in Greater Kuala Lumpur, Malaysia",https://doi.org/10.1016/j.trip.2023.100942
+Fuel-saving opportunities for automated vehicles: A driving cycle analysis,https://doi.org/10.1016/j.trip.2023.100964
+Metaverse influence on transportation: A mission impossible?,https://doi.org/10.1016/j.trip.2023.100954
+"Roadway floods and their associated weather-related conditions: New insights using CARS 511 data for state and federal highways in Nebraska, USA",https://doi.org/10.1016/j.trip.2023.100955
+A novel framework to redefine societal disability as technologically-enabled ability: A case of multi-disciplinary innovations for safe autonomous spatial navigation for persons with visual impairment,https://doi.org/10.1016/j.trip.2023.100952
+"Investigating the changes in travel behaviour during an economic crisis in a developing country: A case study of the Greater Beirut Area, Lebanon",https://doi.org/10.1016/j.trip.2023.100957
+Fostering an inclusive public transport system in the digital era: An interdisciplinary approach,https://doi.org/10.1016/j.trip.2023.100968
+Leveraging electronic device outputs for service quality assessment of public transportation systems: An initial look at the Philippines’ service contracting program through data analytic lens,https://doi.org/10.1016/j.trip.2023.100963
+Making road freight transport more Sustainable: Insights from a systematic literature review,https://doi.org/10.1016/j.trip.2023.100967
+Pedestrian path changing behaviour prediction models for urban mid blocks,https://doi.org/10.1016/j.trip.2023.100973
+A computational investigation of the dynamic factors governing severity of head injury to pedestrians involved in e-scooter collisions,https://doi.org/10.1016/j.trip.2023.100972
+Framing availability and usability of transportation for people with disabilities,https://doi.org/10.1016/j.trip.2023.100961
+Analysis of factors that influence injury severity of single and multivehicle crashes involving at-fault older drivers: A random parameters logit with heterogeneity in means and variances approach,https://doi.org/10.1016/j.trip.2023.100974
+Understanding the behaviour of motorcycle riders: An objective investigation of riding style and capability,https://doi.org/10.1016/j.trip.2023.100971
+Trading activity and market liquidity in tradable mobility credit schemes,https://doi.org/10.1016/j.trip.2023.100970
+Validation of a new method for designing air traffic control alarms,https://doi.org/10.1016/j.trip.2023.100965
+Logistics of patient evacuation in response to disease Outbreaks: Critical considerations for transportation planning,https://doi.org/10.1016/j.trip.2023.100975
+Developing a small participant framework: An investigation of mode choice influential factors,https://doi.org/10.1016/j.trip.2023.100978
+Patients with urea cycle disorder struggle when driving: A functional near-infrared spectroscopy review,https://doi.org/10.1016/j.trip.2023.100983
+The impact of rising maritime transport costs on international trade: Estimation using a multi-region general equilibrium model,https://doi.org/10.1016/j.trip.2023.100985
+Determining change factors for demand and supply in motorcycle-based ride hailing operations,https://doi.org/10.1016/j.trip.2023.100981
+Understanding the behavioral intention of the rural population to use demand-responsive transport services,https://doi.org/10.1016/j.trip.2023.100984
+City street experiments and system change: Identifying barriers and enablers to the transformative process,https://doi.org/10.1016/j.trip.2023.100982
+Exploring pedestrian and cyclist preferences for shared space design: A video-based online survey,https://doi.org/10.1016/j.trip.2023.100976
+Editorial Board,https://doi.org/10.1016/S2590-1982(24)00023-X
+Using an adapted community readiness assessment to inform Vision Zero and safe systems action,https://doi.org/10.1016/j.trip.2023.100992
+Exploring transport mobility issues and adaptive behavior of women in a developing country,https://doi.org/10.1016/j.trip.2023.100991
+"Vehicle-to-everything (V2X) in the autonomous vehicles domain – A technical review of communication, sensor, and AI technologies for road user safety",https://doi.org/10.1016/j.trip.2023.100980
+Effects of a frontal brake light on pedestrians’ willingness to cross the street,https://doi.org/10.1016/j.trip.2023.100990
+Will air taxis extend public transportation? A scenario-based approach on user acceptance in different urban settings,https://doi.org/10.1016/j.trip.2023.101001
+Did partial lockdown policy effectively reduce the first wave of COVID-19 in Indonesia? A regression discontinuity approach,https://doi.org/10.1016/j.trip.2023.100998
+Digital technologies of transportation-related communication: Review and the state-of-the-art,https://doi.org/10.1016/j.trip.2023.100987
+Availability and usability of transportation for people with disabilities depending on what the user is expected to do,https://doi.org/10.1016/j.trip.2023.100960
+Forced labor and Transportation: Multi-disciplinary perspectives,https://doi.org/10.1016/j.trip.2023.100999
+Using insights on potential users’ behavior and transport requirements to inform the development of a more sustainable vehicle concept as part of a mobility transition,https://doi.org/10.1016/j.trip.2023.100979
+Satisfaction measurement in the sustainable public transport of Budapest,https://doi.org/10.1016/j.trip.2023.100989
+How can airports prepare for future public health disruptions? Experiences and lessons learned during the COVID-19 pandemic from a systemic perspective based on expert interviews,https://doi.org/10.1016/j.trip.2023.101000
+Risky driving behavior among public transport vehicle drivers in Ethiopia using the health belief model,https://doi.org/10.1016/j.trip.2023.101011
+Simulating the performance of HOV lanes for optimal urban traffic management,https://doi.org/10.1016/j.trip.2023.101010
+Access over ownership: Barriers and psychological motives for adopting mobility as a service (MaaS) from the perspective of users and non-users,https://doi.org/10.1016/j.trip.2023.101005
+"Live carbon-tracking mechanism for ships, a methodology to mitigate uncertainties in the carbon intensity calculations",https://doi.org/10.1016/j.trip.2023.101004
+"If you build it, will they notice? public charging density, charging infrastructure awareness, and consideration to purchase an electric vehicle",https://doi.org/10.1016/j.trip.2023.101007
+Implementing decarbonisation measures in Norwegian ports,https://doi.org/10.1016/j.trip.2023.100993
+"Triangulating the future: Developing scenarios of cyclist-automated vehicle interactions from literature, expert perspectives, and survey data",https://doi.org/10.1016/j.trip.2023.100986
+Assessing the long-term impact of COVID-19 on travel behavior: The United Arab Emirates perspective,https://doi.org/10.1016/j.trip.2023.101008
+The cost of aggressive electrification targets – Who bears the burden without mitigating policies?,https://doi.org/10.1016/j.trip.2023.101006
+Hidden urban patterns: Existential discovery of urban patterns based on traffic and virtual space,https://doi.org/10.1016/j.trip.2023.100997
+The role of socioeconomic and environmental factors on pediatric vehicular heatstroke (PVH) deaths and sentiment analysis: An investigation,https://doi.org/10.1016/j.trip.2023.101012
+"A gendered perspective on ride-hail use in Los Angeles, USA",https://doi.org/10.1016/j.trip.2023.100938
+Sustainability initiatives in urban freight transportation in Europe,https://doi.org/10.1016/j.trip.2023.101013
+"Navigating the landscape of automated truck platooning: A systematic review on stakeholder perspectives, employment implications, and regulatory challenges",https://doi.org/10.1016/j.trip.2023.101009
+Using golf carts as a transportation mode: Who does it?,https://doi.org/10.1016/j.trip.2023.101003
+Model-based analysis of future global transport demand,https://doi.org/10.1016/j.trip.2024.101016
+Understanding the voice of customers and employees in ride-sharing companies using text analytics,https://doi.org/10.1016/j.trip.2023.101002
+Multi-criteria analysis for freight transport decision-making with fuzzy analytic hierarchy process: A top management’s perspective for Bahrain,https://doi.org/10.1016/j.trip.2024.101017
+The impacts of climate change on marine cargo insurance of cold chains: A systematic literature review and bibliometric analysis,https://doi.org/10.1016/j.trip.2024.101018
+Where did bike-share boom? Analyzing impact of infrastructure lockdowns on bike-sharing in Chicago,https://doi.org/10.1016/j.trip.2024.101015
+Does range or fiscal policies matter on EV adoption in Jakarta Metropolitan Area?,https://doi.org/10.1016/j.trip.2024.101027
+Mill Valley evacuation study,https://doi.org/10.1016/j.trip.2024.101021
+From local to global: Uniting neighborhood planning units for more efficient walks,https://doi.org/10.1016/j.trip.2023.101014
+Forecasting the demand for railway freight transportation in Kazakhstan: A case study,https://doi.org/10.1016/j.trip.2024.101028
+Towards a framework of ,https://doi.org/10.1016/j.trip.2024.101030
+Does access to voting locations affect the choice to vote?,https://doi.org/10.1016/j.trip.2024.101029
+Socio-environmental factors associated with active school travel in children at ages 6 and 8&nbsp;years,https://doi.org/10.1016/j.trip.2024.101026
+Project risks and regulation in transport infrastructure: A study in Brazilian agencies concessions planning process,https://doi.org/10.1016/j.trip.2024.101031
+Supply level planning for shared e-scooters considering spatiotemporal heteroscedastic demand,https://doi.org/10.1016/j.trip.2024.101019
+Human resource potential for a sovereign aviation enterprise in the South Pacific,https://doi.org/10.1016/j.trip.2024.101023
+Editorial Board,https://doi.org/10.1016/S2590-1982(24)00079-4
+Transit monitoring capacity expansion: Analytics for combating human trafficking,https://doi.org/10.1016/j.trip.2024.101032
+"Identifying the interrelations between subjective walkability factors and walking behaviour: A case study in Jeddah, Saudi Arabia",https://doi.org/10.1016/j.trip.2024.101025
+Life cycle assessment of construction and driving operation of a hydrogen-powered truck built from a used diesel truck,https://doi.org/10.1016/j.trip.2024.101020
+Privacy preferences in automotive data collection,https://doi.org/10.1016/j.trip.2024.101022
+Advanced Air Mobility: A comparative review of policies from around the world—lessons for Australia,https://doi.org/10.1016/j.trip.2023.100988
+Planning location of parcel lockers using group Analytic Hierarchy Process in Spherical Fuzzy environment,https://doi.org/10.1016/j.trip.2024.101024
+Using machine learning techniques to assess the financial impact of the COVID-19 pandemic on the global aviation industry,https://doi.org/10.1016/j.trip.2024.101043
+"Assessment of pedestrians’ red light violation behavior at signalized crosswalks in Kathmandu, Nepal",https://doi.org/10.1016/j.trip.2024.101035
+Towards truly sustainable mobility,https://doi.org/10.1016/j.trip.2024.101039
+Smart loading zones. A data analytics approach for loading zones network design,https://doi.org/10.1016/j.trip.2024.101034
+"The video-based safety methodology for pedestrian crosswalk safety measured: The case of Thammasat University, Thailand",https://doi.org/10.1016/j.trip.2024.101036
+Assessment of stress levels based on biosignal during the simulator-based maritime navigation training and its impact on sailing route reliability,https://doi.org/10.1016/j.trip.2024.101047
+Governance of automated vehicle in the urban transport system: Insight from a willingness-to-use survey and Norwegian cultural context,https://doi.org/10.1016/j.trip.2024.101040
+Predictive models of electric vehicle adoption in the United States: Charging ahead with renewable energy,https://doi.org/10.1016/j.trip.2024.101041
+Public transport in the UK: Considerations for continued rehabilitation and future planning for a sector impacted by COVID-19,https://doi.org/10.1016/j.trip.2024.101044
+Modelling public attitude towards air taxis in Germany,https://doi.org/10.1016/j.trip.2024.101045
+Predicting passengers’ feedback rate for airport service quality,https://doi.org/10.1016/j.trip.2024.101046
+Will gated community affect public transit service coverage?,https://doi.org/10.1016/j.trip.2024.101050
+Trip generation model for a developing city in an emerging country,https://doi.org/10.1016/j.trip.2024.101048
+Automated driving regulations – where are we now?,https://doi.org/10.1016/j.trip.2024.101033
+Reliability Assessment of Vehicle-to-Vehicle Communication Networks through Headway Distribution and Information Propagation Delay,https://doi.org/10.1016/j.trip.2024.101053
+Driving forward together: The common intention of Indonesians in different residential areas to use autonomous vehicles,https://doi.org/10.1016/j.trip.2024.101049
+Extracting driving volatility from connected vehicle data in exploring Space-Time relationships with crashes in the city of Saint Louis,https://doi.org/10.1016/j.trip.2024.101051
+Identifying container hotspots for table grape exports from South Africa to the UK: A case study,https://doi.org/10.1016/j.trip.2024.101054
+"Macroscopic modeling of connected, autonomous and human-driven vehicles: A pragmatic perspective",https://doi.org/10.1016/j.trip.2024.101058
+Fatigue among Indonesian Freight-Train Drivers: A study utilizing eye blink duration and changes in facial expressions,https://doi.org/10.1016/j.trip.2024.101056
+"Sensitivity evaluation of machine learning-based calibrated transportation mode choice models: A case study of Alexandria City, Egypt",https://doi.org/10.1016/j.trip.2024.101052
+BinR-LRP: A divide and conquer heuristic for large scale LRP with integrated microscopic agent-based transport simulation,https://doi.org/10.1016/j.trip.2024.101059
+A national survey on the effect of the COVID-19 pandemic on school travel in the US. – Parents perspective,https://doi.org/10.1016/j.trip.2024.101061
+"Cost-benefits analysis of noise abatement measures in the port of Halifax, Nova Scotia, Canada",https://doi.org/10.1016/j.trip.2024.101057
+Methodology for the comparative evaluation of vehicle technologies in intermediate cities considering electric vehicles,https://doi.org/10.1016/j.trip.2024.101068
+A review of global and regional frameworks for the integration of an unmanned aircraft system in air traffic management,https://doi.org/10.1016/j.trip.2024.101064
+A new highway cost allocation framework in the day of connected and autonomous vehicles,https://doi.org/10.1016/j.trip.2024.101067
+Moving beyond COVID-19: Break or continuity in the urban mobility regime?,https://doi.org/10.1016/j.trip.2024.101060
+Optimizing municipal solid waste collection vehicle routing with a priority on infectious waste in a mountainous city landscape context,https://doi.org/10.1016/j.trip.2024.101066
+Electric vehicle charging infrastructure deployment: A discussion of equity and justice theories and accessibility measurement,https://doi.org/10.1016/j.trip.2024.101072
+Ride-hailing service availability and private transportation mode usage in a motorcycle-based city: Evidence from Hanoi,https://doi.org/10.1016/j.trip.2024.101069
+Long-distance hitchhiking and minibus taxi service demands in rural South African communities: MaaS semi-assessment,https://doi.org/10.1016/j.trip.2024.101065
+Conceptualising user comfort in automated driving: Findings from an expert group workshop,https://doi.org/10.1016/j.trip.2024.101070
+Facilitators and barriers to the implementation of community-based transportation services for older adults: Evidence from six case studies,https://doi.org/10.1016/j.trip.2024.101062
+Investigation of winter weather crash injury severity using winter storm classification techniques,https://doi.org/10.1016/j.trip.2024.101073
+A case study of checking national household travel survey data with machine learning,https://doi.org/10.1016/j.trip.2024.101078
+The first mile towards access equity: Is on-demand microtransit a valuable addition to the transportation mix in suburban communities?,https://doi.org/10.1016/j.trip.2024.101071
+Beyond the hype: A critical look at the motivations driving automated driving systems research,https://doi.org/10.1016/j.trip.2024.101075
+Optimizing the location and configuration of disaster resilience hubs under transportation and electric power network failures,https://doi.org/10.1016/j.trip.2024.101079
+"What affects commute cycling in Sydney: Access, infrastructure and demographics",https://doi.org/10.1016/j.trip.2024.101076
+Value of travel time savings for leisure trip in autonomous vehicles: Case study from the Tokyo Metropolitan Area,https://doi.org/10.1016/j.trip.2024.101080
+Do men and women differ in time-use? Analysing the complexity of activity patterns in Germany,https://doi.org/10.1016/j.trip.2024.101077
+Impact of earthquakes on California’s Railways: A comprehensive correlation analysis of magnitude and hypocenter depths with infrastructure accident,https://doi.org/10.1016/j.trip.2024.101082
+A system dynamic road transport modal mix emission analysis and prediction,https://doi.org/10.1016/j.trip.2024.101083
+"Planning for uncertain transportation futures: Metropolitan planning organizations, emerging technologies, and adaptive transport planning",https://doi.org/10.1016/j.trip.2024.101055
+Combining road safety and traffic operations: An integrated approach to implement system-wide transportation improvements,https://doi.org/10.1016/j.trip.2024.101091
+Effects of daylight and darkness at daytime versus nighttime on driver sleepiness: A driving simulator study,https://doi.org/10.1016/j.trip.2024.101087
+Editorial Board,https://doi.org/10.1016/S2590-1982(24)00125-8
+Bus drivers and their interactions with cyclists: An analysis of minor conflicts,https://doi.org/10.1016/j.trip.2024.101074
+We steer where we stare,https://doi.org/10.1016/j.trip.2024.101092
+Investigation of discrepancies in South Carolina traffic collision forms,https://doi.org/10.1016/j.trip.2024.101088
+School transportation data safety trends,https://doi.org/10.1016/j.trip.2024.101089
+Network traffic management via exclusive roads for altruistic vehicles under mixed traffic equilibrium,https://doi.org/10.1016/j.trip.2024.101042
+Exploratory factor analysis for cybersecurity regulation and consumer data in autonomous vehicle acceptance: Insights from four OECD countries,https://doi.org/10.1016/j.trip.2024.101084
+Transit made Easy: Examining the adoption and impact of mobile fare payment technology among bus riders,https://doi.org/10.1016/j.trip.2024.101086
+Presentation of artificial neural network models based on optimum theories for predicting accident severity on rural roads in Iran,https://doi.org/10.1016/j.trip.2024.101090
+Exploring travel behavior among women with disabilities in Jakarta,https://doi.org/10.1016/j.trip.2024.101097
+Road infrastructure maintenance: Operative method for interventions’ ranking,https://doi.org/10.1016/j.trip.2024.101100
+Driving into the future: A scoping review of smartwatch use for real-time driver monitoring,https://doi.org/10.1016/j.trip.2024.101098
+Design of flexible partitions for physical distancing in buses in Colombia during COVID-19,https://doi.org/10.1016/j.trip.2024.101101
+Change in work arrangement during the COVID-19 pandemic: A large shift to remote and hybrid work,https://doi.org/10.1016/j.trip.2023.100969
+Exploring equity perception of electric vehicles from a social media perspective,https://doi.org/10.1016/j.trip.2024.101103
+The rationality behind irrationality: A game theoretical challenge to traditional navigation,https://doi.org/10.1016/j.trip.2024.101099
+Bearing the weight: A qualitative study on expert views on integrating ethics in autonomous vehicles,https://doi.org/10.1016/j.trip.2024.101096
+Sport driving skills: A preliminary comparative study from outdoor testing sessions,https://doi.org/10.1016/j.trip.2024.101105
+Climate mitigation and adaptation strategies in the transport sector: An empirical investigation in Germany,https://doi.org/10.1016/j.trip.2024.101102
+How do seaports use foresight to face environmental sustainability disruptions?,https://doi.org/10.1016/j.trip.2024.101095
+Impact of internal accessibility on value creation in transit oriented development (TOD) area,https://doi.org/10.1016/j.trip.2024.101106
+Exploring the components of “Kando” and the factors evoking it during motorcycle riding,https://doi.org/10.1016/j.trip.2024.101104
+Investigating the association between perceived risk levels and commuting mode shifts after the lifting of the COVID-19 pandemic prevention and control policies,https://doi.org/10.1016/j.trip.2024.101085
+"Exploring online shopping behavior in Dhaka, Bangladesh",https://doi.org/10.1016/j.trip.2024.101081
+Attentiveness in urban spaces: The rhythm of the street,https://doi.org/10.1016/j.trip.2024.101063
+On the practical utility of a continuum traffic flow model on curvy highways in adverse weather conditions,https://doi.org/10.1016/j.trip.2024.101108
+Validation of a smartphone telematics algorithm for classifying driver trips,https://doi.org/10.1016/j.trip.2024.101109
+"Comparative analysis of the performance, environmental impact, and costs of electric, combustion, and gas buses in an operating context of a mid-sized city of an emerging country",https://doi.org/10.1016/j.trip.2024.101113
+Dwell-time station-service analysis using a Rasch analysis technique,https://doi.org/10.1016/j.trip.2024.101119
+Who shouts the loudest? A qualitative study exploring barriers and enablers to implementing a low emission zone in a Northern UK city,https://doi.org/10.1016/j.trip.2024.101112
+Exploring the fuel-cell technological innovation system: Technology interactions in the mobility sector,https://doi.org/10.1016/j.trip.2024.101107
+Cycling in the aftermath of COVID-19: An empirical estimation of the social dynamics of bicycle adoption in Paris,https://doi.org/10.1016/j.trip.2024.101115
+Factors influencing wrong way driving behavior of motorcycle riders in Thailand,https://doi.org/10.1016/j.trip.2024.101122
+Study of new forms of urban displacements during COVID-19 by means of the mobile sig application in the city of Arequipa,https://doi.org/10.1016/j.trip.2024.101127
+Assessing grocery shopping behaviors during a health crisis,https://doi.org/10.1016/j.trip.2024.101124
+Build it and they will come? The effects of a new infrastructure on cycling practices and experiences,https://doi.org/10.1016/j.trip.2024.101121
+Conceptual fault-handling system design for driverless trucks – A case study based on industry practices in Sweden,https://doi.org/10.1016/j.trip.2024.101123
+Assessing spatial disparities and urban facility accessibility in promoting health and well-being,https://doi.org/10.1016/j.trip.2024.101126
+Investigating the cost of mechanized unpaved road maintenance operations in Uganda,https://doi.org/10.1016/j.trip.2024.101135
+A latent class analysis of public perceptions about shared mobility barriers and benefits,https://doi.org/10.1016/j.trip.2024.101132
+Media reporting on cannabis-impaired driving and related traffic policy in Canada,https://doi.org/10.1016/j.trip.2024.101120
+Bridging the gap: Do community needs assessments enhance public participation in transportation planning?,https://doi.org/10.1016/j.trip.2024.101114
+Using Facebook to Recruit Urban Participants for Smartphone-Based Travel Surveys,https://doi.org/10.1016/j.trip.2024.101116
+Artificial Neural Network-based model to predict the International Roughness Index of national highways in Nepal,https://doi.org/10.1016/j.trip.2024.101128
+Access to Emergency Services: A New York City Case Study,https://doi.org/10.1016/j.trip.2024.101111
+The impact of road accidents on hospital admissions and the potential of ADAS in containing health expenditure: Evidence from Piedmont data,https://doi.org/10.1016/j.trip.2024.101125
+Design and implementation of driver coach application for pilot assist: A first validation study,https://doi.org/10.1016/j.trip.2024.101130
+"Disability, victimisation, and safety in train travel",https://doi.org/10.1016/j.trip.2024.101131
+"Effects of climate change awareness on green purchase behaviour, biking, and walking time: moderated mediation by sustainability knowingness",https://doi.org/10.1016/j.trip.2024.101134
+Editorial Board,https://doi.org/10.1016/S2590-1982(24)00188-X
+Resistance towards autonomous vehicles (AVs),https://doi.org/10.1016/j.trip.2024.101117
+"The impact of non-pharmaceutical COVID-19 interventions on collisions, traffic injuries and fatalities across Québec",https://doi.org/10.1016/j.trip.2024.101136
+Lessons learned from the trial operation of an autonomous urban passenger ferry,https://doi.org/10.1016/j.trip.2024.101142
+Developing a digital transformation maturity model for port assessment in archipelago countries: The Indonesian case,https://doi.org/10.1016/j.trip.2024.101146
+Advancing safety in short-term utility work zones: Assessing the role of work zone intrusion alert technologies (WZIATs),https://doi.org/10.1016/j.trip.2024.101133
+Bringing home the bacon: Estimating willingness to pay for autonomous grocery delivery across U.S. households,https://doi.org/10.1016/j.trip.2024.101118
+Exploring the future: A meta-analysis of autonomous vehicle adoption and its impact on urban life and the healthcare sector,https://doi.org/10.1016/j.trip.2024.101110
+Latent class models for capturing unobserved heterogeneity in major global causes of mortality: The cases of traffic crashes and COVID-19,https://doi.org/10.1016/j.trip.2024.101147
+Classification of driver fatigue in conditionally automated driving using physiological signals and machine learning,https://doi.org/10.1016/j.trip.2024.101148
+A topological analysis of Milan historical surface transport networks from 1856 to the present,https://doi.org/10.1016/j.trip.2024.101145
+Influence of public transport training for people with disabilities: Protocol for a systematic review,https://doi.org/10.1016/j.trip.2024.101143
+"The effect of latency, speed and task on remote operation of vehicles",https://doi.org/10.1016/j.trip.2024.101152
+Inequalities in accessing public transportation and social exclusion among older adults and people with disabilities in Bangladesh: A scoping review,https://doi.org/10.1016/j.trip.2024.101138
+The influence of the ride hailing apps loyalty program on customer loyalty: A case study in Indonesia,https://doi.org/10.1016/j.trip.2024.101141
+The value of waiting spaces: Tourists’ willingness to pay for high-quality bus terminals,https://doi.org/10.1016/j.trip.2024.101129
+Evaluating the effectiveness of brief anti-speeding messages disseminated within warning notices to driving offenders,https://doi.org/10.1016/j.trip.2024.101153
+Liquid lives – Blurred boundaries: Working from home and the transport practices of parents,https://doi.org/10.1016/j.trip.2024.101151
+Two minus one road equals improved quality of life,https://doi.org/10.1016/j.trip.2024.101144
+Driver behaviour assessment due to changes in the geometric layout to integrate lateral jet fans in long road tunnels,https://doi.org/10.1016/j.trip.2024.101137
+Factors affecting the future utilisation of high-speed train services in Eastern Economic Corridor (EEC),https://doi.org/10.1016/j.trip.2024.101162
+Heterogeneity in activity and travel mode patterns of older Indonesians,https://doi.org/10.1016/j.trip.2024.101159
+A systemic archetype for enhancing occupational safety in road construction projects through worker behavior,https://doi.org/10.1016/j.trip.2024.101154
+Impact of 4-to-3 lane conversions on emergency response,https://doi.org/10.1016/j.trip.2024.101158
+Two qualitative case studies on network governance in Swiss transit station district development,https://doi.org/10.1016/j.trip.2024.101155
+Disadvantaged workers are not all alike in attitudes towards automation,https://doi.org/10.1016/j.trip.2024.101164
+Going to the Zoo: A comparison of travel time ratios in 21 European cities,https://doi.org/10.1016/j.trip.2024.101161
+The dilemmas of transport equity research in non-Western contexts,https://doi.org/10.1016/j.trip.2024.101157
+Collective or Individual? Tourists’ travel mode choice during a pandemic,https://doi.org/10.1016/j.trip.2024.101150
+Investigating the influence of spatial characteristics on cycling volume: A multi-scale geographic weighted regression approach,https://doi.org/10.1016/j.trip.2024.101160
+Motor vehicle traffic fatalities by race and ethnicity (2010 – 2021),https://doi.org/10.1016/j.trip.2024.101163
+Vehicle safety standards as mechanisms for preventing deaths and injuries caused by traffic in Colombia,https://doi.org/10.1016/j.trip.2024.101156
+Data fusion-based workforce prediction for capital projects: A framework with empirical case study,https://doi.org/10.1016/j.trip.2024.101165
+Energy efficiency trends in Saudi Arabian commercial aviation before and after COVID-19,https://doi.org/10.1016/j.trip.2024.101170
+Vehicle choice modeling for emerging zero-emission medium- and heavy-duty vehicle markets in California,https://doi.org/10.1016/j.trip.2024.101169
+The illusion of the shared electric automated mobility transition,https://doi.org/10.1016/j.trip.2024.101171
+New freight transport incentive to achieve modal shift targets: Methodology and application to Italy,https://doi.org/10.1016/j.trip.2024.101166
+Exploring sustainable urban mobility in Africa-and-MENA universities towards intersectional future research,https://doi.org/10.1016/j.trip.2024.101167
+Addressing transport related social exclusion through transportation policy: A novel evaluation method applied to the Amsterdam Transport Region,https://doi.org/10.1016/j.trip.2024.101177
+The potential in moving mobility planning towards a feminine mobility concept,https://doi.org/10.1016/j.trip.2024.101168
+Bridging allocative and productive efficiency in US transit policy research: A review,https://doi.org/10.1016/j.trip.2024.101149
+Enhancing transportation accessibility: evaluating the impact of route guidance systems and connected autonomous vehicles,https://doi.org/10.1016/j.trip.2024.101172
+The impact of workplace ostracism on employee well-being during the COVID-19 pandemic: A study of mediation effects of remote work challenges,https://doi.org/10.1016/j.trip.2024.101174
+Towards successful economic infrastructure partnership project delivery through effective stakeholder management,https://doi.org/10.1016/j.trip.2024.101173
+"Exploring the interplay of transportation, time poverty, and activity participation",https://doi.org/10.1016/j.trip.2024.101175
+"Modelling road fatalities from tricycle crashes in Ashanti Region, Ghana: An application of regression with ARIMA errors",https://doi.org/10.1016/j.trip.2024.101180
+Pre-disaster evacuation network design with uncertain demand and behavioural choices: A bi-criteria generalized cost perspective,https://doi.org/10.1016/j.trip.2024.101186
+Cycling towards complete communities: Estimating access to destinations via low traffic stress cycling,https://doi.org/10.1016/j.trip.2024.101179
+Road traffic regulation and enforcement status: A Nepalese traffic police perspective,https://doi.org/10.1016/j.trip.2024.101188
+Feature pyramid biLSTM: Using smartphone sensors for transportation mode detection,https://doi.org/10.1016/j.trip.2024.101181
+"Surveying aircraft operators about aviation safety in Alaska: Survey Development, Design, Methodology, and Administration",https://doi.org/10.1016/j.trip.2024.101191
+Comparison of common methods for determining hazardous locations for improving road safety,https://doi.org/10.1016/j.trip.2024.101196
+"Shuttle tanker operational reliability study by Gaidai multivariate risk assessment method, utilizing deconvolution scheme",https://doi.org/10.1016/j.trip.2024.101194
+Optimisation of mobility hub locations for a sustainable mobility system,https://doi.org/10.1016/j.trip.2024.101193

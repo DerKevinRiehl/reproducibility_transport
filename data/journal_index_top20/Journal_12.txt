@@ -1,0 +1,1001 @@
+title,url
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Editorial Launching the New IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/document/7517425/
+IEEE Transactions on Intelligent Vehicles Senior Associate Editors,https://ieeexplore.ieee.org/document/7517453/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+The Role of Machine Vision for Intelligent Vehicles,https://ieeexplore.ieee.org/document/7453174/
+Challenges in Perception and Decision Making for Intelligent Automotive Vehicles: A Case Study,https://ieeexplore.ieee.org/document/7448943/
+A Survey of Motion Planning and Control Techniques for Self-Driving Urban Vehicles,https://ieeexplore.ieee.org/document/7490340/
+"Humans and Intelligent Vehicles: The Hope, the Help, and the Harm",https://ieeexplore.ieee.org/document/7467508/
+A Review of Truck Platooning Projects for Energy Savings,https://ieeexplore.ieee.org/document/7497531/
+Freeway Speed Harmonization,https://ieeexplore.ieee.org/document/7448922/
+Looking at Humans in the Age of Self-Driving and Highly Automated Vehicles,https://ieeexplore.ieee.org/document/7501845/
+Lane Change and Merge Maneuvers for Connected and Automated Vehicles: A Survey,https://ieeexplore.ieee.org/document/7515222/
+IEEE Intelligent Transportation Systems Society Information,https://ieeexplore.ieee.org/document/7517426/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Editorial,https://ieeexplore.ieee.org/document/7769321/
+IEEE Transactions on Intelligent Vehicles Associate Editors,https://ieeexplore.ieee.org/document/7769309/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Modeling and Prediction of Driving Behaviors Using a Nonparametric Bayesian Method With AR Models,https://ieeexplore.ieee.org/document/7502089/
+IMU-Based Smartphone-to-Vehicle Positioning,https://ieeexplore.ieee.org/document/7506285/
+Classification of Driver's Neutral and Cognitive Distraction States Based on Peripheral Vehicle Behavior in Driver's Gaze Transition,https://ieeexplore.ieee.org/document/7542199/
+Intelligence Testing for Autonomous Vehicles: A New Approach,https://ieeexplore.ieee.org/document/7571159/
+Pushing the “Speed Limit”: High-Accuracy US Traffic Sign Recognition With Convolutional Neural Networks,https://ieeexplore.ieee.org/document/7585032/
+Route and Stopping Intent Prediction at Intersections From Car Fleet Data,https://ieeexplore.ieee.org/document/7590077/
+Set-Based Prediction of Traffic Participants on Arbitrary Road Networks,https://ieeexplore.ieee.org/document/7725548/
+Trajectories and Maneuvers of Surrounding Vehicles With Panoramic Camera Arrays,https://ieeexplore.ieee.org/document/7725511/
+Introducing IEEE Collabratec,https://ieeexplore.ieee.org/document/7769299/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Editorial,https://ieeexplore.ieee.org/document/7879394/
+IEEE Transactions on Intelligent Vehicles New Associate Editors,https://ieeexplore.ieee.org/document/7879391/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Hierarchical Neighborhood Based Precise Localization for Intelligent Vehicles in Urban Environments,https://ieeexplore.ieee.org/document/7819508/
+Fast and Accurate Trajectory Tracking Control of an Autonomous Surface Vehicle With Unmodeled Dynamics and Disturbances,https://ieeexplore.ieee.org/document/7829290/
+Map-Aided Dead-Reckoning Using Only Measurements of Speed,https://ieeexplore.ieee.org/document/7829263/
+Sequential Data Fusion of GNSS Pseudoranges and Dopplers With Map-Based Vision Systems,https://ieeexplore.ieee.org/document/7839222/
+Design of a Preview Driver Model Based on Optical Flow,https://ieeexplore.ieee.org/document/7833141/
+Padé Approximation of Delays in Cooperative ACC Based on String Stability Requirements,https://ieeexplore.ieee.org/document/7839205/
+Introducing IEEE Collabratec,https://ieeexplore.ieee.org/document/7879467/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Editorial,https://ieeexplore.ieee.org/document/7947988/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Simultaneous Achievement of Workload Reduction and Skill Enhancement in Backward Parking by Haptic Guidance,https://ieeexplore.ieee.org/document/7885607/
+Human Factors in the Design of Human–Machine Interaction: An Overview Emphasizing V2X Communication,https://ieeexplore.ieee.org/document/7904661/
+Shared Control in Risk Predictive Braking Maneuver for Preventing Collisions With Pedestrians,https://ieeexplore.ieee.org/document/7917334/
+An Exploratory Study of Driver Response to Reduced System Confidence Notifications in Automated Driving,https://ieeexplore.ieee.org/document/7892891/
+Vision-Based Front and Rear Surround Understanding Using Embedded Processors,https://ieeexplore.ieee.org/document/7908968/
+Motion Estimation via Robust Decomposition With Constrained Rank,https://ieeexplore.ieee.org/document/7867750/
+RefineNet: Refining Object Detectors for Autonomous Driving,https://ieeexplore.ieee.org/document/7944662/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Introducing IEEE Collabratec,https://ieeexplore.ieee.org/document/7953712/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Integrated-Connected Eco-Driving System for PHEVs With Co-Optimization of Vehicle Dynamics and Powertrain Operations,https://ieeexplore.ieee.org/document/7934330/
+Lane-Change Detection From Steering Signal Using Spectral Segmentation and Learning-Based Classification,https://ieeexplore.ieee.org/document/7934061/
+Novel Communication Protocol for the EV Charging/Discharging Service Based on VANETs,https://ieeexplore.ieee.org/document/7934384/
+Utilizing Model-Based Communication and Control for Cooperative Automated Vehicle Applications,https://ieeexplore.ieee.org/document/7934129/
+Multiobjective $H_{\infty }$ Control for String Stability of Cooperative Adaptive Cruise Control Systems,https://ieeexplore.ieee.org/document/7934317/
+Earliest Sensor Detection Opportunity for Left Turn Across Path Opposite Direction Crashes,https://ieeexplore.ieee.org/document/7944693/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Introducing IEEE Collabratec,https://ieeexplore.ieee.org/document/7961167/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Predictive AECMS by Utilization of Intelligent Transportation Systems for Hybrid Electric Vehicle Powertrain Control,https://ieeexplore.ieee.org/document/7953687/
+How Much Data Are Enough? A Statistical Approach With Case Study on Longitudinal Driving Behavior,https://ieeexplore.ieee.org/document/7959200/
+Optimal Energy Management for a Li-Ion Battery/Supercapacitor Hybrid Energy Storage System Based on a Particle Swarm Optimization Incorporating Nelder–Mead Simplex Approach,https://ieeexplore.ieee.org/document/7959199/
+Stochastic Forecasting of Vehicle Dynamics Using Sequential Monte Carlo Simulation,https://ieeexplore.ieee.org/document/7968503/
+SpaFIND: An Effective and Low-Cost Feature Descriptor for Pedestrian Protection Systems in Economy Cars,https://ieeexplore.ieee.org/document/7979601/
+Probabilistic Model for Interaction Aware Planning in Merge Scenarios,https://ieeexplore.ieee.org/document/7987753/
+Introducing IEEE Collabratec,https://ieeexplore.ieee.org/document/8011584/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Performance Enhanced Predictive Control for Adaptive Cruise Control System Considering Road Elevation Information,https://ieeexplore.ieee.org/document/8002647/
+Fuel Minimization for a Vehicle Equipped With a Flywheel and Battery on a Three-Dimensional Track,https://ieeexplore.ieee.org/document/8003493/
+Intelligent Viaduct Recognition and Driving Altitude Determination Using GPS Data,https://ieeexplore.ieee.org/document/8003480/
+Displaying System Situation Awareness Increases Driver Trust in Automated Driving,https://ieeexplore.ieee.org/document/8025606/
+Simultaneous Localization and Mapping: A Survey of Current Trends in Autonomous Driving,https://ieeexplore.ieee.org/document/8025618/
+Evaluation of Lane Departure Correction Systems Using a Regenerative Stochastic Driver Model,https://ieeexplore.ieee.org/document/8049298/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Introduction,https://ieeexplore.ieee.org/document/8189024/
+IEEE Transactions on Intelligent Vehicles New Senior Editors and Associate Editors,https://ieeexplore.ieee.org/document/8189026/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Spatial Model Predictive Control for Smooth and Accurate Steering of an Autonomous Truck,https://ieeexplore.ieee.org/document/8086190/
+Active Trailer Steering Control for High-Capacity Vehicle Combinations,https://ieeexplore.ieee.org/document/8086183/
+GlidePath: Eco-Friendly Automated Approach and Departure at Signalized Intersections,https://ieeexplore.ieee.org/document/8095005/
+Improvement of Dead Reckoning in Urban Areas Through Integration of Low-Cost Multisensors,https://ieeexplore.ieee.org/document/8089442/
+Using Extreme Value Theory for Vehicle Level Safety Validation and Implications for Autonomous Vehicles,https://ieeexplore.ieee.org/document/8094027/
+Parking Trajectory Planning Using Multiresolution State Roadmaps,https://ieeexplore.ieee.org/document/8094892/
+A Time and Energy Efficient Routing Algorithm for Electric Vehicles Based on Historical Driving Data,https://ieeexplore.ieee.org/document/8100975/
+An Occluded Stacked Hourglass Approach to Facial Landmark Localization and Occlusion Estimation,https://ieeexplore.ieee.org/document/8105884/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+The Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/document/8225769/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Introduction,https://ieeexplore.ieee.org/document/8320064/
+Special Issue Editors,https://ieeexplore.ieee.org/document/8320063/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Automated Driving in Uncertain Environments: Planning With Interaction and Uncertain Maneuver Prediction,https://ieeexplore.ieee.org/document/8248668/
+Distributed Conflict Resolution for Connected Autonomous Vehicles,https://ieeexplore.ieee.org/document/8241865/
+Likelihood-Based Data Association for Extended Object Tracking Using Sampling Methods,https://ieeexplore.ieee.org/document/8241809/
+Humanlike Behavior Generation in Urban Environment Based on Learning-Based Potentials With a Low-Cost Lane Graph,https://ieeexplore.ieee.org/document/8241707/
+Understanding Pedestrian Behavior in Complex Traffic Scenes,https://ieeexplore.ieee.org/document/8241847/
+Prediction of Risk Generated by Different Driving Patterns and Their Conflict Redistribution,https://ieeexplore.ieee.org/document/8241832/
+Map-Aided Dead-Reckoning With Lane-Level Maps and Integrity Monitoring,https://ieeexplore.ieee.org/document/8259506/
+${{\mathcal L}_1}$ Adaptive Control of Vehicle Lateral Dynamics,https://ieeexplore.ieee.org/document/8241804/
+Identifying Predictable Patterns in the Unconventional Overtaking Decisions of PTW for Cooperative ITS,https://ieeexplore.ieee.org/document/8241853/
+Intelligent Energy Management Strategy Based on Artificial Neural Fuzzy for Hybrid Vehicle,https://ieeexplore.ieee.org/document/8241714/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+How Would Surround Vehicles Move? A Unified Framework for Maneuver Classification and Motion Prediction,https://ieeexplore.ieee.org/document/8286935/
+Dynamics of Driver's Gaze: Explorations in Behavior Modeling and Maneuver Prediction,https://ieeexplore.ieee.org/document/8287022/
+Double Auction-Based Pricing Mechanism for Autonomous Vehicle Public Transportation System,https://ieeexplore.ieee.org/document/8286928/
+Safe- and Eco-Driving Control for Connected and Automated Electric Vehicles Using Analytical State-Constrained Optimal Solution,https://ieeexplore.ieee.org/document/8286942/
+Erasing Lane Changes From Roads: A Design of Future Road Intersections,https://ieeexplore.ieee.org/document/8286963/
+Real-Time Obstacle Detection and Tracking for Sense-and-Avoid Mechanism in UAVs,https://ieeexplore.ieee.org/document/8286944/
+Control Authority Transfer Method for Automated-to-Manual Driving Via a Shared Authority Mode,https://ieeexplore.ieee.org/document/8287012/
+Vehicle Positioning in GNSS-Deprived Urban Areas by Stereo Visual-Inertial Odometry,https://ieeexplore.ieee.org/document/8286957/
+When Vehicles See Pedestrians With Phones: A Multicue Framework for Recognizing Phone-Based Activities of Pedestrians,https://ieeexplore.ieee.org/document/8286931/
+Lateral Control of an Autonomous Vehicle,https://ieeexplore.ieee.org/document/8286943/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Integrating Driving Behavior and Traffic Context Through Signal Symbolization for Data Reduction and Risky Lane Change Detection,https://ieeexplore.ieee.org/document/8370754/
+Driver Gaze Zone Estimation Using Convolutional Neural Networks: A General Framework and Ablative Analysis,https://ieeexplore.ieee.org/document/8370646/
+A Learning-Based Stochastic MPC Design for Cooperative Adaptive Cruise Control to Handle Interfering Vehicles,https://ieeexplore.ieee.org/document/8370701/
+Lane-Change Intention Estimation for Car-Following Control in Autonomous Driving,https://ieeexplore.ieee.org/document/8370696/
+Mixed-Integer Linear Programming for Optimal Scheduling of Autonomous Vehicle Intersection Crossing,https://ieeexplore.ieee.org/document/8370718/
+"Robust, Informative Human-in-the-Loop Predictions via Empirical Reachable Sets",https://ieeexplore.ieee.org/document/8370801/
+Cooperative Autonomous Vehicles: An Investigation of the Drop-Off Problem,https://ieeexplore.ieee.org/document/8370676/
+Closed-Loop Policies for Operational Tests of Safety-Critical Systems,https://ieeexplore.ieee.org/document/8370728/
+Dynamic Modeling and Control of High-Speed Automated Vehicles for Lane Change Maneuver,https://ieeexplore.ieee.org/document/8370710/
+Balancing Computation Speed and Quality: A Decentralized Motion Planning Method for Cooperative Lane Changes of Connected and Automated Vehicles,https://ieeexplore.ieee.org/document/8370703/
+3-D LiDAR + Monocular Camera: An Inverse-Depth-Induced Fusion Framework for Urban Road Detection,https://ieeexplore.ieee.org/document/8370690/
+Electric Vehicle Charging Scheme for a Park-and-Charge System Considering Battery Degradation Costs,https://ieeexplore.ieee.org/document/8370675/
+A New Efficient Fuel Optimization in Blended Charge Depletion/Charge Sustenance Control Strategy for Plug-In Hybrid Electric Vehicles,https://ieeexplore.ieee.org/document/8370708/
+Grid-Based Environment Estimation Using Evidential Mapping and Particle Tracking,https://ieeexplore.ieee.org/document/8370711/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Introducing IEEE Collabratec,https://ieeexplore.ieee.org/document/8445679/
+The Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/document/8445727/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Editorial,https://ieeexplore.ieee.org/document/8536328/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Cluster-Wise Cooperative Eco-Approach and Departure Application for Connected and Automated Vehicles Along Signalized Arterials,https://ieeexplore.ieee.org/document/8481424/
+Intent Prediction of Pedestrians via Motion Trajectories Using Stacked Recurrent Neural Networks,https://ieeexplore.ieee.org/document/8481390/
+Autonomous Navigation in Interaction-Based Environments—A Case of Non-Signalized Roundabouts,https://ieeexplore.ieee.org/document/8481443/
+Efficient and Collision-Free Anticipative Cruise Control in Randomly Mixed Strings,https://ieeexplore.ieee.org/document/8481378/
+Impact of Partial Penetrations of Connected and Automated Vehicles on Fuel Consumption and Traffic Flow,https://ieeexplore.ieee.org/document/8490221/
+"A Unified Approach for Electric Vehicles Range Maximization via Eco-Routing, Eco-Driving, and Energy Consumption Prediction",https://ieeexplore.ieee.org/document/8481449/
+A Framework for Camera-Based Real-Time Lane and Road Surface Marking Detection and Recognition,https://ieeexplore.ieee.org/document/8481512/
+Robust Multi-Model Tire-Ground Force Estimation Scheme,https://ieeexplore.ieee.org/document/8493308/
+Buffer-Aided Model Predictive Controller to Mitigate Model Mismatches and Localization Errors,https://ieeexplore.ieee.org/document/8481438/
+ADS-Bsec: A Holistic Framework to Secure ADS-B,https://ieeexplore.ieee.org/document/8481505/
+Modeling Weather and Illuminations in Driving Views Based on Big-Video Mining,https://ieeexplore.ieee.org/document/8486694/
+Cooperative Starting Movement Detection of Cyclists Using Convolutional Neural Networks and a Boosted Stacking Ensemble,https://ieeexplore.ieee.org/document/8481511/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Automatic Two-Lane Path Generation for Autonomous Vehicles Using Quartic B-Spline Curves,https://ieeexplore.ieee.org/document/8485301/
+Comparison of Path Tracking and Torque-Vectoring Controllers for Autonomous Electric Vehicles,https://ieeexplore.ieee.org/document/8485375/
+Estimation of Steering Angle and Collision Avoidance for Automated Driving Using Deep Mixture of Experts,https://ieeexplore.ieee.org/document/8485411/
+An Advanced Driver Risk Measurement System for Usage-Based Insurance on Big Driving Data,https://ieeexplore.ieee.org/document/8485335/
+Energy Saving Control Strategy for the High-Frequency Start-up Process for Electric Mining Haul Trucks,https://ieeexplore.ieee.org/document/8506437/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Comprehensibility and Perceptibility of Vehicle Pitch Motions as Feedback for the Driver During Partially Automated Driving,https://ieeexplore.ieee.org/document/8574969/
+An Illumination-Invariant Nonparametric Model for Urban Road Detection,https://ieeexplore.ieee.org/document/8574915/
+Model Predictive Trajectory Planning for Automated Driving,https://ieeexplore.ieee.org/document/8574950/
+A Hybrid Approach to Side-Slip Angle Estimation With Recurrent Neural Networks and Kinematic Vehicle Models,https://ieeexplore.ieee.org/document/8574962/
+Assistance Method for Merging by Increasing Clarity of Decision Making,https://ieeexplore.ieee.org/document/8574992/
+Platooning Maneuvers in Vehicular Networks: A Distributed and Consensus-Based Approach,https://ieeexplore.ieee.org/document/8574948/
+Lane-Level Localization and Mapping in GNSS-Challenged Environments by Fusing Lidar Data and Cellular Pseudoranges,https://ieeexplore.ieee.org/document/8574904/
+Cooperative Estimation of Road Condition Based on Dynamic Consensus and Vehicular Communication,https://ieeexplore.ieee.org/document/8574945/
+Collision Avoidance: A Literature Review on Threat-Assessment Techniques,https://ieeexplore.ieee.org/document/8574961/
+Odometry 2.0: A Slip-Adaptive EIF-Based Four-Wheel-Odometry Model for Parking,https://ieeexplore.ieee.org/document/8574906/
+Cooperative Adaptive Cruise Control of Vehicles Using a Resource-Efficient Communication Mechanism,https://ieeexplore.ieee.org/document/8574938/
+Minimizing Traffic Congestion Through Continuous-Time Route Reservations With Travel Time Predictions,https://ieeexplore.ieee.org/document/8575000/
+Relationship Between Gaze Behavior and Steering Performance for Driver–Automation Shared Control: A Driving Simulator Study,https://ieeexplore.ieee.org/document/8574934/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Introducing IEEE Collabratec,https://ieeexplore.ieee.org/document/8649846/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Test Your Self-Driving Algorithm: An Overview of Publicly Available Driving Datasets and Virtual Testing Environments,https://ieeexplore.ieee.org/document/8667012/
+String Stable Model Predictive Cooperative Adaptive Cruise Control for Heterogeneous Platoons,https://ieeexplore.ieee.org/document/8671766/
+Motion Planning of Autonomous Road Vehicles by Particle Filtering,https://ieeexplore.ieee.org/document/8671765/
+Pedestrian Detection for Autonomous Vehicle Using Multi-Spectral Cameras,https://ieeexplore.ieee.org/document/8671738/
+Predictive Control Framework for HEV: Energy Management and Free-Wheeling Analysis,https://ieeexplore.ieee.org/document/8671717/
+Road Edge Detection in All Weather and Illumination via Driving Video Mining,https://ieeexplore.ieee.org/document/8671736/
+Autonomous Driving Motion Planning With Constrained Iterative LQR,https://ieeexplore.ieee.org/document/8671755/
+Electric Vehicle Power Propulsion System Control Based on Time-Varying Fractional Calculus: Implementation and Experimental Results,https://ieeexplore.ieee.org/document/8671754/
+Lane Change Intention Awareness for Assisted and Automated Driving on Highways,https://ieeexplore.ieee.org/document/8671760/
+Steering and Lateral Motorcycle Dynamics Estimation: Validation of Luenberger LPV Observer Approach,https://ieeexplore.ieee.org/document/8671731/
+Merging in Congested Freeway Traffic Using Multipolicy Decision Making and Passive Actor-Critic Learning,https://ieeexplore.ieee.org/document/8671752/
+Increasing Motion Fidelity in Driving Simulators Using a Fuzzy-Based Washout Filter,https://ieeexplore.ieee.org/document/8671729/
+From the Racetrack to the Road: Real-Time Trajectory Replanning for Autonomous Driving,https://ieeexplore.ieee.org/document/8671749/
+Multimodel Approach to Personalized Autonomous Adaptive Cruise Control,https://ieeexplore.ieee.org/document/8700619/
+"Expand Your Network, Get Rewarded",https://ieeexplore.ieee.org/document/8721282/
+Become a published author in 4 to 6 weeks,https://ieeexplore.ieee.org/document/8721252/
+The Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/document/8721286/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Guest Editorial Introduction to the Special Issue on the 2018 IEEE Intelligent Vehicles Symposium (IV’18),https://ieeexplore.ieee.org/document/8813111/
+Test Scenarios Development and Data Collection Methods for the Evaluation of Vehicle Road Departure Prevention Systems,https://ieeexplore.ieee.org/document/8725531/
+Lidar Mapping Optimization Based on Lightweight Semantic Segmentation,https://ieeexplore.ieee.org/document/8723606/
+Continuous Point Cloud Stitch Based on Image Feature Matching Constraint and Score,https://ieeexplore.ieee.org/document/8723434/
+Hardware-in-the-Loop Autonomous Driving Simulation Without Real-Time Constraints,https://ieeexplore.ieee.org/document/8723564/
+Benchmarking Deep Learning Frameworks and Investigating FPGA Deployment for Traffic Sign Classification and Detection,https://ieeexplore.ieee.org/document/8723505/
+Evolution of a Reliable and Extensible High-Level Control System for an Autonomous Car,https://ieeexplore.ieee.org/document/8728265/
+Probabilistic Uncertainty-Aware Risk Spot Detector for Naturalistic Driving,https://ieeexplore.ieee.org/document/8723522/
+Deep Distributional Reinforcement Learning Based High-Level Driving Policy Determination,https://ieeexplore.ieee.org/document/8723635/
+A Novel Integrated Simulation and Testing Platform for Self-Driving Cars With Hardware in the Loop,https://ieeexplore.ieee.org/document/8723561/
+Toward Closing the Loop on Human Values,https://ieeexplore.ieee.org/document/8723530/
+Efficient Multi-Object Tracking by Strong Associations on Temporal Window,https://ieeexplore.ieee.org/document/8723553/
+Predictive Driving: Fusing Prediction and Planning for Automated Highway Driving,https://ieeexplore.ieee.org/document/8723576/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Functional Safety Verification for Autonomous UGVs—Methodology Presentation and Implementation on a Full-Scale System,https://ieeexplore.ieee.org/document/8723533/
+Smart Traction Control Systems for Electric Vehicles Using Acoustic Road-Type Estimation,https://ieeexplore.ieee.org/document/8723628/
+Vision-Based Autonomous Path Following Using a Human Driver Control Model With Reliable Input-Feature Value Estimation,https://ieeexplore.ieee.org/document/8723597/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Cooperative Automated Vehicles: A Review of Opportunities and Challenges in Socially Intelligent Vehicles Beyond Networking,https://ieeexplore.ieee.org/document/8818311/
+Performance Optimisation of Parallelized ADAS Applications in FPGA-GPU Heterogeneous Systems: A Case Study With Lane Detection,https://ieeexplore.ieee.org/document/8818355/
+Simultaneous Visible Light Communication and Distance Measurement Based on the Automotive Lighting,https://ieeexplore.ieee.org/document/8818348/
+Object Detection From a Few LIDAR Scanning Planes,https://ieeexplore.ieee.org/document/8818349/
+Smooth Automatic Stopping for Ultra-Compact Vehicles,https://ieeexplore.ieee.org/document/8818344/
+Robust Tube-Based Model Predictive Control for Lateral Path Tracking,https://ieeexplore.ieee.org/document/8818340/
+Automated Lane Changing With a Controlled Steering-Wheel Feedback Torque for Low Lateral Acceleration Purposes,https://ieeexplore.ieee.org/document/8818350/
+No Blind Spots: Full-Surround Multi-Object Tracking for Autonomous Vehicles Using Cameras and LiDARs,https://ieeexplore.ieee.org/document/8818343/
+A Novel Smart Energy Management System in Pure Electric Motorcycle Using COA,https://ieeexplore.ieee.org/document/8818374/
+Multisensor Poisson Multi-Bernoulli Filter for Joint Target–Sensor State Tracking,https://ieeexplore.ieee.org/document/8818354/
+Disturbance Observer-Based Fuzzy Adapted S-Surface Controller for Spatial Trajectory Tracking of Autonomous Underwater Vehicle,https://ieeexplore.ieee.org/document/8818321/
+Become a published author in 4 to 6 weeks,https://ieeexplore.ieee.org/document/8908687/
+Become a published author in 4 to 6 weeks,https://ieeexplore.ieee.org/document/8908681/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+The Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/document/8908683/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles New Associate Editors,https://ieeexplore.ieee.org/document/9012068/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Trajectory Optimization and Situational Analysis Framework for Autonomous Overtaking With Visibility Maximization,https://ieeexplore.ieee.org/document/8911227/
+Coordinating Tire Forces to Avoid Obstacles Using Nonlinear Model Predictive Control,https://ieeexplore.ieee.org/document/8910387/
+Auditory Assist Method to Indicate Steering Start Timing in Reverse Parking for Improvement of Driver Performance,https://ieeexplore.ieee.org/document/8910497/
+Looking at the Driver/Rider in Autonomous Vehicles to Predict Take-Over Readiness,https://ieeexplore.ieee.org/document/8910371/
+Adaptive Robust Nonlinear Active Suspension Control Using an Observer-Based Modified Sliding Mode Interval Type-2 Fuzzy Neural Network,https://ieeexplore.ieee.org/document/8910388/
+Motion Planning With Velocity Prediction and Composite Nonlinear Feedback Tracking Control for Lane-Change Strategy of Autonomous Vehicles,https://ieeexplore.ieee.org/document/8910360/
+A Game Theoretic Model Predictive Controller With Aggressiveness Estimation for Mandatory Lane Change,https://ieeexplore.ieee.org/document/8910456/
+Model-Based String Stability of Adaptive Cruise Control Systems Using Field Data,https://ieeexplore.ieee.org/document/8910461/
+A Novel Electric Vehicles Charging/Discharging Management Protocol Based on Queuing Model,https://ieeexplore.ieee.org/document/8910498/
+Positive Invariant Sets for Safe Integrated Vehicle Motion Planning and Control,https://ieeexplore.ieee.org/document/8910394/
+A Probabilistic Approach to Measuring Driving Behavior Similarity With Driving Primitives,https://ieeexplore.ieee.org/document/8910384/
+Driving-Condition Dependent and Monte Carlo Simulation-Based Optimization Method for a Bayesian Localization Filter for Parking,https://ieeexplore.ieee.org/document/8910463/
+Joint Delay and Cost Optimization of In-Route Charging for On-Demand Electric Vehicles,https://ieeexplore.ieee.org/document/8910488/
+Robust Camera Pose Estimation for Unordered Road Scene Images in Varying Viewing Conditions,https://ieeexplore.ieee.org/document/8910493/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Incorporating Human Domain Knowledge in 3-D LiDAR-Based Semantic Segmentation,https://ieeexplore.ieee.org/document/8911436/
+Scene Understanding With Automotive Radar,https://ieeexplore.ieee.org/document/8911477/
+Autonomous Vehicles’ Turning Motion Planning for Conflict Areas at Mixed-Flow Intersections,https://ieeexplore.ieee.org/document/8911511/
+Enabling Courteous Vehicle Interactions Through Game-Based and Dynamics-Aware Intent Inference,https://ieeexplore.ieee.org/document/8911426/
+The Impact of Flexible Platoon Formation Operations,https://ieeexplore.ieee.org/document/8911491/
+Control of Leader-Following Vehicle Platoons With Varied Communication Range,https://ieeexplore.ieee.org/document/8911548/
+A Hybrid Control Strategy of 7000 m-Human Occupied Vehicle Tracking Control,https://ieeexplore.ieee.org/document/8911508/
+Requirements-Driven Test Generation for Autonomous Vehicles With Machine Learning Components,https://ieeexplore.ieee.org/document/8911483/
+Two-Lane Path Planning of Autonomous Vehicles in 2.5D Environments,https://ieeexplore.ieee.org/document/8911549/
+Combining Planning and Deep Reinforcement Learning in Tactical Decision Making for Autonomous Driving,https://ieeexplore.ieee.org/document/8911507/
+Should the Urgency of Visual-Tactile Takeover Requests Match the Criticality of Takeover Situations?,https://ieeexplore.ieee.org/document/8911449/
+Multiview Scene Image Inpainting Based on Conditional Generative Adversarial Networks,https://ieeexplore.ieee.org/document/8911481/
+Design and Test of Speed Tracking Control for the Self-Driving Lincoln MKZ Platform,https://ieeexplore.ieee.org/document/8911456/
+A Survey of Personalization for Advanced Driver Assistance Systems,https://ieeexplore.ieee.org/document/8918081/
+Semi-Persistent Resource Allocation Based on Traffic Prediction for Vehicular Communications,https://ieeexplore.ieee.org/document/8911445/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Looking at Hands in Autonomous Vehicles: A ConvNet Approach Using Part Affinity Fields,https://ieeexplore.ieee.org/document/8910347/
+Multi-Objective Optimal Robust Seat Suspension Control of Off-Road Vehicles in the Presence of Disturbance and Parametric Uncertainty Using Metaheuristics,https://ieeexplore.ieee.org/document/8939557/
+Enhancing Driver Distraction Recognition Using Generative Adversarial Networks,https://ieeexplore.ieee.org/document/8936914/
+Implicit Personalization in Driving Assistance: State-of-the-Art and Open Issues,https://ieeexplore.ieee.org/document/8936867/
+Tractor-Trailer Vehicle Trajectory Planning in Narrow Environments With a Progressively Constrained Optimal Control Approach,https://ieeexplore.ieee.org/document/8936675/
+A General Approach for Simulating Rain Effects on Sensor Data in Real and Virtual Environments,https://ieeexplore.ieee.org/document/8936913/
+Personalized Driver Workload Estimation Using Deep Neural Network Learning From Physiological and Vehicle Signals,https://ieeexplore.ieee.org/document/8936874/
+Ground Plane Polling for 6DoF Pose Estimation of Objects on the Road,https://ieeexplore.ieee.org/document/8957099/
+Pedestrian Trajectory Prediction Combining Probabilistic Reasoning and Sequence Learning,https://ieeexplore.ieee.org/document/8957246/
+RADARODO: Ego-Motion Estimation From Doppler and Spatial Data in RADAR Images,https://ieeexplore.ieee.org/document/8995552/
+Clustering of Driving Encounter Scenarios Using Connected Vehicle Trajectories,https://ieeexplore.ieee.org/document/8995532/
+Real-Time State-of-Charge Tracking Embedded in the Advanced Driver Assistance System of Electric Vehicles,https://ieeexplore.ieee.org/document/8995518/
+Adversarial Learning and Self-Teaching Techniques for Domain Adaptation in Semantic Segmentation,https://ieeexplore.ieee.org/document/9035616/
+Exploring Contributing Factors of Hazardous Events in Construction Zones Using Naturalistic Driving Study Data,https://ieeexplore.ieee.org/document/9035410/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Shadow Detection and Removal for Illumination Consistency on the Road,https://ieeexplore.ieee.org/document/9068460/
+An Attribute-Isolated Secure Communication Architecture for Intelligent Connected Vehicles,https://ieeexplore.ieee.org/document/9208726/
+The Safety Potential of Lane Keeping Assistance and Possible Actions to Improve the Potential,https://ieeexplore.ieee.org/document/9084279/
+Towards Computationally Efficient and Realtime Distracted Driver Detection With MobileVGG Network,https://ieeexplore.ieee.org/document/9095350/
+Powered Two-Wheeler Detection Using Crowdsourced Smartphone Data,https://ieeexplore.ieee.org/document/9035394/
+AI-IMU Dead-Reckoning,https://ieeexplore.ieee.org/document/9035481/
+A Comprehensive Study of the Parameters Impacting the Fuel Economy of Plug-In Hybrid Electric Vehicles,https://ieeexplore.ieee.org/document/9091013/
+Intelligent Vehicle Self-Localization Based on Double-Layer Features and Multilayer LIDAR,https://ieeexplore.ieee.org/document/9122608/
+Adaptivity-Enhanced Path Tracking System for Autonomous Vehicles at High Speeds,https://ieeexplore.ieee.org/document/9161258/
+Robust Detection of Infrared Maritime Targets for Autonomous Navigation,https://ieeexplore.ieee.org/document/9084242/
+Advanced Vehicle Control With an Optimized Speed Profile Using Road Characteristics for Road Departure Prevention,https://ieeexplore.ieee.org/document/9195180/
+Learning-Based Real-Time Process-Aware Anomaly Monitoring for Assured Autonomy,https://ieeexplore.ieee.org/document/9099389/
+Measurement Characterization and Autonomous Outlier Detection and Exclusion for Ground Vehicle Navigation With Cellular Signals,https://ieeexplore.ieee.org/document/9085920/
+Methods and Models for Simulating Autonomous Vehicle Sensors,https://ieeexplore.ieee.org/document/9120368/
+Securing Vehicle-to-Everything (V2X) Communication Platforms,https://ieeexplore.ieee.org/document/9068410/
+Real-Time Driver Maneuver Prediction Using LSTM,https://ieeexplore.ieee.org/document/9121758/
+A Minimum Principle-Based Algorithm for Energy-Efficient Eco-Driving of Electric Vehicles in Various Traffic and Road Conditions,https://ieeexplore.ieee.org/document/9145839/
+Driver Behavior Modeling Using Game Engine and Real Vehicle: A Learning-Based Approach,https://ieeexplore.ieee.org/document/9084240/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+"Low Cost, Open-Source Platform to Enable Full-Sized Automated Vehicle Research",https://ieeexplore.ieee.org/document/9219224/
+Impact of Connectivity on Energy Consumption and&nbsp;Battery Life for Electric Vehicles,https://ieeexplore.ieee.org/document/9234723/
+Detecting Unsigned Physical Road Incidents From Driver-View Images,https://ieeexplore.ieee.org/document/9084235/
+ASTEROIDS: A Stixel Tracking Extrapolation-Based Relevant Obstacle Impact Detection System,https://ieeexplore.ieee.org/document/9085910/
+Lane Marking Regression From Confidence Area Detection to Field Inference,https://ieeexplore.ieee.org/document/9141486/
+Improved Path Planning by Tightly Combining Lattice-Based Path Planning and Optimal Control,https://ieeexplore.ieee.org/document/9084267/
+Low-Density Lidar Based Estimation System for Bicycle Protection,https://ieeexplore.ieee.org/document/9145850/
+Lateral Control in Precision Docking Using RTK-GNSS/INS and LiDAR for Localization,https://ieeexplore.ieee.org/document/9088272/
+A Novel Crash Detection Algorithm for Two-Wheeled Vehicles,https://ieeexplore.ieee.org/document/9220129/
+Soft-Weighted-Average Ensemble Vehicle Detection Method Based on Single-Stage and Two-Stage Deep Learning Models,https://ieeexplore.ieee.org/document/9145833/
+Reduction of Uncertainties for Safety Assessment of Automated Driving Under Parallel Simulations,https://ieeexplore.ieee.org/document/9068452/
+Quality-Aware Feature Aggregation Network for Robust RGBT Tracking,https://ieeexplore.ieee.org/document/9035457/
+Inverse Learning for Data-Driven Calibration of Model-Based Statistical Path Planning,https://ieeexplore.ieee.org/document/9109638/
+End-to-End Probabilistic Ego-Vehicle Localization Framework,https://ieeexplore.ieee.org/document/9170825/
+Provably-Correct and Comfortable Adaptive Cruise Control,https://ieeexplore.ieee.org/document/9091937/
+Attention Based Vehicle Trajectory Prediction,https://ieeexplore.ieee.org/document/9084255/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles New Associate Editors,https://ieeexplore.ieee.org/document/9440038/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Learning to Drive by Imitation: An Overview of Deep Behavior Cloning Methods,https://ieeexplore.ieee.org/document/9117169/
+Interval Type 2 Fuzzy Logic Control for Energy Management of Hybrid Electric Autonomous Vehicles,https://ieeexplore.ieee.org/document/9149783/
+Comparison of Deep Reinforcement Learning and Model Predictive Control for Adaptive Cruise Control,https://ieeexplore.ieee.org/document/9152161/
+Using Reachable Sets for Trajectory Planning of Automated Vehicles,https://ieeexplore.ieee.org/document/9170864/
+Set-Based Prediction of Traffic Participants Considering Occlusions and Traffic Rules,https://ieeexplore.ieee.org/document/9170860/
+Transferring From Automated to Manual Driving When Traversing a Curve via Haptic Shared Control,https://ieeexplore.ieee.org/document/9174832/
+Occlusion-Aware Motion Planning at Roundabouts,https://ieeexplore.ieee.org/document/9177294/
+Online Parameter Estimation Methods for Adaptive Cruise Control Systems,https://ieeexplore.ieee.org/document/9195163/
+Distributed Cooperative MPC for Autonomous Driving in Different Traffic Scenarios,https://ieeexplore.ieee.org/document/9201329/
+A Multimodality Fusion Deep Neural Network and Safety Test Strategy for Intelligent Vehicles,https://ieeexplore.ieee.org/document/9207961/
+Development of Game-Like System Using Active Behavior Input for Wakefulness-Keeping Support in Driving,https://ieeexplore.ieee.org/document/9216110/
+A Novel Algorithm of Multi-AUVs Task Assignment and Path Planning Based on Biologically Inspired Neural Network Map,https://ieeexplore.ieee.org/document/9224786/
+A Distributed Model Predictive Control Strategy for Constrained Multi-Vehicle Systems Moving in Unknown Environments,https://ieeexplore.ieee.org/document/9217982/
+Autonomous Wary Collision Avoidance,https://ieeexplore.ieee.org/document/9219194/
+Mathematical Definitions of Scene and Scenario for Analysis of Automated Driving Systems in Mixed-Traffic Simulations,https://ieeexplore.ieee.org/document/9237122/
+A Novel EPT Autonomous Motion Control Framework for an Off-Axle Hitching Tractor-Trailer System With Drawbar,https://ieeexplore.ieee.org/document/9246955/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Energy Optimality in Electric Vehicles Along Uphill-Downhill Roads,https://ieeexplore.ieee.org/document/9238404/
+Lateral Control of an Autonomous and Connected Following Vehicle With Limited Preview Information,https://ieeexplore.ieee.org/document/9240065/
+VTGNet: A Vision-Based Trajectory Generation Network for Autonomous Vehicles in Urban Environments,https://ieeexplore.ieee.org/document/9240067/
+Lane-Level Map Matching Based on HMM,https://ieeexplore.ieee.org/document/9246716/
+Extended Object Tracking Using Spatially Resolved Micro-Doppler Signatures,https://ieeexplore.ieee.org/document/9247291/
+Real-Time Adaptive Object Detection and Tracking for Autonomous Vehicles,https://ieeexplore.ieee.org/document/9259200/
+Cooperative Control Framework for Human Driver and Active Rear Steering System to Advance Active Safety,https://ieeexplore.ieee.org/document/9259201/
+Active Fault Tolerant Control for Unmanned Underwater Vehicle With Actuator Fault and Guaranteed Transient Performance,https://ieeexplore.ieee.org/document/9262026/
+Night-to-Day: Online Image-to-Image Translation for Object Detection Within Autonomous Driving by Night,https://ieeexplore.ieee.org/document/9264758/
+Cyclic Communication in Adaptive Strategies to Platooning: The Case of Synchronized Merging,https://ieeexplore.ieee.org/document/9277618/
+Inverse Model Predictive Control (IMPC) Based Modeling and Prediction of Human-Driven Vehicles in Mixed Traffic,https://ieeexplore.ieee.org/document/9295370/
+MPC-Based Cooperative Control Strategy of Path Planning and Trajectory Tracking for Intelligent Vehicles,https://ieeexplore.ieee.org/document/9298806/
+MC-COCO4V2P: Multi-Channel Clustering-Based Congestion Control for Vehicle-to-Pedestrian Communication,https://ieeexplore.ieee.org/document/9302882/
+Co-Optimization Scheme for the Powertrain and Exhaust Emission Control System of Hybrid Electric Vehicles Using Future Speed Prediction,https://ieeexplore.ieee.org/document/9314084/
+Impacts of Model Fidelity on Trajectory Optimization for Autonomous Vehicles in Extreme Maneuvers,https://ieeexplore.ieee.org/document/9325924/
+Behavioral Harmonization of a Cyclic Vehicular Platoon in a Closed Road Network,https://ieeexplore.ieee.org/document/9364721/
+"A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar",https://ieeexplore.ieee.org/document/9380784/
+SUPER: A Novel Lane Detection System,https://ieeexplore.ieee.org/document/9398936/
+Cooperative Driving of Automated Vehicles Using B-Splines for Trajectory Planning,https://ieeexplore.ieee.org/document/9415170/
+Introducing IEEE Collabratec,https://ieeexplore.ieee.org/document/9523424/
+Share Your Preprint Research with the World!,https://ieeexplore.ieee.org/document/9523430/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles New Senior Editor,https://ieeexplore.ieee.org/document/9648211/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+Spatio-Temporal Planning in Multi-Vehicle Scenarios for Autonomous Vehicle Using Support Vector Machines,https://ieeexplore.ieee.org/document/9277572/
+Intention-Based Lane Changing and Lane Keeping Haptic Guidance Steering System,https://ieeexplore.ieee.org/document/9291433/
+Vehicle Position and Context Detection Using V2V Communication,https://ieeexplore.ieee.org/document/9291414/
+Automated Vehicles Sharing the Road: Surveying Detection and Localization of Pedalcyclists,https://ieeexplore.ieee.org/document/9305274/
+Real-Time Adaptive Velocity Optimization for Autonomous Electric Cars at the Limits of Handling,https://ieeexplore.ieee.org/document/9310276/
+Machine Learning-Based Target Classification for MMW Radar in Autonomous Driving,https://ieeexplore.ieee.org/document/9319548/
+Vehicle Detection and Disparity Estimation Using Blended Stereo Images,https://ieeexplore.ieee.org/document/9314262/
+Stability Control of Autonomous Ground Vehicles Using Control-Dependent Barrier Functions,https://ieeexplore.ieee.org/document/9351650/
+Robust Platoon Control in Mixed Traffic Flow Based on Tube Model Predictive Control,https://ieeexplore.ieee.org/document/9359494/
+A Data-Driven Method Towards Minimizing Collision Severity for Highly Automated Vehicles,https://ieeexplore.ieee.org/document/9362281/
+Joint Routing and Scheduling of Mobile Charging Infrastructure for V2V Energy Transfer,https://ieeexplore.ieee.org/document/9368510/
+Crafted vs Learned Representations in Predictive Models—A Case Study on Cyclist Path Prediction,https://ieeexplore.ieee.org/document/9372805/
+Infrastructure Optimization of In-Motion Charging Networks for Electric Vehicles Using Agent-Based Modeling,https://ieeexplore.ieee.org/document/9372802/
+Trajectory Planning for Autonomous Mining Trucks Considering Terrain Constraints,https://ieeexplore.ieee.org/document/9380511/
+L-Shape Fitting-Based Vehicle Pose Estimation and Tracking Using 3D-LiDAR,https://ieeexplore.ieee.org/document/9427213/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+The Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/document/9625877/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+MetaVehicles in the Metaverse: Moving to a New Phase for Intelligent Vehicles and Smart Mobility,https://ieeexplore.ieee.org/document/9761719/
+A Note of Thanks,https://ieeexplore.ieee.org/document/9761717/
+"Future Directions of Intelligent Vehicles: Potentials, Possibilities, and Perspectives",https://ieeexplore.ieee.org/document/9761398/
+Real-Time Implementation of Randomized Model Predictive Control for Autonomous Driving,https://ieeexplore.ieee.org/document/9366366/
+A Review of HMM-Based Approaches of Driving Behaviors Recognition and Prediction,https://ieeexplore.ieee.org/document/9380554/
+Design Methodology to Derive Over-Damped String Stable Adaptive Cruise Control Systems,https://ieeexplore.ieee.org/document/9380699/
+Fast and Compact Image Segmentation Using Instance Stixels,https://ieeexplore.ieee.org/document/9381686/
+The Effect of Spray Water on an Automotive LIDAR Sensor: A Real-Time Simulation Study,https://ieeexplore.ieee.org/document/9384276/
+An Optimal Motion Cueing Algorithm Using the Inverse Kinematic Solution of the Hexapod Simulation Platform,https://ieeexplore.ieee.org/document/9384316/
+R-Comm: A Traffic Based Approach for Joint Vehicular Radar-Communication,https://ieeexplore.ieee.org/document/9409672/
+RangeSeg: Range-Aware Real Time Segmentation of 3D LiDAR Point Clouds,https://ieeexplore.ieee.org/document/9445043/
+Task-Driven RGB-Lidar Fusion for Object Tracking in Resource-Efficient Autonomous System,https://ieeexplore.ieee.org/document/9448387/
+Value of Temporal Dynamics Information in Driving Scene Segmentation,https://ieeexplore.ieee.org/document/9478305/
+Online Optimization of Gear Shift and Velocity for Eco-Driving Using Adaptive Dynamic Programming,https://ieeexplore.ieee.org/document/9536371/
+Longitudinal Control of Autonomous Vehicles Consisting Power-Train With Non-Linear Characteristics,https://ieeexplore.ieee.org/document/9560150/
+Position Uncertainty-Tolerant Cooperative Merging Application for Mixed Multilane Traffic,https://ieeexplore.ieee.org/document/9580729/
+Introducing IEEE Collabratec,https://ieeexplore.ieee.org/document/9761375/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+One of the most influential reference resources for engineers around the world,https://ieeexplore.ieee.org/document/9761714/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+The State of IEEE Transactions on Intelligent Vehicles: From Passive Publication to Active and Smart Exchange and Dissemination,https://ieeexplore.ieee.org/document/9826532/
+Verification and Validation of Intelligent Vehicles: Objectives and Efforts From China,https://ieeexplore.ieee.org/document/9826530/
+Dynamic Object Removal and Spatio-Temporal RGB-D Inpainting via Geometry-Aware Adversarial Learning,https://ieeexplore.ieee.org/document/9670638/
+Optimal Coordination of Platoons of Connected and Automated Vehicles at Signal-Free Intersections,https://ieeexplore.ieee.org/document/9484798/
+Digital Twin-Assisted Cooperative Driving at Non-Signalized Intersections,https://ieeexplore.ieee.org/document/9497693/
+Vision-Cloud Data Fusion for ADAS: A Lane Change Prediction Case Study,https://ieeexplore.ieee.org/document/9511277/
+Predicting Pedestrian Crossing Intention With Feature Fusion and Spatio-Temporal Attention,https://ieeexplore.ieee.org/document/9743954/
+Bio-Inspired Neural Network-Based Optimal Path Planning for UUVs Under the Effect of Ocean Currents,https://ieeexplore.ieee.org/document/9437967/
+Monocular 3D Object Detection With Sequential Feature Association and Depth Hint Augmentation,https://ieeexplore.ieee.org/document/9689059/
+"Taxonomy to Unify Fault Tolerance Regimes for Automotive Systems: Defining Fail-Operational, Fail-Degraded, and Fail-Safe",https://ieeexplore.ieee.org/document/9625720/
+An Optimization-Based Path Planning Approach for Autonomous Vehicles Using the DynEFWA-Artificial Potential Field,https://ieeexplore.ieee.org/document/9591322/
+Tunable Trajectory Planner Using G3 Curves,https://ieeexplore.ieee.org/document/9678034/
+Parallel Vision for Long-Tail Regularization: Initial Results From IVFC Autonomous Driving Testing,https://ieeexplore.ieee.org/document/9696256/
+Towards an Ontology for Scenario Definition for the Assessment of Automated Vehicles: An Object-Oriented Framework,https://ieeexplore.ieee.org/document/9693162/
+Robust Adaptive Path-Tracking Control of Autonomous Ground Vehicles With Considerations of Steering System Backlash,https://ieeexplore.ieee.org/document/9693282/
+A Progressive Review: Emerging Technologies for ADAS Driven Solutions,https://ieeexplore.ieee.org/document/9591277/
+Practical Distributed Control for VTOL UAVs to Pass a Virtual Tube,https://ieeexplore.ieee.org/document/9591313/
+Optimization-Based Approach for Resilient Connected and Autonomous Intersection Crossing Traffic Control Under V2X Communication,https://ieeexplore.ieee.org/document/9645261/
+Robust Control of Connected Cruise Vehicle Platoon With Uncertain Human Driving Reaction Time,https://ieeexplore.ieee.org/document/9629301/
+Gaze Preserving CycleGANs for Eyeglass Removal and Persistent Gaze Estimation,https://ieeexplore.ieee.org/document/9684928/
+Safe Model-Based Off-Policy Reinforcement Learning for Eco-Driving in Connected and Automated Hybrid Electric Vehicles,https://ieeexplore.ieee.org/document/9712376/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+"<span _ngcontent-hov-c129=""""",https://ieeexplore.ieee.org/author/37277656000
+Experimental Investigation of a Maneuver Selection Algorithm for Vehicles in Low Adhesion Conditions,https://ieeexplore.ieee.org/document/9816135/
+Making Standards for Smart Mining Operations: Intelligent Vehicles for Autonomous Mining Transportation,https://ieeexplore.ieee.org/document/9916212/
+Review and Perspectives on Driver Digital Twin and Its Enabling Technologies for Intelligent Vehicles,https://ieeexplore.ieee.org/document/9847095/
+A Parallel Teacher for Synthetic-to-Real Domain Adaptation of Traffic Object Detection,https://ieeexplore.ieee.org/document/9854126/
+Federated Vehicular Transformers and Their Federations: Privacy-Preserving Computing and Cooperation for Autonomous Driving,https://ieeexplore.ieee.org/document/9857660/
+Real-Time Scheduling of Autonomous Mining Trucks via Flow Allocation-Accelerated Tabu Search,https://ieeexplore.ieee.org/document/9756288/
+Verification and Validation Methods for Decision-Making and Planning of Automated Vehicles: A Review,https://ieeexplore.ieee.org/document/9850413/
+Human-Machine Shared Driving: Challenges and Future Directions,https://ieeexplore.ieee.org/document/9721611/
+A Survey of Intelligent Tires for Tire-Road Interaction Recognition Toward Autonomous Vehicles,https://ieeexplore.ieee.org/document/9747950/
+"Millimeter Wave FMCW RADARs for Perception, Recognition and Localization in Automotive Applications: A Survey",https://ieeexplore.ieee.org/document/9760104/
+Receding-Horizon Reinforcement Learning Approach for Kinodynamic Motion Planning of Autonomous Vehicles,https://ieeexplore.ieee.org/document/9756946/
+Video Action Recognition for Lane-Change Classification and Prediction of Surrounding Vehicles,https://ieeexplore.ieee.org/document/9749024/
+Resource-Efficient Platooning Control of Connected Automated Vehicles Over VANETs,https://ieeexplore.ieee.org/document/9726924/
+Communication-Constrained Active Suspension Control for Networked In-Wheel Motor-Driven Electric Vehicles With Dynamic Dampers,https://ieeexplore.ieee.org/document/9736568/
+Cross-Domain Object Detection for Autonomous Driving: A Stepwise Domain Adaptative YOLO Approach,https://ieeexplore.ieee.org/document/9750853/
+Online and Predictive Warning System for Forced Lane Changes Using Risk Maps,https://ieeexplore.ieee.org/document/9462531/
+A General Safety-Certified Cooperative Control Architecture for Interconnected Intelligent Surface Vehicles With Applications to Vessel Train,https://ieeexplore.ieee.org/document/9762043/
+Towards Guaranteed Safety Assurance of Automated Driving Systems With Scenario Sampling: An Invariant Set Perspective,https://ieeexplore.ieee.org/document/9556594/
+A Survey on Trajectory-Prediction Methods for Autonomous Driving,https://ieeexplore.ieee.org/document/9756903/
+Classification of Automotive Targets Using Inverse Synthetic Aperture Radar Images,https://ieeexplore.ieee.org/document/9695280/
+GMR-RRT*: Sampling-Based Path Planning Using Gaussian Mixture Regression,https://ieeexplore.ieee.org/document/9712347/
+Increasing the Efficiency of Policy Learning for Autonomous Vehicles by Multi-Task Representation Learning,https://ieeexplore.ieee.org/document/9708728/
+Safety Monitoring of Neural Networks Using Unsupervised Feature Learning and Novelty Estimation,https://ieeexplore.ieee.org/document/9716877/
+Bi-Risk-RRT Based Efficient Motion Planning for Autonomous Ground Vehicles,https://ieeexplore.ieee.org/document/9718167/
+EV-Auth: Lightweight Authentication Protocol Suite for Dynamic Charging System of Electric Vehicles With Seamless Handover,https://ieeexplore.ieee.org/document/9721573/
+Online Trajectory Replanning for Sudden Environmental Changes During Automated Parking: A Parallel Stitching Method,https://ieeexplore.ieee.org/document/9729517/
+Early Lane Change Prediction for Automated Driving Systems Using Multi-Task Attention-Based Convolutional Neural Networks,https://ieeexplore.ieee.org/document/9740533/
+LiDAR-Based Global Localization Using Histogram of Orientations of Principal Normals,https://ieeexplore.ieee.org/document/9761740/
+Cooperative Computation Offloading in Blockchain-Based Vehicular Edge Computing Networks,https://ieeexplore.ieee.org/document/9827596/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+"<span _ngcontent-cqq-c129=""""",https://ieeexplore.ieee.org/author/37277656000
+Crowdsensing Intelligence by Decentralized Autonomous Vehicles Organizations and Operations,https://ieeexplore.ieee.org/document/9964229/
+Towards a Complete Safety Framework for Longitudinal Driving,https://ieeexplore.ieee.org/document/9904311/
+A Survey on Attack Detection and Resilience for Connected and Automated Vehicles: From Vehicle Dynamics and Control Perspective,https://ieeexplore.ieee.org/document/9809823/
+Resilient Branching MPC for Multi-Vehicle Traffic Scenarios Using Adversarial Disturbance Sequences,https://ieeexplore.ieee.org/document/9760144/
+Prediction-Uncertainty-Aware Decision-Making for Autonomous Vehicles,https://ieeexplore.ieee.org/document/9815528/
+Human-Oriented Online Driving Authority Optimization for Driver-Automation Shared Steering Control,https://ieeexplore.ieee.org/document/9754279/
+Online Relative Positioning of Autonomous Vehicles Using Signals of Opportunity,https://ieeexplore.ieee.org/document/9599503/
+Parallel Driving OS: A Ubiquitous Operating System for Autonomous Driving in CPSS,https://ieeexplore.ieee.org/document/9956903/
+Driver and Pedestrian Mutual Awareness for Path Prediction and Collision Risk Estimation,https://ieeexplore.ieee.org/document/9664364/
+Driving Performance Under Violations of Traffic Rules: Novice vs. Experienced Drivers,https://ieeexplore.ieee.org/document/9864225/
+A Pathway Forward: The Evolution of Intelligent Vehicles Research on IEEE T-IV,https://ieeexplore.ieee.org/document/9925122/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+"<span _ngcontent-tud-c129=""""",https://ieeexplore.ieee.org/author/37277656000
+Intelligent Vehicle Carriers to Support General Civilian Purposes,https://ieeexplore.ieee.org/document/10252010/
+On Intelligent Mining With Parallel Intelligence,https://ieeexplore.ieee.org/document/10254353/
+A Vectorized Representation Model for Trajectory Prediction of Intelligent Vehicles in Challenging Scenarios,https://ieeexplore.ieee.org/document/10255297/
+Integrated Inertial-LiDAR-Based Map Matching Localization for Varying Environments,https://ieeexplore.ieee.org/document/10194984/
+Decoupled Real-Time Trajectory Planning for Multiple Autonomous Mining Trucks in Unloading Areas,https://ieeexplore.ieee.org/document/10251029/
+Finite-Time Command-Filtered Lateral-Longitudinal Formation Control of Vehicles on Rough Roads,https://ieeexplore.ieee.org/document/10098651/
+Object-Level Data-Driven Sensor Simulation for Automotive Environment Perception,https://ieeexplore.ieee.org/document/10155197/
+Real-Time Operations of Autonomous Mobility- on-Demand Services With Inter-and Intra-Zonal Relocation,https://ieeexplore.ieee.org/document/10197213/
+Identifying Critical Test Scenarios for Lane Keeping Assistance System Using Analytic Hierarchy Process and Hierarchical Clustering,https://ieeexplore.ieee.org/document/10190119/
+Robust Adversarial Attacks Detection Based on Explainable Deep Reinforcement Learning for UAV Guidance and Planning,https://ieeexplore.ieee.org/document/10189091/
+Semantic Loop Closure Detection for Intelligent Vehicles Using Panoramas,https://ieeexplore.ieee.org/document/10193867/
+Left Gaze Bias Between LHT and RHT: A Recommendation Strategy to Mitigate Human Errors in Left- and Right-Hand Driving,https://ieeexplore.ieee.org/document/10192329/
+Awareness Messages by Vulnerable Road Users and Vehicles: Field Tests via LTE-V2X,https://ieeexplore.ieee.org/document/10138065/
+Dynamic Resource Allocation in Queue-Constrained and Delay-Sensitive Vehicular Networks,https://ieeexplore.ieee.org/document/10108043/
+Intelligent Connectivity Through RIS-Assisted Wireless Communication: Exact Performance Analysis With Phase Errors and Mobility,https://ieeexplore.ieee.org/document/10158937/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+"<span _ngcontent-gmw-c129=""""",https://ieeexplore.ieee.org/author/37277656000
+Autonomous Services: The Evolution of Services Through Intelligent Vehicles,https://ieeexplore.ieee.org/document/10319096/
+Social Vision for Intelligent Vehicles: From Computer Vision to Foundation Vision,https://ieeexplore.ieee.org/document/10311405/
+Prescribed-Time Time-Varying Multi-Group Formation Tracking Control of NMSVs via Estimator-Based Hierarchical Control Algorithm,https://ieeexplore.ieee.org/document/10296515/
+Secure Operations of Connected and Autonomous Vehicles,https://ieeexplore.ieee.org/document/10216307/
+BEV-V2X: Cooperative Birds-Eye-View Fusion and Grid Occupancy Prediction via V2X-Based Data Sharing,https://ieeexplore.ieee.org/document/10179171/
+Integrated Decision Making and Planning Based on Feasible Region Construction for Autonomous Vehicles Considering Prediction Uncertainty,https://ieeexplore.ieee.org/document/10197490/
+Event-Based Predefined-Time Second-Order Practical Consensus With Application to Connected Automated Vehicles,https://ieeexplore.ieee.org/document/10225487/
+Parallel Surfaces: Service-Oriented V2X Communications for Autonomous Vehicles,https://ieeexplore.ieee.org/document/10285073/
+Bird's-Eye-View Semantic Segmentation With Two-Stream Compact Depth Transformation and Feature Rectification,https://ieeexplore.ieee.org/document/10124335/
+Network-Induced Asynchronous Fuzzy Control for Vehicle Steering Using Switching Event-Triggered Communication Mechanism,https://ieeexplore.ieee.org/document/10243155/
+A Multi-Vehicle Game-Theoretic Framework for Decision Making and Planning of Autonomous Vehicles in Mixed Traffic,https://ieeexplore.ieee.org/document/10268996/
+ACP-Based Parallel Railway Traffic Management for High-Speed Trains in Case of Emergencies,https://ieeexplore.ieee.org/document/10272281/
+A Review of Driving Style Recognition Methods From Short-Term and Long-Term Perspectives,https://ieeexplore.ieee.org/document/10132530/
+A Survey on Self-Evolving Autonomous Driving: A Perspective on Data Closed-Loop Technology,https://ieeexplore.ieee.org/document/10265228/
+Obstacle Avoidance Path Planning in Unstructured Environment With Narrow Passages,https://ieeexplore.ieee.org/document/10246412/
+TVG-ReID: Transformer-Based Vehicle-Graph Re-Identification,https://ieeexplore.ieee.org/document/10173635/
+Vehicular Visualization: Enhancing Mobility Decisions With Human–Machine Interactions,https://ieeexplore.ieee.org/document/10160191/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+"<span _ngcontent-lgp-c129=""""",https://ieeexplore.ieee.org/author/37277656000
+Advancing Vehicular Healthcare: The DAO-Based Parallel Maintenance for Intelligent Vehicles,https://ieeexplore.ieee.org/document/10359160/
+The Road Ahead: DAO-Secured V2X Infrastructures for Safe and Smart Vehicular Management,https://ieeexplore.ieee.org/document/10336517/
+"A Trustworthy Internet of Vehicles: The DAO to Safe, Secure, and Collaborative Autonomous Driving",https://ieeexplore.ieee.org/document/10334017/
+A Sustainable Ecology of Mobility: DAO-Based Autonomous Vehicular Services,https://ieeexplore.ieee.org/document/10330128/
+A Faster Cooperative Lane Change Controller Enabled by Formulating in Spatial Domain,https://ieeexplore.ieee.org/document/10287588/
+Counterfactual Evolutionary Reasoning for Virtual Driver Reinforcement Learning in Safe Driving,https://ieeexplore.ieee.org/document/10274149/
+ChatGPT as Your Vehicle Co-Pilot: An Initial Attempt,https://ieeexplore.ieee.org/document/10286969/
+SLAPS: Simultaneous Localization and Phase Shift for a RIS-Equipped UAV in 5G/6G Wireless Communication Networks,https://ieeexplore.ieee.org/document/10193850/
+Intelligent Traction Inverter in Next Generation Electric Vehicles: The Health Monitoring of Silicon-Carbide Power Modules,https://ieeexplore.ieee.org/document/10180400/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+"<span _ngcontent-pvr-c129=""""",https://ieeexplore.ieee.org/author/37277656000
+"Online Competition of Trajectory Planning for Automated Parking: Benchmarks, Achievements, Learned Lessons, and Future Perspectives",https://ieeexplore.ieee.org/document/9983499/
+Stochastic Model Predictive Control With a Safety Guarantee for Automated Driving,https://ieeexplore.ieee.org/document/9410387/
+Driver Anomaly Quantification for Intelligent Vehicles: A Contrastive Learning Approach With Representation Clustering,https://ieeexplore.ieee.org/document/9745337/
+MTANet: Multitask-Aware Network With Hierarchical Multimodal Fusion for RGB-T Urban Scene Understanding,https://ieeexplore.ieee.org/document/9749834/
+Estimation of Driver’s Gaze Region From Head Position and Orientation Using Probabilistic Confidence Regions,https://ieeexplore.ieee.org/document/9672737/
+AI-TP: Attention-Based Interaction-Aware Trajectory Prediction for Autonomous Driving,https://ieeexplore.ieee.org/document/9723649/
+Deep Instance Segmentation With Automotive Radar Detection Points,https://ieeexplore.ieee.org/document/9762032/
+Reducing Waiting Times at Charging Stations With Adaptive Electric Vehicle Route Planning,https://ieeexplore.ieee.org/document/9672714/
+Path Planning Based on Deep Reinforcement Learning for Autonomous Underwater Vehicles Under Ocean Current Disturbance,https://ieeexplore.ieee.org/document/9722969/
+Fault-Tolerant Cooperative Driving at Signal-Free Intersections,https://ieeexplore.ieee.org/document/9735412/
+Deep Neural Networks With Koopman Operators for Modeling and Control of Autonomous Vehicles,https://ieeexplore.ieee.org/document/9790335/
+An Enabling Trajectory Planning Scheme for Lane Change Collision Avoidance on Highways,https://ieeexplore.ieee.org/document/9560056/
+Robustly String Stable Longitudinal Control for Vehicle Platoons Under Communication Failures: A Generalized Extended State Observer-Based Control Approach,https://ieeexplore.ieee.org/document/9721698/
+Byzantine-Fault-Tolerant Consensus via Reinforcement Learning for Permissioned Blockchain-Empowered V2X Network,https://ieeexplore.ieee.org/document/9760010/
+Robust Lane Change Decision Making for Autonomous Vehicles: An Observation Adversarial Reinforcement Learning Approach,https://ieeexplore.ieee.org/document/9750867/
+Uncertainty-Aware Model-Based Reinforcement Learning: Methodology and Application in Autonomous Driving,https://ieeexplore.ieee.org/document/9802913/
+Longitudinal Vehicle Motion Prediction in Urban Settings With Traffic Light Interaction,https://ieeexplore.ieee.org/document/9543498/
+Computation of Solution Spaces for Optimization-Based Trajectory Planning,https://ieeexplore.ieee.org/document/9434948/
+Formal Certification Methods for Automated Vehicle Safety Assessment,https://ieeexplore.ieee.org/document/9768203/
+Robust Localization for Intelligent Vehicles Based on Compressed Road Scene Map in Urban Environments,https://ieeexplore.ieee.org/document/9744419/
+Human-Like Decision Making and Motion Control for Smooth and Natural Car Following,https://ieeexplore.ieee.org/document/9492055/
+Connectivity-Based Delay-Tolerant Control of Automated Vehicles: Theory and Experiments,https://ieeexplore.ieee.org/document/9632370/
+"Learning Based Longitudinal Vehicle Platooning Threat Detection, Identification and Mitigation",https://ieeexplore.ieee.org/document/9585626/
+"Mechanical System Inspired Microscopic Traffic Model: Modeling, Analysis, and Validation",https://ieeexplore.ieee.org/document/9695257/
+Real-Time Optimization of Fuel-Consumption and Travel-Time of CAVs for Cooperative Intersection Crossing,https://ieeexplore.ieee.org/document/9735394/
+Pareto Optimal Information Flow Topology for Control of Connected Autonomous Vehicles,https://ieeexplore.ieee.org/document/9693251/
+Probabilistic Charging Power Forecast of EVCS: Reinforcement Learning Assisted Deep Learning Approach,https://ieeexplore.ieee.org/document/9760076/
+Learning Visual Semantic Map-Matching for Loosely Multi-Sensor Fusion Localization of Autonomous Vehicles,https://ieeexplore.ieee.org/document/9772400/
+A Tube-MPC Approach to Autonomous Multi-Vehicle Racing on High-Speed Ovals,https://ieeexplore.ieee.org/document/9762493/
+Parallel Learning-Based Steering Control for Autonomous Driving,https://ieeexplore.ieee.org/document/9772321/
+Adaptive Motion Cueing Algorithm Using Optimized Fuzzy Control System for Motion Simulators,https://ieeexplore.ieee.org/document/9706355/
+Cascade Learning for Driver Facial Monitoring,https://ieeexplore.ieee.org/document/9772361/
+A Less-Disturbed Ecological Driving Strategy for Connected and Automated Vehicles,https://ieeexplore.ieee.org/document/9537596/
+Haptic Assistive Control With Learning-Based Driver Intent Recognition for Semi-Autonomous Vehicles,https://ieeexplore.ieee.org/document/9662198/
+Pedestrian Behavior in Shared Spaces With Autonomous Vehicles: An Integrated Framework and Review,https://ieeexplore.ieee.org/document/9552508/
+Fixed-Time Path-Following Control of an Autonomous Vehicle With Path-Dependent Performance and Feasibility Constraints,https://ieeexplore.ieee.org/document/9573338/
+Design of a Switching Nonlinear MPC for Emission Aware Ecodriving,https://ieeexplore.ieee.org/document/9670635/
+Situation-Aware Environment Perception Using a Multi-Layer Attention Map,https://ieeexplore.ieee.org/document/9748024/
+CD-DB: A Data Storage Model for Cooperative Driving,https://ieeexplore.ieee.org/document/9712175/
+Tactical Decisions for Lane Changes or Lane Following: Assessment of Automated Driving Styles Under Real-World Conditions,https://ieeexplore.ieee.org/document/9743806/
+3D Multi-Object Tracking With Adaptive Cubature Kalman Filter for Autonomous Driving,https://ieeexplore.ieee.org/document/9732665/
+Relationship Extraction Method for Urban Rail Transit Operation Emergencies Records,https://ieeexplore.ieee.org/document/9743358/
+"Automatic Vehicle Following Under Safety, Comfort, and Road Geometry Constraints",https://ieeexplore.ieee.org/document/9780236/
+Fixed-Time Resilient Edge-Triggered Estimation and Control of Surface Vehicles for Cooperative Target Tracking Under Attacks,https://ieeexplore.ieee.org/document/9799547/
+End-to-End Autonomous Driving With Semantic Depth Cloud Mapping and Multi-Agent,https://ieeexplore.ieee.org/document/9802907/
+Data-Driven Modeling and Distributed Predictive Control of Mixed Vehicle Platoons,https://ieeexplore.ieee.org/document/9760049/
+An Event-Triggered Scheme for State Estimation of Preceding Vehicles Under Connected Vehicle Environment,https://ieeexplore.ieee.org/document/9795097/
+Traffic Object Detection and Recognition Based on the Attentional Visual Field of Drivers,https://ieeexplore.ieee.org/document/9645176/
+Lightweight Semantic-Aided Localization With Spinning LiDAR Sensor,https://ieeexplore.ieee.org/document/9495210/
+Joint Sensing and Processing Resource Allocation in Vehicular Ad-Hoc Networks,https://ieeexplore.ieee.org/document/9599394/
+Vehicle Following on a Ring Road Under Safety Constraints: Role of Connectivity and Coordination,https://ieeexplore.ieee.org/document/9708730/
+Real-Time State of Charge Estimation of Lithium-Ion Batteries Using Optimized Random Forest Regression Algorithm,https://ieeexplore.ieee.org/document/9740509/
+An Efficient Multi-Task Network for Pedestrian Intrusion Detection,https://ieeexplore.ieee.org/document/9761812/
+Sequential Convex Programming Methods for Real-Time Optimal Trajectory Planning in Autonomous Vehicle Racing,https://ieeexplore.ieee.org/document/9760138/
+Hierarchical Interpretable Imitation Learning for End-to-End Autonomous Driving,https://ieeexplore.ieee.org/document/9965619/
+Distributed Trajectory Optimization and Platooning of Vehicles to Guarantee Smooth Traffic Flow,https://ieeexplore.ieee.org/document/9785917/
+ATOP: An Attention-to-Optimization Approach for Automatic LiDAR-Camera Calibration via Cross-Modal Object Matching,https://ieeexplore.ieee.org/document/9802778/
+Down-Sized Initialization for Optimization-Based Unstructured Trajectory Planning by Only Optimizing Critical Variables,https://ieeexplore.ieee.org/document/9744540/
+Train-Centric Communication Based Autonomous Train Control System,https://ieeexplore.ieee.org/document/9834134/
+Differential Framework for Submeter-Accurate Vehicular Navigation With Cellular Signals,https://ieeexplore.ieee.org/document/9847156/
+Distributed Coordinated Brake Control for Longitudinal Collision Avoidance of Multiple Connected Automated Vehicles,https://ieeexplore.ieee.org/document/9854148/
+MLFNet: Multi-Level Fusion Network for Real-Time Semantic Segmentation of Autonomous Driving,https://ieeexplore.ieee.org/document/9779994/
+Deep Learning Model Based CO2 Emissions Prediction Using Vehicle Telematics Sensors Data,https://ieeexplore.ieee.org/document/9508812/
+Convex Vision-Based Negative Obstacle Detection Framework for Autonomous Vehicles,https://ieeexplore.ieee.org/document/9697383/
+Performance Analysis of Robust Cooperative Positioning Based on GPS/UWB Integration for Connected Autonomous Vehicles,https://ieeexplore.ieee.org/document/9689959/
+GNSS Repeater Based Differential Indoor Positioning With Multi-Epoch Measurements,https://ieeexplore.ieee.org/document/9573281/
+Thermal Infrared Single-Pedestrian Tracking for Advanced Driver Assistance System,https://ieeexplore.ieee.org/document/9669063/
+Concept of an Automotive LiDAR Target Simulator for Direct Time-of-Flight LiDAR,https://ieeexplore.ieee.org/document/9618816/
+Utilizing Human Social Norms for Multimodal Trajectory Forecasting via Group-Based Forecasting Module,https://ieeexplore.ieee.org/document/9729607/
+Mixed-Integer Motion Planning on German Roads Within the Apollo Driving Stack,https://ieeexplore.ieee.org/document/9743646/
+Structured Learning of Safety Guarantees for the Control of Uncertain Dynamical Systems,https://ieeexplore.ieee.org/document/9705158/
+Localization Using Global Magnetic Positioning System for Automated Driving Bus and Intervals for Magnetic Markers,https://ieeexplore.ieee.org/document/9723583/
+Adaptive Multi-Lane Detection Based on Robust Instance Segmentation for Intelligent Vehicles,https://ieeexplore.ieee.org/document/9735393/
+A Shared Control Design for Steering Assistance System Considering Driver Behaviors,https://ieeexplore.ieee.org/document/9750391/
+Adaptive Cost Volume Representation for Unsupervised High-Resolution Stereo Matching,https://ieeexplore.ieee.org/document/9723528/
+High-Level Decision Making for Automated Highway Driving via Behavior Cloning,https://ieeexplore.ieee.org/document/9761743/
+Rate-Splitting Multiple Access for UAV-Based RIS-Enabled Interference-Limited Vehicular Communication System,https://ieeexplore.ieee.org/document/9760044/
+Applications and Services Using Vehicular Exteroceptive Sensors: A Survey,https://ieeexplore.ieee.org/document/9795135/
+Intelligent Amphibious Ground-Aerial Vehicles: State of the Art Technology for Future Transportation,https://ieeexplore.ieee.org/document/9839587/
+Formal Development of Safe Automated Driving Using Differential Dynamic Logic,https://ieeexplore.ieee.org/document/9878242/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+"<span _ngcontent-hby-c129=""""",https://ieeexplore.ieee.org/author/37277656000
+A Parallel Emission Regulatory Framework for Intelligent Transportation Systems and Smart Cities,https://ieeexplore.ieee.org/document/10048586/
+"The Use of Intelligent Vehicles and Artificial Intelligence in Mining Operations: Ethics, Responsibility, and Sustainability",https://ieeexplore.ieee.org/document/10053624/
+Driver Behavioral Cloning for Route Following in Autonomous Vehicles Using Task Knowledge Distillation,https://ieeexplore.ieee.org/document/9857598/
+Accurate Pseudospectral Optimization of Nonlinear Model Predictive Control for High-Performance Motion Planning,https://ieeexplore.ieee.org/document/9720105/
+Milestones in Autonomous Driving and Intelligent Vehicles: Survey of Surveys,https://ieeexplore.ieee.org/document/9963987/
+Blockchain-Oriented Privacy Protection of Sensitive Data in the Internet of Vehicles,https://ieeexplore.ieee.org/document/9750863/
+Evolutionary Utility Prediction Matrix-Based Mission Planning for Unmanned Aerial Vehicles in Complex Urban Environments,https://ieeexplore.ieee.org/document/9834119/
+Consensus Formation Tracking for Multiple AUV Systems Using Distributed Bioinspired Sliding Mode Control,https://ieeexplore.ieee.org/document/9779067/
+Learning-Based Path Planning and Predictive Control for Autonomous Vehicles With Low-Cost Positioning,https://ieeexplore.ieee.org/document/9696360/
+Conflict Analysis for Cooperative Maneuvering With Status and Intent Sharing via V2X Communication,https://ieeexplore.ieee.org/document/9709116/
+A Homography-Based Visual Servo Control Approach for an Underactuated Unmanned Aerial Vehicle in GPS-Denied Environments,https://ieeexplore.ieee.org/document/9744445/
+Evaluation of Thermal Imaging on Embedded GPU Platforms for Application in Vehicular Assistance Systems,https://ieeexplore.ieee.org/document/9732195/
+Memory-Anticipation Strategy to Compensate for Communication and Actuation Delays for Strings-Stable Platooning,https://ieeexplore.ieee.org/document/9714873/
+"MetaScenario: A Framework for Driving Scenario Data Description, Storage and Indexing",https://ieeexplore.ieee.org/document/9925130/
+GNN-PMB: A Simple but Effective Online 3D Multi-Object Tracker Without Bells and Whistles,https://ieeexplore.ieee.org/document/9931411/
+Eco-Driving of General Mixed Platoons With CAVs and HDVs,https://ieeexplore.ieee.org/document/9963584/
+DRL-UTPS: DRL-Based Trajectory Planning for Unmanned Aerial Vehicles for Data Collection in Dynamic IoT Network,https://ieeexplore.ieee.org/document/9916069/
+Group Vehicle Trajectory Prediction With Global Spatio-Temporal Graph,https://ieeexplore.ieee.org/document/9864070/
+Robust Performance-Prescribed Attitude Control of Foldable Wave-Energy Powered AUV Using Optimized Backstepping Technique,https://ieeexplore.ieee.org/document/9817657/
+Distributed Cooperative Fault-Tolerant Control of High-Speed Trains With Input Saturation and Actuator Faults,https://ieeexplore.ieee.org/document/9760238/
+Adaptive Lane Change Trajectory Planning Scheme for Autonomous Vehicles Under Various Road Frictions and Vehicle Speeds,https://ieeexplore.ieee.org/document/9782570/
+Extended Object Tracking in Curvilinear Road Coordinates for Autonomous Driving,https://ieeexplore.ieee.org/document/9767760/
+Energy-Efficient Driving in Connected Corridors via Minimum Principle Control: Vehicle-in-the-Loop Experimental Verification in Mixed Fleets,https://ieeexplore.ieee.org/document/10006364/
+Coordinated Cooperative Distributed Decision-Making Using Synchronization of Local Plans,https://ieeexplore.ieee.org/document/10005821/
+Integrated Satellite Multiple Two-Way Relay Networks: Secrecy Performance Under Multiple Eves and Vehicles With Non-Ideal Hardware,https://ieeexplore.ieee.org/document/9920174/
+Challenges of Driver Drowsiness Prediction: The Remaining Steps to Implementation,https://ieeexplore.ieee.org/document/9964054/
+Interaction-Aware Decision-Making for Automated Vehicles Using Social Value Orientation,https://ieeexplore.ieee.org/document/9826385/
+"A Systematic Literature Review on Automotive Digital Forensics: Challenges, Technical Solutions and Data Collection",https://ieeexplore.ieee.org/document/9815132/
+Trajectory Tracking of Autonomous Vehicle: A Differential Flatness Approach With Disturbance-Observer-Based Control,https://ieeexplore.ieee.org/document/9807386/
+Autonomous Driving Policy Continual Learning With One-Shot Disengagement Case,https://ieeexplore.ieee.org/document/9802733/
+Engine Fuel Consumption Modelling Using Prediction Error Identification and On-Road Data,https://ieeexplore.ieee.org/document/9760034/
+Hierarchical Velocity Control Considering Traffic Signal Timings for Connected Vehicles,https://ieeexplore.ieee.org/document/9740526/
+Ideal Reference Point in Planning and Control for Automated Car-Like Vehicles,https://ieeexplore.ieee.org/document/9729443/
+Siting and Sizing Charging Infrastructure for Electric Vehicles With Coordinated Recharging,https://ieeexplore.ieee.org/document/9749822/
+Global Perception-Based Robust Parking Space Detection Using a Low-Cost Camera,https://ieeexplore.ieee.org/document/9806359/
+Hybrid State Observer Design for Estimating the Hitch Angles of Tractor-Multi Unit Trailer,https://ieeexplore.ieee.org/document/10004005/
+Detecting Darting Out Pedestrians With Occlusion Aware Sensor Fusion of Radar and Stereo Camera,https://ieeexplore.ieee.org/document/9941368/
+Location-Guided LiDAR-Based Panoptic Segmentation for Autonomous Driving,https://ieeexplore.ieee.org/document/9847060/
+A Crowd-Aided Vehicular Hybrid Sensing Framework for Intelligent Transportation Systems,https://ieeexplore.ieee.org/document/9926132/
+Event-Triggered Multi-Lane Fusion Control for 2-D Vehicle Platoon Systems With Distance Constraints,https://ieeexplore.ieee.org/document/9921331/
+Mixed-Integer and Conditional Trajectory Planning for an Autonomous Mining Truck in Loading/Dumping Scenarios: A Global Optimization Approach,https://ieeexplore.ieee.org/document/9919391/
+Bridging the View Disparity Between Radar and Camera Features for Multi-Modal Fusion 3D Object Detection,https://ieeexplore.ieee.org/document/10027465/
+"ACP-Based Modeling of the Parallel Vehicular Crowd Sensing System: Framework, Components and an Application Example",https://ieeexplore.ieee.org/document/9950337/
+Bi-Unet: A Dual Stream Network for Real-Time Highway Surface Segmentation,https://ieeexplore.ieee.org/document/9940190/
+Attention-Based Interrelation Modeling for Explainable Automated Driving,https://ieeexplore.ieee.org/document/9991055/
+A Survey on Map-Based Localization Techniques for Autonomous Vehicles,https://ieeexplore.ieee.org/document/9833300/
+Hy-Seg: A Hybrid Method for Ground Segmentation Using Point Clouds,https://ieeexplore.ieee.org/document/9810973/
+Hierarchical Estimation-Based LiDAR Odometry With Scan-to-Map Matching and Fixed-Lag Smoothing,https://ieeexplore.ieee.org/document/9772249/
+Multi-Vehicle Conflict Management With Status and Intent Sharing Under Time Delays,https://ieeexplore.ieee.org/document/9998111/
+Integrated Graphical Representation of Highway Scenarios to Improve Trajectory Prediction of Surrounding Vehicles,https://ieeexplore.ieee.org/document/9852308/
+DeepStep: Direct Detection of Walking Pedestrian From Motion by a Vehicle Camera,https://ieeexplore.ieee.org/document/9809818/
+Toward Safe and Efficient Human–Swarm Collaboration: A Hierarchical Multi-Agent Pickup and Delivery Framework,https://ieeexplore.ieee.org/document/9767625/
+Secrecy Performance for RIS-Based Integrated Satellite Vehicle Networks With a UAV Relay and MRC Eavesdropping,https://ieeexplore.ieee.org/document/9965604/
+An ML-Aided Reinforcement Learning Approach for Challenging Vehicle Maneuvers,https://ieeexplore.ieee.org/document/9963702/
+Performance and Challenges of 3D Object Detection Methods in Complex Scenes for Autonomous Driving,https://ieeexplore.ieee.org/document/9917362/
+Falsifying Motion Plans of Autonomous Vehicles With Abstractly Specified Traffic Scenarios,https://ieeexplore.ieee.org/document/9831027/
+Model-Free Cluster Formation Control of NMSVs With Bounded Inputs: A Predefined-Time Estimator-Based Approach,https://ieeexplore.ieee.org/document/9795889/
+Learning-Based Synthesis of Robust Linear Time-Invariant Controllers,https://ieeexplore.ieee.org/document/9772258/
+Love of Variety Based Latency Analysis for High Definition Map Updating: Age of Information and Distributional Robust Perspectives,https://ieeexplore.ieee.org/document/9963609/
+Stop-Line-Aided Cooperative Positioning for Connected Vehicles,https://ieeexplore.ieee.org/document/10005823/
+POMDP Motion Planning Algorithm Based on Multi-Modal Driving Intention,https://ieeexplore.ieee.org/document/9905942/
+Design and Implementation of Proximal Planning and Control of an Unmanned Ground Vehicle to Operate in Dynamic Environments,https://ieeexplore.ieee.org/document/9904317/
+Second-Order Statistics for IRS-Assisted Multiuser Vehicular Network With Co-Channel Interference,https://ieeexplore.ieee.org/document/9774008/
+Gaze Control for Active Visual SLAM via Panoramic Cost Map,https://ieeexplore.ieee.org/document/9772366/
+High Speed Emulation in a Vehicle-in-the-Loop Driving Simulator,https://ieeexplore.ieee.org/document/9743209/
+Encouraging Validatable Features in Machine Learning-Based Highly Automated Driving Functions,https://ieeexplore.ieee.org/document/9765664/
+Exploiting Linear Structure for Precision Control of Highly Nonlinear Vehicle Dynamics,https://ieeexplore.ieee.org/document/9767674/
+The Stanford Drone Dataset Is More Complex Than We Think: An Analysis of Key Characteristics,https://ieeexplore.ieee.org/document/9756311/
+Distributed-Observer-Based Distributed Control Law for Affine Nonlinear Systems and Its Application on Interconnected Cruise Control of Intelligent Vehicles,https://ieeexplore.ieee.org/document/9749156/
+Safe and Stable RL (S2RL) Driving Policies Using Control Barrier and Control Lyapunov Functions,https://ieeexplore.ieee.org/document/9737420/
+Autonomous Lateral Maneuvers for Self-Driving Vehicles in Complex Traffic Environment,https://ieeexplore.ieee.org/document/9745776/
+E-LOAM: LiDAR Odometry and Mapping With Expanded Local Structural Information,https://ieeexplore.ieee.org/document/9714804/
+Automotive Radar-Based Hitch Angle Tracking Technique for Trailer Backup Assistant Systems,https://ieeexplore.ieee.org/document/9693108/
+Gated Adversarial Network Based Environmental Enhancement Method for Driving Safety Under Adverse Weather Conditions,https://ieeexplore.ieee.org/document/9677938/
+Preliminary Study of Tactical-Level Interaction for Highly-Automated Vehicles: Its Application to Touchscreen Interface,https://ieeexplore.ieee.org/document/9693121/
+Predictive Thermal Management for an Electric Vehicle Powertrain,https://ieeexplore.ieee.org/document/9632385/
+FAIR: Towards Impartial Resource Allocation for Intelligent Vehicles With Automotive Edge Computing,https://ieeexplore.ieee.org/document/10008073/
+Predictive Neural Motion Planner for Autonomous Driving Using Graph Networks,https://ieeexplore.ieee.org/document/10007035/
+Driving Behavior Modeling and Characteristic Learning for Human-like Decision-Making in Highway,https://ieeexplore.ieee.org/document/9964318/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+"<span _ngcontent-tko-c129=""""",https://ieeexplore.ieee.org/author/37277656000
+Chat With ChatGPT on Intelligent Vehicles: An IEEE TIV Perspective,https://ieeexplore.ieee.org/document/10061356/
+HiVeGPT: Human-Machine-Augmented Intelligent Vehicles With Generative Pre-Trained Transformer,https://ieeexplore.ieee.org/document/10068744/
+Chat With ChatGPT on Interactive Engines for Intelligent Driving,https://ieeexplore.ieee.org/document/10059220/
+"Surround-View Fisheye BEV-Perception for Valet Parking: Dataset, Baseline and Distortion-Insensitive Multi-Task Framework",https://ieeexplore.ieee.org/document/9941140/
+Refined Crack Detection via LECSFormer for Autonomous Road Inspection Vehicles,https://ieeexplore.ieee.org/document/9878251/
+Integrated Post-Impact Planning and Active Safety Control for Autonomous Vehicles,https://ieeexplore.ieee.org/document/10015060/
+A Parallel Supervision System for Vehicle CO2 Emissions Based on OBD-Independent Information,https://ieeexplore.ieee.org/document/9904906/
+Predictor-Based Fixed-Time LOS Path Following Control of Underactuated USV With Unknown Disturbances,https://ieeexplore.ieee.org/document/10047827/
+Formulating Vehicle Aggressiveness Towards Social Cognitive Autonomous Driving,https://ieeexplore.ieee.org/document/10007052/
+Vision-Based Real-Time Online Vulnerable Traffic Participants Trajectory Prediction for Autonomous Vehicle,https://ieeexplore.ieee.org/document/9978668/
+Real-Time Dynamic Planning and Tracking Control of Auto-Docking for Efficient Wireless Charging,https://ieeexplore.ieee.org/document/9825476/
+Adaptive Trajectory Tracking Control With Novel Heading Angle and Velocity Compensation for Autonomous Underwater Vehicles,https://ieeexplore.ieee.org/document/10036143/
+Interaction-Aware Prediction for Cut-In Trajectories With Limited Observable Neighboring Vehicles,https://ieeexplore.ieee.org/document/10012549/
+WKN-OC: A New Deep Learning Method for Anomaly Detection in Intelligent Vehicles,https://ieeexplore.ieee.org/document/10041752/
+A Novel Prediction Algorithm of Pedestrian Activity Region for Intelligent Vehicle Collision Avoidance System,https://ieeexplore.ieee.org/document/9921332/
+Interaction-Aware Personalized Trajectory Prediction for Traffic Participant Based on Interactive Multiple Model,https://ieeexplore.ieee.org/document/9894065/
+Lane Change Strategies for Autonomous Vehicles: A Deep Reinforcement Learning Approach Based on Transformer,https://ieeexplore.ieee.org/document/9978654/
+Noncooperative Game-Based Cooperative Maneuvering of Intelligent Surface Vehicles via Accelerated Learning-Based Neural Predictors,https://ieeexplore.ieee.org/document/9950329/
+Formation Trajectory Tracking Control of UTVs: A Coupling Multi-Objective Iterative Distributed Model Predictive Control Approach,https://ieeexplore.ieee.org/document/9991077/
+Curiosity-Driven Attention for Anomaly Road Obstacles Segmentation in Autonomous Driving,https://ieeexplore.ieee.org/document/9878245/
+Self-Supervised Monocular Depth Estimation With Geometric Prior and Pixel-Level Sensitivity,https://ieeexplore.ieee.org/document/9904879/
+Indirect Shared Control Strategy for Human-Machine Cooperative Driving on Hazardous Curvy Roads,https://ieeexplore.ieee.org/document/10038483/
+Learning Real-Time Dynamic Responsive Gap-Traversing Policy for Quadrotors With Safety-Aware Exploration,https://ieeexplore.ieee.org/document/9991071/
+MSFANet: A Light Weight Object Detector Based on Context Aggregation and Attention Mechanism for Autonomous Mining Truck,https://ieeexplore.ieee.org/document/9947309/
+A Lightweight Network for Crack Detection With Split Exchange Convolution and Multi-Scale Features Fusion,https://ieeexplore.ieee.org/document/9904892/
+Extended Kalman Filter Based Resilient Formation Tracking Control of Multiple Unmanned Vehicles via Game-Theoretical Reinforcement Learning,https://ieeexplore.ieee.org/document/10018835/
+Transformer-Based Dual-Channel Self-Attention for UUV Autonomous Collision Avoidance,https://ieeexplore.ieee.org/document/10045793/
+Safe Reinforcement Learning for Model-Reference Trajectory Tracking of Uncertain Autonomous Vehicles With Model-Based Acceleration,https://ieeexplore.ieee.org/document/10005026/
+Joint Sliding-Mode Controller and Observer for Vehicle Platoon Subject to Disturbance and Acceleration Failure of Neighboring Vehicles,https://ieeexplore.ieee.org/document/9914654/
+"Instance, Scale, and Teacher Adaptive Knowledge Distillation for Visual Detection in Autonomous Driving",https://ieeexplore.ieee.org/document/9930673/
+Model Predictive Control-Based 3D Navigation of a RIS-Equipped UAV for LoS Wireless Communication With a Ground Intelligent Vehicle,https://ieeexplore.ieee.org/document/10002850/
+Optimal Trajectory Planning for Connected and Automated Vehicles in Lane-Free Traffic With Vehicle Nudging,https://ieeexplore.ieee.org/document/10032638/
+Dependency-Aware Vehicular Task Scheduling Policy for Tracking Service VEC Networks,https://ieeexplore.ieee.org/document/9961905/
+An FTSA Trajectory Elliptical Homotopy for Unmanned Vehicles Path Planning With Multi-Objective Constraints,https://ieeexplore.ieee.org/document/10018481/
+3D Multi-Object Tracking Based on Dual-Tracker and D-S Evidence Theory,https://ieeexplore.ieee.org/document/9925631/
+Output-Feedback Flexible Performance-Based Safe Formation for Underactuated Unmanned Surface Vehicles,https://ieeexplore.ieee.org/document/9964299/
+Speed Profile Generation Strategy for Efficient Merging of Automated Vehicles on Roundabouts With Realistic Traffic,https://ieeexplore.ieee.org/document/9907889/
+Non-Conservative Trajectory Planning for Automated Vehicles by Estimating Intentions of Dynamic Obstacles,https://ieeexplore.ieee.org/document/10005857/
+An Integrated Cooperative Control Strategy for EVs Accessed Community Uninterruptible Power System,https://ieeexplore.ieee.org/document/9744543/
+Research on Coordinated Control of Braking Mode Switching for Enhancing Switching Quality Considering Communication Delay and Time-Varying Model Parameters,https://ieeexplore.ieee.org/document/9965607/
+Nonlinear Backstepping Controller for an Underactuated ASV With Model Parametric Uncertainty: Design and Experimental Validation,https://ieeexplore.ieee.org/document/9947332/
+Dynamic Drifting Control for General Path Tracking of Autonomous Vehicles,https://ieeexplore.ieee.org/document/10011537/
+Optimizing Vehicles’ Tracking Accuracies While Considering Information Aging,https://ieeexplore.ieee.org/document/9525230/
+Human-Vehicle Interaction to Support Driver's Situation Awareness in Automated Vehicles: A Systematic Review,https://ieeexplore.ieee.org/document/9864310/
+Spherical-Orthogonal-Symmetric Haar Wavelet for Driver's Visual Detection,https://ieeexplore.ieee.org/document/9790032/
+Benchmarking Behavior Prediction Models in Gap Acceptance Scenarios,https://ieeexplore.ieee.org/document/10043012/
+Pose and Semantic Map Based Probabilistic Forecast of Vulnerable Road Users’ Trajectories,https://ieeexplore.ieee.org/document/9707640/
+Deep Reinforcement Learning With NMPC Assistance Nash Switching for Urban Autonomous Driving,https://ieeexplore.ieee.org/document/9757810/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+"<span _ngcontent-yoi-c129=""""",https://ieeexplore.ieee.org/author/37086194317
+DSiV: Data Science for Intelligent Vehicles,https://ieeexplore.ieee.org/document/10093064/
+Society-Centered and DAO-Powered Sustainability in Transportation 5.0: An Intelligent Vehicles Perspective,https://ieeexplore.ieee.org/document/10094041/
+Predictive Cruise Control Under Cloud Control System for Urban Bus Considering Queue Dissipation Time,https://ieeexplore.ieee.org/document/10012321/
+Learning for Vehicle-to-Vehicle Cooperative Perception Under Lossy Communication,https://ieeexplore.ieee.org/document/10077757/
+Car-Following Behavior of Human-Driven Vehicles in Mixed-Flow Traffic: A Driving Simulator Study,https://ieeexplore.ieee.org/document/10073653/
+Towards Next Generation of Pedestrian and Connected Vehicle In-the-Loop Research: A Digital Twin Co-Simulation Framework,https://ieeexplore.ieee.org/document/10057099/
+Global-Local-Feature-Fused Driver Speech Emotion Detection for Intelligent Cockpit in Automated Driving,https://ieeexplore.ieee.org/document/10077759/
+The OpenCDA Open-Source Ecosystem for Cooperative Driving Automation Research,https://ieeexplore.ieee.org/document/10045043/
+Control Sequences Generation for Testing Vehicle Extreme Operating Conditions Based on Latent Feature Space Sampling,https://ieeexplore.ieee.org/document/10013744/
+Mixed Cloud Control Testbed: Validating Vehicle-Road-Cloud Integration via Mixed Digital Twin,https://ieeexplore.ieee.org/document/10040234/
+Lightweight Edge Intelligence Empowered Near-Crash Detection Towards Real-Time Vehicle Event Logging,https://ieeexplore.ieee.org/document/10036095/
+Disturbance Observer-Based Cooperative Control of Vehicle Platoons Subject to Mismatched Disturbance,https://ieeexplore.ieee.org/document/10018490/
+Online Learning-Informed Feedforward-Feedback Controller Synthesis for Path Tracking of Autonomous Vehicles,https://ieeexplore.ieee.org/document/10002843/
+A Parallel Intelligence-Driven Resource Scheduling Scheme for Digital Twins-Based Intelligent Vehicular Systems,https://ieeexplore.ieee.org/document/10019579/
+Lane-Level Navigation Based Eco-Approach,https://ieeexplore.ieee.org/document/10024977/
+DRL-Based Computation Offloading With Queue Stability for Vehicular-Cloud-Assisted Mobile Edge Computing Systems,https://ieeexplore.ieee.org/document/9964433/
+Real-Time Dynamic Map With Crowdsourcing Vehicles in Edge Computing,https://ieeexplore.ieee.org/document/9917373/
+Event-Triggered Deep Reinforcement Learning Using Parallel Control: A Case Study in Autonomous Driving,https://ieeexplore.ieee.org/document/10081497/
+Parallel Training: An ACP-Based Training Framework for Iterative Learning in Uncertain Driving Spaces,https://ieeexplore.ieee.org/document/10054114/
+Parallel and Collaborative Passenger Flow Control of Urban Rail Transit Under Comprehensive Emergency Situation,https://ieeexplore.ieee.org/document/10011568/
+CACC Simulation Platform Designed for Urban Scenes,https://ieeexplore.ieee.org/document/10008082/
+Density-Imbalance-Eased LiDAR Point Cloud Upsampling via Feature Consistency Learning,https://ieeexplore.ieee.org/document/9743721/
+Safety-Balanced Driving-Style Aware Trajectory Planning in Intersection Scenarios With Uncertain Environment,https://ieeexplore.ieee.org/document/10026339/
+Byzantine Resilient Joint Localization and Target Tracking of Multi-Vehicle Systems,https://ieeexplore.ieee.org/document/10057048/
+Prediction-Uncertainty-Aware Threat Detection for ADAS: A Case Study on Lane-Keeping Assistance,https://ieeexplore.ieee.org/document/10061525/
+Discrete Multi-Objective Switching Topology Sliding Mode Control of Connected Autonomous Vehicles With Packet Loss,https://ieeexplore.ieee.org/document/9921316/
+Moment-Based Model Predictive Control of Autonomous Systems,https://ieeexplore.ieee.org/document/10024518/
+MUGAN: Thermal Infrared Image Colorization Using Mixed-Skipping UNet and Generative Adversarial Network,https://ieeexplore.ieee.org/document/9935274/
+Quantifying the LiDAR Sim-to-Real Domain Shift: A Detailed Investigation Using Object Detectors and Analyzing Point Clouds at Target-Level,https://ieeexplore.ieee.org/document/10057979/
+An Air-to-Ground Relay Communication Planning Method for UAVs Swarm Applications,https://ieeexplore.ieee.org/document/10018259/
+An Efficient Multilayered Linkable Ring Signature Scheme With Logarithmic Size for Anonymous Payment in Vehicle-to-Grid Networks,https://ieeexplore.ieee.org/document/9928385/
+Cross-Modal Supervision-Based Multitask Learning With Automotive Radar Raw Data,https://ieeexplore.ieee.org/document/10008067/
+Deep Reinforcement Learning Based PHEV Energy Management With Co-Recognition for Traffic Condition and Driving Style,https://ieeexplore.ieee.org/document/10012319/
+Goal-Aware RSS for Complex Scenarios via Program Logic,https://ieeexplore.ieee.org/document/9815834/
+Lateral Shared Sliding Mode Control for Lane Keeping Assist System in Steer-by-Wire Vehicles: Theory and Experiments,https://ieeexplore.ieee.org/document/9488290/
+Narrowband Jamming Mitigation Based on Multi-Resolution Analysis for Land Vehicles,https://ieeexplore.ieee.org/document/9647917/
+Performance Limit Evaluation by Evolution Test With Application to Automatic Parking System,https://ieeexplore.ieee.org/document/9645203/
+An Intelligent Congestion Avoidance Mechanism Based on Generalized Regression Neural Network for Heterogeneous Vehicular Networks,https://ieeexplore.ieee.org/document/9800910/
+Two-Step Asynchronous Iterative Formation Control for Heterogeneous Vehicles in Highway Scenarios,https://ieeexplore.ieee.org/document/9662250/
+Identifying Admissible Uncertainty Bounds for the Input of Planning Algorithms,https://ieeexplore.ieee.org/document/9568729/
+Online Maneuver Learning and Its Real-Time Application to Automated Driving System for Obstacles Avoidance,https://ieeexplore.ieee.org/document/9695217/
+Unsupervised Scalable Multimodal Driving Anomaly Detection,https://ieeexplore.ieee.org/document/9739951/
+Automated Data Transfer From ADAS to Android-Based IVI Domain Over SOME/IP,https://ieeexplore.ieee.org/document/10017338/
+Integrity Management of the Reachable Space With Lane Grid Maps,https://ieeexplore.ieee.org/document/9966935/
+Multi-Hypothesis SLAM for Non-Static Environments With Reoccurring Landmarks,https://ieeexplore.ieee.org/document/9920236/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+"<span _ngcontent-uge-c129=""""",https://ieeexplore.ieee.org/author/37085417532
+Advanced Scenario Generation for Calibration and Verification of Autonomous Vehicles,https://ieeexplore.ieee.org/document/10107450/
+"From Formula One to Autonomous One: History, Achievements, and Future Perspectives",https://ieeexplore.ieee.org/document/10106492/
+ACP-Based Energy-Efficient Schemes for Sustainable Intelligent Transportation Systems,https://ieeexplore.ieee.org/document/10107402/
+Heuristics for Multi-Vehicle Routing Problem Considering Human-Robot Interactions,https://ieeexplore.ieee.org/document/10080998/
+Railway Virtual Coupling: A Survey of Emerging Control Techniques,https://ieeexplore.ieee.org/document/10079173/
+Shared Steering Control With Predictive Risk Field Enabled by Digital Twin,https://ieeexplore.ieee.org/document/10077797/
+Learning Autonomous Control Policy for Intersection Navigation With Pedestrian Interaction,https://ieeexplore.ieee.org/document/10068808/
+Cyber-Physical Optimization-Based Fuzzy Control Strategy for Plug-in Hybrid Electric Buses Using Iterative Modified Particle Swarm Optimization,https://ieeexplore.ieee.org/document/10077782/
+Relaxed Actor-Critic With Convergence Guarantees for Continuous-Time Optimal Control of Nonlinear Systems,https://ieeexplore.ieee.org/document/10065554/
+The AD4CHE Dataset and Its Application in Typical Congestion Scenarios of Traffic Jam Pilot Systems,https://ieeexplore.ieee.org/document/10079130/
+Integrated Control of Steering and Braking for Path Tracking Using Multi-Point Linearized MPC,https://ieeexplore.ieee.org/document/9942722/
+Efficient and Unbiased Safety Test for Autonomous Driving Systems,https://ieeexplore.ieee.org/document/9915421/
+Multi-Modal Interaction-Aware Motion Prediction at Unsignalized Intersections,https://ieeexplore.ieee.org/document/10065545/
+Vehicle Control on an Uninstrumented Surface With an Off-the-Shelf Smartwatch,https://ieeexplore.ieee.org/document/10015695/
+A Comfort Quantification Method Based on Semi-Supervised Learning for Automated Vehicle at Lane Change Scenarios,https://ieeexplore.ieee.org/document/9978724/
+Multi-Modal Feature Constraint Based Tightly Coupled Monocular Visual-LiDAR Odometry and Mapping,https://ieeexplore.ieee.org/document/9921321/
+Adaptive Fixed-Time Antilock Control of Levitation System of High-Speed Maglev Train,https://ieeexplore.ieee.org/document/9733188/
+CADer: A Deep Reinforcement Learning Approach for Designing the Communication Architecture of System of Systems,https://ieeexplore.ieee.org/document/10015114/
+Adaptive Correction of Landmark for Visual Homing in Mobile Vehicles,https://ieeexplore.ieee.org/document/9913361/
+Road Shape Classification-Based Matching Between Lane Detection and HD Map for Robust Localization of Autonomous Cars,https://ieeexplore.ieee.org/document/9940999/
+Secure Task Offloading for MEC-Aided-UAV System,https://ieeexplore.ieee.org/document/9973363/
+Emergency Collision Avoidance and Mitigation Using Model Predictive Control and Artificial Potential Function,https://ieeexplore.ieee.org/document/10043007/
+Optimizing Vehicle Re-Ordering Events in Coordinated Autonomous Intersection Crossings Under CAVs' Location Uncertainty,https://ieeexplore.ieee.org/document/9976239/
+Improving 3D Vulnerable Road User Detection With Point Augmentation,https://ieeexplore.ieee.org/document/10049201/
+Open-World Learning for Traffic Scenarios Categorisation,https://ieeexplore.ieee.org/document/10078164/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+"<span _ngcontent-nvt-c129=""""",https://ieeexplore.ieee.org/author/37277656000
+Mobility 5.0: Smart Logistics and Transportation Services in Cyber-Physical-Social Systems,https://ieeexplore.ieee.org/document/10154168/
+Mining 5.0: Concept and Framework for Intelligent Mining Systems in CPSS,https://ieeexplore.ieee.org/document/10149821/
+Toward Sustainable Intelligent Transportation Systems in 2050: Fairness and Eco-Responsibility,https://ieeexplore.ieee.org/document/10154178/
+"Crowd Sensing Intelligence for ITS: Participants, Methods, and Stages",https://ieeexplore.ieee.org/document/10146514/
+Event-Triggered Model Predictive Control for Autonomous Vehicle Path Tracking: Validation Using CARLA Simulator,https://ieeexplore.ieee.org/document/10102289/
+"Level-$K$ Reasoning, Deep Reinforcement Learning, and Monte Carlo Decision Process for Fast and Safe Automated Lane Change and Speed Management",https://ieeexplore.ieee.org/document/10094029/
+An AI-Assisted Systematic Literature Review of the Impact of Vehicle Automation on Energy Consumption,https://ieeexplore.ieee.org/document/10105490/
+Optimization of Fuel Economy and Emissions Through Coordinated Energy Management for Connected Diesel Vehicles,https://ieeexplore.ieee.org/document/10107449/
+Multi-Modal Fusion Technology Based on Vehicle Information: A Survey,https://ieeexplore.ieee.org/document/10104104/
+Explaining a Machine-Learning Lane Change Model With Maximum Entropy Shapley Values,https://ieeexplore.ieee.org/document/10098901/
+Joint Optimization of Platoon Control and Resource Scheduling in Cooperative Vehicle-Infrastructure System,https://ieeexplore.ieee.org/document/10098147/
+Adaptive Neural Control of Connected Vehicular Platoons With Actuator Faults and Constraints,https://ieeexplore.ieee.org/document/10097704/
+Covariance Estimation for Pose Graph Optimization in Visual-Inertial Navigation Systems,https://ieeexplore.ieee.org/document/10091132/
+Fuzzy Adaptive Fault Tolerant Time-Varying Formation Control for Nonholonomic Multirobot Systems With Range Constraints,https://ieeexplore.ieee.org/document/10093109/
+Secure Cooperative Path Following of Autonomous Surface Vehicles Under Cyber and Physical Attacks,https://ieeexplore.ieee.org/document/10108032/
+Motion Planning for Autonomous Driving: The State of the Art and Future Perspectives,https://ieeexplore.ieee.org/document/10122127/
+Semantic-Aware Video Compression for Automotive Cameras,https://ieeexplore.ieee.org/document/10103198/
+Trajectory Planning for Autonomous Valet Parking in Narrow Environments With Enhanced Hybrid A* Search and Nonlinear Optimization,https://ieeexplore.ieee.org/document/10104141/
+STAR-RIS-Empowered Cognitive Non-Terrestrial Vehicle Network With NOMA,https://ieeexplore.ieee.org/document/10093979/
+GPS-Free Collaborative Elliptical Circumnavigation Control for Multiple Non-Holonomic Vehicles,https://ieeexplore.ieee.org/document/10032717/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+"<span _ngcontent-isn-c129=""""",https://ieeexplore.ieee.org/author/37277656000
+City 5.0: Towards Spatial Symbiotic Intelligence via DAOs and Parallel Systems,https://ieeexplore.ieee.org/document/10194971/
+Logistics 5.0: From Intelligent Networks to Sustainable Ecosystems,https://ieeexplore.ieee.org/document/10184487/
+OpenCDA-ROS: Enabling Seamless Integration of Simulation and Real-World Cooperative Driving Automation,https://ieeexplore.ieee.org/document/10192346/
+Multi-Modal 3D Object Detection in Autonomous Driving: A Survey and Taxonomy,https://ieeexplore.ieee.org/document/10093116/
+Vehicle Trajectory Prediction Method Driven by Raw Sensing Data for Intelligent Vehicles,https://ieeexplore.ieee.org/document/10097606/
+Lane Change–Intention Inference and Trajectory Prediction of Surrounding Vehicles on Highways,https://ieeexplore.ieee.org/document/10098666/
+A Human-Machine Shared Control Framework Considering Time-Varying Driver Characteristics,https://ieeexplore.ieee.org/document/10104122/
+Blockchain-Based Cooperative Computation Offloading and Secure Handover in Vehicular Edge Computing Networks,https://ieeexplore.ieee.org/document/10111050/
+Tire-Road Peak Adhesion Coefficient Estimation Based on Multisource Information Assessment,https://ieeexplore.ieee.org/document/10113181/
+Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing,https://ieeexplore.ieee.org/document/10113239/
+Fail-Safe Behavior and Motion Planning Incorporating Shared Control for Potential Driver Intervention,https://ieeexplore.ieee.org/document/10114629/
+GA-LNS Optimization for Helicopter Rescue Dispatch,https://ieeexplore.ieee.org/document/10114987/
+Layered Time-Delay Robust Control Strategy for Yaw Stability of SbW Vehicles,https://ieeexplore.ieee.org/document/10120926/
+Adaptive Bioinspired Preview Suspension Control With Constrained Velocity Planning for Autonomous Vehicles,https://ieeexplore.ieee.org/document/10120925/
+Object-Level Semantic and Velocity Feedback for Dynamic Occupancy Grids,https://ieeexplore.ieee.org/document/10125076/
+Interpretable Classifiers Based on Time-Series Motifs for Lane Change Prediction,https://ieeexplore.ieee.org/document/10125023/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+"<span _ngcontent-oea-c129=""""",https://ieeexplore.ieee.org/author/37277656000
+Development and Testing of Advanced Driver Assistance Systems Through Scenario-Based Systems Engineering,https://ieeexplore.ieee.org/document/10189094/
+Toward Fair and Thrilling Autonomous Racing: Governance Rules and Performance Metrics for the Autonomous One,https://ieeexplore.ieee.org/document/10194981/
+Emerging Trends in Intelligent Vehicles: The IEEE TIV Perspective,https://ieeexplore.ieee.org/document/10171427/
+Incorporating Driving Knowledge in Deep Learning Based Vehicle Trajectory Prediction: A Survey,https://ieeexplore.ieee.org/document/10100881/
+Multi-Agent Reinforcement Learning for Cooperative Air Transportation Services in City-Wide Autonomous Urban Air Mobility,https://ieeexplore.ieee.org/document/10144378/
+Reconfigurable Holographic Surface Aided Collaborative Wireless SLAM Using Federated Learning for Autonomous Driving,https://ieeexplore.ieee.org/document/10149400/
+Software-Defined Active LiDARs for Autonomous Driving: A Parallel Intelligence-Based Adaptive Model,https://ieeexplore.ieee.org/document/10163892/
+intrApose: Monocular Driver 6 DOF Head Pose Estimation Leveraging Camera Intrinsics,https://ieeexplore.ieee.org/document/10120976/
+HYDRO-3D: Hybrid Object Detection and Tracking for Cooperative Perception Using 3D LiDAR,https://ieeexplore.ieee.org/document/10148929/
+A Parallel Emission Regulatory System for Intelligent Transportation: The Generic Framework and Its Case Study on NOx,https://ieeexplore.ieee.org/document/10169081/
+The Unscented Kalman Filter for Nonlinear Parameter Identification of Adaptive Cruise Control Systems,https://ieeexplore.ieee.org/document/10114979/
+Privacy-Preserving Proxy Re-Encryption With Decentralized Trust Management for MEC-Empowered VANETs,https://ieeexplore.ieee.org/document/10160161/
+Adaptive Path-Tracking Control With Passivity-Based Observer by Port-Hamiltonian Model for Autonomous Vehicles,https://ieeexplore.ieee.org/document/10168250/
+A Unified Framework for Data-Driven Optimal Control of Connected Vehicles in Mixed Traffic,https://ieeexplore.ieee.org/document/10154167/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+"<span _ngcontent-ttc-c129=""""",https://ieeexplore.ieee.org/author/37277656000
+Sustainable Lifecycle Management for Automotive Development via Multi-Dimensional Circular Design Framework,https://ieeexplore.ieee.org/document/10264145/
+Adaptive Pure Pursuit: A Real-Time Path Planner Using Tracking Controllers to Plan Safe and Kinematically Feasible Paths,https://ieeexplore.ieee.org/document/10185581/
+Cooperative Path Following Control of a Team of Quadrotor-Slung-Load Systems Under Disturbances,https://ieeexplore.ieee.org/document/10122133/
+Specification-Compliant Driving Corridors for Motion Planning of Automated Vehicles,https://ieeexplore.ieee.org/document/10163843/
+VistaGPT: Generative Parallel Transformers for Vehicles With Intelligent Systems for Transport Automation,https://ieeexplore.ieee.org/document/10227873/
+NMPC-Based Integrated Thermal Management of Battery and Cabin for Electric Vehicles in Cold Weather Conditions,https://ieeexplore.ieee.org/document/10124277/
+MTP-GO: Graph-Based Probabilistic Multi-Agent Trajectory Prediction With Neural ODEs,https://ieeexplore.ieee.org/document/10143287/
+Learning From Interaction-Enhanced Scene Graph for Pedestrian Collision Risk Assessment,https://ieeexplore.ieee.org/document/10232886/
+Parallel Testing for Centralized Traffic Control Systems of Intelligent Railways,https://ieeexplore.ieee.org/document/10219055/
+Active Suspension Robust Preview Control by Considering Actuator Delay,https://ieeexplore.ieee.org/document/10138030/
+A Novel Method for Land Vehicle Positioning: Invariant Kalman Filters and Deep-Learning-Based Radar Speed Estimation,https://ieeexplore.ieee.org/document/10158411/
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857
+IEEE Transactions on Intelligent Vehicles,https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857

@@ -1,0 +1,1688 @@
+title,url
+Road crack detection interpreting background images by convolutional neural networks and a self-organizing map,10.1111/mice.13132
+Encoder–decoder with pyramid region attention for pixel-level pavement crack recognition,10.1111/mice.13128
+Cumulative absolute velocity prediction for earthquake early warning with deep learning,10.1111/mice.13065
+Unmanned aerial vehicle–human collaboration route planning for intelligent infrastructure inspection,10.1111/mice.13176
+Damage scenario analysis of bridges using crowdsourced smartphone data from passing vehicles,10.1111/mice.13130
+Machine learning–informed soil conditioning for mechanized shield tunneling,10.1111/mice.13152
+Material augmented semantic segmentation of point clouds for building elements,10.1111/mice.13198
+Investigating the min-cost minimum fleet problem through taxi data analysis,10.1111/mice.13106
+Structural performance-based anomaly detection for velocity pulse,10.1111/mice.13174
+Integrated corridor management by cooperative traffic signal and ramp metering control,10.1111/mice.13199
+An automated machine learning approach for classifying infrastructure cost data,10.1111/mice.13114
+A response-compatible ground motion generation method using physics-guided neural networks,10.1111/mice.13194
+Flutter performance simulation on streamlined bridge deck with active aerodynamic flaps,10.1111/mice.13170
+Vision-based fatigue crack automatic perception and geometric updating of finite element model for welded joint in steel structures,10.1111/mice.13166
+AI-enabled airport runway pavement distress detection using dashcam imagery,10.1111/mice.13200
+Component-level point cloud completion of bridge structures using deep learning,10.1111/mice.13218
+Multi-view stereo for weakly textured indoor 3D reconstruction,10.1111/mice.13149
+Intelligent recognition of joints and fissures in tunnel faces using an improved mask region-based convolutional neural network algorithm,10.1111/mice.13097
+Smartphone-based method for measuring maximum peak tensile and compressive strain,10.1111/mice.13204
+Intention-aware robot motion planning for safe worker–robot collaboration,10.1111/mice.13129
+Deep learning-based automatic classification of three-level surface information in bridge inspection,10.1111/mice.13117
+Predicting the life cycle durability and ecological performance of cementitious coatings with a fuzzy-stochastics–based approach,10.1111/mice.13048
+Cross-entropy-based adaptive fuzzy control for visual tracking of road cracks with unmanned mobile robot,10.1111/mice.13108
+Self-training approach for crack detection using synthesized crack images based on conditional generative adversarial network,10.1111/mice.13119
+Coloring and fusing architectural sketches by combining a Y-shaped generative adversarial network and a denoising diffusion implicit model,10.1111/mice.13116
+Real-time displacement measurement for long-span bridges using a compact vision-based system with speed-optimized template matching,10.1111/mice.13177
+Optimizing net present values of risk avoidance for mountain railway alignments with seismic performance evaluation,10.1111/mice.13125
+Inverse analysis of deformation moduli for high arch dams using the displacement reconstruction technique and multi-objective optimization,10.1111/mice.13141
+Traffic prediction via clustering and deep transfer learning with limited data,10.1111/mice.13207
+In-fleet structural health monitoring of roadway bridges using connected and autonomous vehicles’ data,10.1111/mice.13180
+Heterogeneity-oriented ensemble learning for rail monitoring based on vehicle-body vibration,10.1111/mice.13146
+Virtual-real-fusion simulation framework for evaluating and optimizing small-spatial-scale placement of cooperative roadside sensing units,10.1111/mice.13167
+Real-time ergonomic risk assessment in construction using a co-learning-powered 3D human pose estimation model,10.1111/mice.13139
+A spatiotemporal control method at isolated intersections under mixed-autonomy traffic conditions,10.1111/mice.13127
+Parallel heterogeneous data-fusion convolutional neural networks for improved rail bridge strike detection,10.1111/mice.13195
+Assessment of out-of-plane structural defects using parallel laser line scanning system,10.1111/mice.13102
+A lightweight encoder–decoder network for automatic pavement crack detection,10.1111/mice.13103
+Bayesian backcalculation of pavement properties using parallel transitional Markov chain Monte Carlo,10.1111/mice.13123
+Two algorithms for reconstructing vertical alignments exploring the neural dynamics model of Adeli and Park,10.1111/mice.13101
+Monocular 3D object detection for construction scene analysis,10.1111/mice.13143
+Urban risk assessment model to quantify earthquake-induced elevator passenger entrapment with population heatmap,10.1111/mice.13287
+A deep marked graph process model for citywide traffic congestion forecasting,10.1111/mice.13131
+365-day sectional work zone schedule optimization for road networks considering economies of scale and user cost,10.1111/mice.13273
+Urban wind field prediction based on sparse sensors and physics-informed graph-assisted auto-encoder,10.1111/mice.13147
+Generating network representations of small-scale infrastructure using generally available data,10.1111/mice.13137
+A deep learning framework based on improved self-supervised learning for ground-penetrating radar tunnel lining inspection,10.1111/mice.13042
+Geoacoustic and geophysical data-driven seafloor sediment classification through machine learning algorithms with property-centered oversampling techniques,10.1111/mice.13126
+Virtual trial assembly of large steel members with bolted connections based on multiscale point cloud fusion,10.1111/mice.13210
+Quantitative road crack evaluation by a U-Net architecture using smartphone images and Lidar data,10.1111/mice.13071
+Image quality evaluation method for surface crack detection based on standard test chart,10.1111/mice.13110
+Intelligent recognition of defects in high-speed railway slab track with limited dataset,10.1111/mice.13109
+Fast topology optimization of phononic crystal-based metastructures for vibration isolation by deep learning,10.1111/mice.13100
+A dynamic graph deep learning model with multivariate empirical mode decomposition for network-wide metro passenger flow prediction,10.1111/mice.13214
+"Data-driven out-of-order model for synchronized planning, scheduling, and execution in modular construction fit-out management",10.1111/mice.13203
+Advancing the white phase mobile traffic control paradigm to consider pedestrians,10.1111/mice.13178
+Modeling and validation of impact forces for back-calculation of pavement surface moduli,10.1111/mice.13085
+Autoencoder-based method to assess bridge health monitoring data quality,10.1111/mice.13191
+Automated flatness assessment for large quantities of full-scale precast beams using laser scanning,10.1111/mice.13162
+A method for suspenders tension identification of bridges based on the spatio-temporal correlation between the girder strain and suspenders tension,10.1111/mice.13165
+A hybrid virtual–real traffic simulation approach to reproducing the spatiotemporal distribution of bridge loads,10.1111/mice.13154
+Improving single-stage activity recognition of excavators using knowledge distillation of temporal gradient data,10.1111/mice.13157
+"Automated building damage assessment and large-scale mapping by integrating satellite imagery, GIS, and deep learning",10.1111/mice.13197
+Federated learning–based global road damage detection,10.1111/mice.13186
+Thermal contraction coordination behavior between unbound aggregate layer and asphalt mixture overlay based on the finite difference and discrete element coupling method,10.1111/mice.13183
+Large-scale seismic soil–structure interaction analysis via efficient finite element modeling and multi-GPU parallel explicit algorithm,10.1111/mice.13163
+Multi-network coordinated charging infrastructure planning for the self-sufficient renewable power highway,10.1111/mice.13196
+A rapid simplified method for determining tsunami inundation extent based on energy conservation,10.1111/mice.13168
+Smart dynamic evacuation planning and online management using vehicular communication system,10.1111/mice.13148
+Aftershock probabilistic seismic hazard analysis based on enhanced Bayesian network considering frequency information,10.1111/mice.13169
+"Corrigendum to: “Deep spatial-temporal embedding for vehicle trajectory validation and refinement”, (Computer-Aided Civil and Infrastructure Engineering, (2024), 39, (1597−1615), 10.1111/mice.13160)",10.1111/mice.13303
+Neural operator for structural simulation and bridge health monitoring,10.1111/mice.13105
+Estimation of load for tunnel lining in elastic soil using physics-informed neural network,10.1111/mice.13208
+A multi-degree-of-freedom monitoring method for slope displacement based on stereo vision,10.1111/mice.13173
+Field-tested signal controller to mitigate spillover using trajectory data,10.1111/mice.13144
+A method of concrete damage detection and localization based on weakly supervised learning,10.1111/mice.13124
+A controllable generative model for generating pavement crack images in complex scenes,10.1111/mice.13171
+Augmented reality-based method for road maintenance operators in human–robot collaborative interventions,10.1111/mice.13185
+Prior knowledge-infused neural network for efficient performance assessment of structures through few-shot incremental learning,10.1111/mice.13175
+A hierarchical control approach for virtual coupling in metro trains,10.1111/mice.13138
+High-resolution model reconstruction and bridge damage detection based on data fusion of unmanned aerial vehicles light detection and ranging data imagery,10.1111/mice.13133
+Self-training with Bayesian neural networks and spatial priors for unsupervised domain adaptation in crack segmentation,10.1111/mice.13315
+Design and development of robotic collaborative system for automated construction of reciprocal frame structures,10.1111/mice.13145
+Community-level post-hazard functionality methodology for buildings exposed to floods,10.1111/mice.13135
+"A deep-learning framework for classifying the type, location, and severity of bridge damage using drive-by measurements",10.1111/mice.13104
+Autonomous flight strategy of an unmanned aerial vehicle with multimodal information for autonomous inspection of overhead transmission facilities,10.1111/mice.13188
+Railway sleeper vibration measurement by train-borne laser Doppler vibrometer and its speed-dependent characteristics,10.1111/mice.13150
+An efficient Bayesian method with intrusive homotopy surrogate model for stochastic model updating,10.1111/mice.13206
+A large-scale dataset of buildings and construction sites,10.1111/mice.13118
+Deep spatial-temporal embedding for vehicle trajectory validation and refinement,10.1111/mice.13160
+Automated signal-based evaluation of dynamic cone resistance via machine learning for subsurface characterization,10.1111/mice.13294
+Deep reinforcement learning-based active mass driver decoupled control framework considering control–structure interaction effects,10.1111/mice.13159
+On the role of time-of-use electricity price in charge scheduling for electric bus fleets,10.1111/mice.13134
+Dynamic urban traffic rerouting with fog-cloud reinforcement learning,10.1111/mice.13115
+Seismic robustness computational methodology of community building portfolio coupled with water supply network based on probability-cloud model,10.1111/mice.13088
+Enhancing point cloud semantic segmentation in the data-scarce domain of industrial plants through synthetic data,10.1111/mice.13153
+Shovel point optimization for unmanned loader based on pile reconstruction,10.1111/mice.13190
+A lightweight Transformer-based neural network for large-scale masonry arch bridge point cloud segmentation,10.1111/mice.13201
+An intelligent optimization method for the facility environment on rural roads,10.1111/mice.13209
+Effective contact texture region aware pavement skid resistance prediction via convolutional neural network,10.1111/mice.13063
+Optimization-improved thermal–mechanical simulation of welding residual stresses in welded connections,10.1111/mice.13136
+Method for calculating pressure losses in the pipelines of slurry shield tunneling based on coupled simulation of computational fluid dynamics and discrete element method,10.1111/mice.13049
+Modeling of spatially embedded networks via regional spatial graph convolutional networks,10.1111/mice.13286
+An integration–competition network for bridge crack segmentation under complex scenes,10.1111/mice.13113
+A hybrid method for intercity transport mode identification based on mobility features and sequential relations mined from cellular signaling data,10.1111/mice.13229
+Physics-informed neural operator solver and super-resolution for solid mechanics,10.1111/mice.13292
+"Two-stage nonparametric framework for missing data imputation, uncertainty quantification, and incorporation in system identification",10.1111/mice.13237
+Hyper-reduced order models for accelerating parametric analyses on reinforced concrete structures subjected to earthquakes,10.1111/mice.13120
+Integrated urban land cover analysis using deep learning and post-classification correction,10.1111/mice.13277
+Introduction,10.1111/mice.13142
+Identifying dynamic interaction patterns in mandatory and discretionary lane changes using graph structure,10.1111/mice.13099
+Hybrid structural analysis integrating physical model and continuous-time state-space neural network model,10.1111/mice.13282
+Analysis on Braess paradox and network design considering parking in the autonomous vehicle environment,10.1111/mice.13080
+A geometric-identification–free mathematical model for recreating nonsymmetric horizontal railway alignments,10.1111/mice.13230
+Multiclass seismic damage detection of buildings using quantum convolutional neural network,10.1111/mice.13084
+Synthetic-to-realistic domain adaptation for cold-start of rail inspection systems,10.1111/mice.13087
+Fine-grained crack segmentation for high-resolution images via a multiscale cascaded network,10.1111/mice.13111
+Multistage charging facility planning on the expressway coordinated with the power structure transformation,10.1111/mice.13216
+Lightweight object detection network for multi-damage recognition of concrete bridges in complex environments,10.1111/mice.13219
+Parallel optimization method of train scheduling and shunting at complex high-speed railway stations,10.1111/mice.13077
+Multifidelity graph neural networks for efficient and accurate mesh-based partial differential equations surrogate modeling,10.1111/mice.13312
+Intelligent design of shear wall layout based on diffusion models,10.1111/mice.13236
+Wear diagnosis for rail profile data using a novel multidimensional scaling clustering method,10.1111/mice.13235
+Ego-planning-guided multi-graph convolutional network for heterogeneous agent trajectory prediction,10.1111/mice.13301
+Hybrid random aggregation model and Bayesian optimization-based convolutional neural network for estimating the concrete compressive strength,10.1111/mice.13096
+A learning-based method for optimal dynamic privileged parking permit policy,10.1111/mice.13228
+A causal discovery approach to study key mixed traffic-related factors and age of highway affecting raveling,10.1111/mice.13222
+Crack pattern–based machine learning prediction of residual drift capacity in damaged masonry walls,10.1111/mice.13212
+Mountain railway alignment optimization based on landform recognition and presetting of dominating structures,10.1111/mice.13073
+A smoothness control method for kilometer-span railway bridges with analysis of track characteristics,10.1111/mice.13215
+Robust nonlinear decision mapping approach for online bus speed control under uncertainty,10.1111/mice.13064
+Automatic generation of architecture drawings from point clouds,10.1111/mice.13302
+Computing-efficient video analytics for nighttime traffic sensing,10.1111/mice.13295
+A Lagrangian relaxation approach for resource allocation problem with capacity constraints,10.1111/mice.13223
+A traffic state prediction method based on spatial–temporal data mining of floating car data by using autoformer architecture,10.1111/mice.13179
+Machine learning–assisted drift capacity prediction models for reinforced concrete columns with shape memory alloy bars,10.1111/mice.13112
+Attention-optimized 3D segmentation and reconstruction system for sewer pipelines employing multi-view images,10.1111/mice.13241
+A multi-agent reinforcement learning model for maintenance optimization of interdependent highway pavement networks,10.1111/mice.13234
+A bi-level emergency evacuation traffic optimization model for urban evacuation problem,10.1111/mice.13284
+An automation solution to convert CAD engineering drawings into railroad station models,10.1111/mice.13091
+Transformer-based framework for accurate segmentation of high-resolution images in structural health monitoring,10.1111/mice.13211
+Bridge damage identification based on synchronous statistical moment theory of vehicle–bridge interaction,10.1111/mice.13298
+Integrated vision language and foundation model for automated estimation of building lowest floor elevation,10.1111/mice.13310
+Displacement sensing based on microscopic vision with high resolution and large measuring range,10.1111/mice.13227
+Constraint-aware optimization model for plane truss structures via single-agent gradient descent,10.1111/mice.13226
+Construction and demolition waste disposal charging scheme design,10.1111/mice.13066
+Implicit function-based continuous representation for meticulous segmentation of cracks from high-resolution images,10.1111/mice.13052
+Optimizing multiple equipment scheduling for U-shaped automated container terminals considering loading and unloading operations,10.1111/mice.13275
+Deep learning framework with Local Sparse Transformer for construction worker detection in 3D with LiDAR,10.1111/mice.13238
+A simulation-based approach for optimizing the placement of dedicated lanes for autonomous vehicles in large-scale networks,10.1111/mice.13278
+Brain-regulated learning for classifying on-site hazards with small datasets,10.1111/mice.13078
+A visual inspection and diagnosis system for bridge rivets based on a convolutional neural network,10.1111/mice.13274
+Snow- or ice-covered road detection in winter road surface conditions using deep neural networks,10.1111/mice.13233
+Railroad missing components detection via cascade region-based convolutional neural network with predefined proposal templates,10.1111/mice.13279
+Sequential aero-structural optimization method for efficient bridge design,10.1111/mice.13005
+Chained machine learning model for predicting load capacity and ductility of steel fiber–reinforced concrete beams,10.1111/mice.13164
+A generative adversarial network approach for removing motion blur in the automatic detection of pavement cracks,10.1111/mice.13231
+Multiresolution dynamic mode decomposition approach for wind pressure analysis and reconstruction around buildings,10.1111/mice.13304
+Knowledge-enhanced graph neural networks for construction material quantity estimation of reinforced concrete buildings,10.1111/mice.13094
+Image segmentation using Vision Transformer for tunnel defect assessment,10.1111/mice.13181
+A neural network-based automated methodology to identify the crack causes in masonry structures,10.1111/mice.13311
+Asphalt property prediction through high-throughput molecular dynamics simulation,10.1111/mice.13325
+Prestressing wire breakage monitoring using sound event detection,10.1111/mice.13079
+Earthquake damage detection and level classification method for wooden houses based on convolutional neural networks and onsite photos,10.1111/mice.13224
+Optimizing green splits in high-dimensional traffic signal control with trust region Bayesian optimization,10.1111/mice.13293
+Nationwide synthetic human mobility dataset construction from limited travel surveys and open data,10.1111/mice.13285
+Rapid measurement method for cable tension of cable-stayed bridges using terrestrial laser scanning,10.1111/mice.13288
+Sidewalk-based bicycle path network design incorporating equity in cycling time,10.1111/mice.13240
+Improving visual question answering for bridge inspection by pre-training with external data of image–text pairs,10.1111/mice.13086
+A rendering-based lightweight network for segmentation of high-resolution crack images,10.1111/mice.13290
+Deep Q-network learning-based active speed management under autonomous driving environments,10.1111/mice.13283
+Deep neural network based time–frequency decomposition for structural seismic responses training with synthetic samples,10.1111/mice.13242
+A multiscale model for wood combustion,10.1111/mice.13187
+Gradient boosting decision trees to study laboratory and field performance in pavement management,10.1111/mice.13322
+Quantum-enhanced machine learning technique for rapid post-earthquake assessment of building safety,10.1111/mice.13291
+Multicategory fire damage detection of post-fire reinforced concrete structural components,10.1111/mice.13314
+An efficient static solver for the lattice discrete particle model,10.1111/mice.13306
+Rapid pedestrian-level wind field prediction for early-stage design using Pareto-optimized convolutional neural networks,10.1111/mice.13221
+Vision-based real-time marine and offshore structural health monitoring system using underwater robots,10.1111/mice.12993
+Damage index based on the strain-to-displacement relation for health monitoring of railway bridges,10.1111/mice.13161
+A domain adaptation methodology for enhancing the classification of structural condition states in continuously monitored historical domes,10.1111/mice.13313
+Deep learning-based segmentation model for permeable concrete meso-structures,10.1111/mice.13300
+Aggregation formulation for on-site multidepot vehicle scheduling scenario,10.1111/mice.13217
+A physics-informed deep reinforcement learning framework for autonomous steel frame structure design,10.1111/mice.13276
+End-to-end generation of structural topology for complex architectural layouts with graph neural networks,10.1111/mice.13098
+A graph-based method for quantifying crack patterns on reinforced concrete shear walls,10.1111/mice.13009
+Collaborative optimization of intersection signals and speed guidance for buses run on overlapping route segments under connected environment,10.1111/mice.13289
+A lightweight feature attention fusion network for pavement crack segmentation,10.1111/mice.13225
+Automated reconstruction model of a cross-sectional drawing from stereo photographs based on deep learning,10.1111/mice.13083
+Telescopic broad Bayesian learning for big data stream,10.1111/mice.13305
+Context-aware hand gesture interaction for human–robot collaboration in construction,10.1111/mice.13202
+A multi-phase mechanical model of biochar–cement composites at the mesoscale,10.1111/mice.13307
+Prediction of stratified ground consolidation via a physics-informed neural network utilizing short-term excess pore water pressure monitoring data,10.1111/mice.13326
+A non-contact identification method of overweight vehicles based on computer vision and deep learning,10.1111/mice.13299
+A multisource data-driven monitoring model for assessing concrete dam behavior,10.1111/mice.13232
+A probabilistic deep reinforcement learning approach for optimal monitoring of a building adjacent to deep excavation,10.1111/mice.13021
+Biobjective optimization for railway alignment fine-grained designs with parallel existing railways,10.1111/mice.13151
+A hybrid ontology-based semantic and machine learning model for the prediction of spring breakup,10.1111/mice.13074
+Convolutional variational autoencoder for ground motion classification and generation toward efficient seismic fragility assessment,10.1111/mice.13061
+Hidden structural information reconstruction and seismic response analysis of high-rise residential shear wall buildings with limited structural data,10.1111/mice.13320
+Automated acoustic event-based monitoring of prestressing tendons breakage in concrete bridges,10.1111/mice.13321
+Cooperative control of a platoon of connected autonomous vehicles and unconnected human-driven vehicles,10.1111/mice.12995
+Infrastructure deterioration modeling with an inhomogeneous continuous time Markov chain: A latent state approach with analytic transition probabilities,10.1111/mice.12976
+A coordinated ramp metering framework based on heterogeneous causal inference,10.1111/mice.12994
+Explainable probabilistic deep learning framework for seismic assessment of structures using distribution-free prediction intervals,10.1111/mice.13015
+Weekly line planning to improve the match between rail supply and passenger demand,10.1111/mice.12941
+Modeling nonlinear flutter behavior of long-span bridges using knowledge-enhanced long short-term memory network,10.1111/mice.13000
+Optimal location planning of electric bus charging stations with integrated photovoltaic and energy storage system,10.1111/mice.12935
+Multiattribute multitask transformer framework for vision-based structural health monitoring,10.1111/mice.13067
+A decentralized robust control approach for virtually coupled train sets,10.1111/mice.12985
+Introduction,10.1111/mice.13022
+Signal timing at an isolated intersection under mixed traffic environment with self-organizing connected and automated vehicles,10.1111/mice.12961
+Automation of haulers for debris removal in tunnel construction,10.1111/mice.12997
+Post-earthquake functionality assessment of subway stations considering the interdependency among sub-systems,10.1111/mice.13008
+Bayesian neural networks with physics-aware regularization for probabilistic travel time modeling,10.1111/mice.13047
+Evidential transformer for pavement distress segmentation,10.1111/mice.13018
+On polymorphic uncertainty modeling in shell buckling,10.1111/mice.13054
+Introduction,10.1111/mice.13069
+Vision-aided three-dimensional damage quantification and finite element model geometric updating for reinforced concrete structures,10.1111/mice.12967
+A linear Bayesian filter for input and state estimation of structural systems,10.1111/mice.12973
+Improved selection strategy for multi-objective evolutionary algorithms with application to water distribution optimization problems,10.1111/mice.12964
+Three-stage non-Gaussian homogeneous random field representation over manifolds,10.1111/mice.12959
+Modeling adaptive platoon and reservation-based intersection control for connected and autonomous vehicles employing deep reinforcement learning,10.1111/mice.12956
+Prompt engineering for zero-shot and few-shot defect detection and classification using a visual-language pretrained model,10.1111/mice.12954
+Anchor-adaptive railway track detection from unmanned aerial vehicle images,10.1111/mice.13004
+Frequency domain identification of modal characteristics and loads from output-only measurements,10.1111/mice.13011
+Reinforcement learning-based control to suppress the transient vibration of semi-active structures subjected to unknown harmonic excitation,10.1111/mice.12920
+Optimization and performance of metafoundations for seismic isolation of small modular reactors,10.1111/mice.12902
+Extensible prototype learning for real-time traffic signal control,10.1111/mice.12955
+Crack identification using electrical impedance tomography and transfer learning,10.1111/mice.13043
+Hazard ontology and 4D benchmark model for facilitation of automated construction safety requirement analysis,10.1111/mice.12988
+Characterizing zebra crossing zones using LiDAR data,10.1111/mice.12968
+A deep natural language processing-based method for ontology learning of project-specific properties from building information models,10.1111/mice.13013
+Spatiotemporal matching method for tracking pavement distress using high-frequency detection data,10.1111/mice.12947
+Displacement measurement of large structures using nonoverlapping field of view multi-camera systems under six degrees of freedom ego-motion,10.1111/mice.12966
+A topology description function-enhanced neural network for topology optimization,10.1111/mice.12933
+Autonomous 3D vision-based bolt loosening assessment using micro aerial vehicles,10.1111/mice.13023
+Large-scale building damage assessment using a novel hierarchical transformer architecture on satellite images,10.1111/mice.12981
+"Correction to: Control strategy for stable formation of high-speed virtually coupled trains with disturbances and delays (Computer-Aided Civil and Infrastructure Engineering, (2023), 38, 5, (621-639), 10.1111/mice.12873)",10.1111/mice.13045
+Estimator for generalization performance of machine learning model trained by biased data collected from multiple references,10.1111/mice.12992
+Introduction,10.1111/mice.13090
+Autoencoders for unsupervised real-time bridge health assessment,10.1111/mice.12943
+Reconstruction of sub-mm 3D pavement images using recursive generative adversarial network for faster texture measurement,10.1111/mice.13020
+Profile evaluation of rail joint in a 3-m wavelength based on unsupervised learning,10.1111/mice.12945
+A 2D-connected automated vehicle car-following control algorithm,10.1111/mice.13002
+"Modeling, equilibrium, and demand management for mobility and delivery services in Mobility-as-a-Service ecosystems",10.1111/mice.12958
+Context-aware trajectory prediction for autonomous driving in heterogeneous environments,10.1111/mice.12989
+Iterative application of generative adversarial networks for improved buried pipe detection from images obtained by ground-penetrating radar,10.1111/mice.13070
+Estimating small structural motions based on sparsity enforcement,10.1111/mice.12957
+A deep learning approach for construction vehicles fill factor estimation and bucket detection in extreme environments,10.1111/mice.12952
+A feature extraction and deep learning approach for network traffic volume prediction considering detector reliability,10.1111/mice.13062
+"Transformer-optimized generation, detection, and tracking network for images with drainage pipeline defects",10.1111/mice.12970
+A modal-based Kalman filtering framework for mode extraction and decomposition of damped structures,10.1111/mice.12963
+Visual comfort generative design framework based on parametric network in underground space,10.1111/mice.12936
+Remote robotic system for 3D measurement of concrete damage in tunnel with ground vehicle and manipulator,10.1111/mice.12982
+Visual–auditory learning network for construction equipment action detection,10.1111/mice.12983
+A robust real-time method for identifying hydraulic tunnel structural defects using deep learning and computer vision,10.1111/mice.12949
+A real-time lane detection network using two-directional separation attention,10.1111/mice.13051
+Design and performance evaluation of steel beam members with plate-type locally resonant metamaterials for vibration control,10.1111/mice.12926
+A sequential exploration algorithm for the design optimization of horizontal road alignment,10.1111/mice.12990
+Collaborative passenger flow control for an urban rail transit network,10.1111/mice.13046
+"Discussion on Pak, Hongrak, Leach, Samuel, Yoon, Seung Hyun, and Paal, Stephanie German (2023) “A knowledge transfer enhanced ensemble approach to predict the shear capacity of reinforced concrete deep beams without stirrups.” Computer-Aided Civil and Infrastructure Engineering, 38:11, 1520–1535",10.1111/mice.13092
+A simulation-based generalized framework to model vulnerability of interdependent critical infrastructure systems under incomplete information,10.1111/mice.12999
+Elastic structural analysis based on graph neural network without labeled data,10.1111/mice.12944
+Bilevel optimization of a housing allocation and traffic emission problem in a predictive dynamic continuum transportation system,10.1111/mice.13007
+High-resolution 3-D geometry updating of digital functional models using point cloud processing and surface cut,10.1111/mice.13076
+Characterization of the road profile and the rotational stiffness of supports in a bridge based on axle accelerations of a crossing vehicle,10.1111/mice.12974
+Regeneration of pavement surface textures using M-sigmoid-normalized generative adversarial networks,10.1111/mice.12987
+A self-supervised monocular depth estimation model with scale recovery and transfer learning for construction scene analysis,10.1111/mice.12938
+A decoupled algorithm for cable parameter identification by frequency-ratio-offset,10.1111/mice.12980
+Efficient estimation of tuned liquid column damper inerter (TLCDI) parameters for seismic control of base-isolated structures,10.1111/mice.12929
+A methodology for scheduling within-day roadway work zones using deep neural networks and active learning,10.1111/mice.12921
+Pixel-level thin crack detection on road surface using convolutional neural network for severely imbalanced data,10.1111/mice.13010
+Efficient data dimensionality reduction method for improving road crack classification algorithms,10.1111/mice.13014
+Infrastructure-level traffic micro-simulation for probabilistic analysis of bridge loads,10.1111/mice.12950
+Attention-guided multiscale neural network for defect detection in sewer pipelines,10.1111/mice.12991
+Interpretable machine learning learns complex interactions of urban features to understand socio-economic inequality,10.1111/mice.12972
+Hybrid semantic segmentation for tunnel lining cracks based on Swin Transformer and convolutional neural network,10.1111/mice.13003
+Reinforcement-concrete bond in discrete modeling of structural concrete,10.1111/mice.12937
+A shake table protocol for seismic assessment and qualification of acceleration-sensitive nonstructural elements,10.1111/mice.12951
+Virtual modeling of asphalt mixture beam using density and distributional controls of aggregate contact,10.1111/mice.12977
+Methodology to integrate augmented reality and pattern recognition for crack detection,10.1111/mice.12932
+Autopilot model for shield tunneling machines using support vector regression and its application to previously constructed tunnels,10.1111/mice.13019
+A grid-based classification and box-based detection fusion model for asphalt pavement crack,10.1111/mice.12962
+Uncertainty quantification of structural flexibility identified from input–output measurement data for reliability analysis,10.1111/mice.12888
+Analysis of seismically-isolated two-block systems using a multi–rocking-body dynamic model,10.1111/mice.13012
+Experimentally informed modeling of the early-age stress evolution in cementitious materials using exponential conversion from creep to relaxation,10.1111/mice.13156
+Informativeness-guided active learning for deep learning–based façade defects detection,10.1111/mice.12998
+Multi-objective optimization for community building group recovery scheduling and resilience evaluation under earthquake,10.1111/mice.12882
+Severe rail wear detection with rail running band images,10.1111/mice.12948
+A hierarchical framework for improving ride comfort of autonomous vehicles via deep reinforcement learning with external knowledge,10.1111/mice.12934
+Automatic pixel-level crack detection with multi-scale feature fusion for slab tracks,10.1111/mice.12984
+"Response to discussion on “A Knowledge Transfer Enhanced Ensemble Approach to Predict the Shear Capacity of Reinforced Concrete Deep Beams without Stirrups,” Computer-Aided Civil and Infrastructure Engineering, 38:11, 1520–1535",10.1111/mice.13093
+A knowledge transfer enhanced ensemble approach to predict the shear capacity of reinforced concrete deep beams without stirrups,10.1111/mice.12965
+A dynamically bi-orthogonal solution method for a stochastic Lighthill-Whitham-Richards traffic flow model,10.1111/mice.12953
+A vision monitoring system for multipoint deflection of large-span bridge based on camera networking,10.1111/mice.13050
+Integrated optimization of multi-vehicle-type timetabling and scheduling to accommodate periodic passenger flow,10.1111/mice.12979
+Recording of bridge damage areas by 3D integration of multiple images and reduction of the variability in detected results,10.1111/mice.12971
+Scenario-oriented repetitive project scheduling optimization,10.1111/mice.12917
+Joint column generation and Lagrangian relaxation technique for incident respondent location and allocation,10.1111/mice.13016
+Unsupervised defect segmentation with pose priors,10.1111/mice.13001
+A novel U-shaped encoder–decoder network with attention mechanism for detection and evaluation of road cracks at pixel level,10.1111/mice.12826
+Effective pavement skid resistance measurement using multi-scale textures and deep fusion network,10.1111/mice.12931
+Systemic reliability of bridge networks with mobile sensing-based model updating for postevent transportation decisions,10.1111/mice.12892
+Large-scale structural health monitoring using composite recurrent neural networks and grid environments,10.1111/mice.12845
+Active learning structural model updating of a multisensory system based on Kriging method and Bayesian inference,10.1111/mice.12822
+Segment-condition-based railway track maintenance schedule optimization,10.1111/mice.12824
+Automatic concrete defect detection and reconstruction by aligning aerial images onto semantic-rich building information model,10.1111/mice.12928
+Dual attention deep learning network for automatic steel surface defect segmentation,10.1111/mice.12792
+A distributed deep reinforcement learning–based integrated dynamic bus control system in a connected environment,10.1111/mice.12803
+Mountain railway alignment optimization integrating layouts of large-scale auxiliary construction projects,10.1111/mice.12839
+Introduction,10.1111/mice.12922
+Characterizing asphalt mixtures with random aggregate gradations based on the three-dimensional locally homogeneous model,10.1111/mice.12796
+A computer vision-based deep learning model to detect wrong-way driving using pan–tilt–zoom traffic cameras,10.1111/mice.12819
+Structure-aware dehazing of sewer inspection images based on monocular depth cues,10.1111/mice.12900
+Equipment activity recognition and early fault detection in automated construction through a hybrid machine learning framework,10.1111/mice.12848
+Collaborative control of traffic signal and variable guiding lane for isolated intersection under connected and automated vehicle environment,10.1111/mice.12780
+Deformation forecasting of a hydropower dam by hybridizing a long short-term memory deep learning network with the coronavirus optimization algorithm,10.1111/mice.12810
+"3D vision-based out-of-plane displacement quantification for steel plate structures using structure-from-motion, deep learning, and point-cloud processing",10.1111/mice.12906
+A deep neural network framework for real-time on-site estimation of acceleration response spectra of seismic ground motions,10.1111/mice.12830
+Introduction,10.1111/mice.12913
+Simulation-based optimization method for arterial signal control considering traffic safety and efficiency under uncertainties,10.1111/mice.12876
+Predicting early-age stress evolution in restrained concrete by thermo-chemo-mechanical model and active ensemble learning,10.1111/mice.12915
+Partitioning of urban networks with polycentric congestion pattern for traffic management policies: Identifying protected networks,10.1111/mice.12895
+A multipoint prediction model for nonlinear displacement of concrete dam,10.1111/mice.12911
+Post-disaster damage classification based on deep multi-view image fusion,10.1111/mice.12890
+Automated image localization to support rapid building reconnaissance in a large-scale area,10.1111/mice.12828
+Automatic feature type selection in digital photogrammetry of piping,10.1111/mice.12840
+Trajectory control in roundabouts with a mixed fleet of automated and human-driven vehicles,10.1111/mice.12711
+Sampling-based modified ant colony optimization method for high-speed rail alignment development,10.1111/mice.12809
+Traffic signal optimization for partially observable traffic system and low penetration rate of connected vehicles,10.1111/mice.12897
+Rock mass fracture maps prediction based on spatiotemporal image sequence modeling,10.1111/mice.12841
+A sigmoid-optimized encoder–decoder network for crack segmentation with copy-edit-paste transfer learning,10.1111/mice.12844
+A computational framework for fluid–structure interaction with applications on stability evaluation of breakwater under combined tsunami–earthquake activity,10.1111/mice.12880
+Automated visual surveying of vehicle heights to help measure the risk of overheight collisions using deep learning and view geometry,10.1111/mice.12842
+Modeling side slopes in vertical alignment resource road construction using convex optimization,10.1111/mice.12879
+"A scalable, self-supervised calibration and confounder removal model for opportunistic monitoring of road degradation",10.1111/mice.12821
+Control strategy for stable formation of high-speed virtually coupled trains with disturbances and delays,10.1111/mice.12873
+Research on the feasibility of visual measurement using first-person perspective based on smartphones,10.1111/mice.12837
+Construction site information decentralized management using blockchain and smart contracts,10.1111/mice.12804
+Hierarchical Bayesian modeling for knowledge transfer across engineering fleets via multitask learning,10.1111/mice.12901
+Introduction,10.1111/mice.12939
+A meta–reinforcement learning algorithm for traffic signal control to automatically switch different reward functions according to the saturation level of traffic flows,10.1111/mice.12924
+Position-track-time three-dimensional network model-based improvement for high-speed rail scheduling and operation,10.1111/mice.12907
+Recognizing object surface materials to adapt robotic disinfection in infrastructure facilities,10.1111/mice.12811
+Anchor-free arbitrary-oriented construction vehicle detection with orientation-aware Gaussian heatmap,10.1111/mice.12940
+Decentralized coordination for truck platooning,10.1111/mice.12899
+Community resilience assessment via agent-based modeling approach,10.1111/mice.12916
+Detecting cracks in concrete structures with the baseline model of the visual characteristics of images,10.1111/mice.12874
+Estimation of railway track longitudinal irregularity using vehicle response with information compression and Bayesian deep learning,10.1111/mice.12802
+Vertical alignment optimization of mountain railways with terrain-driven greedy algorithm improved by Monte Carlo tree search,10.1111/mice.12923
+Seismic adaptive control of building structures with simultaneous sensor and damper faults based on dynamic neural network,10.1111/mice.12805
+Multifidelity approach for data-driven prediction models of structural behaviors with limited data,10.1111/mice.12817
+Motion planning for efficient and safe module transportation in modular integrated construction,10.1111/mice.12835
+A night pavement crack detection method based on image-to-image translation,10.1111/mice.12849
+Rolling-horizon–based strategy of fully cooperative traffic under signalized intersections,10.1111/mice.12893
+"A data-free, support vector machine-based physics-driven estimator for dynamic response computation",10.1111/mice.12823
+Mechanical–transport–chemical modeling of electrochemical repair methods for corrosion-induced cracking in marine concrete,10.1111/mice.12827
+Using machine learning to analyze and predict construction task productivity,10.1111/mice.12806
+A graph convolution network-deep reinforcement learning model for resilient water distribution network repair decisions,10.1111/mice.12813
+"Erratum: Gait trajectory-based interactive controller for lower limb exoskeletons for construction workers (Comput Aided Civ Inf., (2022), 37, (558-572), 10.1111/mice.12756)",10.1111/mice.12905
+Measuring aggregate morphologies based on three-dimensional curvature analysis,10.1111/mice.12789
+Vorogrid: A static-aware variable-density Voronoi mesh to design the tube structure tessellation of tall buildings,10.1111/mice.12912
+Precise indoor localization with 3D facility scan data,10.1111/mice.12795
+Sparse-sensing and superpixel-based segmentation model for concrete cracks,10.1111/mice.12903
+Impact of loss functions on semantic segmentation in far-field monitoring,10.1111/mice.12832
+Tiny-Crack-Net: A multiscale feature fusion network with attention mechanisms for segmentation of tiny cracks,10.1111/mice.12881
+Visualizing and quantifying small and nonstationary structural motions in video measurement,10.1111/mice.12894
+A deep reinforcement learning-based distributed connected automated vehicle control under communication failure,10.1111/mice.12825
+Fabulous story of 37 years of ongoing success of a leading and impactful journal,10.1111/mice.12927
+A nodal-based evolutionary optimization algorithm for frame structures,10.1111/mice.12834
+Deep convolutional generative adversarial networks for the generation of numerous artificial spectrum-compatible earthquake accelerograms using a limited number of ground motion records,10.1111/mice.12852
+Intelligent pixel-level detection of multiple distresses and surface design features on asphalt pavements,10.1111/mice.12909
+Computational generation of multiphase asphalt nanostructures using random fields,10.1111/mice.12898
+A smoothness optimization method for horizontal alignment considering ballasted track maintenance,10.1111/mice.12884
+Deep learning-based automatic detection of muck types for earth pressure balance shield tunneling in soft ground,10.1111/mice.12914
+A deep learning-based image captioning method to automatically generate comprehensive explanations of bridge damage,10.1111/mice.12793
+Simulation of mixed traffic with cooperative lane changes,10.1111/mice.12732
+Deciphering the noisy landscape: Architectural conceptual design space interpretation using disentangled representation learning,10.1111/mice.12908
+Factorial design–machine learning approach for predicting incident durations,10.1111/mice.12883
+Real-time automatic crack detection method based on drone,10.1111/mice.12918
+Strain measurement based on cooperative operation with different smartphones,10.1111/mice.12919
+Joint power distribution and charging network design for electrified mobility with user equilibrium decisions,10.1111/mice.12854
+Smart work package learning for decentralized fatigue monitoring through facial images,10.1111/mice.12891
+Graph-based deep learning model for knowledge base completion in constraint management of construction projects,10.1111/mice.12904
+A hybrid spatial–temporal deep learning architecture for lane detection,10.1111/mice.12829
+Asphalt pavement macrotexture reconstruction from monocular image based on deep convolutional neural network,10.1111/mice.12878
+Multi-defect segmentation from façade images using balanced copy–paste method,10.1111/mice.12808
+Intelligent monitoring and evaluation for the prefabricated construction schedule,10.1111/mice.12838
+Exploring and exploiting ant colony optimization algorithm for vertical highway alignment development,10.1111/mice.12814
+Building height calculation for an urban area based on street view images and deep learning,10.1111/mice.12930
+Vortex-induced vibration measurement of a long-span suspension bridge through noncontact sensing strategies,10.1111/mice.12712
+A stochastic programming approach to enhance the resilience of infrastructure under weather-related risk,10.1111/mice.12843
+Multi-agent modeling of hazard–household–infrastructure nexus for equitable resilience assessment,10.1111/mice.12818
+Stochastic lattice discrete particle modeling of fracture in pervious concrete,10.1111/mice.12816
+A robust subpixel refinement technique using self-adaptive edge points matching for vision-based structural displacement measurement,10.1111/mice.12889
+Optimal planning of flood-resilient electric vehicle charging stations,10.1111/mice.12853
+Deep learning–based nondestructive evaluation of reinforcement bars using ground-penetrating radar and electromagnetic induction data,10.1111/mice.12798
+Heterogeneous data-based spatiotemporal trajectory synchronization for virtual–real interactive testing,10.1111/mice.12820
+Selection of the modeling resolution of infrastructure,10.1111/mice.12807
+Image-based monitoring of bolt loosening through deep-learning-based integrated detection and tracking,10.1111/mice.12797
+Consistent iterative algorithm for stochastic dynamic traffic assignment with a stable route set,10.1111/mice.12781
+Spatiotemporal gated graph attention network for urban traffic flow prediction based on license plate recognition data,10.1111/mice.12688
+Automated inspection and monitoring of member deformation in grid structures,10.1111/mice.12766
+An efficient cutting scheme for a section view of the large-scale infrastructure models,10.1111/mice.12713
+"A deterministic algorithm for nonlinear, fatigue-based structural health monitoring",10.1111/mice.12783
+Optimum distribution of seismic energy dissipation devices using neural network and fuzzy inference system,10.1111/mice.12673
+Convolutional neural network for automated classification of jointed plain concrete pavement conditions,10.1111/mice.12640
+Visual–inertial structural acceleration measurement,10.1111/mice.12831
+A consistent second-order hydrodynamic model in the time domain for floating structures with large horizontal motions,10.1111/mice.12782
+Finicky transfer learning—A method of pruning convolutional neural networks for cracks classification on edge devices,10.1111/mice.12755
+Blockchain technology and smart contract for civil structural health monitoring system,10.1111/mice.12666
+Determination of minimum horizontal curve radius for safe stopping sight distance of vehicles overpassing truck platoons,10.1111/mice.12758
+Stability prediction for asphalt mixture based on evolutional characterization of aggregate skeleton,10.1111/mice.12742
+A warning framework for avoiding vessel-bridge and vessel-vessel collisions based on generative adversarial and dual-task networks,10.1111/mice.12757
+Simultaneous optimization of 3D alignments and station locations for dedicated high-speed railways,10.1111/mice.12739
+Similarity learning to enable building searches in post-event image data,10.1111/mice.12698
+Feasibility of energy harvesting from vertical pedestrian-induced vibrations of footbridges for smart monitoring applications,10.1111/mice.12777
+Bayesian-optimized unsupervised learning approach for structural damage detection,10.1111/mice.12680
+A neural network–based approach for fill factor estimation and bucket detection on construction vehicles,10.1111/mice.12675
+Lost data neural semantic recovery framework for structural health monitoring based on deep learning,10.1111/mice.12850
+Introduction,10.1111/mice.12875
+Mechanical state inversion method for structural performance evaluation of existing suspension bridges using 3D laser scanning,10.1111/mice.12765
+Joint location and assignment optimization of multi-type fire vehicles,10.1111/mice.12774
+Gait trajectory-based interactive controller for lower limb exoskeletons for construction workers,10.1111/mice.12756
+"Discussion on Song, T., Pu, H., Schonfeld, P., Zhang, H., Li, W., and Hu, J. (2021), Simultaneous optimization of 3-D alignments and station locations for dedicated high-speed railways, Computer-Aided Civil and Infrastructure Engineering, 37(4), March 2022",10.1111/mice.12800
+Registration-free point cloud generation technique using rotating mirrors,10.1111/mice.12707
+Automatic detection method of tunnel lining multi-defects via an enhanced You Only Look Once network,10.1111/mice.12836
+Broad Bayesian learning (BBL) for nonparametric probabilistic modeling with optimized architecture configuration,10.1111/mice.12663
+A deep reinforcement learning approach to mountain railway alignment optimization,10.1111/mice.12694
+Noncontact deflection measurement for bridge through a multi-UAVs system,10.1111/mice.12771
+Ride comfort assessment for automated vehicles utilizing a road surface model and Monte Carlo simulations,10.1111/mice.12787
+A unified normalization method for homography estimation using combined point and line correspondences,10.1111/mice.12788
+3D active dynamic actuation model for offshore cranes,10.1111/mice.12690
+A two-stage recursive ray tracing algorithm to automatically identify external building objects in building information models,10.1111/mice.12776
+A 3D reconstruction method for buildings based on monocular vision,10.1111/mice.12715
+A tribute to Professor Hojjat Adeli on the 35th anniversary of computer-aided and infrastructure engineering,10.1111/mice.12768
+An optimization strategy to improve the deep learning-based recognition model of leakage in shield tunnels,10.1111/mice.12731
+Contract bundling considerations in urban road project scheduling,10.1111/mice.12740
+Multicategory damage detection and safety assessment of post-earthquake reinforced concrete structures using deep learning,10.1111/mice.12815
+Toward a general unsupervised novelty detection framework in structural health monitoring,10.1111/mice.12812
+Hybrid deep learning architecture for rail surface segmentation and surface defect detection,10.1111/mice.12710
+Bayesian probabilistic representation of complex systems: With application to wave load modeling,10.1111/mice.12763
+Adaptive approximate Bayesian computation by subset simulation for structural model calibration,10.1111/mice.12762
+Deep learning-based object identification with instance segmentation and pseudo-LiDAR point cloud for work zone safety,10.1111/mice.12749
+Optimization of electric bus scheduling considering stochastic volatilities in trip travel time and energy consumption,10.1111/mice.12684
+"Multistage semisupervised active learning framework for crack identification, segmentation, and measurement of bridges",10.1111/mice.12851
+Introduction,10.1111/mice.12794
+Rate-dependent fracture modeling of bituminous media using nonlinear viscoelastic cohesive zone with Gaussian damage function,10.1111/mice.12754
+Automatic roller path tracking and mapping for pavement compaction using infrared thermography,10.1111/mice.12683
+Deep semantic segmentation for visual understanding on construction sites,10.1111/mice.12701
+Enriched and discriminative convolutional neural network features for pedestrian re-identification and trajectory modeling,10.1111/mice.12750
+Improving the speed of global parallel optimization on PDE models with processor affinity scheduling,10.1111/mice.12737
+A Bayesian smoothing for input-state estimation of structural systems,10.1111/mice.12733
+Automated extraction of structural beam lines and connections from point clouds of steel buildings,10.1111/mice.12699
+Optimal route design of electric transit networks considering travel reliability,10.1111/mice.12678
+A self-sparse generative adversarial network for autonomous early-stage design of architectural sketches,10.1111/mice.12759
+Autonomous detection of damage to multiple steel surfaces from 360° panoramas using deep neural networks,10.1111/mice.12686
+A high-impact and expeditious journal for computational and algorithmic computer science research,10.1111/mice.12769
+Optimization of annual planned rail maintenance,10.1111/mice.12764
+An outstanding journal for intelligent infrastructure,10.1111/mice.12760
+An influential journal elevating the civil engineering profession and raising its image in the engineering league,10.1111/mice.12751
+A deep learning model for the topological design of 2D periodic wave barriers,10.1111/mice.12743
+CACAIE: The best compendium for nature-inspired algorithms and their applications in civil engineering,10.1111/mice.12785
+Design of the submerged horizontal plate breakwater using a fully coupled hydroelastic approach,10.1111/mice.12784
+Deep reinforcement learning for automated design of reinforced concrete structures,10.1111/mice.12773
+Random fields representation over manifolds via isometric feature mapping-based dimension reduction,10.1111/mice.12752
+Nonplanar sensing skins for structural health monitoring based on electrical resistance tomography,10.1111/mice.12689
+"Response to discussion on “Simultaneous Optimization of 3-D Alignments and Station Locations for Dedicated High-Speed Railways,” Computer-Aided Civil and Infrastructure Engineering, 37:4, March 2022",10.1111/mice.12801
+Dynamics-based cross-domain structural damage detection through deep transfer learning,10.1111/mice.12692
+A procedure to model and design elastomeric-based isolation systems for the seismic protection of rocking art objects,10.1111/mice.12775
+Morphological simplification of asphaltic mixture components for micromechanical simulation using finite element method,10.1111/mice.12696
+Sensitivity analysis and uncertainty quantification of a seismic risk model for road networks,10.1111/mice.12748
+A journal with quality standards unmatched by any other journal in the field of civil engineering,10.1111/mice.12770
+A hybrid metaheuristic method for optimization of active tuned mass dampers,10.1111/mice.12790
+Crack detection using fusion features-based broad learning system and image processing,10.1111/mice.12753
+Indoor camera pose estimation via style-transfer 3D models,10.1111/mice.12714
+Computer-vision-based differential remeshing for updating the geometry of finite element model,10.1111/mice.12708
+Distributed and vectorized method of characteristics for fast transient simulations in water distribution systems,10.1111/mice.12709
+Cross-scene pavement distress detection by a novel transfer learning framework,10.1111/mice.12674
+Best journal in the field of civil engineering,10.1111/mice.12791
+Fuzzy-based method for efficient seismic performance evaluation of structures with uncertainty,10.1111/mice.12747
+A computational framework for selecting the optimal combination of seismic retrofit and insurance coverage,10.1111/mice.12778
+Efficient simulation of wind fields based on the factorization of wavenumber-frequency joint spectrum,10.1111/mice.12735
+A phase-field lattice Boltzmann method for the solution of water-entry and water-exit problems,10.1111/mice.12651
+Resilience assessment of electrified road networks subject to charging station failures,10.1111/mice.12736
+A Gaussian sampling heuristic estimation model for developing synthetic trip sets,10.1111/mice.12697
+3D convolutional neural network-based one-stage model for real-time action detection in video of construction equipment,10.1111/mice.12695
+An accelerated boundary element method via cross approximation of integral kernels for large-scale cathodic protection problems,10.1111/mice.12687
+Automatic generation of fine-grained traffic load spectrum via fusion of weigh-in-motion and vehicle spatial–temporal information,10.1111/mice.12746
+Real-time structural displacement estimation by fusing asynchronous acceleration and computer vision measurements,10.1111/mice.12767
+Metrics and methods for evaluating model-driven reality capture plans,10.1111/mice.12693
+Deep generative Bayesian optimization for sensor placement in structural health monitoring,10.1111/mice.12799
+Introduction,10.1111/mice.12779
+A computational framework for finite element modeling of traveling loads on bridges in dynamic regime,10.1111/mice.12745
+A blessing in peer review scientific publishing,10.1111/mice.12786
+Wireless SmartVision system for synchronized displacement monitoring of railroad bridges,10.1111/mice.12846
+An efficient model for predicting the dynamic performance of fine aggregate matrix,10.1111/mice.12706
+Structure-PoseNet for identification of dense dynamic displacement and three-dimensional poses of structures using a monocular camera,10.1111/mice.12761
+Damage detection of nonlinear structures using probability density ratio estimation,10.1111/mice.12772
+Complex frequency identification using real modal shapes for a structure with proportional damping,10.1111/mice.12676
+Shear loading detection of through bolts in bridge structures using a percussion-based one-dimensional memory-augmented convolutional neural network,10.1111/mice.12602
+Probabilistic vehicle weight estimation using physics-constrained generative adversarial network,10.1111/mice.12677
+Cable force estimation of a long-span cable-stayed bridge with microwave interferometric radar,10.1111/mice.12557
+Game theory-based metaheuristics for structural design optimization,10.1111/mice.12661
+Internal force monitoring and estimation of a long-span ring beam using long-gauge strain sensing,10.1111/mice.12569
+Asphalt pavement modulus backcalculation using surface deflections under moving loads,10.1111/mice.12624
+Meso-scale modeling of chloride diffusivity in mortar subjected to corrosion-induced cracking,10.1111/mice.12657
+An excellent venue for multidisciplinary research in civil and infrastructure engineering,10.1111/mice.12705
+The development of Gaussian process regression for effective regional post-earthquake building damage inference,10.1111/mice.12630
+Pushing the boundary of computational concrete engineering through interdisciplinary excellence,10.1111/mice.12734
+Introduction,10.1111/mice.12703
+Automated pavement crack detection and segmentation based on two-step convolutional neural network,10.1111/mice.12622
+A knowledge-enhanced deep reinforcement learning-based shape optimizer for aerodynamic mitigation of wind-sensitive structures,10.1111/mice.12655
+A robust prediction model for displacement of concrete dams subjected to irregular water-level fluctuations,10.1111/mice.12654
+High-performance vibration isolation technique using passive negative stiffness and semiactive damping,10.1111/mice.12681
+Efficient training of physics-informed neural networks via importance sampling,10.1111/mice.12685
+A unique journal by a unique editor in chief,10.1111/mice.12631
+An integrated transport and economic equilibrium model for autonomous transportation systems considering parking behavior,10.1111/mice.12611
+Homography-based structural displacement measurement for large structures using unmanned aerial vehicles,10.1111/mice.12645
+"The journal and the editor, an inseparable whole",10.1111/mice.12669
+Modeling of microstructural effects on the creep of hardened cement paste using an experimentally informed lattice model,10.1111/mice.12659
+Generative adversarial network for road damage detection,10.1111/mice.12561
+Structural sensing with deep learning: Strain estimation from acceleration data for fatigue assessment,10.1111/mice.12565
+Learning decision boundaries for cone penetration test classification,10.1111/mice.12662
+Modeling and field experiments on autonomous vehicle lane changing with surrounding human-driven vehicles,10.1111/mice.12540
+Mountain railway alignment optimization considering geological impacts: A cost-hazard bi-objective model,10.1111/mice.12571
+Behavioral decision-making model of the intelligent vehicle based on driving risk assessment,10.1111/mice.12507
+Viscosity characterization of confined bitumen considering microaggregate-bitumen interactions,10.1111/mice.12562
+Active learning method for risk assessment of distributed infrastructure systems,10.1111/mice.12665
+Bi-objective mountain railway alignment optimization incorporating seismic risk assessment,10.1111/mice.12607
+Reinforcement learning-based bird-view automated vehicle control to avoid crossing traffic,10.1111/mice.12572
+Structure-aware 3D reconstruction for cable-stayed bridges: A learning-based method,10.1111/mice.12568
+Introduction,10.1111/mice.12744
+Identifying safe intersection design through unsupervised feature extraction from satellite imagery,10.1111/mice.12623
+An advanced local calibration method for mechanistic-empirical pavement design,10.1111/mice.12574
+Machine learning and image processing approaches for estimating concrete surface roughness using basic cameras,10.1111/mice.12605
+A platoon regulation algorithm to improve the traffic performance of highway work zones,10.1111/mice.12691
+Pixel-level multicategory detection of visible seismic damage of reinforced concrete components,10.1111/mice.12667
+Stochastic resource leveling optimization method for trading off float consumption and project completion probability,10.1111/mice.12668
+Automatic far-field camera calibration for construction scene analysis,10.1111/mice.12660
+Introduction,10.1111/mice.12704
+Octree-based point cloud simulation to assess the readiness of highway infrastructure for autonomous vehicles,10.1111/mice.12643
+Drone scheduling for construction site surveillance,10.1111/mice.12593
+Dynamic origin-destination flow estimation using automatic vehicle identification data: A 3D convolutional neural network approach,10.1111/mice.12559
+A simulation-based optimization model for infrastructure planning for electric autonomous vehicle sharing,10.1111/mice.12506
+Automated crack evaluation of a high-rise bridge pier using a ring-type climbing robot,10.1111/mice.12550
+Semiautomated social media analytics for sensing societal impacts due to community disruptions during disasters,10.1111/mice.12576
+Learning-based image scale estimation using surface textures for quantitative visual inspection of regions-of-interest,10.1111/mice.12613
+Computational morphogenesis of free-form grid structures with Voronoi diagram,10.1111/mice.12621
+Automatic detection method of cracks from concrete surface imagery using two-step light gradient boosting machine,10.1111/mice.12564
+Kilimanjaro and CACAIE,10.1111/mice.12679
+A generative adversarial network for travel times imputation using trajectory data,10.1111/mice.12595
+Proactive proximity monitoring with instance segmentation and unmanned aerial vehicle-acquired video-frame prediction,10.1111/mice.12672
+A multilabel classification approach to identify hurricane-induced infrastructure disruptions using social media data,10.1111/mice.12573
+A multi-objective genetic algorithm strategy for robust optimal sensor placement,10.1111/mice.12646
+Estimation of internal corrosion degree from observed surface cracking of concrete using mesoscale simulation with Model Predictive Control,10.1111/mice.12620
+A decision-making methodology for risk-informed earthquake early warning,10.1111/mice.12670
+Automatic railroad track components inspection using real-time instance segmentation,10.1111/mice.12625
+Façade defects classification from imbalanced dataset using meta learning-based convolutional neural network,10.1111/mice.12578
+"One man, one vision, 35 years in the making",10.1111/mice.12664
+A tribute to 35 years of high-impact research and outstanding leadership,10.1111/mice.12619
+Coupling of microstructural and macrostructural computational approaches for asphalt pavements under rolling tire load,10.1111/mice.12535
+A heuristic method to identify optimum seismic retrofit strategies for critical infrastructure systems,10.1111/mice.12647
+Processing of mobile laser scanning data for large-scale deformation monitoring of anchored retaining structures along highways,10.1111/mice.12656
+A hybrid deep learning model for predictive flood warning and situation awareness using channel network sensors data,10.1111/mice.12629
+Reducing the effect of sample bias for small data sets with double-weighted support vector transfer regression,10.1111/mice.12617
+Structural damage detection and localization using decision tree ensemble and vibration data,10.1111/mice.12633
+A Perturbed Markovian process with state-dependent increments and measurement uncertainty in degradation modeling,10.1111/mice.12644
+An algorithm for random generation of admissible horizontal alignments for optimum layout design,10.1111/mice.12682
+A methodology for measuring the total displacements of structures using a laser–camera system,10.1111/mice.12652
+A compressive sensing method for processing and improving vision-based target-tracking signals for structural health monitoring,10.1111/mice.12653
+Distributed computing for region-wide line source dispersion modeling,10.1111/mice.12639
+A discrete lattice model for assessment of buildability performance of 3D-printed concrete,10.1111/mice.12700
+Tunnel condition assessment via cloud model-based random forests and self-training approach,10.1111/mice.12601
+A model for scholarly journals,10.1111/mice.12615
+Methodology for analyzing the trade-offs associated with multi-objective optimization in transportation asset management under uncertainty,10.1111/mice.12637
+INTRODUCTION,10.1111/mice.12636
+Convolutional neural networks for pavement roughness assessment using calibration-free vehicle dynamics,10.1111/mice.12546
+"An enduring, high-quality benchmark within the publishing landscape",10.1111/mice.12612
+Integrating segmentation and parameter estimation for recreating vertical alignments,10.1111/mice.12634
+Early damage detection by an innovative unsupervised learning method based on kernel null space and peak-over-threshold,10.1111/mice.12635
+Real-time regional seismic damage assessment framework based on long short-term memory neural network,10.1111/mice.12628
+Benefits of ensemble models in road pavement cracking classification,10.1111/mice.12543
+Graph neural network and reinforcement learning for multi-agent cooperative control of connected autonomous vehicles,10.1111/mice.12702
+Automatic modeling of prefabricated components with laser-scanned data for virtual trial assembly,10.1111/mice.12627
+Detecting safety helmet wearing on construction sites with bounding-box regression and deep transfer learning,10.1111/mice.12579
+Deep learning for post-hurricane aerial damage assessment of buildings,10.1111/mice.12658
+Noncontact cable force estimation with unmanned aerial vehicle and computer vision,10.1111/mice.12567
+Balanced semisupervised generative adversarial network for damage assessment from low-data imbalanced-class regime,10.1111/mice.12741
+Semi-supervised learning based on convolutional neural network and uncertainty filter for façade defects classification,10.1111/mice.12632
+Optimization-based three-dimensional strut-and-tie model generation for reinforced concrete,10.1111/mice.12614
+A decentralized unsupervised structural condition diagnosis approach using deep auto-encoders,10.1111/mice.12641
+Automated crack assessment and quantitative growth monitoring,10.1111/mice.12626
+The best of the field,10.1111/mice.12638
+Online estimation model for passenger flow state in urban rail transit using multi-source data,10.1111/mice.12671
+Regional resilience analysis: A multiscale approach to optimize the resilience of interdependent infrastructure,10.1111/mice.12606
+"A journal in a league of its own with a personalized review system under a highly dedicated, engaging, and influential editor-in-chief",10.1111/mice.12616
+Deep reinforcement learning for long-term pavement maintenance planning,10.1111/mice.12558
+Uncertainty-assisted deep vision structural health monitoring,10.1111/mice.12580
+Dual Bayesian inference for risk-informed vibration-based damage diagnosis,10.1111/mice.12642
+Editing a journal in the 21st century,10.1111/mice.12554
+Cross-comparison of convergence algorithms to solve trip-based dynamic traffic assignment problems,10.1111/mice.12524
+Deep learning for data anomaly detection and data compression of a long-span suspension bridge,10.1111/mice.12528
+Calibration of the descent local search algorithm parameters using orthogonal arrays,10.1111/mice.12545
+A groundbreaking journal for high technology and innovative computing in civil engineering,10.1111/mice.12603
+Network-level scheduling of road construction projects considering user and business impacts,10.1111/mice.12518
+"A diverse, transdisciplinary, and high-quality journal in the era of digital revolution",10.1111/mice.12598
+Semi-active algorithm for energy-based predictive structural control using tuned mass dampers,10.1111/mice.12474
+Automated building image extraction from 360° panoramas for postdisaster evaluation,10.1111/mice.12493
+Key to the long-term excellence of a prestigious journal: A visionary and impactful editor,10.1111/mice.12600
+Image-based crack assessment of bridge piers using unmanned aerial vehicles and three-dimensional scene reconstruction,10.1111/mice.12501
+A machine learning approach based on multifractal features for crack assessment of reinforced concrete shells,10.1111/mice.12509
+Construction project scheduling under workspace interference,10.1111/mice.12547
+Bayesian modeling of flood control networks for failure cascade characterization and vulnerability assessment,10.1111/mice.12527
+A spatio-temporal ensemble method for large-scale traffic state prediction,10.1111/mice.12459
+A journal of outstanding scientific excellence in the era of digital revolution,10.1111/mice.12604
+Fast bridge deflection monitoring through an improved feature tracing algorithm,10.1111/mice.12499
+Modeling and interpreting road geometry from a driver's perspective using variational autoencoders,10.1111/mice.12594
+Introduction,10.1111/mice.12512
+Pavement performance assessment using a cost-effective wireless accelerometer system,10.1111/mice.12544
+Real-time crack assessment using deep neural networks with wall-climbing unmanned aerial system,10.1111/mice.12519
+An iterative learning approach for network contraction: Path finding problem in stochastic time-varying networks,10.1111/mice.12460
+"Transdisciplinary, expediency, and rigor of CACAIE",10.1111/mice.12570
+Modeling evacuation route choices under influence of variable message signs,10.1111/mice.12525
+Computer vision-based recognition of 3D relationship between construction entities for monitoring struck-by accidents,10.1111/mice.12536
+A network traffic assignment model for autonomous vehicles with parking choices,10.1111/mice.12486
+Multiscale modeling of backward erosion piping in flood protection system infrastructure,10.1111/mice.12489
+Solving the first-mile ridesharing problem using autonomous vehicles,10.1111/mice.12461
+An ensemble machine learning-based modeling framework for analysis of traffic crash frequency,10.1111/mice.12485
+A deep-learning-based computer vision solution for construction vehicle detection,10.1111/mice.12530
+Framework for city-scale building seismic resilience simulation and repair scheduling with labor constraints driven by time–history analysis,10.1111/mice.12496
+A sematic and prior-knowledge-aided monocular localization method for construction-related entities,10.1111/mice.12541
+Optimal transportation planning for prefabricated products in construction,10.1111/mice.12504
+Vibration-based semantic damage segmentation for large-scale structural health monitoring,10.1111/mice.12523
+An integrated simulation method for coupled dynamic systems,10.1111/mice.12556
+A tribute to Professor Hojjat Adeli on this 35th anniversary,10.1111/mice.12596
+Introduction,10.1111/mice.12542
+An efficient algorithm for architecture design of Bayesian neural network in structural model updating,10.1111/mice.12492
+Road side unit location optimization for optimum link flow determination,10.1111/mice.12490
+Concrete crack detection with handwriting script interferences using faster region-based convolutional neural network,10.1111/mice.12497
+Outstanding journal leading the future development of civil and infrastructure engineering,10.1111/mice.12609
+A bi-level model to optimize road networks for a mixture of manual and automated driving: An evolutionary local search algorithm,10.1111/mice.12498
+Multiobjective optimization of modular structures: Weight versus geometric versatility in a Truss-Z system,10.1111/mice.12478
+Estimating dynamic origin–destination demand: A hybrid framework using license plate recognition data,10.1111/mice.12526
+Automated classification of indoor environmental quality control using stacked ensembles based on electroencephalograms,10.1111/mice.12515
+Collecting comprehensive traffic information using pavement vibration monitoring data,10.1111/mice.12448
+A graph-based method for social sensing of infrastructure disruptions in disasters,10.1111/mice.12457
+Thermoelastic finite element model updating with application to monumental buildings,10.1111/mice.12516
+Applicability of machine learning to a crack model in concrete bridges,10.1111/mice.12532
+Predicting rail defect frequency: An integrated approach using fatigue modeling and data analytics,10.1111/mice.12453
+A convolutional neural-network-based pedestrian counting model for various crowded scenes,10.1111/mice.12454
+Dynamic headway control for high-frequency bus line based on speed guidance and intersection signal adjustment,10.1111/mice.12446
+Methodology for spatio-temporal predictions of traffic counts across an urban road network and generation of an on-road greenhouse gas emission inventory,10.1111/mice.12508
+Probability and interval hybrid reliability analysis based on adaptive local approximation of projection outlines using support vector machine,10.1111/mice.12480
+Autonomous damage segmentation and measurement of glazed tiles in historic buildings via deep learning,10.1111/mice.12488
+35 years of excellence in computational methods for transportation science and technology,10.1111/mice.12610
+Vision-based automated bridge component recognition with high-level scene consistency,10.1111/mice.12505
+A significant achievement for a very significant journal,10.1111/mice.12599
+Modeling urban growth using video prediction technology: A time-dependent convolutional encoder–decoder architecture,10.1111/mice.12503
+An exemplary journal and its impact on other journals,10.1111/mice.12597
+Structural health monitoring using extremely compressed data through deep learning,10.1111/mice.12517
+A decomposition scheme for parallelization of system optimal dynamic traffic assignment on urban networks with multiple origins and destinations,10.1111/mice.12455
+A graph deep learning method for short-term traffic forecasting on large road networks,10.1111/mice.12450
+Clustering of designers based on building information modeling event logs,10.1111/mice.12551
+Postdisaster image-based damage detection and repair cost estimation of reinforced concrete buildings using dual convolutional neural networks,10.1111/mice.12549
+Wavelet-based approach of time series model for modal identification of a bridge with incomplete input,10.1111/mice.12539
+Concrete crack detection using context-aware deep semantic segmentation network,10.1111/mice.12477
+Filtering approaches for online train motion estimation with onboard power measurements,10.1111/mice.12514
+Recognition of rust grade and rust ratio of steel structures based on ensembled convolutional neural network,10.1111/mice.12563
+Combining deep features and activity context to improve recognition of activities of workers in groups,10.1111/mice.12538
+Damping estimation using enhanced virtual dynamic shaker: A web-enabled framework,10.1111/mice.12531
+Concrete bridge surface damage detection using a single-stage detector,10.1111/mice.12500
+Deep convolutional neural networks for uncertainty propagation in random fields,10.1111/mice.12510
+Lane-changing and freeway capacity: A Bayesian inference stochastic model,10.1111/mice.12529
+A spatially explicit model of postdisaster housing recovery,10.1111/mice.12487
+A modified motion planning algorithm for horizontal highway alignment development,10.1111/mice.12534
+An optimization-based traffic diversion model during construction closures,10.1111/mice.12491
+On-line system identification of structures using wavelet-Hilbert transform and sparse component analysis,10.1111/mice.12552
+Topological surrogates for computationally efficient seismic robustness optimization of water pipe networks,10.1111/mice.12566
+Convex relaxation for efficient sensor layout optimization in large-scale structures subjected to moving loads,10.1111/mice.12553
+Convolutional neural network-based wind-induced response estimation model for tall buildings,10.1111/mice.12476
+Editing a journal in the digital age,10.1111/mice.12618
+A frequency-domain noniterative algorithm for structural parameter identification of shear buildings subjected to frequent earthquakes,10.1111/mice.12502
+Broad learning for nonparametric spatial modeling with application to seismic attenuation,10.1111/mice.12494
+A locally weighted machine learning model for generalized prediction of drift capacity in seismic vulnerability assessments,10.1111/mice.12456
+A deep learning algorithm for simulating autonomous driving considering prior knowledge and temporal information,10.1111/mice.12495
+Quality over quantity: The case of a model journal,10.1111/mice.12560
+Genuinely prestigious journal beyond the borders,10.1111/mice.12608
+A three-dimensional distance transform for optimizing constrained mountain railway alignments,10.1111/mice.12475
+Hybrid physics-based modeling and data-driven method for diagnostics of masonry structures,10.1111/mice.12548
+Thirty-five years of raising the bars,10.1111/mice.12513
+Simulation-based dynamic traffic assignment: Meta-heuristic solution methods with parallel computing,10.1111/mice.12577
+A unified convolutional neural network integrated with conditional random field for pipe defect segmentation,10.1111/mice.12481
+A data-driven approach to determining freeway incident impact areas with fuzzy and graph theory-based clustering,10.1111/mice.12484
+A two-level mixed-integer programming model for bridge replacement prioritization,10.1111/mice.12482
+Machine learning based novelty detection using modal analysis,10.1111/mice.12511
+Pavement defect detection with fully convolutional network and an uncertainty framework,10.1111/mice.12533
+Network-wide traffic speed forecasting: 3D convolutional neural network with ensemble empirical mode decomposition,10.1111/mice.12575
+A critical evaluation of topology optimization results for strut-and-tie modeling of reinforced concrete,10.1111/mice.12537
+Collaborative duty cycling strategies in energy harvesting sensor networks,10.1111/mice.12522
+"Discussion on Chen, Zhuo and Liu, Xiaoyue Cathy (2019), “Roadway asset inspection sampling using high-dimensional clustering and locality-sensitivity hashing,” Computer-Aided Civil and Infrastructure Engineering, 34:2, 116–129",10.1111/mice.12442
+Roadway Asset Inspection Sampling Using High-Dimensional Clustering and Locality-Sensitivity Hashing,10.1111/mice.12405
+Detection of Structural Components in Point Clouds of Existing RC Bridges,10.1111/mice.12407
+Deep Learning for Accelerated Seismic Reliability Analysis of Transportation Networks,10.1111/mice.12359
+Lossless Compression of All Vehicle Trajectories in a Common Roadway Segment,10.1111/mice.12354
+Hybrid Demand-Driven and Cyclic Timetabling Considering Rolling Stock Circulation for a Bidirectional Railway Line,10.1111/mice.12414
+Patrol Route Planning for Incident Response Vehicles under Dispatching Station Scenarios,10.1111/mice.12384
+Using Classification Techniques for Assigning Work Descriptions to Task Groups on the Basis of Construction Vocabulary,10.1111/mice.12382
+Classical Planning Model-Based Approach to Automating Construction Planning on Earthwork Projects,10.1111/mice.12420
+Automatic Generation of Semantically Rich As-Built Building Information Models Using 2D Images: A Derivative-Free Optimization Approach,10.1111/mice.12378
+Automated classification of near-fault acceleration pulses using wavelet packets,10.1111/mice.12437
+Data-Driven Two-Level Performance Evaluation of Eddy-Current Tuned Mass Damper for Building Structures Using Shaking Table and Field Testing,10.1111/mice.12373
+Multitask Sparse Bayesian Learning with Applications in Structural Health Monitoring,10.1111/mice.12408
+Determination of Near-Optimal Restoration Programs for Transportation Networks Following Natural Hazard Events Using Simulated Annealing,10.1111/mice.12346
+Rapid Impact Testing and System Identification of Footbridges Using Particle Image Velocimetry,10.1111/mice.12390
+Sewer Discharge Estimation by Stereoscopic Imaging and Synchronized Frame Processing,10.1111/mice.12365
+Vulnerability of Interdependent Urban Infrastructure Networks: Equilibrium after Failure Propagation and Cascading Impacts,10.1111/mice.12347
+Full Gibbs Sampling Procedure for Bayesian System Identification Incorporating Sparse Bayesian Learning with Automatic Relevance Determination,10.1111/mice.12358
+Wireless charging utility maximization and intersection control delay minimization framework for electric vehicles,10.1111/mice.12439
+Uncertainty Processing and Risk Monitoring in Construction Projects Using Hierarchical Probabilistic Relational Models,10.1111/mice.12391
+Modeling the Proactive Driving Behavior of Connected Vehicles: A Cell-Based Simulation Approach,10.1111/mice.12289
+Vulnerability Mitigation of Multiple Spatially Localized Attacks on Critical Infrastructure Systems,10.1111/mice.12374
+Deep neural network with high-order neuron for the prediction of foamed concrete strength,10.1111/mice.12422
+Fragility Assessment Model of Building Structures Using Characteristics of Artificial Aftershock Motions,10.1111/mice.12369
+Probabilistic updating of fishbone model for assessing seismic damage to beam–column connections in steel moment-resisting frames,10.1111/mice.12429
+Foreground–background separation technique for crack detection,10.1111/mice.12428
+Spreading Patterns of Malicious Information on Single-Lane Platooned Traffic in a Connected Environment,10.1111/mice.12416
+Capturing and Understanding Workers’ Activities in Far-Field Surveillance Videos with Deep Action Recognition and Bayesian Nonparametric Learning,10.1111/mice.12419
+Multitype Recharge Facility Location for Electric Vehicles,10.1111/mice.12379
+3D Parametric Modeling of Complex Geological Structures for Geotechnical Engineering of Dam Foundation Based on T-Splines,10.1111/mice.12343
+A Boolean Networks Approach to Modeling and Resilience Analysis of Interdependent Critical Infrastructures,10.1111/mice.12371
+Pruning deep convolutional neural networks for efficient edge computing in condition assessment of infrastructures,10.1111/mice.12449
+Spatial and Temporal Quantification of Community Resilience: Gotham City under Attack,10.1111/mice.12318
+Autonomous UAVs for Structural Health Monitoring Using Deep Learning and an Ultrasonic Beacon System with Geo-Tagging,10.1111/mice.12375
+Multiagent Simulation for Complex Adaptive Modeling of Road Infrastructure Resilience to Sea-Level Rise,10.1111/mice.12348
+Improving repair sequence scheduling methods for postdisaster critical infrastructure systems,10.1111/mice.12435
+Variance-based global sensitivity analysis for fuzzy random structural systems,10.1111/mice.12436
+Modeling and Kinematic Path Selection of Retractable Kirigami Roof Structures,10.1111/mice.12418
+Optimization of Temporary Debris Management Site Selection and Site Service Regions for Enhancing Postdisaster Debris Removal Operations,10.1111/mice.12410
+Generalized Finite Element Formulation of Fiber Beam Elements for Distributed Plasticity in Multiple Regions,10.1111/mice.12389
+Blind Modal Identification Using Limited Sensors through Modified Sparse Component Analysis by Time-Frequency Method,10.1111/mice.12372
+A Rapidly Convergent Empirical Mode Decomposition Method for Analyzing the Environmental Temperature Effects on Stay Cable Force,10.1111/mice.12355
+Introduction,10.1111/mice.12386
+Vibration-based structural state identification by a 1-dimensional convolutional neural network,10.1111/mice.12447
+A Method for Automatically Recreating the Horizontal Alignment Geometry of Existing Railways,10.1111/mice.12392
+Dynamic Speed Harmonization in Connected Urban Street Networks,10.1111/mice.12360
+A Nonballasted Rail Track Slab Crack Identification Method Using a Level-Set-Based Active Contour Model,10.1111/mice.12362
+Introduction,10.1111/mice.12357
+A Quantum-Inspired Genetic Algorithm-Based Optimization Method for Mobile Impact Test Data Integration,10.1111/mice.12352
+Self-adaptive form generation method for reciprocal grid structures,10.1111/mice.12423
+"Optimization for Roads' Construction: Selection, Prioritization, and Scheduling",10.1111/mice.12370
+A hybrid model for estimation of ground movements due to mechanized tunnel excavation,10.1111/mice.12438
+Computer-Aided Optimization of Surveillance Cameras Placement on Construction Sites,10.1111/mice.12385
+Automatic pixel-level multiple damage detection of concrete structure using fully convolutional network,10.1111/mice.12433
+Road Damage Detection and Classification Using Deep Neural Networks with Smartphone Images,10.1111/mice.12387
+Automatic Pixel-Level Crack Detection and Measurement Using Fully Convolutional Network,10.1111/mice.12412
+Earth Dam Construction Simulation Considering Stochastic Rainfall Impact,10.1111/mice.12337
+Strategic network expansion of urban rapid transit systems: A bi-objective programming model,10.1111/mice.12426
+Measuring traffic lane-changing by converting video into space–time still images,10.1111/mice.12430
+A Fast Detection Method via Region-Based Fully Convolutional Neural Networks for Shield Tunnel Lining Defects,10.1111/mice.12367
+A Methodology to Account for One-Way Infrastructure Interdependency in Preservation Activity Scheduling,10.1111/mice.12380
+Convolutional sparse coding-based deep random vector functional link network for distress classification of road structures,10.1111/mice.12451
+Short-Term Traffic Speed Forecasting Based on Attention Convolutional Neural Network for Arterials,10.1111/mice.12417
+Integrative modeling of performance deterioration and maintenance effectiveness for infrastructure assets with missing condition data,10.1111/mice.12452
+A methodology for obtaining spatiotemporal information of the vehicles on bridges based on computer vision,10.1111/mice.12434
+Self-calibrating Bayesian real-time system identification,10.1111/mice.12441
+Integrating a Human Behavior Model within an Agent-Based Approach for Blasting Evacuation,10.1111/mice.12364
+Two Methods to Calibrate the Total Travel Demand and Variability for a Regional Traffic Network,10.1111/mice.12278
+Automated Analysis of Mobile LiDAR Data for Component-Level Damage Assessment of Building Structures during Large Coastal Storm Events,10.1111/mice.12345
+A Multivariate Computational Framework to Characterize and Rate Virtual Portland Cements,10.1111/mice.12413
+Encoder–decoder network for pixel-level road crack detection in black-box images,10.1111/mice.12440
+Optimization of reinforcement layout of scissor-type bridge using differential evolution algorithm,10.1111/mice.12432
+Plausible Petri nets as self-adaptive expert systems: A tool for infrastructure asset monitoring,10.1111/mice.12427
+Zernike-moment measurement of thin-crack width in images enabled by dual-scale deep learning,10.1111/mice.12421
+Deep Transfer Learning for Image-Based Structural Damage Recognition,10.1111/mice.12363
+Autonomous Structural Visual Inspection Using Region-Based Deep Learning for Detecting Multiple Damage Types,10.1111/mice.12334
+Lane width-based cellular automata model for mixed bicycle traffic flow,10.1111/mice.12445
+Cyber-physical approach to the optimization of semiactive structural control under multiple earthquake ground motions,10.1111/mice.12431
+Resource Leveling Based on Line of Balance and Constraint Programming,10.1111/mice.12383
+Surrogate-based toll optimization in a large-scale heterogeneously congested network,10.1111/mice.12444
+End-to-End Deep Learning Methodology for Real-Time Traffic Network Management,10.1111/mice.12376
+Identifiability-Enhanced Bayesian Frequency-Domain Substructure Identification,10.1111/mice.12377
+Deep leaf-bootstrapping generative adversarial network for structural image data augmentation,10.1111/mice.12458
+Image-based post-disaster inspection of reinforced concrete bridge systems using deep learning with Bayesian optimization,10.1111/mice.12425
+Modeling Framework and Decomposition Scheme for On-Demand Mobility Services with Ridesharing and Transfer,10.1111/mice.12366
+Automated Pixel-Level Pavement Crack Detection on 3D Asphalt Surfaces with a Recurrent Neural Network,10.1111/mice.12409
+A 3D Model for Optimizing Infrastructure Costs in Road Design,10.1111/mice.12350
+Three-dimensional multiscale finite element models for in-service performance assessment of bridges,10.1111/mice.12424
+The Multimode Resource-Constrained Project Scheduling Problem for Repetitive Activities in Construction Projects,10.1111/mice.12356
+A Match-Then-Predict Method for Daily Traffic Flow Forecasting Based on Group Method of Data Handling,10.1111/mice.12381
+Vision-Based Fatigue Crack Detection of Steel Structures Using Video Feature Tracking,10.1111/mice.12353
+Damage Classification for Masonry Historic Structures Using Convolutional Neural Networks Based on Still Images,10.1111/mice.12411
+Prediction of Bus Travel Time Using Random Forests Based on Near Neighbors,10.1111/mice.12315
+Edge-Enhanced Matching for Gradient-Based Computer Vision Displacement Measurement,10.1111/mice.12415
+Shape Generation of Grid Structures by Inverse Hanging Method Coupled with Multiobjective Optimization,10.1111/mice.12361
+Unified Vision-Based Methodology for Simultaneous Concrete Defect Detection and Geolocalization,10.1111/mice.12351
+Introduction,10.1111/mice.12483
+A Customized Hybrid Approach to Infrastructure Maintenance Scheduling in Railroad Networks under Variable Productivities,10.1111/mice.12368
+Convolutional Neural Network for Asphalt Pavement Surface Texture Analysis,10.1111/mice.12406
+"Response to discussion on “Roadway asset inspection sampling using high-dimensional clustering and locality-sensitivity hashing,” Computer-Aided Civil and Infrastructure Engineering, 34:2, 116–129, 2019",10.1111/mice.12443
+Automated Estimation of Reinforced Precast Concrete Rebar Positions Using Colored Laser Scan Data,10.1111/mice.12293
+Robust Optimal Lane Allocation for Isolated Intersections,10.1111/mice.12236
+Real Estate Property Maintenance Optimization Based on Multiobjective Multidimensional Knapsack Problem,10.1111/mice.12246
+Scheduling Optimization of Linear Schedule with Constraint Programming,10.1111/mice.12277
+Stationarity-Based Approach for the Selection of Lag Length in Cointegration Analysis Used for Structural Damage Detection,10.1111/mice.12238
+Axial Strain Accelerations Approach for Damage Localization in Statically Determinate Truss Structures,10.1111/mice.12258
+Development of a Data-Driven Framework for Real-Time Travel Time Prediction,10.1111/mice.12205
+Modal Identification for High-Rise Building Structures Using Orthogonality of Filtered Response Vectors,10.1111/mice.12310
+A Stereo-Matching Technique for Recovering 3D Information from Underwater Inspection Imagery,10.1111/mice.12307
+A Two-Dimension Dynamic Bayesian Network for Large-Scale Degradation Modeling with an Application to a Bridges Network,10.1111/mice.12286
+Multiobjective Path Optimization for Critical Infrastructure Links with Consideration to Seismic Resilience,10.1111/mice.12287
+Automated Model-Based Finding of 3D Objects in Cluttered Construction Point Cloud Models,10.1111/mice.12306
+Fusion of Photogrammetry and Video Analysis for Productivity Assessment of Earthwork Processes,10.1111/mice.12235
+A Bayesian Probabilistic Approach for Acoustic Emission-Based Rail Condition Assessment,10.1111/mice.12316
+Predicting Cost Escalation Pathways and Deviation Severities of Infrastructure Projects Using Risk-Based Econometric Models and Monte Carlo Simulation,10.1111/mice.12279
+Automatic Inventory of Road Cross-Sections from Mobile Laser Scanning System,10.1111/mice.12213
+Crew Allocation System for the Masonry Industry,10.1111/mice.12301
+A Mixed User-Equilibrium and System-Optimal Traffic Flow for Connected Vehicles Stated as a Complementarity Problem,10.1111/mice.12261
+Mapping to Cells: A Simple Method to Extract Traffic Dynamics from Probe Vehicle Data,10.1111/mice.12251
+Highway and Road Probabilistic Safety Assessment Based on Bayesian Network Models,10.1111/mice.12248
+Location Optimization of Road Weather Information System (RWIS) Network Considering the Needs of Winter Road Maintenance and the Traveling Public,10.1111/mice.12222
+Mountain Railway Alignment Optimization with Bidirectional Distance Transform and Genetic Algorithm,10.1111/mice.12280
+Direct-Iterative Hybrid Solution in Nonlinear Dynamic Structural Analysis,10.1111/mice.12259
+Development of a Vibration Attenuation Track at Low Frequencies for Urban Rail Transit,10.1111/mice.12285
+Entropy-Based Optimal Sensor Placement for Model Identification of Periodic Structures Endowed with Bolted Joints,10.1111/mice.12309
+Efficient Infrastructure Restoration Strategies Using the Recovery Operator,10.1111/mice.12314
+A Condition-Based Deterioration Model for the Stochastic Dependency of Corrosion Rate and Crack Propagation in Corroded Concrete Structures,10.1111/mice.12208
+Optimizing Passenger Flow Control and Bus-Bridging Service for Commuting Metro Lines,10.1111/mice.12265
+Seismic Data-Driven Identification of Linear Models for Building Structures Using Performance and Stabilizing Objectives,10.1111/mice.12227
+A Hybrid Branch-and-Bound and Benders Decomposition Algorithm for the Network Design Problem,10.1111/mice.12224
+The Fast Prefix Coding Algorithm (FPCA) for 3D Pavement Surface Data Compression,10.1111/mice.12243
+A Cell-Based Distributed-Coordinated Approach for Network-Level Signal Timing Optimization,10.1111/mice.12272
+A Computational Methodology for Assessing the Time-Dependent Structural Performance of Electric Road Infrastructures,10.1111/mice.12199
+Modeling Relationship between Truck Fuel Consumption and Driving Behavior Using Data from Internet of Vehicles,10.1111/mice.12344
+Multicriteria Fuzzy Analysis for a GIS-Based Management of Earthquake Scenarios,10.1111/mice.12335
+Short-Term Traffic Speed Prediction for an Urban Corridor,10.1111/mice.12221
+Bi-objective Modeling Approach for Repairing Multiple Feature Infrastructure Systems,10.1111/mice.12245
+Panoramic Image Stitching for Arbitrarily Shaped Tunnel Lining Inspection,10.1111/mice.12230
+Analytic Prioritization of Indoor Routes for Search and Rescue Operations in Hazardous Environments,10.1111/mice.12260
+Development of a Cost-Effective Wireless Vibration Weigh-In-Motion System to Estimate Axle Weights of Trucks,10.1111/mice.12269
+Bayesian Networks-Based Probabilistic Safety Analysis for Railway Lines,10.1111/mice.12195
+Optimal Fleet Size and Fare Setting in Emerging Taxi Markets with Stochastic Demand,10.1111/mice.12203
+Multiobjective Environmentally Sustainable Road Network Design Using Pareto Optimization,10.1111/mice.12305
+A 3D Evaluation Method for Rail–Highway Hump Crossings,10.1111/mice.12244
+Two-Dimensional Simulation of Turning Behavior in Potential Conflict Area of Mixed-Flow Intersections,10.1111/mice.12266
+Decentralized Networked Control of Building Structures,10.1111/mice.12225
+Increasing Signalized Intersection Capacity with Unconventional Use of Special Width Approach Lanes,10.1111/mice.12211
+Mixed-Integer Linear Programming on Work-Rest Schedule Design for Construction Sites in Hot Weather,10.1111/mice.12267
+Topological Structure Matching Measure between Two Graphs,10.1111/mice.12270
+RFID Enabled Knowledge-Based Precast Construction Supply Chain,10.1111/mice.12254
+Damage Identification for Hysteretic Structures Using a Mode Decomposition Method,10.1111/mice.12317
+Complexity Reduction and Sensitivity Analysis in Road Probabilistic Safety Assessment Bayesian Network Models,10.1111/mice.12273
+Design with Uncertainty: The Role of Future Options for Infrastructure Integration,10.1111/mice.12214
+Alternative Resilience Indices for City Ecosystems Subjected to Natural Hazards,10.1111/mice.12275
+Traffic Safety Evaluation for Railway Bridges Using Expanded Multisensor Data Fusion,10.1111/mice.12210
+Wavelet Filter Design for Pavement Roughness Analysis,10.1111/mice.12242
+"Proactive, Backward Analysis and Learning in Road Probabilistic Bayesian Network Models",10.1111/mice.12294
+A Parallel Branch and Bound Algorithm for the Resource Leveling Problem with Minimal Lags,10.1111/mice.12233
+Identification of Wind Loads and Estimation of Structural Responses of Super-Tall Buildings by an Inverse Method,10.1111/mice.12241
+3D Object Classification Using Geometric Features and Pairwise Relationships,10.1111/mice.12336
+Modal Response-Based Visual System Identification and Model Updating Methods for Building Structures,10.1111/mice.12229
+Scalable Structural Modal Identification Using Dynamic Sensor Network Data with STRIDEX,10.1111/mice.12298
+Developing a Smart Structure Using Integrated Subspace-Based Damage Detection and Semi-Active Control,10.1111/mice.12231
+Multicriteria Evaluation of Building Foundation Alternatives,10.1111/mice.12202
+Increasing the Capacity of the Intersection Downstream of the Freeway Off-Ramp Using Presignals,10.1111/mice.12281
+Vision-Based Natural Frequency Identification Using Laser Speckle Imaging and Parallel Computing,10.1111/mice.12312
+Automated Pixel-Level Pavement Crack Detection on 3D Asphalt Surfaces Using a Deep-Learning Network,10.1111/mice.12297
+Microscopic Models and Network Transformations for Automated Railway Traffic Planning,10.1111/mice.12207
+Acceleration-Based Automated Vehicle Classification on Mobile Bridges,10.1111/mice.12212
+Ground Motion Prediction Equation Development by Heterogeneous Bayesian Learning,10.1111/mice.12215
+A Fuzzy Adaptive Resonance Theory-Based Model for Mix Proportion Estimation of High-Performance Concrete,10.1111/mice.12288
+A Viscoelastic Model for the Long-Term Deflection of Segmental Prestressed Box Girders,10.1111/mice.12311
+A Spatial Network Model for Civil Infrastructure System Development,10.1111/mice.12204
+Variable Neighborhood Search for Multistage Train Classification at Strategic Planning Level,10.1111/mice.12304
+On-Line Vehicle Routing Problems for Carbon Emissions Reduction,10.1111/mice.12308
+A Wavelet Support Vector Machine-Based Neural Network Metamodel for Structural Reliability Assessment,10.1111/mice.12257
+Introduction,10.1111/mice.12333
+Blind Modal Identification in Frequency Domain Using Independent Component Analysis for High Damping Structures with Classical Damping,10.1111/mice.12303
+Optimization of Structures Subject to Stochastic Dynamic Loading,10.1111/mice.12274
+Multi-Objective Mathematical Programming Approach to Construction Laborer Assignment with Equity Consideration,10.1111/mice.12239
+Optimal Recovery from Disruptions in Water Distribution Networks,10.1111/mice.12200
+"Effect of Road Surface, Vehicle, and Device Characteristics on Energy Harvesting from Bridge–Vehicle Interactions",10.1111/mice.12228
+Pavement Crack Width Measurement Based on Laplace's Equation for Continuity and Unambiguity,10.1111/mice.12319
+Deep Learning-Based Crack Damage Detection Using Convolutional Neural Networks,10.1111/mice.12263
+Zoning-Based Vertical Transportation Optimization for Workers at Peak Time in a Skyscraper Construction,10.1111/mice.12220
+Probabilistic Baseline of Finite Element Model of Bridges under Environmental Temperature Changes,10.1111/mice.12268
+The Stretching Method for Vibration-Based Structural Health Monitoring of Civil Structures,10.1111/mice.12255
+A Computer-Aided Model for the Simulation of Railway Ballast by Random Sequential Adsorption Process,10.1111/mice.12342
+A Strategic User Equilibrium for Independently Distributed Origin-Destination Demands,10.1111/mice.12292
+Modeling Virtual Design and Construction Implementation Strategies Considering Lean Management Impacts,10.1111/mice.12253
+Announcing the 2016 Hojjat Adeli Award for Innovation in Computing,10.1111/mice.12291
+Structural Damage Detection with Automatic Feature-Extraction through Deep Learning,10.1111/mice.12313
+A Method to Identify and Classify the Vertical Alignment of Existing Roads,10.1111/mice.12302
+Probabilistic Risk Analysis of Diversion Tunnel Construction Simulation,10.1111/mice.12276
+An Approach to Dynamical Classification of Daily Traffic Patterns,10.1111/mice.12226
+A texture-Based Video Processing Methodology Using Bayesian Data Fusion for Autonomous Crack Detection on Metallic Surfaces,10.1111/mice.12256
+Structural Displacement Measurement Using an Unmanned Aerial System,10.1111/mice.12338
+Integrated Train Timetabling and Rolling Stock Scheduling Model Based on Time-Dependent Demand for Urban Rail Transit,10.1111/mice.12300
+On the Value of Monitoring Information for the Structural Integrity and Risk Management,10.1111/mice.12332
+A Mathematical Framework to Optimize Critical Infrastructure Resilience against Intentional Attacks,10.1111/mice.12252
+Long-Distance-Commuter (LDC) Lane: A New Concept for Freeway Traffic Management,10.1111/mice.12102
+A Modified Iterative Closest Point Algorithm for 3D Point Cloud Registration,10.1111/mice.12184
+Solving Detour-Based Fuel Stations Location Problems,10.1111/mice.12170
+Physical parameter identification of structural systems with hysteretic pinching,10.1111/mice.12108
+GA-Based Multi-Objective Optimization for Retrofit Design on a Multi-Core PC Cluster,10.1111/mice.12176
+Evaluation of Disturbances in Mechanized Tunneling Using Process Simulation,10.1111/mice.12143
+Particle swarm optimization with sequential niche technique for dynamic finite element model updating,10.1111/mice.12100
+Analytical Model for Viscous Wall Dampers,10.1111/mice.12161
+An Activity-Based Simulation Model for Assessing Function Space Assignment for Buildings: A Service Performance Perspective,10.1111/mice.12177
+Sensor Attitude Correction of Wireless Sensor Network for Acceleration-Based Monitoring of Civil Structures,10.1111/mice.12147
+A Clustering Algorithm for Bi-Criteria Stop Location Design with Elastic Demand,10.1111/mice.12162
+Introduction,10.1111/mice.12160
+"Corrigendum to ""Real-Time System Identification: An Algorithm for Simultaneous Model Class Selection and Parametric Identification"" [Computer-Aided Civil and Infrastructure Engineering, 30(10) (2015) 785-801]",10.1111/mice.12186
+Column Generation-Based Approach for Solving Large-Scale Ready Mixed Concrete Delivery Dispatching Problems,10.1111/mice.12182
+Particle-Fluid-Structure Interaction for Debris Flow Impact on Flexible Barriers,10.1111/mice.12165
+A Spatial-Context-Based Approach for Automated Spatial Change Analysis of Piece-Wise Linear Building Elements,10.1111/mice.12174
+"What makes a journal a ""great place"" to publish?",10.1111/mice.12123
+Sense-Think-Act Framework for Intelligent Building Energy Management,10.1111/mice.12173
+An Approach for the Automatic Classification of Work Descriptions in Construction Projects,10.1111/mice.12179
+Smart Artificial Firefly Colony Algorithm-Based Support Vector Regression for Enhanced Forecasting in Civil Engineering,10.1111/mice.12121
+Queue Profile Estimation in Congested Urban Networks with Probe Data,10.1111/mice.12095
+Structural damage detection using modal strain energy and hybrid multiobjective optimization,10.1111/mice.12122
+A Modified Sliding Mode Fault Tolerant Control for Large-Scale Civil Infrastructure,10.1111/mice.12187
+Introduction,10.1111/mice.12132
+A Natural-Language-Based Approach to Intelligent Data Retrieval and Representation for Cloud BIM,10.1111/mice.12151
+Semantic Enrichment for Building Information Modeling,10.1111/mice.12128
+Two New Methods for Solving the Path-Based Stochastic User Equilibrium Problem,10.1111/mice.12149
+Kinect-Based Pedestrian Detection for Crowded Scenes,10.1111/mice.12163
+Passive and Adaptive Damping Systems for Vibration Mitigation and Increased Fatigue Service Life of a Tied Arch Railway Bridge,10.1111/mice.12116
+Explicit time-dependent multi-hazard cost analysis based on parameterized demand models for the optimum design of bridge structures,10.1111/mice.12131
+An alternate double-single track proposal for high-speed peripheral railway lines,10.1111/mice.12083
+A sparsity-inducing optimization-based algorithm for planar patches extraction from noisy point-cloud data,10.1111/mice.12063
+Dynamic Shared-Taxi Dispatch Algorithm with Hybrid-Simulated Annealing,10.1111/mice.12157
+Announcing the Recipient of 2014 Hojjat Adeli Award for Innovation in Computing,10.1111/mice.12167
+Effect of Pulse-and-Glide Strategy on Traffic Flow for a Platoon of Mixed Automated and Manually Driven Vehicles,10.1111/mice.12168
+Vision-Based Automated Crack Detection for Bridge Inspection,10.1111/mice.12141
+A Time Partitioning Technique for Railway Line Design and Timetable Optimization,10.1111/mice.12194
+A Computationally Efficient Algorithm for Real-Time Tracking the Abrupt Stiffness Degradations of Structural Elements,10.1111/mice.12217
+Applying projection-based methods to the asymmetric traffic assignment problem,10.1111/mice.12069
+Probabilistic assessment of civil infrastructure resilience to earthquakes,10.1111/mice.12092
+Bayesian modeling of external corrosion in underground pipelines based on the integration of markov chain monte carlo techniques and clustered inspection data,10.1111/mice.12096
+Stochastic Tension-Stiffening Approach for the Solution of Serviceability Problems in Reinforced Concrete: Exploration of Predictive Capacity,10.1111/mice.12183
+A Test Method for Damage Diagnosis of Suspension Bridge Suspender Cables,10.1111/mice.12144
+Monitoring the mechanical and structural behavior of the pavement structure using electronic sensors,10.1111/mice.12104
+Simulation-Based Seismic Risk Assessment of Gas Distribution Networks,10.1111/mice.12105
+Semiautomatic extraction of road horizontal alignment from a mobile LiDAR system,10.1111/mice.12087
+A Markovian-Bayesian Network for Risk Analysis of High Speed and Conventional Railway Lines Integrating Human Errors,10.1111/mice.12153
+Optimal Mainline Variable Speed Limit Control to Improve Safety on Large-Scale Freeway Segments,10.1111/mice.12164
+Robust Optimization Strategy for the Shortest Path Problem under Uncertain Link Travel Cost Distribution,10.1111/mice.12103
+Integrated Inspection Scheduling and Maintenance Planning for Infrastructure Systems,10.1111/mice.12178
+Hierarchical refinement of latin hypercube samples,10.1111/mice.12088
+A Two-Dimensional Plum-Blossom Sensor Array-Based Multiple Signal Classification Method for Impact Localization in Composite Structures,10.1111/mice.12198
+A Novel Image Registration Algorithm for Indoor and Built Environment Applications,10.1111/mice.12156
+Non-Uniform B-Spline Surface Fitting from Unordered 3D Point Clouds for As-Built Modeling,10.1111/mice.12192
+Studies into computational intelligence and evolutionary approaches for model-free identification of hysteretic systems,10.1111/mice.12126
+A grey system theory-based default prediction model for construction firms,10.1111/mice.12074
+Emergency Response in Complex Buildings: Automated Selection of Safest and Balanced Routes,10.1111/mice.12197
+Announcing the 2015 Hojjat Adeli Award for Innovation in Computing,10.1111/mice.12218
+Automatic Morphologic Analysis of Quasi-Periodic Masonry Walls from LiDAR,10.1111/mice.12145
+Statistical Regularization for Identification of Structural Parameters and External Loadings Using State Space Models,10.1111/mice.12169
+Communities of Interest-Interest of Communities: Social and Semantic Analysis of Communities in Infrastructure Discussion Networks,10.1111/mice.12152
+Stochastic Tension-Stiffening Approach for the Solution of Serviceability Problems in Reinforced Concrete: Constitutive Modeling,10.1111/mice.12133
+A Generic Approach to Estimate Freeway Traffic Time Using Vehicle ID-Matching Technologies,10.1111/mice.12159
+Seismic risk management of insurance portfolio using catastrophe bonds,10.1111/mice.12093
+Travel Time Reliability Estimation Model Using Observed Link Flows in a Road Network,10.1111/mice.12109
+Introduction,10.1111/mice.12150
+A hybrid pareto frontier generation method for trade-off analysis in transportation asset management,10.1111/mice.12079
+Relay Requirement and Traffic Assignment of Electric Vehicles,10.1111/mice.12193
+On the advantages of publishing in top-ranked academic journals,10.1111/mice.12137
+Performance-Based probabilistic capacity models and fragility estimates for RC columns subject to vehicle collision,10.1111/mice.12135
+Multidestination Pedestrian Flows in Equilibrium: A Cellular Automaton-Based Approach,10.1111/mice.12209
+Use of heading direction for recreating the horizontal alignment of an existing road,10.1111/mice.12094
+Model-Reference Health Monitoring of Hysteretic Building Structure Using Acceleration Measurement with Test Validation,10.1111/mice.12172
+Optimizing Location and Capacity for Multiple Types of Locomotive Maintenance Shops,10.1111/mice.12114
+Demand Profiling for Dynamic Traffic Assignment by Integrating Departure Time Choice and Trip Distribution,10.1111/mice.12140
+Formalized Representation of Specifications for Construction Cost Estimation by Using Ontology,10.1111/mice.12175
+Systemic seismic risk assessment of road networks considering interactions with the built environment,10.1111/mice.12136
+Introduction,10.1111/mice.12185
+Real-Time System Identification: An Algorithm for Simultaneous Model Class Selection and Parametric Identification,10.1111/mice.12146
+Model Updating Technique Based on Modal Participation Factors for Beam Structures,10.1111/mice.12139
+Mobile Impact Testing for Structural Flexibility Identification with only a Single Reference,10.1111/mice.12112
+The Interdependent Network Design Problem for Optimal Infrastructure System Restoration,10.1111/mice.12171
+In-Plane Displacement and Strain Image Analysis,10.1111/mice.12127
+Bus Dwell Time Modeling Using Gene Expression Programming,10.1111/mice.12125
+Coupling response surface and differential evolution for parameter identification problems,10.1111/mice.12124
+A multiwavelet neural network-based response surface method for structural reliability analysis,10.1111/mice.12086
+Forward-Backward Approach for 3D Event Localization Using Commodity Smartphones for Ubiquitous Context-Aware Applications in Civil and Infrastructure Engineering,10.1111/mice.12154
+Introduction,10.1111/mice.12180
+A Kinect-Based System for 3D Reconstruction of Sewer Manholes,10.1111/mice.12107
+Graph-Based Modeling of Information Flow Evolution and Propagation under V2V Communications-Based Advanced Traveler Information Systems,10.1111/mice.12188
+An Automated Surveying and Marking System for Continuous Setting-out of Tunnels,10.1111/mice.12158
+Two Novel Approaches to Reduce False Alarm Due to Non-Earthquake Events for On-Site Earthquake Early Warning System,10.1111/mice.12191
+A ramp metering strategy for rapid congestion recovery,10.1111/mice.12101
+The Fuzzy Project Scheduling Problem with Minimal Generalized Precedence Relations,10.1111/mice.12166
+Emission Mitigation via Longitudinal Control of Intelligent Vehicles in a Congested Platoon,10.1111/mice.12130
+Synthetic population generation with multilevel controls: A fitness-based synthesis approach and validations,10.1111/mice.12085
+An Advanced Stochastic Time-Cost Tradeoff Analysis Based on a CPM-Guided Genetic Algorithm,10.1111/mice.12148
+Fuzzy Cellular Automata Model for Signalized Intersections,10.1111/mice.12181
+Iterative method for exponential damping identification,10.1111/mice.12077
+A Macroscopic Model for Freeway Weaving Sections,10.1111/mice.12119
+Introduction,10.1111/mice.12025
+Nonlinear identification of a magneto-rheological damper based on dynamic neural networks,10.1111/mice.12005
+Optimal clustering of railroad track maintenance jobs,10.1111/mice.12036
+An Adaptive Wavelet Frame Neural Network Method for Efficient Reliability Analysis,10.1111/mice.12117
+Real-Time Estimation of Pollution Emissions and Dispersion from Highway Traffic,10.1111/mice.12078
+Traffic responsive control of intersections with predicted arrival times: A Markovian approach,10.1111/mice.12018
+Freeway travel time prediction using takagi-sugeno-kang fuzzy neural network,10.1111/mice.12014
+Fatigue crack initiation and propagation in piles of integral abutment bridges,10.1111/j.1467-8667.2012.00801.x
+An instrumented vehicle for efficient and accurate 3d mapping of roads,10.1111/mice.12006
+Capabilities of a Fiber Bragg Grating sensor system to monitor the inelastic response of concrete sections in new tunnel linings subjected to earthquake loading,10.1111/mice.12106
+Resource leveling in line-of-balance scheduling,10.1111/mice.12038
+Advanced Markov Chain Monte Carlo approach for finite element calibration under uncertainty,10.1111/j.1467-8667.2012.00802.x
+Network Model for Rural Roadway Tolling with Pavement Deterioration and Repair,10.1111/mice.12057
+Simulation-optimization models for the dynamic berth allocation problem,10.1111/mice.12049
+Development of recurrent neural network considering temporal-spatial input dynamics for freeway travel time modeling,10.1111/mice.12000
+Application of observability techniques to structural system identification,10.1111/mice.12004
+"An integrated airline scheduling, fleeting, and pricing model for a monopolized market",10.1111/mice.12032
+Identifying the Modal Parameters of a Structure from Ambient Vibration Data via the Stationary Wavelet Packet,10.1111/mice.12115
+Embedded damage localization subsystem based on elastic wave propagation,10.1111/mice.12129
+Optimization of earthquake energy dissipation system by genetic algorithm,10.1111/mice.12047
+Introduction,10.1111/mice.12055
+Reliability assessment with fuzzy random variables using interval monte carlo simulation,10.1111/mice.12028
+A network generalized extreme value model for route choice allowing implicit route enumeration,10.1111/mice.12007
+Using genetic algorithms to optimize stopping patterns for passenger rail transportation,10.1111/mice.12020
+Structural analysis and validation of a smart pantograph mast concept,10.1111/mice.12013
+Regionally enhanced multiphase segmentation technique for damaged surfaces,10.1111/mice.12098
+Selection of accelerometer location on bricklayers using decision trees,10.1111/mice.12002
+Flexibility-Corotational Formulation of Space Frames with Large Elastic Deformations and Buckling,10.1111/mice.12084
+Identification of instantaneous modal parameter of time-varying systems via a wavelet-based approach and its application,10.1111/mice.12037
+Models for Seismic Vulnerability Analysis of Power Networks: Comparative Assessment,10.1111/mice.12064
+On the qualities of a leading journal,10.1111/mice.12045
+A Cyber-Physical System Simulator for Risk-Free Transport Studies,10.1111/mice.12068
+A stochastic computational framework to investigate the initial stage of corrosion in reinforced concrete superstructures,10.1111/mice.12019
+Assessment of Urban Ecosystem Resilience through Hybrid Social-Physical Complex Networks,10.1111/mice.12080
+A two-step model updating algorithm for parameter identification of linear elastic damped structures,10.1111/mice.12012
+Announcing the Recipient of the 2013 Hojjat Adeli Award for Innovation in Computing,10.1111/mice.12099
+Reinforcement placement in a concrete slab object using structural building information modeling,10.1111/j.1467-8667.2012.00794.x
+Multianticipative nonlocal macroscopic traffic model,10.1111/mice.12035
+Data processing of point clouds for object detection for structural engineering applications,10.1111/mice.12016
+Optimal Staging Area Locations and Material Recycling Strategies for Sustainable Highway Reconstruction,10.1111/mice.12089
+"A new user-oriented index, based on a fuzzy inference system, for quality evaluation of rural roads",10.1111/mice.12021
+A generalized integrated corridor diversion control model for freeway incident management,10.1111/mice.12024
+Visualization of the modeled degradation of building flooring systems in building maintenance,10.1111/mice.12029
+Introduction,10.1111/mice.12155
+Surrogate-Based Optimization of Expensive-to-Evaluate Objective for Optimal Highway Toll Charges in Transportation Network,10.1111/mice.12058
+Wavelet denoising of TSD deflection slope measurements for improved pavement structural evaluation,10.1111/mice.12052
+Practical Visualization of Local Vibration Data Collected over Large Concrete Elements,10.1111/mice.12065
+Active tendon control of torsionally irregular structures under near-fault ground motion excitation,10.1111/mice.12046
+Real-time frequency-domain decomposition for structural health monitoring using general-purpose graphic processing unit,10.1111/mice.12097
+Introduction,10.1111/mice.12118
+A pavement crack detection method combining 2D with 3D information based on dempster-shafer theory,10.1111/mice.12041
+ePAD: Earthquake probability-based automated decision-making framework for earthquake early warning,10.1111/mice.12048
+Wavelet-Based Method for Generating Nonstationary Artificial Pulse-Like Near-Fault Ground Motions,10.1111/mice.12110
+Analytical model for estimation of maximum normal stress in steel beam-columns based on wireless measurement of average strains from vibrating wire strain gages,10.1111/mice.12044
+Empirical innovation of computational dual-loop models for identifying vehicle classifications against varied traffic conditions,10.1111/mice.12015
+Modeling of shotcrete application for use in a real-time training simulator,10.1111/j.1467-8667.2012.00788.x
+On the validation of solids represented with the international standards for geographic information,10.1111/mice.12043
+Markerless vision-based augmented reality for urban planning,10.1111/j.1467-8667.2012.00798.x
+Road Crack Detection Using Visual Features Extracted by Gabor Filters,10.1111/mice.12042
+Dynamic planning of facility locations with benefits from multitype facility colocation,10.1111/mice.12034
+A structural impairment detection system using competitive arrays of artificial neural networks,10.1111/mice.12040
+Optimization of the geometries of biconical tapered fiber sensors for monitoring the early-age curing temperatures of concrete specimens,10.1111/mice.12022
+Advanced Visualization and Accessibility to Heterogeneous Monitoring Data,10.1111/mice.12060
+Fuzzy-valued intensity measures for near-fault pulse-like ground motions,10.1111/mice.12053
+Calibrating Rail Transit Assignment Models with Genetic Algorithm and Automated Fare Collection Data,10.1111/mice.12075
+Online simultaneous reconstruction of wind load and structural responses-Theory and application to canton tower,10.1111/mice.12134
+"Identification, model updating, and validation of a steel twin deck curved cable-stayed footbridge",10.1111/mice.12076
+A Mathematical Framework for Quantifying and Optimizing Protective Actions for Civil Infrastructure Systems,10.1111/mice.12027
+Water distribution system computer-aided design by agent swarm optimization,10.1111/mice.12062
+A design methodology for energy infrastructures at the campus scale,10.1111/mice.12050
+Defect detection in reinforced concrete using random neural architectures,10.1111/mice.12039
+Ant Colony Optimization Model for Tsunamis Evacuation Routes,10.1111/mice.12113
+Concurrent construction scheduling simulation algorithm,10.1111/mice.12073
+Fuzzy analytic hierarchy process synthetic evaluation models for the health monitoring of shield tunnels,10.1111/mice.12091
+Robust bayesian compressive sensing for signals in structural health monitoring,10.1111/mice.12051
+A hybrid optimization algorithm with Bayesian inference for probabilistic model updating,10.1111/mice.12142
+Strategies to Enhance the Performance of Path-Based Static Traffic Assignment Algorithms,10.1111/mice.12056
+Exploring a local linear model tree approach to car-following,10.1111/mice.12011
+A wavelet-based adaptive pole assignment method for structural control,10.1111/mice.12072
+Computing and Analyzing Mixed Equilibrium Network Flows with Gasoline and Electric Vehicles,10.1111/mice.12082
+Output-only identification and model updating by dynamic testing in unfavorable conditions of a seismically damaged building,10.1111/mice.12071
+Optimizing the Alignment of Inspection Data from Track Geometry Cars,10.1111/mice.12067
+Incorporating household gathering and mode decisions in large-scale no-notice evacuation modeling,10.1111/mice.12008
+On the Probabilistic and Physical Consistency of Traffic Random Variables and Models,10.1111/mice.12061
+Fuzzy-entropy neural network freeway incident duration modeling with single and competing uncertainties,10.1111/mice.12010
+Localized structural damage detection: A change point analysis,10.1111/mice.12059
+Development and implementation of an industry foundation classes-based graphic information model for virtual construction,10.1111/j.1467-8667.2012.00800.x
+The chemical reaction optimization approach to solving the environmentally sustainable network design problem,10.1111/mice.12033
+Introduction,10.1111/mice.12070
+Data-Based Model-Free Hysteretic Restoring Force and Mass Identification for Dynamic Systems,10.1111/mice.12066
+A Configurable Agent-Based Crowd Model with Generic Behavior Effect Representation Mechanism,10.1111/mice.12081
+A High-Impact Journal for Novel Real-World Implementable Methodologies,10.1111/mice.12120
+Plane registration leveraged by global constraints for context-aware AEC applications,10.1111/j.1467-8667.2012.00795.x
+Antithetic Method-Based Particle Swarm Optimization for a Queuing Network Problem with Fuzzy Data in Concrete Transportation Systems,10.1111/mice.12111
+Activity-based travel scenario analysis with routing problem reoptimization,10.1111/mice.12023
+A Tabu Search Method for a Bi-Objective Urban Waste Collection Problem,10.1111/mice.12031
+Effects of interactive real-time simulations and humanoid avatars on consumers' responses in online house products marketing,10.1111/j.1467-8667.2012.00775.x
+Introduction,10.1111/mice.12054
+Global sensitivity-based model updating for heritage structures,10.1111/mice.12138
+Wavelet PSO-Based LQR algorithm for optimal structural control using active tuned mass dampers,10.1111/mice.12017
+Combining an Angle Criterion with Voxelization and the Flying Voxel Method in Reconstructing Building Models from LiDAR Data,10.1111/j.1467-8667.2012.00761.x
+Agent-Based Modeling of Behavioral Housing Recovery Following Disasters,10.1111/j.1467-8667.2012.00787.x
+Vision-Based Hierarchical Recognition for Dismantling Robot Applied to Interior Renewal of Buildings,10.1111/j.1467-8667.2010.00689.x
+Wireless monitoring of a multispan bridge superstructure for diagnostic load testing and system identification,10.1111/j.1467-8667.2010.00711.x
+A Dynamic Route Choice Model Considering Uncertain Capacities,10.1111/j.1467-8667.2011.00724.x
+Reconstructing the Traffic State by Fusion of Heterogeneous Data,10.1111/j.1467-8667.2010.00698.x
+Active Control of Daylighting Features in Buildings,10.1111/j.1467-8667.2010.00692.x
+Response Surface Method Based on Radial Basis Functions for Modeling Large-Scale Structures in Model Updating,10.1111/j.1467-8667.2012.00803.x
+Multi-objective optimization of sensor and excitation layouts for frequency response function-based structural damage identification,10.1111/j.1467-8667.2011.00726.x
+A synchronized wireless sensor network for experimental modal analysis in structural health monitoring,10.1111/j.1467-8667.2011.00718.x
+Improved Floodplain Delineation Method Using High-Density LiDAR Data,10.1111/j.1467-8667.2012.00774.x
+Signal Pattern Recognition for Damage Diagnosis in Structures,10.1111/j.1467-8667.2012.00766.x
+Combining Genetic Algorithms with a Meso-Scale Approach for System Identification of a Smart Polymeric Textile,10.1111/j.1467-8667.2012.00789.x
+Dynamic Bayesian Network for Probabilistic Modeling of Tunnel Excavation Processes,10.1111/j.1467-8667.2012.00759.x
+An expert system for auditing quality management systems in construction,10.1111/j.1467-8667.2011.00721.x
+Introduction,10.1111/j.1467-8667.2011.00725.x
+Network-Level Road Pavement Maintenance and Rehabilitation Scheduling for Optimal Performance Improvement and Budget Utilization,10.1111/j.1467-8667.2011.00733.x
+Automatic Road Defect Detection by Textural Pattern Recognition Based on AdaBoost,10.1111/j.1467-8667.2011.00736.x
+Integrated Planning of Supply Chain Networks and Multimodal Transportation Infrastructure Expansion: Model Development and Application to the Biofuel Industry,10.1111/j.1467-8667.2012.00791.x
+A Decentralized Control Algorithm for Large-Scale Building Structures,10.1111/j.1467-8667.2010.00707.x
+Vulnerability and Robustness of a Security Skyscraper Subjected to Aircraft Impact,10.1111/j.1467-8667.2011.00748.x
+Operational Modal Parameter Identification from Power Spectrum Density Transmissibility,10.1111/j.1467-8667.2011.00735.x
+A Polynomial Parametric Curve (PPC-CURVE) for the Design of Horizontal Geometry of Highways,10.1111/j.1467-8667.2011.00750.x
+Comparing Ant Colony Optimization and Genetic Algorithm Approaches for Solving Traffic Signal Coordination under Oversaturation Conditions,10.1111/j.1467-8667.2010.00715.x
+An unmanned aerial vehicle-based imaging system for 3D measurement of unpaved road surface distresses,10.1111/j.1467-8667.2011.00727.x
+Concrete Crack Detection by Multiple Sequential Image Filtering,10.1111/j.1467-8667.2011.00716.x
+Performance Evaluation of TMD under Typhoon Using System Identification and Inverse Wind Load Estimation,10.1111/j.1467-8667.2011.00755.x
+Introduction,10.1111/mice.12003
+Using Numerical Simulations and Engineering Reasoning under Uncertainty: Studying the Collapse of WTC-1,10.1111/j.1467-8667.2010.00700.x
+Computational Nonlinear Thermomechanical Model of Large Light Partition Walls Based on Experimental Analysis and Probabilistic Models,10.1111/j.1467-8667.2012.00782.x
+Fuzzy Representation of Pavement Condition for Efficient Pavement Management,10.1111/j.1467-8667.2012.00758.x
+Kernel Smoothing Method Applicable to the Dynamic Calibration of Traffic Flow Models,10.1111/j.1467-8667.2010.00695.x
+A markov-based road maintenance optimization model considering user costs,10.1111/mice.12009
+An Effective Texture Mapping Approach for 3D Models Obtained from Laser Scanner Data to Building Documentation,10.1111/j.1467-8667.2010.00699.x
+User Equilibrium with Recourse: Continuous Network Design Problem,10.1111/j.1467-8667.2011.00753.x
+Estimation and warning of fatigue damage of FRP stay cables based on acoustic emission techniques and fractal theory,10.1111/j.1467-8667.2010.00713.x
+Fragility Analysis of Highway Bridges Based on Long-Term Monitoring Data,10.1111/j.1467-8667.2012.00805.x
+Introduction,10.1111/j.1467-8667.2010.00701.x
+A Refined Methodology for Durability-Based Service Life Estimation of Reinforced Concrete Structural Elements Considering Fuzzy and Random Uncertainties,10.1111/j.1467-8667.2011.00730.x
+Generation of Near-Field Artificial Ground Motions Compatible with Median-Predicted Spectra Using PSO-Based Neural Network and Wavelet Analysis,10.1111/j.1467-8667.2012.00783.x
+Expert System to Control Construction Problems in Flexible Pavements,10.1111/mice.12001
+Structural Analysis with Fuzzy Data and Neural Network Based Material Description,10.1111/j.1467-8667.2012.00779.x
+Expanding with a Lofty Goal,10.1111/j.1467-8667.2011.00744.x
+Using Probabilistic Methods to Estimate the Public Sector Comparator,10.1111/j.1467-8667.2012.00771.x
+Gage-free stress estimation of a beam-like structure based on terrestrial laser scanning,10.1111/j.1467-8667.2011.00723.x
+Prioritization of Code Development Efforts in Partitioned Analysis,10.1111/j.1467-8667.2012.00799.x
+Neuro-Fuzzy Cost Estimation Model Enhanced by Fast Messy Genetic Algorithms for Semiconductor Hookup Construction,10.1111/j.1467-8667.2012.00786.x
+Comparing Delay Minimization and Emissions Minimization in the Network Design Problem,10.1111/j.1467-8667.2011.00746.x
+Crack Detection from the Slope of the Mode Shape Using Complex Continuous Wavelet Transform,10.1111/j.1467-8667.2011.00734.x
+Optimal routing with multiple objectives: Efficient algorithm and application to the hazardous materials transportation problem,10.1111/j.1467-8667.2011.00720.x
+Introduction,10.1111/j.1467-8667.2011.00754.x
+Intelligent Road Sign Inventory (IRSI) with Image Recognition and Attribute Computation from Video Log,10.1111/j.1467-8667.2012.00768.x
+Design of High Rise Steel Buildings against Terrorist Attacks,10.1111/j.1467-8667.2011.00749.x
+Wavelet-Based Detection of Beam Cracks Using Modal Shape and Frequency Measurements,10.1111/j.1467-8667.2012.00760.x
+Trend Curve Optimal Control Model for Optimizing Pavement Maintenance Strategies Consisting of Various Treatments,10.1111/j.1467-8667.2010.00671.x
+Durability monitoring for improved service life predictions of concrete bridge decks in corrosive environments,10.1111/j.1467-8667.2010.00710.x
+Pose Estimation of Construction Materials Using Multiple ID Devices for Parts and Packets Unification,10.1111/j.1467-8667.2010.00691.x
+Time-varying lane-based capacity reversibility for traffic management,10.1111/j.1467-8667.2011.00722.x
+A dual variable approximation-based descent method for a bi-level continuous dynamic network design problem,10.1111/j.1467-8667.2010.00705.x
+Special Issue on Computational Intelligence in Structural Engineering and Mechanics,10.1111/j.1467-8667.2012.00784.x
+Optimizing Coordinated Ramp Metering: A Preemptive Hierarchical Control Approach,10.1111/j.1467-8667.2012.00764.x
+A Customized Particle Swarm Method to Solve Highway Alignment Optimization Problem,10.1111/j.1467-8667.2012.00769.x
+Genetic Algorithms for the Dependability Assurance in the Design of a Long-Span Suspension Bridge,10.1111/j.1467-8667.2012.00780.x
+Texture Analysis Based Damage Detection of Ageing Infrastructural Elements,10.1111/j.1467-8667.2012.00790.x
+Active and Semi-active Adaptive Control for Undamaged and Damaged Building Structures Under Seismic Load,10.1111/j.1467-8667.2011.00719.x
+Consistent Point Clouds of Narrow Spaces Using Multiscan Domain Mapping,10.1111/j.1467-8667.2011.00742.x
+Fusing Loop Detector and Probe Vehicle Data to Estimate Travel Time Statistics on Signalized Urban Networks,10.1111/j.1467-8667.2010.00697.x
+Determining an Optimal Maintenance Period for Infrastructure Systems,10.1111/j.1467-8667.2011.00739.x
+Introduction,10.1111/j.1467-8667.2010.00708.x
+Risk Management of Large RC Structures within Spatial Information System,10.1111/j.1467-8667.2012.00757.x
+Influence of the Tunnel Shape on Shotcrete Lining Stresses,10.1111/j.1467-8667.2011.00728.x
+Automated Object Identification Using Optical Video Cameras on Construction Sites,10.1111/j.1467-8667.2010.00690.x
+Structural Reliability Assessment by Local Approximation of Limit State Functions Using Adaptive Markov Chain Simulation and Support Vector Regression,10.1111/j.1467-8667.2012.00767.x
+Modeling of Tension Stiffening Behavior in FRP-Strengthened RC Members Based on Rigid Body Spring Networks,10.1111/j.1467-8667.2011.00741.x
+A Generalized Framework for Parallelizing Traffic Sign Inventory of Video Log Images Using Multicore Processors,10.1111/j.1467-8667.2012.00765.x
+Hybrid Time-Frequency Blind Source Separation Towards Ambient System Identification of Structures,10.1111/j.1467-8667.2011.00732.x
+The Influence of Reflected Solar Glare Caused by the Glass Cladding of a Building: Application of Caustic Curve Analysis,10.1111/j.1467-8667.2011.00751.x
+Stress development of a supertall structure during construction: Field monitoring and numerical analysis,10.1111/j.1467-8667.2010.00714.x
+Toward an integrated smart sensing system and data interpretation techniques for pavement fatigue monitoring,10.1111/j.1467-8667.2010.00712.x
+Control of Structural Response Under Earthquake Excitation,10.1111/j.1467-8667.2012.00776.x
+Parametric study on the interface layer of renovation solutions for orthotropic steel bridge decks,10.1111/j.1467-8667.2010.00693.x
+A Wireless Sensor Network-Based Structural Health Monitoring System for Highway Bridges,10.1111/j.1467-8667.2012.00781.x
+Numerical Modeling of Dynamic Behavior of Annular Tuned Liquid Dampers for Applications in Wind Towers,10.1111/j.1467-8667.2012.00772.x
+A Spatial-Bayesian Technique for Imputing Pavement Network Repair Data,10.1111/j.1467-8667.2012.00762.x
+A Bi-Level Model for Planning Signalized and Uninterrupted Flow Intersections in an Evacuation Network,10.1111/j.1467-8667.2012.00778.x
+Integration of Environmental Objectives in a System Optimal Dynamic Traffic Assignment Model,10.1111/j.1467-8667.2012.00756.x
+A Survival Analysis Model for Sewer Pipe Structural Deterioration,10.1111/j.1467-8667.2012.00773.x
+MOST-FIT: Support techniques for inspection and life cycle optimization in building asset management,10.1111/j.1467-8667.2011.00729.x
+Dynamic Parameter Identification of Secondary Mass Dampers Based on Full-Scale Tests,10.1111/j.1467-8667.2011.00740.x
+Multicut-High Dimensional Model Representation for Structural Reliability Bounds Estimation Under Mixed Uncertainties,10.1111/j.1467-8667.2012.00763.x
+Identification and Adaptive Control for Open Channel Water Flow Systems,10.1111/j.1467-8667.2010.00702.x
+Predicting Motorway Traffic Performance by Data Fusion of Local Sensor Data and Electronic Toll Collection Data,10.1111/j.1467-8667.2010.00696.x
+MUSIC-ANN Analysis for Locating Structural Damages in a Truss-Type Structure by Means of Vibrations,10.1111/j.1467-8667.2012.00777.x
+Quantifying the contextual influences on road design,10.1111/j.1467-8667.2012.00804.x
+"Lane-Changing Behavior on Urban Streets: An ""In-Vehicle"" Field Experiment-Based Study",10.1111/j.1467-8667.2011.00747.x
+Automated Registration of 3D Scans Using Geometric Features and Normalized Color Data,10.1111/j.1467-8667.2012.00785.x
+New Computational Model Based on Finite Element Method to Quantify Damage Evolution Due to External Sulfate Attack on Self-Compacting Concretes,10.1111/j.1467-8667.2012.00793.x
+An Approach to Dynamic Classification of Traffic Flow Patterns,10.1111/j.1467-8667.2012.00792.x
+Optical Analysis of Strength Tests Based on Block-Matching Techniques,10.1111/j.1467-8667.2011.00743.x
+Strengthening and Rehabilitation of Reinforced Concrete Slabs with Carbon-Fiber Reinforced Polymers Using a Refined Bond Model,10.1111/j.1467-8667.2011.00752.x
+Calculation of Posterior Probabilities for Bayesian Model Class Assessment and Averaging from Posterior Samples Based on Dynamic System Data,10.1111/j.1467-8667.2009.00642.x
+Integrating messy genetic algorithms and simulation to optimize resource utilization,10.1111/j.1467-8667.2008.00588.x
+Toward a trust-based construction management,10.1111/j.1467-8667.2009.00628.x
+Numerical evaluation of vibration-based methods for damage assessment of cable-stayed bridges,10.1111/j.1467-8667.2010.00684.x
+Integration of sustainability issues in strategic transportation planning: A multi-criteria model for the assessment of transport infrastructure plans,10.1111/j.1467-8667.2010.00652.x
+Influence of the autoregressive model order on damage detection,10.1111/j.1467-8667.2010.00685.x
+Scalable algorithm for resolving incorrect occlusion in dynamic augmented reality engineering environments,10.1111/j.1467-8667.2009.00601.x
+Reliability-based transit assignment for congested stochastic transit networks,10.1111/j.1467-8667.2010.00680.x
+Comparison of additional costs for several replacement strategies of randomly ageing reinforced concrete pipes,10.1111/j.1467-8667.2009.00603.x
+Optimal locations of railroad wayside defect detection installations,10.1111/j.1467-8667.2008.00584.x
+"Erratum to Performance of Buildings Under Earthquake in Barcelona, Spain [Computer-Aided Civil and Infrastructure Engineering, 21, 8, (2006), 573-593]",10.1111/j.1467-8667.2010.00660.x
+Modeling Vehicle Interactions during Lane-Changing Behavior on Arterial Streets,10.1111/j.1467-8667.2010.00679.x
+A heuristic approach for selecting highway investment alternatives,10.1111/j.1467-8667.2010.00653.x
+Introduction,10.1111/j.1467-8667.2010.00706.x
+Automated road sign inventory system based on stereo vision and tracking,10.1111/j.1467-8667.2010.00657.x
+Introduction,10.1111/j.1467-8667.2009.00641.x
+Reliability-based optimization models for scheduling pavement rehabilitation,10.1111/j.1467-8667.2009.00636.x
+Introduction,10.1111/j.1467-8667.2010.00694.x
+Soft Computing Based Multilevel Strategy for Bridge Integrity Monitoring,10.1111/j.1467-8667.2009.00644.x
+High-order computational scheme for a dynamic continuum model for bi-directional pedestrian flows,10.1111/j.1467-8667.2010.00688.x
+Modeling Framework and Architecture of Hybrid System Dynamics and Discrete Event Simulation for Construction,10.1111/j.1467-8667.2010.00650.x
+Prediction of pavement performance through neuro-fuzzy reasoning,10.1111/j.1467-8667.2009.00615.x
+Crack detection and quantification in beams using wavelets,10.1111/j.1467-8667.2009.00618.x
+Wavelet-based denoising for traffic volume time series forecasting with self-organizing neural networks,10.1111/j.1467-8667.2010.00668.x
+A Heuristic Approach to the Railroad Track Maintenance Scheduling Problem,10.1111/j.1467-8667.2010.00670.x
+"Investigating the use of 3D graphics, haptics (touch), and sound for highway location planning",10.1111/j.1467-8667.2008.00591.x
+A Robust and Efficient Method for Fusing Heterogeneous Data from Traffic Sensors on Freeways,10.1111/j.1467-8667.2009.00617.x
+Recurrent neural network for approximate earthquake time and location prediction using multiple seismicity indicators,10.1111/j.1467-8667.2009.00595.x
+Artificial Neural Networks for Forecasting of Fuzzy Time Series,10.1111/j.1467-8667.2009.00646.x
+Influence of Demand Uncertainty and Correlations on Traffic Predictions and Decisions,10.1111/j.1467-8667.2009.00637.x
+Introduction,10.1111/j.1467-8667.2010.00663.x
+Evaluation of disturbance weighting parameter of minimax attenuation problems,10.1111/j.1467-8667.2008.00590.x
+Noncontact operational modal analysis of structural members by laser doppler vibrometer,10.1111/j.1467-8667.2008.00585.x
+Random Process Model for Urban Traffic Flow Using a Wavelet-Bayesian Hierarchical Technique,10.1111/j.1467-8667.2010.00681.x
+Fuzzy Monte Carlo simulation and risk assessment in construction,10.1111/j.1467-8667.2009.00632.x
+Speed estimation from single loop data using an unscented particle filter,10.1111/j.1467-8667.2009.00634.x
+Identification of time-variant modal parameters using time-varying autoregressive with exogenous input and low-order polynomial function,10.1111/j.1467-8667.2009.00605.x
+A simple active control algorithm for earthquake excited structures,10.1111/j.1467-8667.2009.00629.x
+Reliability Assessment of Lifeline Systems with Radial Topology,10.1111/j.1467-8667.2010.00661.x
+Comparative analysis of multi-criteria decision-making methods for seismic structural retrofitting,10.1111/j.1467-8667.2009.00599.x
+Modeling risk allocation in privately financed infrastructure projects using fuzzy logic,10.1111/j.1467-8667.2009.00609.x
+Design and management strategies for mixed public private transportation networks: A meta-heuristic approach,10.1111/j.1467-8667.2008.00587.x
+Effect of resource allocation policies on urban transport diversity,10.1111/j.1467-8667.2009.00608.x
+Impact of trucks on signalized intersection capacity,10.1111/j.1467-8667.2010.00651.x
+Exploring the deterioration factors of RC bridge decks: A rough set approach,10.1111/j.1467-8667.2010.00665.x
+Nonlinear damping identification in precast prestressed reinforced concrete beams,10.1111/j.1467-8667.2009.00612.x
+Passing rates to measure relaxation and impact of lane-changing in congestion,10.1111/j.1467-8667.2010.00675.x
+Finite element model updating using evolutionary strategy for damage detection,10.1111/j.1467-8667.2010.00687.x
+A cell-based model for multi-class doubly stochastic dynamic traffic assignment,10.1111/j.1467-8667.2011.00717.x
+A computer model for selecting facility evacuation design using cellular automata,10.1111/j.1467-8667.2009.00619.x
+Beamlet Transform-Based Technique for Pavement Crack Detection and Classification,10.1111/j.1467-8667.2010.00674.x
+Peak Ground Acceleration Estimation by Linear and Nonlinear Models with Reduced Order Monte Carlo Simulation,10.1111/j.1467-8667.2009.00648.x
+Simulation of accuracy performance for wireless sensor-based construction asset tracking,10.1111/j.1467-8667.2009.00592.x
+Ontologies to support RFID-based link between virtual models and construction components,10.1111/j.1467-8667.2009.00638.x
+A meta-heuristic algorithm for multi-objective optimal design of hybrid laminate composite structures,10.1111/j.1467-8667.2009.00610.x
+Fractal dimension-based damage detection method for beams with a uniform cross-section,10.1111/j.1467-8667.2010.00686.x
+A Methodology for assessing transportation network terrorism risk with attacker and defender interactions,10.1111/j.1467-8667.2010.00655.x
+Introduction,10.1111/j.1467-8667.2010.00662.x
+Vibration control of structures with initially accelerated passive tuned mass dampers under near-fault earthquake excitation,10.1111/j.1467-8667.2009.00607.x
+Optimal sensor locations for freeway bottleneck identification,10.1111/j.1467-8667.2009.00614.x
+An analytical approach for estimating the highway capacity manual signalized intersection delay variability,10.1111/j.1467-8667.2010.00678.x
+"Model-Based Multi-input, Multi-output Supervisory Semi-active Nonlinear Fuzzy Controller",10.1111/j.1467-8667.2009.00649.x
+Multiattribute selection from alternative designs of infrastructure components for accidental situations,10.1111/j.1467-8667.2009.00593.x
+B-Dynamic: An efficient algorithm for dynamic user equilibrium assignment in activity-travel networks,10.1111/j.1467-8667.2010.00676.x
+Automatic detection of deficient video log images using a histogram equity index and an adaptive gaussian mixture model,10.1111/j.1467-8667.2010.00667.x
+Optimal long-term infrastructure maintenance planning accounting for traffic dynamics,10.1111/j.1467-8667.2009.00606.x
+The silver anniversary of CACAIE: 25 years of innovation in computing,10.1111/j.1467-8667.2009.00640.x
+Pavement Smoothness Prediction Based on Fuzzy and Gray Theories,10.1111/j.1467-8667.2009.00639.x
+Optimal performance-based building facility management,10.1111/j.1467-8667.2009.00633.x
+Near-term travel speed prediction utilizing Hilbert-Huang transform,10.1111/j.1467-8667.2009.00620.x
+Locating a surveillance infrastructure in and near ports or on other planar surfaces to monitor flows,10.1111/j.1467-8667.2009.00623.x
+Failure mechanism of deformed concrete tunnels subject to diagonally concentrated loads,10.1111/j.1467-8667.2009.00600.x
+Interactive graphical representation for collaborative 3D virtual worlds,10.1111/j.1467-8667.2009.00613.x
+Recurrent Neural Networks for Uncertain Time-Dependent Structural Behavior,10.1111/j.1467-8667.2009.00645.x
+Numerical analyses of hybrid-bonded FRP strengthened concrete beams,10.1111/j.1467-8667.2009.00596.x
+Homography-based vision algorithm for traffic sign attribute computation,10.1111/j.1467-8667.2009.00598.x
+A Hybrid Particle Swarm-Gradient Algorithm for Global Structural Optimization,10.1111/j.1467-8667.2010.00664.x
+Information Theory for Generation of Accelerograms Associated with Shock Response Spectra,10.1111/j.1467-8667.2009.00643.x
+Time-dependent discrete network design frameworks considering land use,10.1111/j.1467-8667.2010.00654.x
+A Hybrid Bilevel Model for the Optimal Shelter Assignment in Emergency Evacuations,10.1111/j.1467-8667.2010.00669.x
+An efficient simulated annealing algorithm for regional wastewater system planning,10.1111/j.1467-8667.2009.00594.x
+Vibration-based damage localization in flexural structures using normalized modal macrostrain techniques from limited measurements,10.1111/j.1467-8667.2010.00682.x
+Modified Genetic Algorithm for the Dynamic Identification of Structural Systems Using Incomplete Measurements,10.1111/j.1467-8667.2010.00659.x
+Developing construction management events in situational simulations,10.1111/j.1467-8667.2009.00611.x
+Wavelet-based generation of energy- and spectrum-compatible earthquake time histories,10.1111/j.1467-8667.2009.00621.x
+Influence of semi-rigid connections and local joint damage on progressive collapse of steel frameworks,10.1111/j.1467-8667.2009.00616.x
+Uncertainty and sensitivity analysis of damage identification results obtained using finite element model updating,10.1111/j.1467-8667.2008.00589.x
+Allocation of link flow detectors for origin-destination matrix estimation - A Comparative Study,10.1111/j.1467-8667.2009.00625.x
+Horizontal roadway curvature computation algorithm using vision technology,10.1111/j.1467-8667.2009.00622.x
+A Dantzig-Wolfe Decomposition-Based Heuristic for Off-line Capacity Calibration of Dynamic Traffic Assignment,10.1111/j.1467-8667.2009.00635.x
+Developing Crew Allocation System for the Precast Industry Using Genetic Algorithms,10.1111/j.1467-8667.2010.00666.x
+Modeling of chloride concentration effect on reinforcement corrosion,10.1111/j.1467-8667.2009.00602.x
+Polynomial chaos representation for identification of mechanical characteristics of instrumented structures,10.1111/j.1467-8667.2010.00683.x
+A computerized feature selection method using genetic algorithms to forecast freeway accident duration times,10.1111/j.1467-8667.2009.00626.x
+Modeling and implementation of adaptive transit signal priority on actuated control systems,10.1111/j.1467-8667.2010.00677.x
+A knowledge formalization and aggregation-based method for the assessment of dam performance,10.1111/j.1467-8667.2009.00604.x
+A Bayesian Probabilistic Approach for Crack Characterization in Plate Structures,10.1111/j.1467-8667.2009.00647.x
+Mobile agent computing paradigm for building a flexible structural health monitoring sensor network,10.1111/j.1467-8667.2010.00656.x
+A Fuzzy Expert System for Prioritizing Rehabilitation of Sewer Networks,10.1111/j.1467-8667.2010.00673.x
+Principles of constraint-consistent activity-based transport modeling,10.1111/j.1467-8667.2009.00624.x
+Introduction,10.1111/j.1467-8667.2007.00481.x
+A risk-cost optimized maintenance strategy for corrosion-affected concrete structures,10.1111/j.1467-8667.2007.00490.x
+Numerical model for biaxial earthquake response of reinforced concrete,10.1111/j.1467-8667.2007.00482.x
+Model-free video detection and tracking of pedestrians and bicyclists,10.1111/j.1467-8667.2008.00578.x
+Nonlinear computer model for the simulation of lock-in vibration on long-span bridges,10.1111/j.1467-8667.2008.00576.x
+Dynamic stiffness matrices for analyses in the frequency domain,10.1111/j.1467-8667.2007.00484.x
+A unified analysis model for energy dissipation devices used in seismic structures,10.1111/j.1467-8667.2008.00567.x
+The observability problem in traffic network models,10.1111/j.1467-8667.2008.00531.x
+A new computational model for the design of an urban inter-modal public transit network,10.1111/j.1467-8667.2007.00506.x
+Incorporating uncertainty into the estimation of the passing sight distance requirements,10.1111/j.1467-8667.2007.00491.x
+An efficient method for evaluating origin-destination connectivity reliability of real-world lifeline networks,10.1111/j.1467-8667.2007.00501.x
+Nondestructive evaluation of elastic properties of concrete using simulation of surface waves,10.1111/j.1467-8667.2008.00562.x
+Traffic estimation and optimal counting location without path enumeration using bayesian networks,10.1111/j.1467-8667.2008.00526.x
+Experimental assessment of the accuracy of GPS and RTS for the determination of the parameters of oscillation of major structures,10.1111/j.1467-8667.2008.00547.x
+Development of an estimation procedure for an activity-based travel demand model,10.1111/j.1467-8667.2008.00555.x
+Response and modeling of cantilever retaining walls subjected to seismic motions,10.1111/j.1467-8667.2007.00538.x
+Re: Influence of rate stability on project cost simulation,10.1111/j.1467-8667.2007.00520.x
+Modal flexibility analysis of cable-stayed Ting Kau bridge for damage identification,10.1111/j.1467-8667.2008.00521.x
+A decision support model for construction cash flow management,10.1111/j.1467-8667.2007.00508.x
+Optimizing design of highway horizontal Alignments: New substantive safety approach,10.1111/j.1467-8667.2008.00560.x
+A macroscopic single-lane roundabout model to account for insertion delays and O-D patterns,10.1111/j.1467-8667.2007.00527.x
+"Computer-aided pre- and post-earthquake assessment of buildings involving database compilation, GIS visualization, and mobile data transmission",10.1111/j.1467-8667.2007.00513.x
+Social infrastructure planning: A location model and solution methods,10.1111/j.1467-8667.2007.00511.x
+Numerical investigation of a variable damping semiactive device for the mitigation of the seismic response of adjacent structures,10.1111/j.1467-8667.2007.00537.x
+Wind tunnel and CFD study on identification of flutter derivatives of a long-span self-anchored suspension bridge,10.1111/j.1467-8667.2007.00509.x
+A study on the effects of damage models and wavelet bases for damage identification and calibration in beams,10.1111/j.1467-8667.2007.00510.x
+Fuzzy logic model for determining minimum bid markup,10.1111/j.1467-8667.2007.00500.x
+Pore pressure and viscous shear stress distribution due to water flow within asphalt pore structure,10.1111/j.1467-8667.2008.00581.x
+Introduction,10.1111/j.1467-8667.2007.00523.x
+Using evolutionary optimization techniques for scheduling water pipe renewal considering a short planning horizon,10.1111/j.1467-8667.2008.00564.x
+Collapse of reinforced concrete column by vehicle impact,10.1111/j.1467-8667.2008.00549.x
+Estimating a rail passenger trip origin-destination matrix using automatic data collection systems,10.1111/j.1467-8667.2007.00494.x
+Algorithm for accurate three-dimensional scene graph updates in high-speed animations of previously simulated construction operations,10.1111/j.1467-8667.2008.00565.x
+Prescreening and repairing in a genetic algorithm for highway alignment optimization,10.1111/j.1467-8667.2008.00574.x
+Algorithm for spatial clustering of pavement segments,10.1111/j.1467-8667.2008.00573.x
+"How reaction time, update time, and adaptation time influence the stability of traffic flow",10.1111/j.1467-8667.2007.00529.x
+Estimation of frequency-dependent strong motion duration via wavelets and its influence on nonlinear seismic response,10.1111/j.1467-8667.2007.00534.x
+Optimal reconstruction periods for stochastically deteriorating infrastructures,10.1111/j.1467-8667.2007.00495.x
+Sensitivity analysis of logit-based stochastic user equilibrium network flows with entry-exit toll schemes,10.1111/j.1467-8667.2007.00530.x
+Incorporating maintenance effectiveness in the estimation of dynamic infrastructure performance models,10.1111/j.1467-8667.2008.00532.x
+A trip distribution model involving spatial and dominance attributes,10.1111/j.1467-8667.2007.00528.x
+Spatio-temporal short-term urban traffic volume forecasting using genetically optimized modular networks,10.1111/j.1467-8667.2007.00488.x
+Traffic barriers under vehicular impact: From computer simulation to design guidelines,10.1111/j.1467-8667.2008.00552.x
+Introduction,10.1111/j.1467-8667.2007.00533.x
+An adaptive strategy for the local discontinuous Galerkin method applied to porous media problems,10.1111/j.1467-8667.2007.00539.x
+Introduction,10.1111/j.1467-8667.2007.00502.x
+Computational analysis of dissipative heating due to impact between a micro-particle cluster and a deformable wall,10.1111/j.1467-8667.2007.00535.x
+One-dimensional model for multi-barge flotillas impacting bridge piers,10.1111/j.1467-8667.2008.00550.x
+Modeling road centerlines and predicting lengths in 3-D using LIDAR point cloud and planimetric road centerline data,10.1111/j.1467-8667.2008.00518.x
+Reference-free damage classification based on cluster analysis,10.1111/j.1467-8667.2008.00541.x
+Modal identification study of vincent thomas bridge using simulated wind-induced ambient vibration data,10.1111/j.1467-8667.2008.00544.x
+Nonlinear analysis of steel cable-stayed bridges,10.1111/j.1467-8667.2007.00492.x
+Development and evaluation of a tangible terrain representation system for highway route planning,10.1111/j.1467-8667.2008.00582.x
+A path-based algorithm for the cross-nested logit stochastic user equilibrium traffic assignment,10.1111/j.1467-8667.2008.00563.x
+Introduction,10.1111/j.1467-8667.2008.00540.x
+Temporal evolution of short-term urban traffic flow: A nonlinear dynamics approach,10.1111/j.1467-8667.2008.00554.x
+Identification model for dam behavior based on wavelet network,10.1111/j.1467-8667.2007.00499.x
+A state-space approach for deriving bridge displacement from acceleration,10.1111/j.1467-8667.2007.00536.x
+A multicriteria decision support methodology for annual rehabilitation programs of water networks,10.1111/j.1467-8667.2007.00504.x
+An integrated fuzzy control system for structural vibration,10.1111/j.1467-8667.2007.00487.x
+Fuzzy clustering of stability diagrams for vibration-based structural health monitoring,10.1111/j.1467-8667.2008.00543.x
+3D modeling and section properties of ancient irregular timber structures by means of digital photogrammetry,10.1111/j.1467-8667.2007.00512.x
+Dynamic response of a rollover protective structure,10.1111/j.1467-8667.2008.00551.x
+On principles of scholarly research contributions: How to avoid multiple rounds of reviews,10.1111/j.1467-8667.2007.00522.x
+Long-term monitoring and identification of bridge structural parameters,10.1111/j.1467-8667.2008.00572.x
+Introduction,10.1111/j.1467-8667.2008.00553.x
+Management strategies and improvement of performance of sewer networks,10.1111/j.1467-8667.2007.00503.x
+Comparison of structural deterioration models for stormwater drainage pipes,10.1111/j.1467-8667.2008.00577.x
+Grammatical inference techniques and their application in ground investigation,10.1111/j.1467-8667.2007.00517.x
+A polymorphic dynamic network loading model,10.1111/j.1467-8667.2007.00525.x
+Comparison of variance-reduction and space-filling approaches for the design of environmental monitoring networks,10.1111/j.1467-8667.2007.00505.x
+Multiobjective optimization of concrete frames by simulated annealing,10.1111/j.1467-8667.2008.00561.x
+The optimization of signal settings on a signalized roundabout using the cross-entropy method,10.1111/j.1467-8667.2007.00524.x
+Reliability-based optimal design of electrical transmission towers using multi-objective Ggnetic algorithms,10.1111/j.1467-8667.2007.00485.x
+A methodology for object identification and tracking in construction based on spatial modeling and image matching techniques,10.1111/j.1467-8667.2008.00580.x
+Performance of vibration-based damage detection methods in bridges,10.1111/j.1467-8667.2008.00546.x
+Damage identification of a composite beam using finite element model updating,10.1111/j.1467-8667.2008.00542.x
+Numerical methods to simulate and visualize detailed crane activities,10.1111/j.1467-8667.2008.00579.x
+A systems-based approach for supporting discourse in decision making,10.1111/j.1467-8667.2007.00507.x
+Eigensolution for stability analysis of planar frames by graph symmetry,10.1111/j.1467-8667.2007.00493.x
+A model-free method for damage locating and quantifying in a beam-like structure based on dynamic distributed strain measurements,10.1111/j.1467-8667.2008.00545.x
+Short-term traffic volume forecasting using Kalman filter with discrete wavelet decomposition,10.1111/j.1467-8667.2007.00489.x
+Three-dimensional modeling of tailings beach shape,10.1111/j.1467-8667.2007.00519.x
+Operative platform applied to building automation,10.1111/j.1467-8667.2008.00566.x
+Fuzzy modeling approach for combined forecasting of urban traffic flow,10.1111/j.1467-8667.2008.00558.x
+Model based evaluation of bridge decks using ground penetrating radar,10.1111/j.1467-8667.2007.00516.x
+An ultrasonic profiling method for the inspection of tubular structures,10.1111/j.1467-8667.2007.00496.x
+Recognizing patterns in seasonal variation of pavement roughness using minimum message length inference,10.1111/j.1467-8667.2008.00575.x
+Risk modeling of dependence among project task durations,10.1111/j.1467-8667.2007.00497.x
+Serviceability assessment of a municipal water system under spatially correlated seismic intensities,10.1111/j.1467-8667.2008.00583.x
+Safety assessment using Imprecise reliability for corrosion-damaged structures,10.1111/j.1467-8667.2009.00597.x
+Development of a bridge bumper to protect bridge girders from overheight vehicle impacts,10.1111/j.1467-8667.2008.00548.x
+Tabu search strategies for the public transportation network optimizations with variable transit demand,10.1111/j.1467-8667.2008.00556.x
+A computing approach using probabilistic neural networks for instantaneous appraisal of rear-end crash risk,10.1111/j.1467-8667.2008.00559.x
+Early view of accepted manuscripts,10.1111/j.1467-8667.2008.00586.x
+A nested custering technique for freeway operating condition classification,10.1111/j.1467-8667.2007.00498.x
+Nonlinear static procedure for seismic vulnerability assessment of bridges,10.1111/j.1467-8667.2007.00486.x
+Optimization of large transport networks using the ant colony heuristic,10.1111/j.1467-8667.2008.00569.x
+Evaluation of information applications of a self-organizing distributed traffic information system for a large-scale real-world traffic network,10.1111/j.1467-8667.2008.00557.x
+Numerical treatment of seismic accelerograms and of inelastic seismic structural responses using harmonic wavelets,10.1111/j.1467-8667.2007.00483.x
+Numerical analysis of debonding mechanisms in FRP-strengthened RC beams,10.1111/j.1467-8667.2005.00402.x
+Fuzzy expert system to assess corrosion of cast/ductile iron pipes from backfill properties,10.1111/j.1467-8667.2005.00417.x
+Detecting cycle failures at signalized intersections using video image processing,10.1111/j.1467-8667.2006.00447.x
+Comparison of two evolutionary algorithms for optimization of bridge deck repairs,10.1111/j.1467-8667.2006.00458.x
+A rule-based subset generation method for product data models,10.1111/j.1467-8667.2006.00476.x
+Enhanced roadway inventory using a 2-D sign video image recognition algorithm,10.1111/j.1467-8667.2006.00443.x
+Sortal structures: Supporting representational flexibility for building domain processes,10.1111/j.1467-8667.2006.00473.x
+Introduction,10.1111/j.1467-8667.2006.00471.x
+Structural health monitoring system for the Shandong Binzhou Yellow River Highway Bridge,10.1111/j.1467-8667.2006.00437.x
+Web-based structural health monitoring of an FRP composite bridge,10.1111/j.1467-8667.2005.00415.x
+Modeling of traffic excitation for system identification of bridge structures,10.1111/j.1467-8667.2005.00416.x
+A new approach for health monitoring of structures: Terrestrial laser scanning,10.1111/j.1467-8667.2006.00466.x
+A linear model for the continuous network design problem,10.1111/j.1467-8667.2006.00440.x
+A comparative study of modal parameter identification based on wavelet and Hilbert-Huang transforms,10.1111/j.1467-8667.2005.00413.x
+Robust transportation network design under demand uncertainty,10.1111/j.1467-8667.2006.00465.x
+GPS-GIS-based procedure for tracking vehicle path on horizontal alignments,10.1111/j.1467-8667.2006.00444.x
+Agent-based interoperability without product model standards,10.1111/j.1467-8667.2006.00472.x
+Semiactive control of building structures with semiactive tuned mass damper,10.1111/j.1467-8667.2005.00375.x
+A computational framework for risk assessment of RC structures using indicators,10.1111/j.1467-8667.2006.00429.x
+Substructure identification and health monitoring using noisy response measurements only,10.1111/j.1467-8667.2006.00435.x
+The twentieth anniversary of CACAIE,10.1111/j.1467-8667.2005.00372.x
+Mobile model-based bridge lifecycle management system,10.1111/j.1467-8667.2006.00456.x
+Modeling the dynamics of an infrastructure project,10.1111/j.1467-8667.2005.00392
+Model identification of bridges using measurement data,10.1111/j.1467-8667.2005.00381.x
+Three-dimensional surface texture characterization of Portland cement concrete pavements,10.1111/j.1467-8667.2007.00479.x
+Fuzzy control of base-isolation system using multi-objective genetic algorithm,10.1111/j.1467-8667.2006.00448.x
+Probabilistic approach for nonlinear modal control of MDOF structures subjected to multiple excitations,10.1111/j.1467-8667.2005.00374.x
+Introduction,10.1111/j.1467-8667.2006.00438.x
+Structural model updating and health monitoring with incomplete modal data using Gibbs sampler,10.1111/j.1467-8667.2006.00432.x
+Feasibility of computer visualization in highway development: A fuzzy logic-based approach,10.1111/j.1467-8667.2005.00422.x
+Reserved strength of reinforced concrete buildings with masonry walls,10.1111/j.1467-8667.2005.00385.x
+Measuring research journals,10.1111/j.1467-8667.2007.00464.x
+"Performance of buildings under earthquakes in Barcelona, Spain",10.1111/j.1467-8667.2006.00450.x
+Health monitoring of rehabilitated concrete bridges using distributed optical fiber sensing,10.1111/j.1467-8667.2006.00446.x
+Development of computer-based system for the temperature monitoring of a post-tensioned segmental concrete box-girder bridge,10.1111/j.1467-8667.2006.00461.x
+Multimode project scheduling based on particle swarm optimization,10.1111/j.1467-8667.2005.00420.x
+Decision support system for waterproofing of below-grade structures,10.1111/j.1467-8667.2005.00388.x
+Robust maintenance policies for Markovian systems under model uncertainty,10.1111/j.1467-8667.2006.00425.x
+Finite element investigation of the fracture potential of highly constrained details in steel plate members,10.1111/j.1467-8667.2005.00404.x
+A wavelet-based approach to identifying structural modal parameters from seismic response and free vibration data,10.1111/j.1467-8667.2005.00406.x
+A parallel ant colony algorithm for bus network optimization,10.1111/j.1467-8667.2006.00469.x
+Twelve design patterns for integrating and normalizing product model schemas,10.1111/j.1467-8667.2007.00475.x
+Building design for abnormal loads and progressive collapse,10.1111/j.1467-8667.2005.00387.x
+Monitoring crack changes in concrete structures,10.1111/j.1467-8667.2005.00376.x
+Active control of structures using energy-based LQR method,10.1111/j.1467-8667.2006.00460.x
+Optimal design of scissor-link foldable structures using Ant Colony Optimization algorithm,10.1111/j.1467-8667.2006.00470.x
+Dynamic wavelet neural network for nonlinear identification of highrise buildings,10.1111/j.1467-8667.2005.00399.x
+Integrating formalized user experience within building design models,10.1111/j.1467-8667.2006.00474.x
+Segmentation of pipe images for crack detection in buried sewers,10.1111/j.1467-8667.2006.00445.x
+State-derivative feedback control of cable vibration using semiactive magnetorheological dampers,10.1111/j.1467-8667.2005.00396.x
+Piezoelectric-based degradation assessment of a pipe using fourier and wavelet analyses,10.1111/j.1467-8667.2005.00403.x
+Capturing a scheme design for rainscreen cladding,10.1111/j.1467-8667.2007.00477.x
+Road infrastructure data acquisition using a vehicle-based mobile mapping system,10.1111/j.1467-8667.2006.00441.x
+Mobile active-vision traffic surveillance system for urban networks,10.1111/j.1467-8667.2005.00390
+Hybrid control of smart structures using a novel wavelet-based algorithm,10.1111/j.1467-8667.2005.00373.x
+Mobile construction supply chain management using PDA and Bar Codes,10.1111/j.1467-8667.2005.00391
+A probabilistic framework for Bayesian adaptive forecasting of project progress,10.1111/j.1467-8667.2007.00478.x
+Consistency of a shared versioned model for distributed cooperation,10.1111/j.1467-8667.2005.00405.x
+Assessing settlement of high-rise structures by 3D simulations,10.1111/j.1467-8667.2005.00389.x
+Integration of simulation-based cost model and multi-criteria evaluation model for bid price decisions,10.1111/j.1467-8667.2007.00480.x
+3D reconstruction of real world scenes using a low-cost 3D range scanner,10.1111/j.1467-8667.2006.00453.x
+Condition assesment by visual inspection for a bridge management system,10.1111/j.1467-8667.2005.00379.x
+Introduction,10.1111/j.1467-8667.2006.00430.x
+Structural damage detection method using uncertain frequency response functions,10.1111/j.1467-8667.2006.00436.x
+True optimization of pavement maintenance options with what-if models,10.1111/j.1467-8667.2006.00427.x
+Reliability assessment of reinforced concrete walls degraded by aggressive operating environments,10.1111/j.1467-8667.2006.00424.x
+A genetic algorithm approach for optimizing traffic control signals considering routing,10.1111/j.1467-8667.2006.00468.x
+Introduction,10.1111/j.1467-8667.2005.00397.x
+Ductility of reinforced concrete flat slab-column connections,10.1111/j.1467-8667.2005.00386.x
+Construction workspace planning: Assignment and analysis utilizing 4D visualization technologies,10.1111/j.1467-8667.2006.00454.x
+Bridge annual maintenance prioritization under uncertainty by multiobjective combinatorial optimization,10.1111/j.1467-8667.2005.00401.x
+Introduction,10.1111/j.1467-8667.2006.00451.x
+Minimizing the consequences of intentional attack on water infrastructure,10.1111/j.1467-8667.2005.00419.x
+Influence of stabilizing cables on seismic response of a multispan cable-stayed bridge,10.1111/j.1467-8667.2005.00383.x
+Assessment of protection systems for buried steel pipelines endangered by rockfall,10.1111/j.1467-8667.2005.00400.x
+Improving tower crane productivity using wireless technology,10.1111/j.1467-8667.2006.00459.x
+Initialization strategies in simulation-based SFE eigenvalue analysis,10.1111/j.1467-8667.2005.00398.x
+Damage detection in a girder bridge by artificial neural network technique,10.1111/j.1467-8667.2006.00449.x
+Computational aspects of risk-based inspection planning,10.1111/j.1467-8667.2006.00426.x
+Progressive-failure analysis of buildings subjected to abnormal loading,10.1111/j.1467-8667.2005.00384.x
+Comparison of neural networks and gravity models in trip distribution,10.1111/j.1467-8667.2005.00421.x
+Searching for better negotiation agreement based on genetic algorithm,10.1111/j.1467-8667.2005.00393
+The third decade,10.1111/j.1467-8667.2005.00412.x
+Wavelet-based structural health monitoring of earthquake excited structures,10.1111/j.1467-8667.2006.00434.x
+Framework for performance-based design of building structures,10.1111/j.1467-8667.2005.00377.x
+Determination of gradient and curvature constrained optimal paths,10.1111/j.1467-8667.2005.00414.x
+Aggregate blending using genetic algorithms,10.1111/j.1467-8667.2005.00394.x
+Structural health monitoring via measured ritz vectors utilizing artificial neural networks,10.1111/j.1467-8667.2006.00431.x
+Bi-level programming formulation and heuristic solution approach for dynamic traffic signal optimization,10.1111/j.1467-8667.2006.00439.x
+Damage pattern recognition for structural health monitoring using fuzzy similarity prescription,10.1111/j.1467-8667.2006.00457.x
+Development of an accurate positioning system using low-cost L1 GPS receivers,10.1111/j.1467-8667.2006.00433.x
+Semi-automatic 3D reconstruction of urban areas using epipolar geometry and template matching,10.1111/j.1467-8667.2006.00452.x
+Parametric identification for a truss structure using axial strain,10.1111/j.1467-8667.2007.00467.x
+Mass concrete curing management based on ubiquitous computing,10.1111/j.1467-8667.2005.00423.x
+Automated modeling of three-dimensional structural components using irregular lattices,10.1111/j.1467-8667.2005.00407.x
+Artificial neural networks for predicting the response of structural systems with viscoelastic dampers,10.1111/j.1467-8667.2005.00395
+A web-centric information model for managing road infrastructure data,10.1111/j.1467-8667.2006.00442.x
+Integration of geo-referenced data for visual simulation in location-based mobile computing,10.1111/j.1467-8667.2006.00455.x
+The effect of biological deterioration on the seismic performance of woodframe shearwalls,10.1111/j.1467-8667.2006.00428.x
+Single-station algorithm using video-based data for detecting expressway incidents,10.1111/j.1467-8667.2005.00418.x
+Genetic algorithms for optimal urban transit network design,10.1111/1467-8667.00309
+Quantitative method for evaluation and analysis of canals,10.1111/1467-8667.00268
+A decision support system for flexible pavement treatment selection,10.1111/1467-8667.00306
+Fast volume rendering and cutting for finite element model,10.1111/1467-8667.00304
+Proportional-integral-plus control of an intelligent excavator,10.1111/j.1467-8667.2004.00334.x
+Integration of general sparse matrix and parallel computing technologies for large-scale structural analysis,10.1111/1467-8667.00288
+Hybrid meta-heuristic algorithm for the simultaneous optimization of the O-D trip matrix estimation,10.1111/j.1467-8667.2004.00367.x
+Optimal road user charging cordon design: A heuristic optimization approach,10.1111/j.1467-8667.2004.00364.x
+Probabilistic neural network for reliability assessment of oil and gas pipelines,10.1111/1467-8667.00279
+Incorporation of seismic considerations in bridge management systems,10.1111/1467-8667.00266
+Spatial model for path planning of multiple mobile construction robots,10.1111/j.1467-8667.2004.00351.x
+Nonparametric identification of a building structure from experimental data using wavelet neural network,10.1111/1467-8667.t01-1-00313
+Wavelet packet-autocorrelation function method for traffic flow pattern analysis,10.1111/j.1467-8667.2004.00360.x
+Wavelet transforms for system identification in civil engineering,10.1111/1467-8667.t01-1-00312
+A high-resolution cellular automata traffic simulation model with application in a freeway traffic information system,10.1111/j.1467-8667.2004.00361.x
+Integrated AEC information services using object methods and a central project model,10.1111/0885-9507.00006
+Neuro-fuzzy logic model for evaluating water content of sandy soils,10.1111/j.1467-8667.2004.00354.x
+Semiautomated detection of design errors in 2D drawings using 3D reconstruction,10.1111/j.1467-8667.2004.00355.x
+Graphical programming and the development of construction robots,10.1111/j.1467-8667.2004.00338.x
+Meeting real-time traffic flow forecasting requirements with imprecise computations,10.1111/1467-8667.00310
+A view-based approach for construction process modeling,10.1111/1467-8667.00317
+Position-invariant neural network for digital pavement crack analysis,10.1111/j.1467-8667.2004.00341.x
+Rapid human-assisted creation of bounding models for obstacle avoidance in construction,10.1111/j.1467-8667.2004.00333.x
+CAD-based photogrammetry for reverse engineering of industrial installations,10.1111/1467-8667.00316
+Bridge maintenance level assessment,10.1111/1467-8667.00282
+Modeling the life cycle of a structure using fuzzy processes,10.1111/j.1467-8667.2004.00345.x
+Self-actuating SMA-HPFRC fuses for auto-adaptive composite structures,10.1111/1467-8667.t01-1-00301
+Semiactive damping of cables with sag,10.1111/1467-8667.00305
+A control architecture for robotic excavation in construction,10.1111/j.1467-8667.2004.00335.x
+A decision-support tool for airline yield management using genetic algorithms,10.1111/1467-8667.00311
+Neural network for rapid depth evaluation of shallow cracks in asphalt pavements,10.1111/j.1467-8667.2004.00350.x
+Intersection modeling for highway alignment optimization,10.1111/j.1467-8667.2004.00342.x
+Roughness characterization through 3D textured image analysis: Contribution to the study of road wear level,10.1111/j.1467-8667.2004.00340.x
+A core system for design information management using industry foundation classes,10.1111/1467-8667.00318
+SHERPA: Mobile wireless data capture for piling works,10.1111/1467-8667.00319
+Analysis of a climbing parallel robot for construction applications,10.1111/j.1467-8667.2004.00368.x
+Identification of modal combinations for nonlinear static analysis of building structures,10.1111/j.1467-8667.2004.00352.x
+Generating future land-use and transportation plans for high-growth cities using a genetic algorithm,10.1111/j.1467-8667.2004.00349.x
+Neuro-fuzzy control of railcar vibrations using semiactive dampers,10.1111/j.1467-8667.2004.00339.x
+A traceability system between plant and work site for asphalt pavements,10.1111/j.1467-8667.2004.00337.x
+Barcode technology for an incentive reward program to reduce construction wastes,10.1111/1467-8667.00320
+Seismic control of civil structures utilizing semi-active MR braces,10.1111/1467-8667.t01-1-00297
+Using simulation to understand the impact of deferred maintenance,10.1111/1467-8667.00275
+A dynamic bus-arrival time prediction model based on APC data,10.1111/j.1467-8667.2004.00363.x
+Computer vision techniques for automatic structural assessment of underground pipes,10.1111/1467-8667.00302
+Automated safety monitoring and diagnosis system for unstable slopes,10.1111/1467-8667.t01-1-00300
+Multicriteria planning of post-earthquake sustainable reconstruction,10.1111/1467-8667.00269
+Evaluation of uncertainties associated with geocoding techniques,10.1111/j.1467-8667.2004.00346.x
+Case-based reasoning for assessing intelligent transportation systems benefits,10.1111/1467-8667.00308
+Inductive classifying artificial network for vehicle type categorization,10.1111/1467-8667.00307
+"A neuro-fuzzy logic for ATIS stand-alone control systems: Structure, calibration, and analyses",10.1111/j.1467-8667.2004.00347.x
+Distributed structural analysis of large-scale structures on a cluster of personal computers,10.1111/1467-8667.00287
+Object-oriented model for freeway work zone capacity and queue delay estimation,10.1111/j.1467-8667.2004.00344.x
+Genetic algorithm-simulation methodology for pavement maintenance scheduling,10.1111/j.1467-8667.2004.00369.x
+Air quality management using a multi-agent system,10.1111/1467-8667.00260
+"A hybrid expert system, GIS, and simulation modeling for environmental and technological risk management",10.1111/1467-8667.00261
+Spatial information: Classification and applications in building design,10.1111/1467-8667.00273
+Information population of an integrated construction management system,10.1111/1467-8667.00274
+Pavement roughness modeling using back-propagation neural networks,10.1111/j.1467-8667.2004.00356.x
+An accessibility-maximization approach to road network planning,10.1111/1467-8667.00312
+Accuracy of light detection and ranging derived terrain data for highway location,10.1111/j.1467-8667.2004.00343.x
+From neural networks to qualitative models in environmental engineering,10.1111/1467-8667.00259
+Investigating driver injury severity in traffic accidents using fuzzy ARTMAP,10.1111/1467-8667.00286
+On-line control architecture for enabling real-time traffic system operations,10.1111/j.1467-8667.2004.00359.x
+Lamb waves for detecting delamination between steel bars and concrete,10.1111/1467-8667.t01-1-00299
+Analytical and numerical study of a smart sliding base isolation system for seismic protection of buildings,10.1111/1467-8667.00296
+Dynamic tests and simulation of magneto-rheological dampers,10.1111/1467-8667.t01-1-00298
+Time-frequency signal analysis of earthquake records using Mexican hat wavelets,10.1111/1467-8667.t01-1-00315
+Rapid geometric modeling for unstructured construction workspaces,10.1111/1467-8667.00314
+A multi-frequency electromagnetic image system,10.1111/1467-8667.00303
+Wavelet-clustering-neural network model for freeway incident detection,10.1111/1467-8667.t01-1-00311
+Genetic algorithm for optimization of infrastructure investment under time-resource constraints,10.1111/j.1467-8667.2004.00348.x
+Automated path planning for mobile crane lifts,10.1111/0885-9507.00005
+Data-driven methodology for signal timing plan development: A computational approach,10.1111/1467-8667.00285
+A simulation model for life cycle project management,10.1111/1467-8667.00264
+Decentralized parametric damage detection based on neural networks,10.1111/1467-8667.00265
+Freeway ramp merging phenomena in congested traffic using simulation combined with a driving simulator,10.1111/j.1467-8667.2004.00362.x
+Differential quadrature element method analysis of in-plane deflection of vertically curved beam structures,10.1111/j.1467-8667.2005.00382.x
+3D image segmentation of aggregates from laser profiling,10.1111/1467-8667.00315
+Intelligent system for condition monitoring of underground pipelines,10.1111/j.1467-8667.2004.00336.x
+Dynamic optimal traffic assignment and signal time optimization using genetic algorithms,10.1111/j.1467-8667.2004.00353.x
+A fuzzy-neural network method for modeling uncertainties in soil-structure interaction problems,10.1111/1467-8667.00326
+Geographic information system for coordination of fast-track projects,10.1111/1467-8667.00277
+Scene graph and frame update algorithms for smooth and scalable 3D visualization of simulated construction operations,10.1111/1467-8667.00272
+A possibilistic Petri net model for diagnosing cracks in RC structures,10.1111/1467-8667.00328
+Web-based information management system for construction projects,10.1111/1467-8667.00276
+Multi-agent distributed coordination of project schedule changes,10.1111/1467-8667.00327
+A decision support system specification for cost escalation in heavy engineering industry,10.1111/1467-8667.00281
+Intelligent steel bridge coating assessment using neuro-fuzzy recognition approach,10.1111/1467-8667.00278
+Balancing human-and-robot integration in building tasks,10.1111/j.1467-8667.2004.00365.x
+Coupled building control using acceleration feedback,10.1111/1467-8667.00295
+Managing transportation infrastructure for sustainable development,10.1111/1467-8667.00263
+From a product model to visualization: Simulation of indoor flows with Lattice-Boltzmann methods,10.1111/j.1467-8667.2004.00366.x
+A 3-D graphical database system for landfill operations using GPS,10.1111/1467-8667.00280
+Toward a spherical pseudo-wavelet basis for geodetic applications,10.1111/1467-8667.t01-1-00314
+Modeling of tunnel excavation using a hybrid DEM/BEM method,10.1111/1467-8667.00284
+Simulation-facilitated model for assessing cost correlations,10.1111/1467-8667.00283
+Optimal strategies for highway pavement management in developing countries,10.1111/1467-8667.00267
+GIS-Based analysis of railway's origin/destination path-selecting behavior,10.1111/1467-8667.00270
+A behavioral component analysis of route guidance systems using neural networks,10.1111/1467-8667.00329
+Unified Imaging Approach for Measuring Aggregate Angularity and Texture,10.1111/0885-9507.00191
+Failure criterion of concrete under triaxial stresses using neural networks,10.1111/1467-8667.00254
+Estimating volume change of triaxial soil specimens from planar images,10.1111/0885-9507.00243
+Structural Monitoring System Based on Sensitivity Analysis and a Neural Network,10.1111/0885-9507.00194
+Distributed simulation of freeway traffic flow using personal computers,10.1111/0885-9507.00181
+Earthquake response spectra models incorporating fuzzy logic with statistics,10.1111/0885-9507.00178
+Assessing earth-moving operation capacity by neural network-based simulation with physical factors,10.1111/0885-9507.00233
+Real-time OD estimation using automatic vehicle identification and traffic count data,10.1111/1467-8667.00248
+A hybrid-based system for site layout planning in construction,10.1111/0885-9507.00215
+Selection of methodology for neural network modeling of constitutive hystereses behavior of soils,10.1111/0885-9507.00206
+Impact-resistant design of RC slabs using immune algorithms,10.1111/0885-9507.00203
+Bridge management system and maintenance optimization for existing bridges,10.1111/0885-9507.00170
+Computer-aided project duration forecasting subjected to the impact of rain,10.1111/0885-9507.00172
+An Implementation of the Mode-Split Traffic-Assignment Method,10.1111/0885-9507.00193
+Artificial Neural Network-Based Heuristic Optimal Traffic Signal Timing,10.1111/0885-9507.00192
+Bilevel parallel genetic algorithms for optimization of large steel structures,10.1111/0885-9507.00234
+A CPM-based construction quality inspection and decision-aid system,10.1111/0885-9507.00187
+Iterative equation solver for bridge analysis using neural networks,10.1111/0885-9507.00176
+Steady-state analysis of water distribution networks including pressure-reducing valves,10.1111/0885-9507.00231
+Product modeling for dimensional control in the building industry,10.1111/0885-9507.00197
+Three-dimensional optimization of urban drainage systems,10.1111/0885-9507.00204
+Predicting geotechnical parameters of sands from CPT measurements using neural networks,10.1111/1467-8667.00250
+Nonlinear identification of dynamic systems using neural networks,10.1111/0885-9507.00211
+Consistency evaluation of landscape design by a decision support system,10.1111/0885-9507.00198
+Synthesis of a model for life-cycle project management,10.1111/0885-9507.00168
+Multiregion boundary element analysis in geomechanics including body forces,10.1111/0885-9507.00186
+Computer-based bridge management system for permit vehicle routing,10.1111/0885-9507.00246
+A semivirtual watershed model by neural networks,10.1111/0885-9507.00217
+Substructuring for structural optimization in a parallel processing environment,10.1111/0885-9507.00185
+Artificial intelligence-based decision support technologies in pavement management,10.1111/0885-9507.00220
+A distributed control system based on agent architecture for wastewater treatment,10.1111/1467-8667.00258
+Monitoring structural health using a probabilistic measure,10.1111/0885-9507.00209
+Web-based interactive courseware for structural steel design using Java,10.1111/0885-9507.00180
+Parallel computation of a weather model in a cluster environment,10.1111/0885-9507.00239
+A numerical method for the analysis of rheologic effects in concrete bridges,10.1111/0885-9507.00238
+Some learning methods in functional networks,10.1111/0885-9507.00205
+Neural network-based long-term hydropower forecasting system,10.1111/0885-9507.00199
+Neural networks in civil engineering: 1989-2000,10.1111/0885-9507.00219
+Nonlinear analysis of structural frame systems by the state-space approach,10.1111/0885-9507.00174
+Two parallel computing methods for coupled thermohydromechanical problems,10.1111/0885-9507.00182
+Unstructured mesh computations on networks of workstations,10.1111/0885-9507.00184
+Structural concrete analysis using rigid-body-spring networks,10.1111/0885-9507.00177
+Optimal inspection and maintenance policies for infrastructure networks,10.1111/0885-9507.00166
+Uncertainty in damage assessment of structures and its numerical simulation,10.1111/0885-9507.00240
+"Using GIS, genetic algorithms, and visualization in highway development",10.1111/0885-9507.00242
+The effects of detector spacing on traffic forecasting performance using neural networks,10.1111/0885-9507.00244
+Using colors to detect structural components in digital pictures,10.1111/1467-8667.00253
+Enhancing neural network traffic incident-detection algorithms using wavelets,10.1111/0885-9507.00229
+Topology design of truss structures in a multicriteria environment,10.1111/0885-9507.00230
+Significance of modeling error in structural parameter estimation,10.1111/0885-9507.00210
+An MPI parallel implementation of Newmark's method,10.1111/0885-9507.00183
+An Internet-based multimedia highway information system,10.1111/0885-9507.00171
+Intelligent repair of existing concrete structures,10.1111/1467-8667.00251
+Optimal design of water distribution systems using genetic algorithms,10.1111/0885-9507.00201
+Meta-optimization using cellular automata with application to the combined trip distribution and assignment system optimal problem,10.1111/0885-9507.00241
+Automatic palletizing of concrete pavement blocks: An algorithm for near-optimal assembly,10.1111/0885-9507.00224
+Field verification of the damage index method in a concrete box-girder bridge via visual inspection,10.1111/0885-9507.00213
+Welding automation in space-frame bridge construction,10.1111/0885-9507.00225
+Documentation of changes in modal properties of a concrete box-girder bridge due to environmental and internal conditions,10.1111/0885-9507.00212
+Preliminary design of long-span king-post truss systems with a genetic algorithm,10.1111/0885-9507.00216
+An Adaptive Conjugate Gradient Neural Network-Wavelet Model for Traffic Incident Detection,10.1111/0885-9507.00189
+Modeling an asphalt pavement repair system considering fuzziness of budget constraints,10.1111/0885-9507.00169
+A multiobjective and stochastic system for building maintenance management,10.1111/0885-9507.00196
+Health monitoring and structural reliability as a value chain,10.1111/0885-9507.00214
+Path Generation for autonomous locomotion of articulated steering wheel loader,10.1111/0885-9507.00222
+Data mining and knowledge discovery in sediment transport,10.1111/0885-9507.00202
+Functional networks: A new network-based methodology,10.1111/0885-9507.00175
+Deployable truss operation by ETS-VII robot arm using force accommodation control,10.1111/0885-9507.00223
+Fully automated shotcrete robot for rock support,10.1111/0885-9507.00226
+Performance analysis of drive-line steering methods in excavator-mounted sheet-piling systems,10.1111/0885-9507.00228
+A massively parallel time-dependent least-time-path algorithm for intelligent transportation systems applications,10.1111/0885-9507.00237
+Artificial neural network-based heuristic optimal traffic signal timing,
+Structural monitoring system based on sensitivity analysis and a neural network,
+A distributed object-oriented finite-element analysis program architecture,10.1111/0885-9507.00236
+Life-cycle performance of RC bridges: Probabilistic approach,10.1111/0885-9507.00167
+Grouping pavement condition variables for performance modeling using self-organizing maps,10.1111/0885-9507.00218
+Preliminary highway design with genetic algorithms and geographic information systems,10.1111/0885-9507.00190
+A bridge management system for elevated steel highways,10.1111/0885-9507.00179
+Lattice-dome design using a knowledge-based system approach,10.1111/0885-9507.00232
+Computer-aided architectural design oriented to robotized facade panels manufacturing,10.1111/0885-9507.00227
+Traffic volume time-series analysis according to the type of road use,10.1111/0885-9507.00200
+Effect of performance model accuracy on optimal pavement design,10.1111/1467-8667.00249
+Probe vehicle population and sample size for arterial speed estimation,10.1111/1467-8667.00252
+The role of computer models in full-scale bridge laboratory tests,10.1111/0885-9507.00245
+Consistency-based problem solving for environmental decision support,10.1111/1467-8667.00257
+Feature Extraction for Traffic Incident Detection Using Wavelet Transform and Linear Discriminant Analysis,10.1111/0885-9507.00188
+Advanced analysis of steel frames using parallel processing and vectorization,10.1111/0885-9507.00235

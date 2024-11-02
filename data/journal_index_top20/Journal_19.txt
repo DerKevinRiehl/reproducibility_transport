@@ -1,0 +1,1579 @@
+title,url
+Factors influencing the perceived value of travel time in European urban areas,10.1007/s11116-023-10376-2
+Does temporary employment increase length of commuting? Longitudinal evidence from Australia and Germany,10.1007/s11116-023-10374-4
+Car energy efficiency and emissions in the built environment,10.1007/s11116-024-10491-8
+"Correction to: The role of culture and evolving attitudes in travel behaviour assimilation among south asian immigrants in Melbourne, Australia (Transportation, (2023), 50, 4, (1261-1287), 10.1007/s11116-022-10277-w)",10.1007/s11116-022-10333-5
+Estimating flexibility preferences to resolve temporal scheduling conflicts in activity-based modelling,10.1007/s11116-022-10330-8
+Current and future European culture of mobility: insights from in-depth conversations with thinkers,10.1007/s11116-024-10519-z
+"Correction to: E-bikes in rural areas: current and potential users in the Netherlands (Transportation, (2023), 50, 4, (1449-1470), 10.1007/s11116-022-10283-y)",10.1007/s11116-023-10389-x
+An innovative supervised learning structure for trajectory reconstruction of sparse LPR data,10.1007/s11116-022-10320-w
+The impact of relocations on distances traveled for commuting and grocery shopping: structural equation models of panel data,10.1007/s11116-024-10498-1
+Meta-analysis of travel-based multitasking by railway passengers in Japan between 1983 and 2019: direct observation and YouTube videos,10.1007/s11116-024-10522-4
+Socioeconomic differences in effect size: predicting commuting mode choice of migrants and locals using a light gradient boosting approach,10.1007/s11116-022-10317-5
+"Traditional taxi, e-hailing or ride-hailing? A GSEM approach to exploring service adoption patterns",10.1007/s11116-022-10356-y
+Mining bike sharing trip record data: a closer examination of the operating performance at station level,10.1007/s11116-022-10342-4
+Exploring the causal effects of the built environment on travel behavior: a unique randomized experiment in Shanghai,10.1007/s11116-022-10325-5
+Vehicle ownership over the life course among older Americans: a longitudinal analysis,10.1007/s11116-022-10326-4
+Age and domestic migration effects on workers’ commuting distance,10.1007/s11116-022-10341-5
+"Correction to: The dynamic relationship between industrialization, urbanization, CO2 emissions, and transportation modes in Korea: empirical evidence from maritime and air transport (Transportation, (2023), 50, 6, (2111-2137), 10.1007/s11116-022-10303-x)",10.1007/s11116-022-10357-x
+Integrated multiresolution framework for spatialized population synthesis,10.1007/s11116-022-10358-w
+MoPeD meets MITO: a hybrid modeling framework for pedestrian travel demand,10.1007/s11116-022-10365-x
+A bifurcation of the peak: new patterns of traffic peaking during the COVID-19 era,10.1007/s11116-022-10329-1
+Were ride-hailing fares affected by the COVID-19 pandemic? Empirical analyses in Atlanta and Boston,10.1007/s11116-022-10349-x
+A modified radiation model based on the characteristics of airline network under large-scale disruptions,10.1007/s11116-024-10509-1
+A parking pricing scheme considering parking dynamics,10.1007/s11116-022-10370-0
+"Correction to: A minute of your time: The impact of survey recruitment method and interview location on the value of travel time (Transportation, (2023), 50, 5, (1553-1584), 10.1007/s11116-022-10287-8)",10.1007/s11116-022-10366-w
+"Correction to: The dynamic relationship between industrialization, urbanization, CO2 emissions, and transportation modes in Korea: empirical evidence from maritime and air transport (Transportation, (2023), 50, 6, (2111-2137), 10.1007/s11116-022-10303-x)",10.1007/s11116-022-10362-0
+Let’s walk! The fallacy of urban first- and last-mile public transport,10.1007/s11116-024-10505-5
+Which variables influence electric vehicle adoption?,10.1007/s11116-024-10525-1
+Facing the future of transit ridership: shifting attitudes towards public transit and auto ownership among transit riders during COVID-19,10.1007/s11116-022-10344-2
+Place Generator and Place Interpreter: a new methodology to collect data on regular mobility patterns,10.1007/s11116-024-10526-0
+Discrete choice modeling with anonymized data,10.1007/s11116-022-10337-1
+"Exploring the perception of quality of life in urban daily commuting for sustainable urban transport in Bangkok, Thailand",10.1007/s11116-024-10496-3
+A courier’s choice for delivery gigs in a real-world crowdshipping service with observed sender-courier preference discrepancy,10.1007/s11116-024-10528-y
+Analysis of mobility patterns for urban taxi ridership: the role of the built environment,10.1007/s11116-023-10372-6
+Advancing the practice of regional transportation equity analysis: a San Francisco bay area case study,10.1007/s11116-022-10355-z
+Inferring unable-to-board commuters for overcrowded buses using smart card data,10.1007/s11116-022-10359-9
+"Correction to: Operating subsidies and transit efficiency: applying new metrics to old problems (Transportation, (2023), 10.1007/s11116-023-10441-w)",10.1007/s11116-023-10458-1
+Spatial equity implications and neighborhood indicators of ridehailing trip frequency and vehicle miles traveled in the phoenix metro region,10.1007/s11116-022-10327-3
+A social-ecological model of working from home during COVID-19,10.1007/s11116-022-10331-7
+"Pandemic transit: examining transit use changes and equity implications in Boston, Houston, and Los Angeles",10.1007/s11116-022-10345-1
+Determining contract conditions in a PPP project among deep uncertainty in future outturn travel demand,10.1007/s11116-022-10354-0
+A flexible multiple discrete–continuous probit (MDCP) model: application to analysis of expenditure patterns of domestic tourists in India,10.1007/s11116-022-10364-y
+"More bus subsidies, better bus benefits? Evidence from the effect of bus subsidy policies in 33 key cities of China",10.1007/s11116-024-10530-4
+A latent class analysis to understand riders’ adoption of on-demand mobility services as a complement to transit,10.1007/s11116-022-10351-3
+Optimisation of rural roads planning based on multi-modal travel: a multi-service accessibility study in Nepal’s remote Karnali Province,10.1007/s11116-022-10343-3
+Understanding inequality in ride-hailing service: an investigation of matching and pickup time,10.1007/s11116-024-10495-4
+A ridesplitting market equilibrium model with utility-based compensation pricing,10.1007/s11116-022-10339-z
+Unveiling the effect of social media communication on urban mobility,10.1007/s11116-024-10512-6
+Walking cities that are (un)walkable: exploring everyday lived realities in low-income neighbourhoods in Accra,10.1007/s11116-024-10503-7
+Impact of autonomous vehicles on discretionary activities: an agent-based model with space–time accessibility constraints,10.1007/s11116-024-10502-8
+"Correction to: The MOBIS dataset: a large GPS dataset of mobility behaviour in Switzerland (Transportation, (2023), 50, 5, (1983-2007), 10.1007/s11116-022-10299-4)",10.1007/s11116-022-10336-2
+A latent class structural equation model of the relationship between travel satisfaction and overall life satisfaction controlling for satisfaction with other life domains,10.1007/s11116-022-10324-6
+Psychological factors impacts on carsharing use,10.1007/s11116-024-10514-4
+Examining the performance of transit systems in large US metropolitan areas,10.1007/s11116-022-10368-8
+Subjective variables in travel behavior models: a critical review and Standardized Transport Attitude Measurement Protocol (STAMP),10.1007/s11116-022-10323-7
+Impacts of teleworking and online shopping on travel: a tour-based analysis,10.1007/s11116-022-10321-9
+Willingness to pay for automated taxis: a stated choice experiment to measure the impact of in-vehicle features and customer reviews,10.1007/s11116-022-10319-3
+Exploring passengers’ choice of transfer city in air-to-rail intermodal travel using an interpretable ensemble machine learning approach,10.1007/s11116-023-10375-3
+A two-dimensional propensity score matching approach to estimating the treatment effect of urban rail transit lines on vehicle travel,10.1007/s11116-022-10360-2
+Dissuasive effect of low emission zones on traffic: the case of Madrid Central,10.1007/s11116-022-10318-4
+A LiDAR-based methodology for monitoring and collecting microscopic bicycle flow parameters on bicycle facilities,10.1007/s11116-022-10322-8
+Synthetic control methods for estimating the effect of purchase incentives on plug-in electric vehicles sales in the United States,10.1007/s11116-022-10350-4
+Promoting active transportation: A comparative assessment of paths and prices,10.1007/s11116-024-10520-6
+Uncovering the link between intra-individual heterogeneity and variety seeking: the case of new shared mobility,10.1007/s11116-022-10334-4
+"Everything has changed: the impacts of the COVID-19 pandemic on the transit market in Montréal, Canada",10.1007/s11116-024-10497-2
+An agent-based fleet management model for first- and last-mile services,10.1007/s11116-022-10363-z
+"Fair transport policies for older people: accessibility and affordability of public transport in Santiago, Chile",10.1007/s11116-022-10346-0
+Ride-pooling service assessment with heterogeneous travellers in non-deterministic setting,10.1007/s11116-024-10527-z
+The TimeUse+ data set: 4 weeks of time use and expenditure data based on GPS tracks,10.1007/s11116-024-10517-1
+"Correction to: Advances and pitfalls in measuring transportation equity (Transportation, (2024), 10.1007/s11116-023-10460-7)",10.1007/s11116-024-10474-9
+Maximum interpolable gap length in missing smartphone-based GPS mobility data,10.1007/s11116-022-10328-2
+Real-time bus arrival delays analysis using seemingly unrelated regression model,10.1007/s11116-024-10507-3
+Taking the same route every day? An empirical investigation of commuting route stability using personal electric vehicle trajectory data,10.1007/s11116-023-10377-1
+"Shared micromobility, perceived accessibility, and social capital",10.1007/s11116-024-10521-5
+Self-loop analysis based on dockless bike-sharing system via bike mobility chain: empirical evidence from Shanghai,10.1007/s11116-024-10500-w
+"Complementing or competing with public transit? Evaluating the parameter sensitivity of potential Mobility-as-a-Service (MaaS) urban users in Germany, the Czech Republic, Poland, and the United Kingdom with a mixed choice model",10.1007/s11116-024-10501-9
+“Would it be weird to live here without a car?”: Using social media to understand car ownership decisions,10.1007/s11116-022-10340-6
+Identifying key elements for user satisfaction of bike-sharing systems: a combination of direct and indirect evaluations,10.1007/s11116-022-10335-3
+"Modeling the decision of ridesourcing drivers to park and wait at trip ends: a comparison between Perth, Australia and Kolkata, India",10.1007/s11116-022-10367-9
+Exploring commuters’ mode preference to autonomous vehicles based on a personalized travel experience survey,10.1007/s11116-024-10529-x
+Influence of parents on their children’s car purchase intention,10.1007/s11116-024-10516-2
+Who drops off web-based travel surveys? Investigating the impact of respondents dropping out of travel diaries during online travel surveys,10.1007/s11116-024-10510-8
+"Studying the Interrelationship between Telecommuting during COVID-19, residential local accessibility, and active travel: a panel study in Montréal, Canada",10.1007/s11116-022-10369-7
+The interaction between the recent evolution of working from home and online shopping,10.1007/s11116-024-10506-4
+Electric vehicle adoption intentions among UK residents parking in shared and public spaces,10.1007/s11116-024-10518-0
+A cross-cultural study of nonprofit self-organized ridesharing,10.1007/s11116-022-10347-z
+Personalizing the dichotomy of fixed and flexible activities in everyday life: deriving prism anchors from GPS-enabled survey data,10.1007/s11116-022-10352-2
+Subscribing to new technology: consumer preferences for short-term ownership of electric vehicles,10.1007/s11116-022-10353-1
+Role of policy and consumer attitudes in people’s intention to use autonomous vehicles: a comparative study in China and the USA,10.1007/s11116-024-10508-2
+Modeling taxi cruising time based on multi-source data: a case study in Shanghai,10.1007/s11116-022-10348-y
+Accessibility improvement and interregional trade flows,10.1007/s11116-024-10511-7
+Modal dynamic equilibrium under different demand management schemes,10.1007/s11116-022-10338-0
+"Modeling and analyzing the impact of on-street parking on traffic flow: a study of the main highway in Debre Markos Town, Ethiopia",10.1007/s11116-024-10513-5
+Improving the understanding of mobility in cross-border areas using a pooled travel survey,10.1007/s11116-024-10488-3
+Freight-transit tour synthesis entropy-based formulation: sharing infrastructure for buses and trucks,10.1007/s11116-024-10499-0
+Deriving weeklong activity-travel dairy from Google Location History: survey tool development and a field test in Toronto,10.1007/s11116-024-10523-3
+Inferring alighting bus stops from smart card data combined with cellular signaling data,10.1007/s11116-023-10373-5
+Role of environmental awareness & self-identification expressiveness in electric-vehicle adoption,10.1007/s11116-024-10515-3
+Forecasting the commuting generation using metropolis-informed GCN and the topological commuter portrait,10.1007/s11116-024-10504-6
+Ride-sharing with inflexible drivers in the Paris metropolitan area,10.1007/s11116-022-10361-1
+Discovering spatiotemporal usage patterns of a bike-sharing system by type of pass: a case study from Seoul,10.1007/s11116-023-10371-7
+How does self-assessed health status relate to preferences for cycling infrastructure? A latent class and latent variable approach,10.1007/s11116-022-10266-z
+Modelling intermodal traveller behaviour in mega-city regions: simultaneous versus sequential estimation frameworks,10.1007/s11116-024-10489-2
+"Domestic burden in an unfamiliar new homeland: gender, immigration, and household-serving trip frequencies",10.1007/s11116-022-10310-y
+Understanding social attitudes towards autonomous driving: a perspective from Chinese citizens,10.1007/s11116-024-10480-x
+"Combining disparate surveys across time to study satisfaction with life: the effects of study context, sampling method, and transport attributes",10.1007/s11116-021-10252-x
+A deep semi-supervised machine learning algorithm for detecting transportation modes based on GPS tracking data,10.1007/s11116-024-10472-x
+User expectations and perceptions towards new public transport infrastructure: evaluating a cable car in Bogotá,10.1007/s11116-021-10260-x
+Where ridehail drivers go between trips,10.1007/s11116-022-10298-5
+"A multi-source data fusion framework for joint population, expenditure, and time use synthesis",10.1007/s11116-022-10279-8
+Joint modeling of mode choice and travel distance with intra-household interactions,10.1007/s11116-022-10286-9
+Bike lanes and ability to summon an autonomous scooter can increase willingness to use micromobility,10.1007/s11116-024-10478-5
+Congestion pricing and positive incentives: conceptual analysis and empirical findings from Israel,10.1007/s11116-021-10255-8
+"Crime, environments, service characteristics, and transit ridership: a multilevel analysis",10.1007/s11116-023-10459-0
+The influence of app function evolution on transport SuperApp use behaviour over time,10.1007/s11116-024-10485-6
+"Eastern paradigm of urban mobility: the case of Erbil city, Iraq",10.1007/s11116-024-10464-x
+How shared e-scooter programs affect docked bikeshare ridership in communities of concern: a tale of two cities,10.1007/s11116-024-10473-w
+Mobility-on-demand pricing versus private vehicle TCO: how cost structures hinder the dethroning of the car,10.1007/s11116-021-10258-5
+Exploring the nonlinear relationships between human travel and road traffic congestions using taxi trajectory data,10.1007/s11116-024-10476-7
+"The car-free journey to, and through, parenthood",10.1007/s11116-024-10466-9
+Determinants of zero-car and car-owning apartment households,10.1007/s11116-024-10467-8
+Preferred streets: assessing the impact of the street environment on cycling behaviors using the geographically weighted regression,10.1007/s11116-024-10463-y
+The effect of economic incentives and cooperation messages on user participation in crowdsourced public transport technologies,10.1007/s11116-022-10288-7
+A multinomial probit analysis of shanghai commute mode choice,10.1007/s11116-022-10284-x
+Advances and pitfalls in measuring transportation equity,10.1007/s11116-023-10460-7
+"The role of culture and evolving attitudes in travel behaviour assimilation among south asian immigrants in Melbourne, Australia",10.1007/s11116-022-10277-w
+An exploratory analysis of alternative travel behaviors of ride-hailing users,10.1007/s11116-021-10254-9
+Do low-carbon rewards incentivize people to ridesplitting? Evidence from structural analysis,10.1007/s11116-022-10302-y
+"Agent-based simulations of shared automated vehicle operations: reflecting travel-party size, season and day-of-week demand variations",10.1007/s11116-023-10454-5
+"The dynamic relationship between industrialization, urbanization, CO2 emissions, and transportation modes in Korea: empirical evidence from maritime and air transport",10.1007/s11116-022-10303-x
+A multi-group analysis of the behavioral intention to ride in autonomous vehicles: evidence from three U.S. metropolitan areas,10.1007/s11116-021-10256-7
+Predictability of short-term passengers’ origin and destination demands in urban rail transit,10.1007/s11116-022-10313-9
+Effects of high-speed rail on regional accessibility,10.1007/s11116-022-10291-y
+Exploring the role of ride-hailing in trip chains,10.1007/s11116-022-10269-w
+E-bikes in rural areas: current and potential users in the Netherlands,10.1007/s11116-022-10283-y
+The impact of online food delivery service on eating-out behavior: a case of Multi-Service Transport Platforms (MSTPs) in Indonesia,10.1007/s11116-022-10307-7
+Response willingness in consecutive travel surveys: an investigation based on the National Household Travel Survey using a sample selection model,10.1007/s11116-022-10312-w
+Hybrid gradient-swarm intelligence to improve quality of solutions for origin–destination matrix adjustment problem,10.1007/s11116-024-10493-6
+Residential self-selection or socio-ecological interaction? the effects of sociodemographic and attitudinal characteristics on the built environment–travel behavior relationship,10.1007/s11116-022-10280-1
+Design of the “Future Mobility in Canada Survey” (FMCS) to assess the evolving mobility landscape in urban Canada with an emphasis on automated vehicles,10.1007/s11116-024-10484-7
+"Effectiveness of vaccination, travel load, and facemask use control strategies for controlling COVID Delta variant: the case of Sydney Metropolitan Area",10.1007/s11116-024-10471-y
+Investigating demand models with more flexible elasticity functions: empirical insights from rail demand analysis,10.1007/s11116-024-10462-z
+Neural network model for predicting variation in walking dynamics of pedestrians in social groups,10.1007/s11116-021-10263-8
+Why are Hanoi students giving up on bus ridership?,10.1007/s11116-021-10262-9
+"Estimating the effects of income inequality, information communication technology, and transport infrastructure on transport-oriented household expenditures",10.1007/s11116-024-10486-5
+COVID Future panel survey: A unique public dataset documenting how U.S. residents’ travel-related choices changed during the COVID-19 pandemic,10.1007/s11116-024-10479-4
+Estimation of daily bicycle traffic using machine and deep learning techniques,10.1007/s11116-022-10290-z
+Who should pay? Public acceptance of different means for funding transport infrastructure,10.1007/s11116-022-10282-z
+Optimizing first- and last-mile public transit services leveraging transportation network companies (TNC),10.1007/s11116-022-10301-z
+An experiential learning-based transit route choice model using large-scale smart-card data,10.1007/s11116-024-10465-w
+Exploring the effect of perceived safety in first/last mile mode choices,10.1007/s11116-024-10487-4
+Assessment of the activity scheduling optimization method using real travel data,10.1007/s11116-023-10456-3
+Ranking preferences towards adopting autonomous vehicles based on peer inputs and advertisements,10.1007/s11116-022-10304-w
+A multi-modal network equilibrium model considering captive travelers and mode correlation,10.1007/s11116-024-10475-8
+Integrating a computable general equilibrium model with the four-step framework,10.1007/s11116-022-10276-x
+"How carpool drivers choose their passengers in Nanjing, China: effects of facial attractiveness and credit",10.1007/s11116-022-10268-x
+Gender differences in active travel in major cities across the world,10.1007/s11116-021-10259-4
+Potential of on-demand services for urban travel,10.1007/s11116-022-10278-9
+"Low-emission zones, modes of transport and house prices: evidence from Berlin’s commuter belt",10.1007/s11116-022-10295-8
+Developing and microsimulating demographic dynamics for an integrated urban model: a comparison between logistic regression and machine learning techniques,10.1007/s11116-024-10468-7
+The MOBIS dataset: a large GPS dataset of mobility behaviour in Switzerland,10.1007/s11116-022-10299-4
+In-stream mobility and speed estimation of mobile devices from mobile network data,10.1007/s11116-024-10494-5
+Immobility in a weekly mobility routine: studying the links between mobile and immobile days for employees and retirees,10.1007/s11116-022-10292-x
+Bus ridership and its determinants in Beijing: A spatial econometric perspective,10.1007/s11116-021-10248-7
+Mitigating bus bunching with real-time crowding information,10.1007/s11116-022-10270-3
+"Sufficient access? Activity participation, perceived accessibility and transport-related social exclusion across spatial contexts",10.1007/s11116-024-10470-z
+Justifying toll payment with biased travel time estimates: Behavioral findings and route choice modeling,10.1007/s11116-021-10251-y
+Households with constrained off-street parking drive fewer miles,10.1007/s11116-022-10306-8
+Stated benefits of teleworking in Mexico City: a discrete choice experiment on office workers,10.1007/s11116-022-10293-w
+Can information increase support for transportation reform? Results from an experiment,10.1007/s11116-022-10265-0
+Heuristic time-dependent personal scheduling problem with electric vehicles,10.1007/s11116-022-10300-0
+Exploring the operational performance discrepancies between online ridesplitting and carpooling transportation modes based on DiDi data,10.1007/s11116-022-10297-6
+Predictors of driving cessation among older drivers in Taiwan,10.1007/s11116-022-10315-7
+Understanding California wildfire evacuee behavior and joint choice making,10.1007/s11116-022-10275-y
+The edge and the center in neighborhood planning units: assessing permeability and edge attractiveness in Abu Dhabi,10.1007/s11116-021-10257-6
+An approach to assess the role of features in detection of transportation modes,10.1007/s11116-024-10492-7
+Increasing relative risk taking in a choice context with source-dependent travel time risks,10.1007/s11116-022-10316-6
+"Cycling speed variation: a multilevel model of characteristics of cyclists, trips and route tracking points",10.1007/s11116-024-10477-6
+Equilibrium or imbalance? Rail Transit and Land Use Mix in Station Areas,10.1007/s11116-022-10314-8
+Regional freight generation and spatial interactions in developing regions using secondary data,10.1007/s11116-021-10261-w
+How does public transit serve post-secondary students in Toronto? A utility-based analysis of accessibility by transit for non-mandatory trips,10.1007/s11116-024-10469-6
+What are the multimodal patterns of individual mobility at the day level in the Paris region? A two-stage data-driven approach based on the 2018 Household Travel Survey,10.1007/s11116-022-10285-w
+"Is it possible to attract private vehicle users towards public transport? Understanding the key role of service quality, satisfaction and involvement on behavioral intentions",10.1007/s11116-022-10272-1
+Informality and Tax Refund in Peru’s Intercity Passenger Ground Transport Market: An Empirical Appraisal,10.1007/s11116-022-10273-0
+Fundamental diagram of urban rail transit considering train–passenger interaction,10.1007/s11116-022-10281-0
+Development of a practical aggregate spatial road freight modal demand model system for truck and commodity movements with an application of a distance-based charging regime,10.1007/s11116-022-10271-2
+Operation extension strategy on last train timetables in urban rail transit network: A Pareto optimality-based approach,10.1007/s11116-024-10483-8
+Decentralized mobility hubs in urban residential neighborhoods improve the contribution of carsharing to sustainable mobility: findings from a quasi-experimental study,10.1007/s11116-022-10305-9
+Multi-purpose pickup and delivery problem for combined passenger and freight transport,10.1007/s11116-024-10482-9
+Governing shared mobility: a comparison of the public policy goals being pursued in three cities,10.1007/s11116-023-10461-6
+The value of travel time: a revealed preferences approach using exogenous variation in travel costs and automatic traffic count data,10.1007/s11116-022-10308-6
+Commute distance and jobs-housing fit,10.1007/s11116-022-10264-1
+Determinants of irregular demand for regional rail passenger services – case study of High Tatras in Slovakia,10.1007/s11116-024-10481-w
+"Investigating the effects of platform and mobility on mobility as a service (MaaS) users’ service experience and behavioral intention: empirical evidence from MeNGo, Kaohsiung",10.1007/s11116-022-10309-5
+Are they willing to switch from non-driving to driving? An exploratory study among Chinese older people,10.1007/s11116-022-10274-z
+Who is inclined to buy an autonomous vehicle? Empirical evidence from California,10.1007/s11116-024-10490-9
+A theoretical investigation of user acceptance of autonomous public transport,10.1007/s11116-021-10253-w
+Joint and sequential models for freight vehicle type and shipment size choice,10.1007/s11116-022-10289-6
+Calibration of sightseeing tour choices considering multiple decision criteria with diminishing reward,10.1007/s11116-022-10296-7
+A joint demand modeling framework for ride-sourcing and dynamic ridesharing services: a geo-additive Markov random field based heterogeneous copula framework,10.1007/s11116-022-10294-9
+A minute of your time: The impact of survey recruitment method and interview location on the value of travel time,10.1007/s11116-022-10287-8
+A dynamic graph-based many-to-one ride-matching approach for shared autonomous electric vehicles,10.1007/s11116-023-10391-3
+Freight tour synthesis based on entropy maximization with fuzzy logic constraints,10.1007/s11116-023-10407-y
+Charging forward: deploying EV infrastructure for Uber and Lyft in California,10.1007/s11116-023-10381-5
+Effects of data aggregation (buffer) techniques on bicycle volume estimation,10.1007/s11116-023-10452-7
+Modeling household online shopping demand in the U.S.: a machine learning approach and comparative investigation between 2009 and 2017,10.1007/s11116-021-10250-z
+Understanding passenger route choice behavior under the influence of detailed route information based on smart card data,10.1007/s11116-023-10432-x
+Time-dependent estimation of origin–destination matrices using partial path data and link counts,10.1007/s11116-023-10412-1
+Relationship between commuting and non-commuting travel activity under the growing incidence of working from home and people’s attitudes towards COVID-19,10.1007/s11116-023-10403-2
+A tour-based multimodal mode choice model for impact assessment of new mobility concepts and mobility as a service,10.1007/s11116-023-10443-8
+Daily activity duration tolerance: a sensitivity analysis of emotional well-being to activity duration,10.1007/s11116-023-10437-6
+Incorporating psychological needs in commute mode choice modelling: a hybrid choice framework,10.1007/s11116-021-10230-3
+Blind classification of e-scooter trips according to their relationship with public transport,10.1007/s11116-023-10382-4
+"Transcending the gender distribution of work: committed time, activity substitution, and leisure",10.1007/s11116-023-10438-5
+Potential for greenhouse gas (GHG) emissions savings from replacing short motorcycle trips with active travel modes in Vietnam,10.1007/s11116-023-10394-0
+Impacts of built environment on travel behaviors of Generation Z: a longitudinal perspective,10.1007/s11116-021-10249-6
+Factors influencing intention to use ridesharing or intercity bus services: a nonlinear point of View,10.1007/s11116-023-10399-9
+Didn’t travel or just being lazy? An empirical study of soft-refusal in mobility diaries,10.1007/s11116-023-10445-6
+Data-driven analysis and modeling of individual longitudinal behavior response to fare incentives in public transport,10.1007/s11116-023-10419-8
+How do baby boomers travel differently from the silent generation?,10.1007/s11116-023-10410-3
+Can repeated surveys reveal the variation of the value of travel time over time?,10.1007/s11116-021-10243-y
+Mobility functional areas and COVID-19 spread,10.1007/s11116-021-10234-z
+Operating subsidies and transit efficiency: applying new metrics to old problems,10.1007/s11116-023-10441-w
+Prediction framework for parking search cruising time and emissions in dense urban areas,10.1007/s11116-023-10455-4
+Vehicle access and falling transit ridership: evidence from Southern California,10.1007/s11116-021-10245-w
+"A GPS-based user-verified shipment survey method to supplement the commodity flow survey: survey design, platform, and case study",10.1007/s11116-023-10444-7
+Analysis of the influences of built environment measures on household car and motorcycle ownership decisions in Hubli-Dharwad cities,10.1007/s11116-021-10242-z
+Validation of a multi-modal transit route choice model using smartcard data,10.1007/s11116-023-10387-z
+What stay-at-home orders reveal about dependence on transportation network companies,10.1007/s11116-023-10425-w
+Evidence-based transport policy analysis driven by agent-based simulation: the case of mobility in Ústí nad Labem,10.1007/s11116-023-10453-6
+Investigating the role of preference variation in the perceptions of railway passengers in Great Britain,10.1007/s11116-023-10397-x
+Dominant charging location choice of commuters and non-commuters: a big data approach,10.1007/s11116-023-10427-8
+Gender differences in work-related high mobility differentiated by partnership and parenthood status,10.1007/s11116-021-10226-z
+The effects of gift vouchers and environmental certificates on the demand for a collective DRT system,10.1007/s11116-021-10224-1
+Vulnerability and resilience of the road transport industry in Poland to the COVID-19 pandemic crisis,10.1007/s11116-021-10246-9
+Predicting acceptance of autonomous shuttle buses by personality profiles: a latent profile analysis,10.1007/s11116-023-10447-4
+Public transport crowding valuation in a post-pandemic era,10.1007/s11116-023-10420-1
+Exploring spatial heterogeneity in the impact of built environment on taxi ridership using multiscale geographically weighted regression,10.1007/s11116-023-10393-1
+From state of the practice to state of the art: improving equity analysis in regional transportation plans,10.1007/s11116-023-10439-4
+Improved imputation of rule sets in class association rule modeling: application to transportation mode choice,10.1007/s11116-021-10238-9
+Traveler’s interactive decision-making behavior between itinerary and mode choice using Copula-based discrete-count joint modeling,10.1007/s11116-023-10409-w
+The survivability of cycling in a co-evolutionary agent-based model,10.1007/s11116-023-10422-z
+Rural–nonrural divide in car access and unmet travel need in the United States,10.1007/s11116-023-10429-6
+Factors influencing the market share of e-bike sharing: evidence from New York City,10.1007/s11116-023-10457-2
+Deciphering flow clusters from large-scale free-floating bike sharing journey data: a two-stage flow clustering method,10.1007/s11116-023-10415-y
+Systematic literature review on impacts of COVID-19 pandemic and corresponding measures on mobility,10.1007/s11116-023-10392-2
+Data-driven exploration of heterogeneous gasoline price elasticities using generalized random forests,10.1007/s11116-023-10417-w
+Exploring the spatiotemporal factors affecting bicycle-sharing demand during the COVID-19 pandemic,10.1007/s11116-023-10378-0
+A new risk-based measure of link criticality for flood risk planning,10.1007/s11116-023-10396-y
+Gender gaps in ride-hail use in U.S. metropolitan areas,10.1007/s11116-023-10436-7
+Optimal coordinated congestion pricing for multiple regions: a surrogate-based approach,10.1007/s11116-023-10400-5
+Do car drivers respond differently to fuel price changes? Evidence from German household data,10.1007/s11116-023-10431-y
+Mobility knowledge graph: review and its application in public transport,10.1007/s11116-023-10451-8
+Underlying dimensions of benefit and risk perception and their effects on people’s acceptance of conditionally/fully automated vehicles,10.1007/s11116-021-10225-0
+Examining the nonlinear effects of neighborhood housing + transportation affordability on shared dockless e-scooter trips using machine learning approach,10.1007/s11116-023-10448-3
+Household responsibility and commuting: the spatial constraints of employees and self-employed rural-to-urban migrant women in China—the case of Nanjing,10.1007/s11116-023-10421-0
+Encouraging carpooling for commuting in the Paris area (France): which incentives and for whom?,10.1007/s11116-021-10237-w
+Tracking the state and behavior of people in response to COVID-19 through the fusion of multiple longitudinal data streams,10.1007/s11116-023-10449-2
+Transferable supervised learning model for public transport service load estimation,10.1007/s11116-023-10411-2
+Trip chaining patterns of tourists: a real-world case study,10.1007/s11116-023-10418-9
+Simulating one-way electric carsharing systems with a multi-agent model,10.1007/s11116-023-10405-0
+The indirect effect of travel mode use on subjective well-being through out-of-home activities,10.1007/s11116-023-10408-x
+"A note on the sample selection (switching regression) model and treatment effects for a log-transformed outcome variable, in the context of residential self-selection",10.1007/s11116-023-10384-2
+Text-aided Group Decision-making Process Observation Method (x-GDP): a novel methodology for observing the joint decision-making process of travel choices,10.1007/s11116-023-10426-9
+"A tour-based mode choice model accommodating the influence of attitudes, perceptions, and inter- and intra-household interactions",10.1007/s11116-023-10428-7
+Comparative analysis of deep-learning-based models for hourly bus passenger flow forecasting,10.1007/s11116-023-10385-1
+Development of Pedestrian Level of Service (PLOS) model and satisfaction perception rating models for pedestrian infrastructure for mixed land-use urban areas,10.1007/s11116-021-10247-8
+Immobility and COVID-19: comparing mobility reduction among socio-demographic groups in a large German city during the pandemic,10.1007/s11116-023-10434-9
+Anticipatory routing methods for an on-demand ridepooling mobility system,10.1007/s11116-021-10232-1
+Exploring the attitudes of Millennials and Generation Xers toward ridesourcing services,10.1007/s11116-021-10227-y
+Going carless in different urban fabrics: socio-demographics of household car ownership,10.1007/s11116-021-10239-8
+Flow count data-driven static traffic assignment models through network modularity partitioning,10.1007/s11116-023-10416-x
+Hitchhiking on the digital highway: Assessing the costs and benefits of informal ridesharing,10.1007/s11116-023-10446-5
+Individual perceptions of critical factors on route affecting the willingness of direct commuting trips by bicycle in a hilly city,10.1007/s11116-023-10414-z
+Quantifying the uncertainty of mobility flow predictions using Gaussian processes,10.1007/s11116-023-10406-z
+Ex-post evaluation of transport interventions with causal mediation analysis,10.1007/s11116-023-10413-0
+"Do citizens support the transformation of urban transport? Evidence for the acceptability of parking management, car lane conversion and road closures from a German case study",10.1007/s11116-023-10398-w
+An extended theory of planned behavior to explain the intention to use carsharing: a multi-group analysis of different sociodemographic characteristics,10.1007/s11116-021-10240-1
+Integrating reinforcement-learning-based vehicle dispatch algorithm into agent-based modeling of autonomous taxis,10.1007/s11116-023-10433-w
+Dynamic interlining in bus operations,10.1007/s11116-023-10440-x
+Data Domotopia: introduction to the quantitative survey,10.1007/s11116-023-10388-y
+The determinants of shared bike use in China,10.1007/s11116-021-10235-y
+Size matters: the use and misuse of statistical significance in discrete choice models in the transportation academic literature,10.1007/s11116-023-10423-y
+Assessing the introduction of regional driverless demand-responsive transit services through agent-based modeling and simulation,10.1007/s11116-023-10450-9
+Well-being implications of immobility during COVID-19: evidence from a student sample in Bangladesh using the satisfaction with life scale,10.1007/s11116-023-10395-z
+Travel attitudes or behaviours: Which one changes when they conflict?,10.1007/s11116-021-10236-x
+Impact of self-parking autonomous vehicles on urban traffic congestion,10.1007/s11116-021-10241-0
+Consumer intention to accept electric two-wheelers in India: a valence theory approach to unveil the role of identity and utility,10.1007/s11116-023-10430-z
+Assessment of selected environmental and economic factors for the development of electro-mobility in Poland,10.1007/s11116-023-10402-3
+Evaluating the spatial and temporal distribution of beltway effects on housing prices using difference-in-differences methods,10.1007/s11116-021-10233-0
+Utilization rate of the fleet: a novel performance metric for a novel shared mobility,10.1007/s11116-021-10244-x
+An agent-based simulation approach to investigate the shift of Switzerland’s inland freight transport from road to rail,10.1007/s11116-023-10383-3
+Rail transit and the growth of consumer amenities: evidence from Chinese cities,10.1007/s11116-023-10379-z
+WILL COVID-19 jump-start telecommuting? Evidence from California,10.1007/s11116-023-10424-x
+An empirical analysis of passenger vehicle dwell time and curb management strategies for ride-hailing pick-up/drop-off operations,10.1007/s11116-023-10380-6
+Does response lag affect travelers’ stated preference? Evidence from a real-time stated adaptation survey,10.1007/s11116-023-10435-8
+Jobs-housing balance and travel patterns among different occupations as revealed by Hidden Markov mixture models: the case of Hong Kong,10.1007/s11116-023-10390-4
+The relations between working from home and travel behaviour: a panel analysis,10.1007/s11116-023-10401-4
+Carsharing users’ behaviour and attitudes. The role of car availability in households,10.1007/s11116-023-10386-0
+"Different journeys, same struggle: practitioner experiences in environmental justice policy, assessment, and decision-making",10.1007/s11116-023-10442-9
+Panacea or placebo? Exploring the causal effects of nonlocal vehicle driving restriction policies on traffic congestion using a difference-in-differences approach,10.1007/s11116-023-10404-1
+Exploring partnership between transit agency and shared mobility company: an incentive program for app-based carpooling,10.1007/s11116-020-10140-w
+Double parking in New York city: a comparison between commercial vehicles and passenger vehicles,10.1007/s11116-021-10212-5
+Participation in online activities while travelling: an application of the MDCEV model in the context of rail travel,10.1007/s11116-021-10166-8
+Getting the best of both worlds: a framework for combining disaggregate travel survey data and aggregate mobile phone data for trip generation modelling,10.1007/s11116-020-10129-5
+Remembering David Hartgen and Martin Wachs,10.1007/s11116-021-10213-4
+Price-based regulation of oligopolistic markets under discrete choice models of demand,10.1007/s11116-021-10217-0
+Framework for designing sample travel surveys for transport demand modelling in cities: some comments,10.1007/s11116-022-10311-x
+"Inertia effects of past behavior in commuting modal shift behavior: interactions, variations and implications for demand estimation",10.1007/s11116-021-10203-6
+Do transportation network companies increase or decrease transit ridership? Empirical evidence from San Francisco,10.1007/s11116-021-10178-4
+Impact of TNC on travel behavior and mode choice: a comparative analysis of Boston and Philadelphia,10.1007/s11116-021-10220-5
+Reducing traffic congestion and increasing sustainability in special urban areas through one-way traffic reconfiguration,10.1007/s11116-020-10162-4
+"The evolution, usage and trip patterns of taxis & ridesourcing services: evidence from 2001, 2009 & 2017 US National Household Travel Survey",10.1007/s11116-021-10177-5
+"A cluster analysis of cyclists in Europe: common patterns, behaviours, and attitudes",10.1007/s11116-021-10187-3
+A clustering based traffic flow prediction method with dynamic spatiotemporal correlation analysis,10.1007/s11116-021-10200-9
+Do commuters adapt to in-vehicle crowding on trains?,10.1007/s11116-020-10133-9
+Online and in-store purchase behavior: shopping channel choice in a developing economy,10.1007/s11116-020-10163-3
+Do frequent satisfying trips by public transport impact its intended use in later life?,10.1007/s11116-021-10209-0
+How does purchasing intangible services online influence the travel to consume these services? A focus on a Chinese context,10.1007/s11116-020-10141-9
+Autonomous and conventional bus fleet optimization for fixed-route operations considering demand uncertainty,10.1007/s11116-020-10146-4
+Network design for line-based autonomous bus services,10.1007/s11116-021-10183-7
+Intra-destination travel behavior of alpine tourists: a literature review on choice determinants and the survey work,10.1007/s11116-022-10267-y
+A causal inference approach to measure the vulnerability of urban metro systems,10.1007/s11116-020-10152-6
+Scaling up cycling or replacing driving? Triggers and trajectories of bike–train uptake in the Randstad area,10.1007/s11116-021-10165-9
+Modeling the α-max capacity of transportation networks: a single-level mathematical programming formulation,10.1007/s11116-021-10208-1
+Factors influencing home-based telework in Hanoi (Vietnam) during and after the COVID-19 era,10.1007/s11116-021-10169-5
+An artificial neural network based method to uncover the value-of-travel-time distribution,10.1007/s11116-020-10139-3
+Exploring activity-travel behavior changes during the beginning of COVID-19 pandemic in Indonesia,10.1007/s11116-021-10185-5
+The Gini index of demand imbalances in public transport,10.1007/s11116-020-10138-4
+Investigating the temporal changes in the relationships between time spent on the internet and non-mandatory activity-travel time use,10.1007/s11116-021-10174-8
+A hybrid data fusion methodology for household travel surveys to reduce proxy biases and under-representation of specific sub-group of population,10.1007/s11116-021-10228-x
+"The demand impacts of train punctuality in great britain: systematic review, meta-analysis and some new econometric insights",10.1007/s11116-021-10186-4
+A methodological framework for a priori selection of travel demand management package using fuzzy MCDM methods,10.1007/s11116-020-10158-0
+Experience as a conditioning effect on choice: Does it matter whether it is exogenous or endogenous?,10.1007/s11116-020-10149-1
+Traffic congestion and economic context: changes of spatiotemporal patterns of traffic travel times during crisis and post-crisis periods,10.1007/s11116-021-10170-y
+GIS-based identification and visualization of multimodal freight transportation catchment areas,10.1007/s11116-020-10155-3
+Travel experience matters: Expected personal mobility impacts after simulated L3/L4 automated driving,10.1007/s11116-021-10211-6
+"Adjusting the service? Understanding the factors affecting bus ridership over time at the route level in Montréal, Canada",10.1007/s11116-020-10147-3
+"Eliminating barriers to nighttime activity participation: the case of on-demand transit in Belleville, Canada",10.1007/s11116-021-10215-2
+"Correlates of bicycling trip flows in Hamilton, Ontario: fastest, quietest, or balanced routes?",10.1007/s11116-021-10197-1
+A novel perspective to enhance the role of TPB in predicting green travel: the moderation of affective-cognitive congruence of attitudes,10.1007/s11116-020-10153-5
+Vehicle scheduling for on-demand vehicle fleets in macroscopic travel demand models,10.1007/s11116-021-10205-4
+Reassessing the commuting penalty for immigrants: new evidence from Spain,10.1007/s11116-021-10204-5
+The role of unpaid domestic work in explaining the gender gap in the (monetary) value of leisure,10.1007/s11116-021-10221-4
+Changes in private car ownership associated with car sharing: gauging differences by residential location and car share typology,10.1007/s11116-021-10184-6
+Travellers’ perceptions of travel time reliability in the presence of rare events,10.1007/s11116-021-10206-3
+Use of public information for road-capacity reductions: a study of mediating strategies during tunnel rehabilitations in Oslo,10.1007/s11116-020-10128-6
+Towards an enriched framework of service evaluation for pedestrian and bicyclist infrastructure: acknowledging the power of users’ perceptions,10.1007/s11116-021-10194-4
+Mobile phone data in transportation research: methods for benchmarking against other data sources,10.1007/s11116-020-10151-7
+Can bicycle sharing mitigate vehicle emission in Chinese large cities? Estimation based on mode shift analysis,10.1007/s11116-021-10222-3
+Exploring ride-hailing fares: an empirical analysis of the case of Madrid,10.1007/s11116-021-10180-w
+"Autonomous vehicles in mixed motorway traffic: capacity utilisation, impact and policy implications",10.1007/s11116-020-10154-4
+Incorporating spatial interactions in zero-inflated negative binomial models for freight trip generation,10.1007/s11116-020-10132-w
+"Evaluating impacts of coastal flooding on the transportation system using an activity-based travel demand model: a case study in Miami-Dade County, FL",10.1007/s11116-021-10172-w
+Understanding the effects of travel demand management on metro commuters’ behavioural loyalty: a hybrid choice modelling approach,10.1007/s11116-021-10179-3
+Modeling car ownership and use in a developing country context with informal public transportation,10.1007/s11116-020-10161-5
+Counting people in the crowd using social media images for crowd management in city events,10.1007/s11116-020-10159-z
+Comparative analysis of escalator capacity at metro stations: theory versus practice,10.1007/s11116-020-10160-6
+Do millennials value travel time differently because of productive multitasking? A revealed-preference study of Northern California commuters,10.1007/s11116-020-10148-2
+"The relationship between transportation vulnerability, school attendance, and free transportation to an afterschool program for youth",10.1007/s11116-020-10131-x
+Development of an agent-based model for railway infrastructure project appraisal,10.1007/s11116-021-10223-2
+Impacts of highly automated vehicles on travel demand: macroscopic modeling methods and some results,10.1007/s11116-021-10199-z
+Is it expensive to be poor? Public transport in Sweden,10.1007/s11116-020-10145-5
+Perceived risk of lock-in in the front-end phase of major transportation projects,10.1007/s11116-021-10191-7
+Exploring the correlation between ride-hailing and multimodal transit ridership in toronto,10.1007/s11116-021-10193-5
+Uncovering travel and charging patterns of private electric vehicles with trajectory data: evidence and policy implications,10.1007/s11116-021-10216-1
+Understanding bikeability: a methodology to assess urban networks,10.1007/s11116-021-10198-0
+Transport carriers’ cooperation on the last-mile delivery in urban areas,10.1007/s11116-020-10134-8
+Analysis of activity participation and time use decisions of partners: the context of low-and high-income households,10.1007/s11116-021-10202-7
+"Sentiment analysis of popular-music references to automobiles, 1950s to 2010s",10.1007/s11116-021-10189-1
+Dynamic pricing of free-floating carsharing networks with sensitivity to travellers’ attitudes towards risk,10.1007/s11116-021-10190-8
+A mixed methods approach to the social assessment of transport infrastructure projects,10.1007/s11116-021-10176-6
+Easing or tightening control strategies: determination of COVID-19 parameters for an agent-based model,10.1007/s11116-021-10210-7
+E-bike user groups and substitution effects: evidence from longitudinal travel data in the Netherlands,10.1007/s11116-021-10195-3
+A socioeconomic analysis of commuting professionals,10.1007/s11116-020-10124-w
+"Impacts of Pokémon GO on route and mode choice decisions: exploring the potential for integrating augmented reality, gamification, and social components in mobile apps to influence travel decisions",10.1007/s11116-021-10181-9
+"Service quality, satisfaction and behavioral intentions towards public transport from the point of view of private vehicle users",10.1007/s11116-021-10175-7
+Heterogeneity of autonomous vehicle adoption behavior due to peer effects and prior-AV knowledge,10.1007/s11116-021-10229-w
+Framework for designing sample travel surveys for transport demand modelling in cities,10.1007/s11116-021-10168-6
+Derivation of train arrival timings through correlations from individual passenger farecard data,10.1007/s11116-021-10164-w
+Latent stage model for carsharing usage frequency estimation with Montréal case study,10.1007/s11116-021-10173-9
+How habit moderates the commute mode decision process: integration of the theory of planned behavior and latent class choice model,10.1007/s11116-020-10144-6
+Introducing synthetic pseudo panels: application to transport behaviour dynamics,10.1007/s11116-020-10137-5
+"Public transport reliability across preferences, modes, and space",10.1007/s11116-021-10188-2
+The changing accuracy of traffic forecasts,10.1007/s11116-021-10182-8
+Transportation infrastructure improvement and real estate value: impact of level crossing removal project on housing prices,10.1007/s11116-020-10157-1
+Cohort analysis of driving cessation and limitation among older adults,10.1007/s11116-021-10196-2
+Residential relocations and changes in vehicle ownership,10.1007/s11116-021-10167-7
+The value of travel time savings in freight transport: a meta-analysis,10.1007/s11116-021-10207-2
+A three-phase QFD-based framework for identifying key passenger needs to improve satisfaction with the seat of high-speed rail in China,10.1007/s11116-020-10142-8
+A data-driven travel mode share estimation framework based on mobile device location data,10.1007/s11116-021-10214-3
+"Gender, mental health and travel",10.1007/s11116-021-10231-2
+Social distancing in public transport: mobilising new technologies for demand management under the Covid-19 crisis,10.1007/s11116-021-10192-6
+"Working at home and elsewhere: daily work location, telework, and travel among United States knowledge workers",10.1007/s11116-020-10136-6
+Are we there yet? Assessing smartphone apps as full-fledged tools for activity-travel surveys,10.1007/s11116-020-10135-7
+The influence of panel effects and inertia on travel cost elasticities for car use and public transport,10.1007/s11116-021-10201-8
+Intrapersonal variability in public transport path choice due to changes in service reliability,10.1007/s11116-021-10218-z
+"Assessing motorist behavior during flash floods in Tucson, Arizona",10.1007/s11116-020-10156-2
+Impacts of improvements in rural roads on household income through the enhancement of market accessibility in rural areas of Cambodia,10.1007/s11116-020-10150-8
+Feasibility of estimating travel demand using geolocations of social media data,10.1007/s11116-021-10171-x
+The effects of trait anxiety and the big five personality traits on self-driving car acceptance,10.1007/s11116-020-10143-7
+Trip chain complexity: a comparison among latent classes of daily mobility patterns,10.1007/s11116-020-10084-1
+Can passenger flow distribution be estimated solely based on network properties in public transport systems?,10.1007/s11116-019-09990-w
+Delivering mobility as a service (MaaS) through a broker/aggregator business model,10.1007/s11116-020-10113-z
+Stated willingness to participate in travel surveys: a cross-country and cross-methods comparison,10.1007/s11116-020-10096-x
+Understanding the modifiable areal unit problem and identifying appropriate spatial unit in jobs–housing balance and employment self-containment using big data,10.1007/s11116-020-10094-z
+Analyzing voter support for California’s local option sales taxes for transportation,10.1007/s11116-020-10123-x
+"Urban cycling mobility: management and urban institutional arrangements to support bicycle tourism activities—case study from Curitiba, Brazil",10.1007/s11116-020-10121-z
+"Low cost carriers in China: passenger segmentation, controllability, and airline selection",10.1007/s11116-020-10105-z
+Longitudinal analysis of activity generation in the Greater Toronto and Hamilton Area,10.1007/s11116-020-10089-w
+Estimation of the value of travel time and of travel time reliability for heterogeneous drivers in a road network,10.1007/s11116-020-10107-x
+Why (not) abolish fares? Exploring the global geography of fare-free public transport,10.1007/s11116-019-09986-6
+"Cascading failure analysis and robustness optimization of metro networks based on coupled map lattices: a case study of Nanjing, China",10.1007/s11116-019-10066-y
+Bridging the gap between evacuations and the sharing economy,10.1007/s11116-020-10101-3
+Tradable permit schemes for managing morning commute with carpool under parking space constraint,10.1007/s11116-019-09982-w
+Job accessibility and joint household travel: a study of Hong Kong with a particular focus on new town residents,10.1007/s11116-020-10100-4
+Modelling traffic flows and estimating road travel times in transportation network under dynamic disturbances,10.1007/s11116-019-09997-3
+Estimating the activity types of transit travelers using smart card transaction data: a case study of Singapore,10.1007/s11116-018-9881-8
+Travel choices in alcohol-related situations in Virginia,10.1007/s11116-019-10039-1
+Modeling dynamics in household car ownership over life courses: a latent class competing risks model,10.1007/s11116-019-10078-8
+Addressing endogeneity in strategic urban mode choice models,10.1007/s11116-020-10122-y
+Freight generation and geographical effects: modelling freight needs of establishments in developing economies and analyzing their geographical disparities,10.1007/s11116-019-09995-5
+Do changes in the residential location lead to changes in travel attitudes? A structural equation modeling approach,10.1007/s11116-020-10119-7
+"Happy today, satisfied tomorrow: emotion—satisfaction dynamics in a multi-week transit user smartphone survey",10.1007/s11116-019-10042-6
+A freight transport price optimization model with multi bounded-rational customers,10.1007/s11116-019-10064-0
+A multi-objective optimization approach to balancing economic efficiency and equity in accessibility to multi-use paths,10.1007/s11116-020-10117-9
+A latent class joint mode and departure time choice model for the Greater Toronto and Hamilton Area,10.1007/s11116-020-10092-1
+Predicting disruptions and their passenger delay impacts for public transport stops,10.1007/s11116-020-10109-9
+What drives freight transportation customer loyalty? Diverging marketing approaches for the air freight express industry,10.1007/s11116-020-10104-0
+The sharing economy and the job market: the case of ride-hailing drivers in Chile,10.1007/s11116-020-10127-7
+Forecasting bus ridership using a “Blended Approach”,10.1007/s11116-019-10073-z
+"The role of perceived environment, neighbourhood characteristics, and attitudes in walking behaviour: evidence from a rapidly developing city in China",10.1007/s11116-019-10062-2
+Multi-objective bike-way network design problem with space–time accessibility constraint,10.1007/s11116-019-10025-7
+Simulation-based joint optimization framework for congestion mitigation in multimodal urban network: a macroscopic approach,10.1007/s11116-019-10074-y
+"A study of tour formation: pre-, during, and post-recession analysis",10.1007/s11116-020-10126-8
+Hailing a change: comparing taxi and ridehail service quality in Los Angeles,10.1007/s11116-020-10086-z
+Evaluating the impacts of shared automated mobility on-demand services: an activity-based accessibility approach,10.1007/s11116-020-10106-y
+Consideration of different travel strategies and choice set sizes in transit path choice modelling,10.1007/s11116-019-10075-x
+Introducing shared life experience metric in urban planning,10.1007/s11116-020-10087-y
+Validation of automatic passenger counting: introducing the t-test-induced equivalence test,10.1007/s11116-019-09991-9
+Identification and mapping of spatial variations in travel choices through combining structural equation modelling and latent class analysis: findings for Great Britain,10.1007/s11116-020-10098-9
+Understanding tourists’ expenditure patterns: a stochastic frontier approach within the framework of multiple discrete–continuous choices,10.1007/s11116-020-10083-2
+Steering short-term demand for car-sharing: a mode choice and policy impact analysis by trip distance,10.1007/s11116-019-10010-0
+"Integrating formal and informal transit into one hybrid passenger transport system in Lagos, Nigeria",10.1007/s11116-020-10099-8
+Towards measures of affective and eudaimonic subjective well-being in the travel domain,10.1007/s11116-019-10055-1
+Modelling user satisfaction in public transport systems considering missing information,10.1007/s11116-019-09996-4
+Non-linear characteristics in switching intention to use a docked bike-sharing system,10.1007/s11116-020-10102-2
+Understanding and Modeling the Social Preferences for Riders in Rideshare Matching,10.1007/s11116-020-10112-0
+Tri-reference-point hypothesis development for airport ground access behaviors,10.1007/s11116-020-10125-9
+Service design for public transportation to address the issue of females’ fear of crime,10.1007/s11116-019-10043-5
+Modelling sequential ticket booking choices during Chinese New Year,10.1007/s11116-020-10118-8
+Opening out and closing down: the treatment of uncertainty in transport planning’s forecasting paradigm,10.1007/s11116-019-10067-x
+An adapted geographically weighted LASSO (Ada-GWL) model for predicting subway ridership,10.1007/s11116-020-10091-2
+Egocentric social networks and social interactions in the Greater Tokyo Area,10.1007/s11116-020-10079-y
+Validation of a unidimensional and probabilistic measurement scale for pro-environmental behaviour by travellers,10.1007/s11116-019-10068-w
+Probabilistic model for destination inference and travel pattern mining from smart card data,10.1007/s11116-020-10120-0
+Modal choice analysis for a linear monocentric city with battery electric vehicles and park-charge-ride services,10.1007/s11116-020-10115-x
+What are the determinants of the willingness to share rides in pooled on-demand services?,10.1007/s11116-020-10110-2
+How do they get by without cars? An analysis of travel characteristics of carless households in California,10.1007/s11116-019-09994-6
+A data-driven approach for origin–destination matrix construction from cellular network signalling data: a case study of Lyon region (France),10.1007/s11116-020-10108-w
+Exploring impacts of on-demand ridesplitting on mobility via real-world ridesourcing data and questionnaires,10.1007/s11116-018-9916-1
+Heterogeneity in marginal value of urban mobility: evidence from a large-scale household travel survey in the Greater Toronto and Hamilton Area,10.1007/s11116-019-10041-7
+"Heterogeneity in departure time preferences, flexibility and schedule constraints",10.1007/s11116-020-10114-y
+Assessment of the transit ridership prediction errors using AVL/APC data,10.1007/s11116-019-09985-7
+"Effects of perceived safety, involvement and perceived service quality on loyalty intention among ride-sourcing passengers",10.1007/s11116-019-10058-y
+Estimation of origin–destination matrices using link counts and partial path data,10.1007/s11116-019-09999-1
+The use of recovery time in timetables: rail passengers’ preferences and valuation relative to travel time and delays,10.1007/s11116-019-10057-z
+The evaluation of large cycling infrastructure investments in Glasgow using crowdsourced cycle data,10.1007/s11116-019-09988-4
+Inferring proxy response in household travel surveys with unknown completer using a group-based choice model,10.1007/s11116-019-10053-3
+Accessibility in the regional CGE framework: the effects of major transport infrastructure investments in Poland,10.1007/s11116-019-10076-w
+Substitution and complementarity patterns between traditional transport means and car sharing: a person and trip level analysis,10.1007/s11116-018-9901-8
+An improvement in MATSim computing time for large-scale travel behaviour microsimulation,10.1007/s11116-019-10048-0
+Calibrating travel time thresholds with cluster analysis and AFC data for passenger reasonable route generation on an urban rail transit network,10.1007/s11116-019-10040-8
+"Incentive measures to avoid the illegal parking of dockless shared bikes: the relationships among incentive forms, intensity and policy compliance",10.1007/s11116-020-10088-x
+What drives the gap? Applying the Blinder–Oaxaca decomposition method to examine generational differences in transportation-related attitudes,10.1007/s11116-020-10080-5
+Transit network design using a genetic algorithm with integrated road network and disaggregated O–D demand data,10.1007/s11116-019-10047-1
+Indirect estimation of interregional freight flows with a real-valued genetic algorithm,10.1007/s11116-019-10050-6
+Are travelers substituting between transportation network companies (TNC) and public buses? A case study in Pittsburgh,10.1007/s11116-020-10081-4
+Who doesn’t mind waiting? Examining the relationships between waiting attitudes and person- and travel-related attributes,10.1007/s11116-019-10054-2
+Development of alternative stochastic frontier models for estimating time-space prism vertices,10.1007/s11116-019-10056-0
+Effects of spatial units and travel modes on urban commuting demand modeling,10.1007/s11116-021-10219-y
+Microscopic activity sequence generation: a multiple correspondence analysis to explain travel behavior based on socio-demographic person attributes,10.1007/s11116-020-10103-1
+Global versus localised attitudinal responses in discrete choice,10.1007/s11116-019-10045-3
+How commuting affects subjective wellbeing,10.1007/s11116-019-09983-9
+Examining the effect of life course events on modality type and the moderating influence of life stage,10.1007/s11116-019-10077-9
+Psychological items: a useful addition in modeling travel behavior on managed lanes,10.1007/s11116-019-10049-z
+Design and analysis of control strategies for pedestrian flows,10.1007/s11116-020-10111-1
+Gender differences in commuting travel in the U.S.: interactive effects of race/ethnicity and household structure,10.1007/s11116-020-10085-0
+Socioeconomic and usage characteristics of transportation network company (TNC) riders,10.1007/s11116-019-09989-3
+Perceived importance of inclusive street dimensions: a public questionnaire survey from a vision(ing) perspective,10.1007/s11116-019-10071-1
+Shopping trip mode choice of older adults: an application of activity space and hybrid choice models in understanding the effects of built environment and personal goals,10.1007/s11116-019-10065-z
+"Do preferences for BRT and LRT change as a voter, citizen, tax payer, or self-interested resident?",10.1007/s11116-019-09998-2
+Trajectories and transitions: mobility after parenthood,10.1007/s11116-019-10051-5
+Integrated population synthesis and workplace assignment using an efficient optimization-based person-household matching method,10.1007/s11116-020-10090-3
+Using multiple hybrid spatial design network analysis to predict longitudinal effect of a major city centre redevelopment on pedestrian flows,10.1007/s11116-019-10072-0
+The bicycle-train travellers in the Netherlands: personal profiles and travel choices,10.1007/s11116-019-10061-3
+Balanced strategy based on environment and user benefit-oriented carpooling service mode for commuting trips,10.1007/s11116-020-10093-0
+Relocating shared automated vehicles under parking constraints: assessing the impact of different strategies for on-street parking,10.1007/s11116-020-10116-w
+Considerations about the quality assessment of travel time and travel distance distributions in transport modelling: a proposal for a standardized methodology,10.1007/s11116-020-10095-y
+How does commute duration affect subjective well-being? A case study of Chinese cities,10.1007/s11116-020-10082-3
+Adolescents and their aspirations for private car-based transport,10.1007/s11116-019-10044-4
+The Gothenburg congestion charges: cost–benefit analysis and distribution effects,10.1007/s11116-017-9853-4
+Assessing the effect of urban socioeconomic factors and the financial crisis of 2008 on domestic air cargo traffic in Florida,10.1007/s11116-018-9872-9
+An empirical study of consumers’ intention to use ride-sharing services: using an extended technology acceptance model,10.1007/s11116-018-9893-4
+Calibrating a transit assignment model using smart card data in a large-scale multi-modal transit network,10.1007/s11116-019-10004-y
+Supplemental infrastructure: how community networks and immigrant identity influence cycling,10.1007/s11116-018-9955-7
+The effect of information overload on the intention of consumers to adopt electric vehicles,10.1007/s11116-019-10001-1
+Trust in forecasts? Correlates with ridership forecast accuracy for fixed-guideway transit projects,10.1007/s11116-019-10024-8
+Planning for cycling in the dispersed city: establishing a hierarchy of effectiveness of municipal cycling policies,10.1007/s11116-018-9878-3
+"A comparison of users’ characteristics between station-based bikesharing system and free-floating bikesharing system: case study in Hangzhou, China",10.1007/s11116-018-9910-7
+Are millennials more multimodal? A latent-class cluster analysis with attitudes and preferences among millennial and Generation X commuters in California,10.1007/s11116-019-10026-6
+Commodity flow estimation for a metropolitan scale freight modeling system: supplier selection considering distribution channel using an error component logit mixture model,10.1007/s11116-018-9932-1
+A critical appraisal of the use of simple time-money trade-offs for appraisal value of travel time measures,10.1007/s11116-020-10097-w
+Disparities in access to opportunities across neighborhoods types: a case study from the Los Angeles region,10.1007/s11116-018-9862-y
+Calibration of a transit route choice model using revealed population data of smartcard in a multimodal transit network,10.1007/s11116-019-10008-8
+Travelers’ compliance with social routing advice: evidence from SP and RP experiments,10.1007/s11116-018-9934-z
+"Linear, non-linear, bi-directional? Testing the nature of the relationship between mobility and satisfaction with life",10.1007/s11116-019-10060-4
+Determinants affecting ferry users’ waiting time at ferry terminals,10.1007/s11116-019-09979-5
+Using activity-based models and the capability approach to evaluate equity considerations in transportation projects,10.1007/s11116-019-10015-9
+Potential last-mile impacts of crowdshipping services: a simulation-based evaluation,10.1007/s11116-019-10028-4
+Identifying factors influencing the slow market diffusion of electric vehicles in Korea,10.1007/s11116-018-9908-1
+Has heavy vehicle tolling in Europe been effective in reducing road freight transport and promoting modal shift?,10.1007/s11116-018-9922-3
+VTT or VTTS: a note on terminology for value of travel time work,10.1007/s11116-018-9966-4
+Short run fare elasticities for Bogotá’s BRT system: ridership responses to fare increases,10.1007/s11116-019-10034-6
+Assessing the influence of indicators’ complexity on hybrid discrete choice model estimates,10.1007/s11116-018-9891-6
+Investigating the influence of assigning a higher priority to scheduling work and school activities in the activity-based models on the simulated travel/activity patterns,10.1007/s11116-019-10003-z
+"Prevalence of alternative processing rules in the formation of daily travel satisfaction in the context multi-trip, multi-stage, multi-attribute travel experiences",10.1007/s11116-018-9941-0
+"Modeling co-dependent choice of workplace, residence and commuting mode using an error component mixed logit model",10.1007/s11116-018-9927-y
+Carpooling and drivers without household vehicles: gender disparity in automobility among Hispanics and non-Hispanics in the U.S.,10.1007/s11116-019-09974-w
+Influencing factors and heterogeneity in ridership of traditional and app-based taxi systems,10.1007/s11116-018-9931-2
+A finite mixture modeling approach to examine New York City bicycle sharing system (CitiBike) users’ destination preferences,10.1007/s11116-018-9896-1
+Shared school transportation: determinants of carpooling as children’s school travel mode in California,10.1007/s11116-018-9942-z
+A model for multi-class road network recovery scheduling of regional road networks,10.1007/s11116-017-9852-5
+Examining the effect of land-use function complementarity on intra-urban spatial interactions using metro smart card records,10.1007/s11116-019-09977-7
+The role of children’s independent mobility and social media use for face-to-face social interaction with friends,10.1007/s11116-019-10037-3
+No longer in the driver’s seat: How do affective motivations impact consumer interest in automated vehicles?,10.1007/s11116-019-10035-5
+Car pride and its behavioral implications: an exploration in Shanghai,10.1007/s11116-018-9917-0
+Impact of pricing and transit disruptions on bikeshare ridership and revenue,10.1007/s11116-018-9904-5
+A subway planning bi-objective multi-period optimization model integrating timetabling and vehicle scheduling: a case study of Tehran,10.1007/s11116-018-9895-2
+Performance analysis of crowd-shipping in urban and suburban areas,10.1007/s11116-019-10033-7
+Traffic forecast inaccuracy in transportation: a literature review of roads and railways projects,10.1007/s11116-019-09972-y
+What will autonomous trucking do to U.S. trade flows? Application of the random-utility-based multi-regional input–output model,10.1007/s11116-019-10027-5
+"Ride-hailing, travel behaviour and sustainable mobility: an international review",10.1007/s11116-019-10070-2
+X vs. Y: an analysis of intergenerational differences in transport mode use among young adults,10.1007/s11116-019-10009-7
+Using thematic analysis to explore symbolism in transport choice across national cultures,10.1007/s11116-018-9902-7
+"To compete or not compete: exploring the relationships between motorcycle-based ride-sourcing, motorcycle taxis, and public transport in the Jakarta metropolitan area",10.1007/s11116-019-10019-5
+“I’ll never stop driving my child to school”: on multimodal and monomodal car users,10.1007/s11116-018-9949-5
+Is generalised cost justified in travel demand analysis?,10.1007/s11116-017-9850-7
+Functional requirements for inclusive transport,10.1007/s11116-018-9939-7
+Does the accessibility measure influence the results of residential location choice modelling?,10.1007/s11116-018-9964-6
+Willingness to pay for freight travel time savings: contrasting random utility versus random valuation,10.1007/s11116-018-9912-5
+"We want it all: experiences from a survey seeking to capture social network structures, lifetime events and short-term travel and activity planning",10.1007/s11116-018-9858-7
+Disentangling the role of cars and transit in employment and labor earnings,10.1007/s11116-018-9959-3
+Car-deficit households: determinants and implications for household travel in the U.S.,10.1007/s11116-018-9956-6
+Trip chaining propensity and tour mode choice of out-of-home workers: evidence from a mid-sized Canadian city,10.1007/s11116-018-9915-2
+Do supra-modal traveller types exist? A travel behaviour market segmentation using Goal framing theory,10.1007/s11116-018-9874-7
+Using propensity score matching technique to address self-selection in transit-oriented development (TOD) areas,10.1007/s11116-018-9887-2
+Discriminatory attitudes between ridesharing passengers,10.1007/s11116-019-10020-y
+"Existence, relatedness and growth needs as mediators between mode choice and travel satisfaction: evidence from Denmark",10.1007/s11116-018-9886-3
+Revisiting the relationship between traffic congestion and the economy: a longitudinal examination of U.S. metropolitan areas,10.1007/s11116-018-9884-5
+A new twist on the gig economy: conducting surveys on Amazon Mechanical Turk,10.1007/s11116-018-9962-8
+Medical-purposed travel behaviors in rural areas in developing countries: a case study in rural Cambodia,10.1007/s11116-018-9971-7
+Carsharing: the impact of system characteristics on its potential to replace private car trips and reduce car ownership,10.1007/s11116-018-9929-9
+Optimal deployment of emergency rescue stations in an urban transportation corridor,10.1007/s11116-018-9897-0
+Calibration of large-scale transport planning models: a structured approach,10.1007/s11116-019-10018-6
+"Studying the relationship between activity participation, social networks, expenditures and travel behavior on leisure activities",10.1007/s11116-019-09980-y
+"Role of the built environment on trip-chaining behavior: an investigation of workers and non-workers in Halifax, Nova Scotia",10.1007/s11116-018-9914-3
+A forward Markov model for predicting bicycle speed,10.1007/s11116-019-10021-x
+On the effect of operational service attributes on transit satisfaction,10.1007/s11116-019-10016-8
+The German value of time and value of reliability study: the survey work,10.1007/s11116-019-10052-4
+Measuring and enhancing the transferability of hidden Markov models for dynamic travel behavioral analysis,10.1007/s11116-018-9900-9
+Design of a survey to assess prospects for consumer electric mobility in Canada: a retrospective appraisal,10.1007/s11116-018-9952-x
+Establishing car sharing services in rural areas: a simulation-based fleet operations analysis,10.1007/s11116-018-9920-5
+Stable ride-sharing matching for the commuters with payment design,10.1007/s11116-018-9960-x
+A randomized controlled trial in travel demand management,10.1007/s11116-019-10023-9
+Effect of critical incidents on public transport satisfaction and loyalty: an Ordinal Probit SEM-MIMIC approach,10.1007/s11116-018-9921-4
+Latent classes of daily mobility patterns: the relationship with attitudes towards modes,10.1007/s11116-019-09975-9
+A comparative analysis of discretionary time allocation for social and non-social activities in the U.S. between 2003 and 2013,10.1007/s11116-018-9924-1
+Factors underlying the connections between active transportation and public transit at commuter rail in the Greater Toronto and Hamilton Area,10.1007/s11116-019-10006-w
+Investigating the capacity of continuous household travel surveys in capturing the temporal rhythms of travel demand,10.1007/s11116-019-09981-x
+Demand management of congested public transport systems: a conceptual framework and application using smart card data,10.1007/s11116-019-10017-7
+Modelling the dynamics between tour-based mode choices and tour-timing choices in daily activity scheduling,10.1007/s11116-019-10036-4
+Operational route choice methodologies for practical applications,10.1007/s11116-017-9849-0
+The valuation and demand impacts of the worthwhile use of travel time with specific reference to the digital revolution and endogeneity,10.1007/s11116-019-10059-x
+Parenthood and cars: A weakening relationship?,10.1007/s11116-018-9963-7
+Decisions on truck parking place and time on expressways: an analysis using digital tachograph data,10.1007/s11116-018-9899-y
+"Modelling the determinants of car-sharing adoption intentions among young adults: the role of attitude, perceived benefits, travel expectations and socio-demographic factors",10.1007/s11116-019-10029-3
+Understanding urban mobility patterns from a spatiotemporal perspective: daily ridership profiles of metro stations,10.1007/s11116-018-9885-4
+Effectiveness of Gravity Goods Ropeways in market participation of smallholder farmers in uplands,10.1007/s11116-018-9970-8
+Assessing the impacts of driving environment on driving behavior patterns,10.1007/s11116-018-9965-5
+Turn taking behavior in dual earner households with children: a focus on escorting routines,10.1007/s11116-018-9865-8
+Modeling the choice to switch from traditional modes to ridesourcing services for social/recreational trips in Lebanon,10.1007/s11116-019-09973-x
+A random heaping model of annual vehicle kilometres travelled considering heterogeneous approximation in reporting,10.1007/s11116-018-9933-0
+Intrazonal or interzonal? Improving intrazonal travel forecast in a four-step travel demand model,10.1007/s11116-019-10002-0
+What determines university student’s willingness to pay for bikeways?,10.1007/s11116-019-10014-w
+Home-work carpooling for social mixing,10.1007/s11116-019-10038-2
+Towards improving resilience of cities: an optimisation approach to minimising vulnerability to disruption due to natural disasters under budgetary constraints,10.1007/s11116-019-09984-8
+Cycling culture and socialisation: modelling the effect of immigrant origin on cycling in Denmark and the Netherlands,10.1007/s11116-019-09978-6
+The influence of variable message signs on en-route diversion between a toll highway and a free competing alternative,10.1007/s11116-019-09976-8
+A joint time-assignment and expenditure-allocation model: value of leisure and value of time assigned to travel for specific population segments,10.1007/s11116-019-10022-w
+I’ll have to drive there: How daily time constraints impact women’s car use differently than men’s,10.1007/s11116-018-9969-1
+Misclassification in travel surveys and implications to choice modeling: application to household auto ownership decisions,10.1007/s11116-017-9847-2
+Acceptability of Beijing congestion charging from a business perspective,10.1007/s11116-017-9820-0
+The impact of ride-hailing on vehicle miles traveled,10.1007/s11116-018-9923-2
+"Analysis of social networks, social interactions, and out-of-home leisure activity generation: Evidence from Japan",10.1007/s11116-018-9873-8
+Development of a neighborhood commute mode share model using nationally-available data,10.1007/s11116-017-9813-z
+Would being driven by others affect the value of travel time? Ridehailing as an analogy for automated vehicles,10.1007/s11116-019-10031-9
+Assessing the effects of a mixed-mode design in a longitudinal household travel survey,10.1007/s11116-018-9879-2
+Analysis of dynamic decision-making in a bicycle-sharing auction using a dynamic discrete choice model,10.1007/s11116-017-9795-x
+An exploratory analysis of observed and latent variables affecting intercity train service quality in developing countries,10.1007/s11116-017-9843-6
+The role of parents’ mobility behavior for dynamics in car availability and commute mode use,10.1007/s11116-017-9823-x
+An optimization model for integrated transit-parking policy planning,10.1007/s11116-018-9905-4
+Simulating a rich ride-share mobility service using agent-based models,10.1007/s11116-019-10012-y
+Post-Car World: data collection methods and response behavior in a multi-stage travel survey,10.1007/s11116-018-9968-2
+"Bicycle commuting in an automobile-dominated city: how individuals become and remain bike commuters in Charlotte, North Carolina",10.1007/s11116-018-9883-6
+The impact of planned disruptions on rail passenger demand,10.1007/s11116-018-9889-0
+"Incorporating features of autonomous vehicles in activity-based travel demand model for Columbus, OH",10.1007/s11116-019-10030-w
+Spatio-temporal analysis of rail station ridership determinants in the built environment,10.1007/s11116-018-9928-x
+"Direct to your destination: the size, scope and competitive status of express coach carriers in the United States",10.1007/s11116-017-9845-4
+A novel approach for systematically calibrating transport planning model systems,10.1007/s11116-018-9911-6
+Activity-based trip chaining behavior analysis in the network under the parking fee scheme,10.1007/s11116-017-9809-8
+An empirical study on aggregation of alternatives and its influence on prediction in car type choice models,10.1007/s11116-017-9828-5
+Park-and-ride lot choice model using random utility maximization and random regret minimization,10.1007/s11116-017-9804-0
+Impact of different shopping stages on shopping-related travel behaviour: analyses of the Netherlands Mobility Panel data,10.1007/s11116-019-09993-7
+Nudging people towards more sustainable residential choice decisions: an intervention based on focalism and visualization,10.1007/s11116-018-9936-x
+Would Americans pay more in taxes for better transportation? Answers from seven years of national survey data,10.1007/s11116-018-9855-x
+Should I stay or should I go? Investigating route switching behavior from revealed preferences data,10.1007/s11116-017-9788-9
+Investigating commute satisfaction differences of private car users and public transport users in a developing country context,10.1007/s11116-019-10000-2
+Stated preference modelling of intra-household decisions: Can you more easily approximate the preference space?,10.1007/s11116-017-9822-y
+I want to ride it where I like: measuring design preferences in cycling infrastructure,10.1007/s11116-017-9830-y
+"Correction to: The role of travel demand and network centrality on the connectivity and resilience of an urban street system (Transportation, (2019), 46, 4, (1127-1141), 10.1007/s11116-017-9814-y)",10.1007/s11116-019-10046-2
+Robo-Taxi service fleet sizing: assessing the impact of user trust and willingness-to-use,10.1007/s11116-019-10013-x
+How does travel satisfaction sum up? An exploratory analysis in decomposing the door-to-door experience for multimodal trips,10.1007/s11116-018-9860-0
+Improving automobile insurance ratemaking using telematics: incorporating mileage and driver behaviour data,10.1007/s11116-018-9890-7
+"Acceptance of disincentives to driving and pro-environmental transport intentions: the role of value structure, environmental beliefs and norm activation",10.1007/s11116-018-9950-z
+"The impacts of household features on commuting carbon emissions: a case study of Xi’an, China",10.1007/s11116-017-9829-4
+"Analysing the effect of trip satisfaction on satisfaction with the leisure activity at the destination of the trip, in relationship with life satisfaction",10.1007/s11116-017-9812-0
+Drivers’ adoption of electronic payment in the Spanish toll road network,10.1007/s11116-017-9831-x
+A disaggregate stochastic freight transport model for Sweden,10.1007/s11116-018-9856-9
+Institutional issues in planning for more uncertain futures,10.1007/s11116-017-9805-z
+“Cutting costs to the bone”: the Portuguese experience in renegotiating public private partnerships highways during the financial crisis,10.1007/s11116-017-9807-x
+Behavioral modeling of on-demand mobility services: general framework and application to sustainable travel incentives,10.1007/s11116-019-10011-z
+How perceptions mediate the effects of the built environment on travel behavior?,10.1007/s11116-017-9800-4
+Addressing the joint occurrence of self-selection and simultaneity biases in the estimation of program effects based on cross-sectional observational surveys: case study of travel behavior effects in carsharing,10.1007/s11116-017-9791-1
+Investigating user perception on autonomous vehicle (AV) based mobility-on-demand (MOD) services in Singapore using the logit kernel approach,10.1007/s11116-019-10032-8
+Does a high level of multimodality mean less car use? An exploration of multimodality trends in England,10.1007/s11116-017-9810-2
+Hedonic modeling of commercial property values: distance decay from the links and nodes of rail and highway infrastructure,10.1007/s11116-018-9861-z
+Variation in cost overruns of transportation projects: an econometric meta-regression analysis of studies reported in the literature,10.1007/s11116-017-9836-5
+"The influence of passenger load, driving cycle, fuel price and different types of buses on the cost of transport service in the BRT system in Curitiba, Brazil",10.1007/s11116-018-9925-0
+Learning to use transit services: adapting to unfamiliar transit travel,10.1007/s11116-018-9880-9
+Characteristics analysis for travel behavior of transportation hub passengers using mobile phone data,10.1007/s11116-018-9876-5
+"The role of habit and residential location in travel behavior change programs, a field experiment",10.1007/s11116-017-9842-7
+"Using best–worst scaling to identify barriers to walkability: a study of Porto Alegre, Brazil",10.1007/s11116-018-9944-x
+"The changes of activity-travel participation across gender, life-cycle, and generations in Sweden over 30 years",10.1007/s11116-018-9868-5
+Vulnerability evaluation of freight railway networks using a heuristic routing and scheduling optimization model,10.1007/s11116-017-9815-x
+Skateboarding for transportation: exploring the factors behind an unconventional mode choice among university skateboard commuters,10.1007/s11116-017-9796-9
+Investigation of carriers’ ability to transfer toll increases: an empirical analysis of freight agents’ relative market power,10.1007/s11116-018-9930-3
+The potential of mobility as a service bundles as a mobility management tool,10.1007/s11116-018-9913-4
+The role of intention as mediator between latent effects and behavior: application of a hybrid choice model to study departure time choices,10.1007/s11116-017-9839-2
+"Travel mode attitudes, urban context, and demographics: do they interact differently for bicycle commuting and cycling for other purposes?",10.1007/s11116-019-10005-x
+Vehicle automation and freeway ‘pipeline’ capacity in the context of legal standards of care,10.1007/s11116-017-9825-8
+The potential use of big vehicle GPS data for estimations of annual average daily traffic for unmeasured road segments,10.1007/s11116-018-9903-6
+Residents’ expectations for new rail stops: optimistic neighborhood perceptions relate to subsequent transit ridership,10.1007/s11116-017-9793-z
+Shared taxis: modelling the choice of a paratransit mode in Santiago de Chile,10.1007/s11116-018-9926-z
+Subjective well-being in China: how much does commuting matter?,10.1007/s11116-017-9848-1
+The impact of metro services on housing prices: a case study from Beijing,10.1007/s11116-017-9834-7
+Survey design for exploring demand for Mobility as a Service plans,10.1007/s11116-018-9938-8
+Simulation-based dynamic adjustments of prices and subsidies for transportation PPP projects based on stakeholders’ satisfaction,10.1007/s11116-018-9940-1
+Assessing network vulnerability of heavy rail systems with the impact of partial node failures,10.1007/s11116-018-9859-6
+A utility-based bicycle speed choice model with time and energy factors,10.1007/s11116-018-9907-2
+Implications of link-based equity objectives on transportation network design problem,10.1007/s11116-018-9888-1
+"E-bikes among older adults: benefits, disadvantages, usage and crash characteristics",10.1007/s11116-018-9919-y
+New appraisal values of travel time saving and reliability in Great Britain,10.1007/s11116-017-9798-7
+Use of repeated cross-sectional travel surveys for developing meta models of activity-travel scheduling processes,10.1007/s11116-018-9954-8
+"Impacts of the urban parking system on cruising traffic and policy development: the case of Zurich downtown area, Switzerland",10.1007/s11116-017-9832-9
+Effects of neighborhood environments on perceived risk of self-driving: evidence from the 2015 and 2017 Puget Sound Travel Surveys,10.1007/s11116-019-10069-9
+My way or the highway? Framing transportation planners’ attitudes in negotiating professional expertise and public insight,10.1007/s11116-017-9833-8
+A time-use activity-pattern recognition model for activity-based travel demand modeling,10.1007/s11116-017-9840-9
+Exploratory analysis of Zipf’s universal power law in activity schedules,10.1007/s11116-018-9864-9
+"Correction to: Shared school transportation: determinants of carpooling as children’s school travel mode in California (Transportation, (2018), 10.1007/s11116-018-9942-z)",10.1007/s11116-018-9967-3
+Structure and influencing factors of CO2 emissions from transport sector in three major metropolitan regions of China: estimation and decomposition,10.1007/s11116-017-9827-6
+New potential for multimodal connection: exploring the relationship between taxi and transit in New York City (NYC),10.1007/s11116-017-9787-x
+Carsharing in Switzerland: identifying new markets by predicting membership based on data on supply and demand,10.1007/s11116-017-9818-7
+Applying the theory of reasoned action to understanding consumers’ intention to adopt hybrid electric vehicles in Saudi Arabia,10.1007/s11116-017-9801-3
+Joint travel problem in space–time multi-state supernetworks,10.1007/s11116-017-9835-6
+Evaluating the impact of spatio-temporal demand forecast aggregation on the operational performance of shared autonomous mobility fleets,10.1007/s11116-019-10007-9
+"Time use, mobility and expenditure: an innovative survey design for understanding individuals’ trade-off processes",10.1007/s11116-018-9961-9
+Empirical speed models for cycling in the Oslo road network,10.1007/s11116-017-9841-8
+Modelling travellers’ route choice behaviours with the concept of equivalent impedance,10.1007/s11116-017-9799-6
+A fractional perspective to the modelling of Lisbon’s public transportation network,10.1007/s11116-018-9906-3
+The role of access and egress in passenger overall satisfaction with high speed rail,10.1007/s11116-018-9918-z
+Investigating inter-generational changes in activity-travel behavior: a disaggregate approach,10.1007/s11116-018-9863-x
+Joint modeling of evacuation departure and travel times in hurricanes,10.1007/s11116-018-9958-4
+"A study on route choice preferences for commuter and non-commuter bicyclists: a case study of Kharagpur and Asansol, India",10.1007/s11116-018-9898-z
+"Travel demand modelling, data collection and well-being",10.1007/s11116-019-09987-5
+Impact of shared and autonomous vehicles on travel behavior,10.1007/s11116-019-10063-1
+Representing heterogeneity in structural relationships among multiple choice variables using a latent segmentation approach,10.1007/s11116-018-9882-7
+Evaluating the multi-scale patterns of jobs-residence balance and commuting time–cost using cellular signaling data: a case study in Shanghai,10.1007/s11116-018-9894-3
+Subjective well-being and travel: retrospect and prospect,10.1007/s11116-018-9935-y
+The impact of ignoring intrazonal trips in assignment models: a stochastic approach,10.1007/s11116-018-9951-y
+The role of travel demand and network centrality on the connectivity and resilience of an urban street system,10.1007/s11116-017-9814-y
+"The role of socio-economic, built environment and psychological factors in parental mode choice for their children in an Iranian setting",10.1007/s11116-016-9737-z
+Multidimensional visualization of transit smartcard data using space–time plots and data cubes,10.1007/s11116-017-9790-2
+Impacts of a multimodal mobility service on travel behavior and preferences: user insights from Munich’s first Mobility Station,10.1007/s11116-017-9806-y
+"Tracking a system of shared autonomous vehicles across the Austin, Texas network using agent-based simulation",10.1007/s11116-017-9811-1
+All minutes are not equal: travel time and the effects of congestion on commute satisfaction in Canadian cities,10.1007/s11116-017-9766-2
+A hybrid HMM model for travel path inference with sparse GPS samples,10.1007/s11116-016-9734-2
+"Factors associated with home-based e-working and e-shopping in Nanjing, China",10.1007/s11116-017-9792-0
+Modeling park-and-ride location choice of heterogeneous commuters,10.1007/s11116-016-9723-5
+The multi-objective network design problem using minimizing externalities as objectives: comparison of a genetic algorithm and simulated annealing framework,10.1007/s11116-016-9738-y
+The role of individual characteristics in car ownership shortly after relationship dissolution,10.1007/s11116-018-9857-8
+Constrained nested logit model: formulation and estimation,10.1007/s11116-017-9774-2
+Spatiotemporal variation in travel regularity through transit user profiling,10.1007/s11116-016-9747-x
+Identification and quantification of link vulnerability in multi-level public transport networks: a passenger perspective,10.1007/s11116-018-9892-5
+Modelling the resilience of rail passenger transport networks affected by large-scale disruptive events: the case of HSR (high speed rail),10.1007/s11116-018-9875-6
+Transit user perceptions of driverless buses,10.1007/s11116-017-9786-y
+The spatial dimensions of immobility in France,10.1007/s11116-017-9763-5
+Are we ready to embrace connected and self-driving vehicles? A case study of Texans,10.1007/s11116-016-9745-z
+Passengers’ response to transit fare change: an ex post appraisal using smart card data,10.1007/s11116-017-9775-1
+A hazard-based approach to modelling the effects of online shopping on intershopping duration,10.1007/s11116-017-9838-3
+"Exploring the impact of walk–bike infrastructure, safety perception, and built-environment on active transportation mode choice: a random parameter model using New York City commuter data",10.1007/s11116-017-9760-8
+Evaluating the car ownership control policy in Shanghai: a structural vector auto-regression approach,10.1007/s11116-016-9733-3
+Modeling adoption timing of autonomous vehicles: innovation diffusion approach,10.1007/s11116-018-9947-7
+A modeling approach for matching ridesharing trips within macroscopic travel demand models,10.1007/s11116-018-9957-5
+Inviting travelers to the smorgasbord of sustainable urban transport: evidence from a MaaS field trial,10.1007/s11116-018-9946-8
+The association between news and attitudes towards a Dutch road pricing proposal,10.1007/s11116-016-9752-0
+A statistical analysis of the dynamics of household hurricane-evacuation decisions,10.1007/s11116-016-9722-6
+Metropolitan size and the impacts of telecommuting on personal travel,10.1007/s11116-017-9846-3
+Mode choice and travel distance joint models in school trips,10.1007/s11116-017-9794-y
+School choice: understanding the trade-off between travel distance and school quality,10.1007/s11116-017-9773-3
+Gender inequality in mobility and mode choice in Pakistan,10.1007/s11116-016-9712-8
+Reducing traffic externalities by multiple-cordon pricing,10.1007/s11116-016-9742-2
+Estimating the value of risk reductions for car drivers when pedestrians are involved: a case study in Spain,10.1007/s11116-016-9736-0
+How household transportation expenditures have evolved in Canada: a long term perspective,10.1007/s11116-017-9765-3
+Activity involvement and time spent on computers for leisure: an econometric analysis on the American Time Use Survey dataset,10.1007/s11116-017-9789-8
+"Incentivizing alternative fuel vehicles: the influence of transport policies, attitudes and perceptions",10.1007/s11116-018-9869-4
+Understanding valuation of travel time changes: are preferences different under different stated choice design settings?,10.1007/s11116-016-9716-4
+Cost and time damping: evidence from aggregate rail direct demand models,10.1007/s11116-016-9711-9
+Home charge timing choice behaviors of plug-in hybrid electric vehicle users under a dynamic electricity pricing scheme,10.1007/s11116-018-9948-6
+Robust network pricing and system optimization under combined long-term stochasticity and elasticity of travel demand,10.1007/s11116-017-9769-z
+"Assessing the representativeness of a smartphone-based household travel survey in Dar es Salaam, Tanzania",10.1007/s11116-017-9851-6
+How important is safety in making flight choices? Evidence from simple choice experiments,10.1007/s11116-016-9730-6
+"Exploring immigrants travel behaviour: empirical findings from Offenbach am Main, Germany",10.1007/s11116-016-9748-9
+Integration of a phone-based household travel survey and a web-based student travel survey,10.1007/s11116-016-9726-2
+Estimating preferred departure times of road users in a large urban network,10.1007/s11116-016-9750-2
+Accessibility analysis of risk severity,10.1007/s11116-017-9837-4
+"Estimating traffic volumes on intercity road locations using roadway attributes, socioeconomic features and other work-related activity characteristics",10.1007/s11116-017-9771-5
+Projecting travelers into a world of self-driving vehicles: estimating travel behavior implications via a naturalistic experiment,10.1007/s11116-018-9937-9
+A mixed Bayesian network for two-dimensional decision modeling of departure time and mode choice,10.1007/s11116-017-9770-6
+"ICT, activity space–time and mobility: new insights, new models, new methodologies",10.1007/s11116-018-9870-y
+"Erratum to: Planning for implementation (Transportation, (1973), 1, 4, (419-453), 10.1007/BF00172390)",10.1007/s11116-016-9735-1
+Time-declining risk-adjusted social discount rates for transport infrastructure planning,10.1007/s11116-017-9780-4
+The impact of urban form on commuting in large Chinese cities,10.1007/s11116-017-9762-6
+Impacts of urban built environment on empty taxi trips using limited geolocation data,10.1007/s11116-016-9709-3
+Effects of Taichung bus policy on ridership according to structural change analysis,10.1007/s11116-017-9778-y
+"Erratum to: The prospects of fare-free public transport: evidence from Tallinn (Transportation, (2017), 44, 5, (1083-1104), 10.1007/s11116-016-9695-5)",10.1007/s11116-017-9785-z
+An integrated measure of accessibility and reliability of mass transit systems,10.1007/s11116-018-9866-7
+Unequal regional impacts of high speed rail on the tourism industry: a simulation analysis of the effects of Kyushu Shinkansen,10.1007/s11116-016-9746-y
+"Sustainable transportation at the ballot box: a disaggregate analysis of the relative importance of user travel mode, attitudes and self-interest",10.1007/s11116-016-9728-0
+"Built environment, travel behavior, and residential self-selection: a study based on panel data from Beijing, China",10.1007/s11116-017-9783-1
+Changing roles and new perspectives: towards market orientation in public transport,10.1007/s11116-017-9781-3
+Normative beliefs and modality styles: a latent class and latent variable model of travel behaviour,10.1007/s11116-016-9751-1
+Trip misreporting forecast using count data model in a GPS enhanced travel survey,10.1007/s11116-017-9782-2
+Total cost minimizing transit route structures considering trips towards CBD and periphery,10.1007/s11116-017-9777-z
+Nudging for responsible carsharing: using behavioral economics to change transportation behavior,10.1007/s11116-016-9727-1
+Is ‘referencing’ a remedy to hypothetical bias in value of time elicitation? Evidence from economic experiments,10.1007/s11116-017-9803-1
+A practical method to estimate the benefits of improved road network reliability: an application to departing air passengers,10.1007/s11116-017-9764-4
+"Correction to: The role of individual characteristics in car ownership shortly after relationship dissolution (Transportation, (2018), 45, 6, (1871-1882), 10.1007/s11116-018-9857-8)",10.1007/s11116-018-9867-6
+An application of a rank ordered probit modeling approach to understanding level of interest in autonomous vehicles,10.1007/s11116-018-9945-9
+"Apps, activities and travel: an conceptual exploration based on activity theory",10.1007/s11116-017-9844-5
+Resilience and accessibility of Swedish and Dutch municipalities,10.1007/s11116-017-9854-3
+How the longer term success of a social marketing program is influenced by socio-demographics and the built environment,10.1007/s11116-017-9817-8
+A disaggregate study of urban rail transit feeder transfer penalties including weather effects,10.1007/s11116-017-9768-0
+On complexity and variability of individuals’ discretionary activities,10.1007/s11116-016-9731-5
+Relationship between well-being and daily time use of elderly: evidence from the disabilities and use of time survey,10.1007/s11116-017-9821-z
+A business establishment fleet ownership and composition model,10.1007/s11116-017-9758-2
+Transforming mobility systems with sharing and automation,10.1007/s11116-017-9816-9
+Accuracy and bias of subjective travel time estimates,10.1007/s11116-016-9757-8
+"Epilogue: the new frontiers of behavioral research on the interrelationships between ICT, activities, time use and mobility",10.1007/s11116-018-9871-x
+Issues in the specification of regret-only choice models: a rejoinder to Chorus and Van Cranenburgh,10.1007/s11116-016-9740-4
+Reducing CO2 from cars in the European Union,10.1007/s11116-016-9741-3
+Modelling joint activity-travel pattern scheduling problem in multi-modal transit networks,10.1007/s11116-016-9720-8
+Detecting home location and trip purposes for cardholders by mining smart card transaction data in Beijing subway,10.1007/s11116-016-9756-9
+Drivers’ response to fuel taxes and efficiency standards: evidence from Germany,10.1007/s11116-017-9759-1
+An analysis of the Spanish high capacity road network criticality,10.1007/s11116-018-9877-4
+"Editorial introduction for the special issue on accessibility, resilience and vulnerability",10.1007/s11116-018-9909-0
+Specification of regret-based models of choice behaviour: formal analyses and experimental design based evidence—commentary,10.1007/s11116-016-9739-x
+The implications of long-distance tour attributes for national travel data collection in the United States,10.1007/s11116-016-9754-y
+"Income effects, cost damping and the value of time: theoretical properties embedded within practical travel choice models",10.1007/s11116-016-9744-0
+An integrated assessment of factors affecting modal choice: towards a better understanding of the causal effects of built environment,10.1007/s11116-017-9767-1
+"Analysis of travel time and mode choice shift for non-work stops in commuting: case study of Beijing, China",10.1007/s11116-016-9749-8
+Economic resilience to transportation failure: a computable general equilibrium analysis,10.1007/s11116-017-9819-6
+"Dynamic ride-sharing and fleet sizing for a system of shared autonomous vehicles in Austin, Texas",10.1007/s11116-016-9729-z
+Simultaneous internalization of traffic congestion and noise exposure costs,10.1007/s11116-017-9776-0
+The correlation of externalities in marginal cost pricing: lessons learned from a real-world case study,10.1007/s11116-016-9753-z
+How do passengers use travel time? A case study of Shanghai–Nanjing high speed rail,10.1007/s11116-017-9824-9
+On the role of bridges as anchor points in route choice modeling,10.1007/s11116-017-9761-7
+Literature review on surveys investigating the acceptance of automated vehicles,10.1007/s11116-017-9808-9
+Singapore’s Vehicle Quota System and its impact on motorcycles,10.1007/s11116-017-9772-4
+Travel demand forecasts improved by using cross-sectional data from multiple time points: enhancing their quality by linkage to gross domestic product,10.1007/s11116-016-9755-x
+User response to autonomous vehicles and emerging mobility systems,10.1007/s11116-018-9943-y
+The digital revolution and worthwhile use of travel time: implications for appraisal and forecasting,10.1007/s11116-015-9587-0
+The prospects of fare-free public transport: evidence from Tallinn,10.1007/s11116-016-9695-5
+Precise estimation of connections of metro passengers from Smart Card data,10.1007/s11116-015-9617-y
+Differences in probability weighting for individual travelers: a managed lane choice application,10.1007/s11116-015-9642-x
+"Car today, gone tomorrow: The ephemeral car in low-income, immigrant and minority families",10.1007/s11116-015-9664-4
+A method to evaluate equitable accessibility: combining ethical theories and accessibility-based approaches,10.1007/s11116-015-9585-2
+Transit service quality analysis using cluster analysis and decision trees: a step forward to personalized marketing in public transportation,10.1007/s11116-015-9615-0
+A combined destination and route choice model for a bicycle sharing system,10.1007/s11116-015-9581-6
+Immigrant status and commute distance: an exploratory study based on the greater Golden Horseshoe,10.1007/s11116-015-9633-y
+The San Francisco Travel Quality Study: tracking trials and tribulations of a transit taker,10.1007/s11116-016-9732-4
+"Household structure and gender differences in travel time: spouse/partner presence, parenthood, and breadwinner status",10.1007/s11116-015-9637-7
+Analysis of travel activity determinants using robust statistics,10.1007/s11116-016-9718-2
+Cost damping and functional form in transport models,10.1007/s11116-015-9628-8
+Day-to-day variability in travellers’ activity-travel patterns in the Jakarta metropolitan area,10.1007/s11116-015-9591-4
+"Area-wide travel plans—targeting strategies for greater participation in green travel initiatives: a case study of Rouse Hill Town Centre, NSW Australia",10.1007/s11116-015-9640-z
+A dynamic approach to road freight flows modeling in Spain,10.1007/s11116-015-9590-5
+The interactions between online shopping and personal activity travel behavior: an analysis with a GPS-based activity travel diary,10.1007/s11116-015-9639-5
+The relative importance of price and driving range on electric vehicle adoption: Los Angeles case study,10.1007/s11116-015-9641-y
+Activity space estimation with longitudinal observations of social media data,10.1007/s11116-016-9719-1
+Explaining light vehicle demand evolution in interurban toll roads: a dynamic panel data analysis in Spain,10.1007/s11116-015-9612-3
+"Erratum to: Determinants of mobility resource ownership in Switzerland: changes between 2000 and 2010 (Transportation, (2017), 44, 5, (1043-1065), 10.1007/s11116-016-9693-7)",10.1007/s11116-016-9704-8
+Costs and benefits of a bicycle helmet law for Germany,10.1007/s11116-015-9632-z
+The interactions between e-shopping and store shopping in the shopping process for search goods and experience goods,10.1007/s11116-016-9683-9
+What encourages people to carpool? An evaluation of factors with meta-analysis,10.1007/s11116-015-9661-7
+Delay or forgo? A closer look at youth driver licensing trends in the United States and Australia,10.1007/s11116-016-9685-7
+Modeling retail establishments’ freight trip generation: a comparison of methodologies to predict total weekly deliveries,10.1007/s11116-016-9700-z
+Dynamic network equilibrium for daily activity-trip chains of heterogeneous travelers: application to large-scale networks,10.1007/s11116-016-9724-4
+Trend analysis of activity generation attributes over time,10.1007/s11116-015-9624-z
+Factors affecting children’s journeys to school: a joint escort-mode choice model,10.1007/s11116-015-9634-x
+Estimation of multinomial probit-kernel integrated choice and latent variable model: comparison on one sequential and two simultaneous approaches,10.1007/s11116-015-9626-x
+Impact of family in-home quality time on person travel demand,10.1007/s11116-015-9613-2
+Specification of regret-based models of choice behaviour: formal analyses and experimental design based evidence,10.1007/s11116-016-9714-6
+Latent lifestyle and mode choice decisions when travelling short distances,10.1007/s11116-016-9703-9
+Social marketing and the built environment: What matters for travel behaviour change?,10.1007/s11116-016-9698-2
+Lessons learned from a personalized travel planning (PTP) research program to reduce car dependence,10.1007/s11116-016-9681-y
+"Establishing value of time for the inter-island passenger transport of the Western Visayas region, Philippines",10.1007/s11116-015-9611-4
+Examining the effects of out-of-home and in-home constraints on leisure activity participation in different seasons of the year,10.1007/s11116-016-9717-3
+Dynamic travel mode searching and switching analysis considering hidden model preference and behavioral decision processes,10.1007/s11116-015-9665-3
+"Elderly travel frequencies and transport mode choices in Greater Rotterdam, the Netherlands",10.1007/s11116-016-9680-z
+Visualisation of uncertainty in probabilistic traffic models for policy and operations,10.1007/s11116-015-9673-3
+Changes in level of household car ownership: the role of life events and spatial context,10.1007/s11116-015-9589-y
+How much can trip chaining reduce VMT? A simplified method,10.1007/s11116-015-9610-5
+A structural equation model based analysis of non-workers’ activity-travel behaviour from a city of a developing country,10.1007/s11116-015-9636-8
+Travel mode choice and travel satisfaction: bridging the gap between decision utility and experienced utility,10.1007/s11116-015-9619-9
+The built environment determinants of activity participation and walking near the workplace,10.1007/s11116-016-9687-5
+"Children’s travel to school: satisfaction, current mood, and cognitive performance",10.1007/s11116-016-9705-7
+Job accessibility and employment outcomes: which income groups benefit the most?,10.1007/s11116-016-9708-4
+"Trip and parking generation at transit-oriented developments: a case study of Redmond TOD, Seattle region",10.1007/s11116-016-9702-x
+Editorial: Contributions—authorship and data,10.1007/s11116-017-9779-x
+Accounting for systematic heterogeneity across car commuters in response to multiple TDM policies: case study of Tehran,10.1007/s11116-015-9672-4
+Overcoming barriers to cycling: understanding frequency of cycling in a University setting and the factors preventing commuters from cycling on a regular basis,10.1007/s11116-016-9682-x
+An investigation into passenger preference for express trains during peak hours,10.1007/s11116-015-9592-3
+A reference-dependent user equilibrium model for activity-travel scheduling,10.1007/s11116-016-9725-3
+Convergence in transportation measures across the EU-15,10.1007/s11116-016-9686-6
+Temporal transferability: trade-off between data newness and the number of observations for forecasting travel demand,10.1007/s11116-016-9707-5
+An activity-based approach of investigating travel behaviour of older people: Application of a time–space constrained scheduling model (CUSTOM) for older people in the National Capital Region (NCR) of Canada,10.1007/s11116-015-9667-1
+Dutch politicians’ use of cost–benefit analysis,10.1007/s11116-016-9697-3
+Network concentration indices for less-than-truckload transportation,10.1007/s11116-016-9710-x
+"Simulation, numerical approximation and closed forms for joint discrete continuous models with an application to household vehicle ownership and use",10.1007/s11116-016-9696-4
+Mode-valued differences of in-vehicle travel time Savings,10.1007/s11116-016-9689-3
+Comparison on travel scheduling between driving and walking trips by habitual car users,10.1007/s11116-015-9618-x
+Public transport service-quality elements based on real-time operational tactics,10.1007/s11116-016-9688-4
+Joint road toll pricing and capacity development in discrete transport network design problem,10.1007/s11116-015-9674-2
+Determinants of mobility resource ownership in Switzerland: changes between 2000 and 2010,10.1007/s11116-016-9693-7
+Analyzing time sensitivity to discomfort in the Paris subway: an interval data model approach,10.1007/s11116-015-9629-7
+Indifference bands for boundedly rational route switching,10.1007/s11116-016-9699-1
+Effects of land-use transport scenarios on travel patterns: a multi-state supernetwork application,10.1007/s11116-015-9616-z
+Long-term trends in domestic US passenger travel: the past 110 years and the next 90,10.1007/s11116-015-9638-6
+"Travel time budgets: new evidence from multi-year, multi-day data",10.1007/s11116-016-9694-6
+"Activity sequencing, location, and formation of individual non-mandatory tours: application to the activity-based models for Columbus, Cincinnati, and Cleveland, OH",10.1007/s11116-015-9671-5
+Learning daily activity patterns with probabilistic grammars,10.1007/s11116-015-9622-1
+Users’ perceptions and willingness to pay in interurban toll roads: identifying differences across regions from a nationwide survey in Spain,10.1007/s11116-015-9662-6
+"Estimating the trip generation impacts of autonomous vehicles on car travel in Victoria, Australia",10.1007/s11116-017-9802-2
+Analysis of variability in multi-day GPS imputed activity-travel diaries using multi-dimensional sequence alignment and panel effects regression models,10.1007/s11116-015-9666-2
+Incorporating psycho-physical mapping into random regret choice models: model specifications and empirical performance assessments,10.1007/s11116-016-9691-9
+Capacity constrained accessibility of high-speed rail,10.1007/s11116-015-9660-8
+Who escort children: mum or dad? Exploring gender differences in escorting mobility among parisian dual-earner couples,10.1007/s11116-015-9630-1
+Cordon tolls and competition between cities with symmetric and asymmetric interactions,10.1007/s11116-015-9620-3
+Women’s complex daily lives: a gendered look at trip chaining and activity pattern entropy in Germany,10.1007/s11116-015-9627-9
+"Analysis of vehicle ownership evolution in Montreal, Canada using pseudo panel analysis",10.1007/s11116-015-9588-z
+Adaptation patterns to high speed rail usage in Taiwan and China,10.1007/s11116-016-9679-5
+Effects of built environment and weather on bike sharing demand: a station level analysis of commercial bike sharing in Toronto,10.1007/s11116-015-9669-z
+Measuring winners and losers from the new I-35W Mississippi River Bridge,10.1007/s11116-016-9684-8
+A complex network perspective for characterizing urban travel demand patterns: graph theoretical analysis of large-scale origin–destination demand networks,10.1007/s11116-016-9706-6
+Accessibility measures for robustness of the transport system,10.1007/s11116-016-9701-y
+About attitudes and perceptions: finding the proper way to consider latent variables in discrete choice models,10.1007/s11116-015-9663-5
+The limits of analyzing service quality data in public transport,10.1007/s11116-015-9621-2
+Understanding public transit use behavior: integration of the theory of planned behavior and the customer satisfaction theory,10.1007/s11116-016-9692-8
+Isolating high-priority metro and feeder bus transfers using smart card data,10.1007/s11116-016-9713-7
+Impacts of built environment and emerging green technologies on daily transportation greenhouse gas emissions in Quebec cities: a disaggregate modeling approach,10.1007/s11116-015-9631-0
+Is accessibility relevant in trip generation? Modelling the interaction between trip generation and accessibility taking into account spatial effects,10.1007/s11116-016-9715-5
+Predictors of car use habit strength in an urban Norwegian public,10.1007/s11116-015-9668-0
+An optimization approach to resolve activity scheduling conflicts in ADAPTS activity-based model,10.1007/s11116-016-9721-7
+A behavioral choice model of the use of car-sharing and ride-sourcing services,10.1007/s11116-017-9797-8
+I can’t believe your attitude: a joint estimation of best worst attitudes and electric vehicle choice,10.1007/s11116-016-9675-9
+Bicycle mode share in China: a city-level analysis of long term trends,10.1007/s11116-016-9676-8
+A simplified and practical alternative way to recognise the role of household characteristics in determining an individual’s preferences: the case of automobile choice,10.1007/s11116-015-9635-9
+Social norms and public transport usage: empirical study from Shanghai,10.1007/s11116-015-9625-y
+Measuring the impacts of weather variability on home-based trip chaining behaviour: a focus on spatial heterogeneity,10.1007/s11116-015-9623-0
+Exploring stability and change in transport systems: combining Delphi and system dynamics approaches,10.1007/s11116-016-9677-7
+Public transport demand: dynamic panel model analysis,10.1007/s11116-015-9586-1
+Compliance and data quality in GPS-based studies,10.1007/s11116-014-9560-3
+An analysis of activity time use on vehicle usage rationed days,10.1007/s11116-014-9568-8
+A nationwide look at the immigrant neighborhood effect on travel mode choice,10.1007/s11116-014-9543-4
+Five-star transportation: using online activity reviews to examine mode choice to non-work destinations,10.1007/s11116-015-9600-7
+Attitudes and habits in highly effective travel models,10.1007/s11116-014-9524-7
+"The role of motorized transport and mobile phones in the diffusion of agricultural information in Tanggamus Regency, Indonesia",10.1007/s11116-015-9646-6
+Repetitions in individual daily activity–travel–location patterns: a study using the Herfindahl–Hirschman Index,10.1007/s11116-014-9519-4
+What’s your type: a multidimensional cyclist typology,10.1007/s11116-014-9523-8
+Activity detection and transfer identification for public transit fare card data,10.1007/s11116-015-9601-6
+Understanding aggregate human mobility patterns using passive mobile phone location data: a home-based approach,10.1007/s11116-015-9597-y
+"Capturing, measuring and responding to changes that influence travel behavior",10.1007/s11116-015-9659-1
+"Modelling the effect of different pricing schemes on free-floating carsharing travel demand: a test case for Zurich, Switzerland",10.1007/s11116-015-9608-z
+An exploratory analysis of spatial effects on freight trip attraction,10.1007/s11116-014-9570-1
+What makes travel pleasant and/or tiring? An investigation based on the French National Travel Survey,10.1007/s11116-014-9557-y
+The impact of transportation alternatives on the decision to cease driving by older adults in Japan,10.1007/s11116-015-9583-4
+Potential changes in transportation patterns of New York Islanders fans due to stadium relocation,10.1007/s11116-015-9652-8
+Social interactions in transportation: analyzing groups and spatial networks,10.1007/s11116-015-9643-9
+International meta-analysis of stated preference studies of transportation noise nuisance,10.1007/s11116-014-9527-4
+Potential changes to travel behaviors & patterns: a fuzzy cognitive map modeling approach,10.1007/s11116-015-9657-3
+"Car ownership motivations among undergraduate students in China, Indonesia, Japan, Lebanon, Netherlands, Taiwan, and USA",10.1007/s11116-014-9548-z
+Mining activity pattern trajectories and allocating activities in the network,10.1007/s11116-015-9602-5
+Do sharing people behave differently? An empirical evaluation of the distinctive mobility patterns of free-floating car-sharing members,10.1007/s11116-015-9606-1
+Identifying a behaviourally relevant choice set from stated choice data,10.1007/s11116-014-9572-z
+Rail freight transport and demand requirements: an analysis of attribute cut-offs through a stated preference experiment,10.1007/s11116-014-9566-x
+Impact of individual daily travel pattern on value of time,10.1007/s11116-015-9654-6
+Use of acceleration data for transportation mode prediction,10.1007/s11116-014-9541-6
+The role of the built environment on perceived safety from crime and walking: examining direct and indirect impacts,10.1007/s11116-014-9535-4
+The objective versus the perceived environment: what matters for bicycling?,10.1007/s11116-014-9520-y
+How real is a reported desire to travel for its own sake? Exploring the ‘teleportation’ concept in travel behaviour research,10.1007/s11116-014-9546-1
+Moving between mobility cultures: what affects the travel behavior of new residents?,10.1007/s11116-014-9574-x
+"Built environment impacts on walking for transport in Brisbane, Australia",10.1007/s11116-014-9563-0
+Predicting consumers’ intention to adopt hybrid electric vehicles: using an extended version of the theory of planned behavior model,10.1007/s11116-014-9567-9
+Perception bias in route choice,10.1007/s11116-014-9552-3
+Lost in transit? Unfamiliar public transport travel explored using a journey planner web survey,10.1007/s11116-014-9529-2
+What is the relationship between online activity and driving-licence-holding amongst young adults?,10.1007/s11116-014-9528-3
+Employment status transitions and shifts in daily activity-travel behavior with special focus on shopping duration,10.1007/s11116-015-9655-5
+Can the built environment influence nonwork activity participation? An analysis with national data,10.1007/s11116-014-9554-1
+"The Hensher equation: derivation, interpretation and implications for practical implementation",10.1007/s11116-014-9536-3
+Quantifying the effects of input aggregation and model randomness on regional transportation emission inventories,10.1007/s11116-015-9577-2
+On the problem of measuring discount rates in intertemporal transportation choices,10.1007/s11116-015-9653-7
+"The influence of parents’ travel patterns, perceptions and residential self-selectivity to their children travel mode shares",10.1007/s11116-015-9579-0
+Why do voters support public transportation? Public choices and private behavior,10.1007/s11116-014-9545-2
+Introduction to special issue: new directions in shared-mobility research,10.1007/s11116-015-9603-4
+Exploring the role of individual attitudes and perceptions in predicting the demand for cycling: a hybrid choice modelling approach,10.1007/s11116-014-9551-4
+"Automobile access, peer effects and happiness",10.1007/s11116-015-9647-5
+Simulating social influences on sustainable mobility shifts for heterogeneous agents,10.1007/s11116-015-9649-3
+Agent-based optimisation of public transport supply and pricing: impacts of activity scheduling decisions and simulation randomness,10.1007/s11116-014-9533-6
+The effects of highway development on housing prices,10.1007/s11116-015-9580-7
+Use of reasoning maps in evaluation of transport alternatives: inclusion of uncertainty and “I Don’t Know”: demonstration of a method,10.1007/s11116-014-9555-0
+A meta-model of vehicle ownership choice parameters,10.1007/s11116-014-9514-9
+"Travel time reliability: a review of late time valuations, elasticities and demand impacts in the passenger rail market in Great Britain",10.1007/s11116-014-9526-5
+Public transportation objectives and rider demographics: are transit’s priorities poor public policy?,10.1007/s11116-014-9547-0
+Influence of the weather on mode choice in corridors with time-varying congestion: a mixed data study,10.1007/s11116-015-9578-1
+A time-hierarchical microeconomic model of activities,10.1007/s11116-014-9530-9
+Quantifying the impacts of subsidy policies on home-to-school pupil travel by bus in England,10.1007/s11116-014-9525-6
+Volatile earmarked revenues and state highway expenditures in the United States,10.1007/s11116-014-9534-5
+Implementing a household joint activity-travel multi- agent simulation tool: first results,10.1007/s11116-015-9645-7
+Sensitivity of location-sharing services data: evidence from American travel pattern,10.1007/s11116-015-9596-z
+"Erratum: What is the relationship between online activity and driving-licence-holding amongst young adults [Transportation, 41, (2014) 1071-1098, DOI 10.1007/s11116-014-9528-3]",10.1007/s11116-014-9565-y
+Discovering urban activity patterns in cell phone data,10.1007/s11116-015-9598-x
+Comparing cities’ cycling patterns using online shared bicycle maps,10.1007/s11116-015-9599-9
+"The impact of weather conditions on bikeshare trips in Washington, DC",10.1007/s11116-014-9540-7
+Metro service disruptions: how do people choose to travel?,10.1007/s11116-015-9656-4
+"Understanding variability, habit and the effect of long period activity plan in modal choices: a day to day, week to week analysis on panel data",10.1007/s11116-014-9549-y
+Imputing trip purposes for long-distance travel,10.1007/s11116-015-9595-0
+Effects of task complexity and time pressure on activity-travel choices: heteroscedastic logit model and activity-travel simulator experiment,10.1007/s11116-015-9584-3
+Carsharing operations policies: a comparison between one-way and two-way systems,10.1007/s11116-015-9604-3
+New routes on old railways: increasing rail’s mode share within the constraints of the existing railway network,10.1007/s11116-015-9582-5
+Empirical analysis and comparisons about time-allocation patterns across segments based on mode-specific preferences,10.1007/s11116-014-9561-2
+Mood and mode: does how we travel affect how we feel?,10.1007/s11116-014-9521-x
+The missing link: bicycle infrastructure networks and ridership in 74 US cities,10.1007/s11116-014-9538-1
+Travel satisfaction effects of changes in public transport usage,10.1007/s11116-015-9576-3
+Predicting the evolution of social networks with life cycle events,10.1007/s11116-015-9644-8
+Editorial,10.1007/s11116-015-9614-1
+The estimation of changes in rail ridership through an onboard survey: did free Wi-Fi make a difference to Amtrak’s Capitol Corridor service?,10.1007/s11116-014-9532-7
+Incorporating social interaction into hybrid choice models,10.1007/s11116-014-9550-5
+"ETC adoption, time-of-travel choice, and comprehensive policies to enhance time-of-day pricing: a stated preference investigation",10.1007/s11116-014-9575-9
+Managing the insolvable limitations of cost-benefit analysis: results of an interview based study,10.1007/s11116-014-9539-0
+Identification of the minimum size of the shared-car fleet required to satisfy car-driving trips in Montreal,10.1007/s11116-015-9605-2
+Heterogeneity in the reaction of traffic flows to road pricing: a synthetic control approach applied to Milan,10.1007/s11116-014-9544-3
+A new spatial (social) interaction discrete choice model accommodating for unobserved effects due to endogenous network formation,10.1007/s11116-015-9651-9
+"Transport, unmet activity needs and wellbeing in later life: exploring the links",10.1007/s11116-014-9558-x
+Place happiness: its constituents and the influence of emotions and subjective importance on activity type and destination choice,10.1007/s11116-014-9553-2
+Modal image: candidate drivers of preference differences for BRT and LRT,10.1007/s11116-014-9516-7
+"“Not just a taxi”? For-profit ridesharing, driver strategies, and VMT",10.1007/s11116-014-9531-8
+A multilevel analysis of factors influencing local social interaction,10.1007/s11116-015-9648-4
+Computational considerations in building inter-firm networks,10.1007/s11116-015-9650-x
+Accounting for travel time variability in the optimal pricing of cars and buses,10.1007/s11116-014-9515-8
+Willingness to accept commuting time within the household: stated preference evidence,10.1007/s11116-014-9573-y
+The prevalence of context-dependent adjustment of activity-travel patterns in energy conservation strategies: results from a mixture-amount stated adaptation experiment,10.1007/s11116-014-9564-z
+Exploring the potential of phone call data to characterize the relationship between social network and travel behavior,10.1007/s11116-015-9594-1
+An investigation on mode choice and travel distance demand of older people in the National Capital Region (NCR) of Canada: application of a utility theoretic joint econometric model,10.1007/s11116-014-9537-2
+"The multimodal majority? Driving, walking, cycling, and public transportation use among American adults",10.1007/s11116-014-9556-z
+One-way carsharing’s evolution and operator perspectives from the Americas,10.1007/s11116-015-9607-0
+Costs of school transportation: quantifying the fiscal impacts of encouraging walking and bicycling for school travel,10.1007/s11116-014-9569-7
+Business-to-business carsharing: evidence from Britain of factors associated with employer-based carsharing membership and its impacts,10.1007/s11116-015-9609-y
+Modelling bicycle use intention: the role of perceptions,10.1007/s11116-014-9559-9
+The analysis of dynamic travel mode choice: a heterogeneous hidden Markov approach,10.1007/s11116-015-9658-2
+Analyzing car ownership in Quebec City: a comparison of traditional and latent class ordered and unordered models,10.1007/s11116-014-9522-9
+Accounting for attribute non-attendance and common-metric aggregation in a probabilistic decision process mixed multinomial logit model: A warning on potential confounding,10.1007/s11116-012-9447-0
+"Exploring the links between personal networks, time use, and the spatial distribution of social contacts",10.1007/s11116-013-9467-4
+The evolution of U.S. rail freight pricing in the post-deregulation era: revenues versus marginal costs for five commodity types,10.1007/s11116-013-9463-8
+"Do public transport investments promote urban economic development? Evidence from bus rapid transit in Bogotá, Colombia",10.1007/s11116-013-9471-8
+Travel demand forecasts improved by using cross-sectional data from multiple time points,10.1007/s11116-013-9464-7
+Exploring the relationship between perceived acceptability and referendum voting support for alternative road pricing schemes,10.1007/s11116-013-9459-4
+Inter-temporal variation in the travel time and travel cost parameters of transport models,10.1007/s11116-013-9493-2
+Incorporating equity as part of the wider impacts in transport infrastructure assessment: An application of the SUMINI approach,10.1007/s11116-012-9418-5
+The relation between bicycle commuting and non-work cycling: Results from a mobility panel,10.1007/s11116-013-9491-4
+Bicyclist commuters' choice of on-street versus off-street route segments,10.1007/s11116-013-9453-x
+Transit to eternal youth: Lifecycle and generational trends in Greater Montreal public transport mode share,10.1007/s11116-013-9454-9
+Tollroads are only part of the overall trip: The error of our ways in past willingness to pay studies,10.1007/s11116-013-9494-1
+Impacts of parental gender and attitudes on children's school travel mode and parental chauffeuring behavior: Results for California based on the 2009 National Household Travel Survey,10.1007/s11116-013-9500-7
+Heterogeneity assumptions in the specification of bargaining models: A study of household level trade-offs between commuting time and salary,10.1007/s11116-013-9483-4
+The association between light rail transit and satisfactions with travel and life: Evidence from Twin Cities,10.1007/s11116-013-9455-8
+Enhanced traffic information dissemination to facilitate toll road utilization: a nested logit model of a stated preference survey in Texas,10.1007/s11116-013-9449-6
+Do the selected Trans European transport investments pass the cost benefit test?,10.1007/s11116-013-9488-z
+Transport effects of e-commerce: What can be learned after years of research?,10.1007/s11116-013-9457-6
+The impact of activity chaining on the duration of daily activities,10.1007/s11116-012-9441-6
+Selfishness and altruism in the distribution of travel time and income,10.1007/s11116-013-9456-7
+The backward-bending commute times of married women with household responsibility,10.1007/s11116-013-9458-5
+Exploring temporal fluctuations of daily cycling demand on Dutch cycle paths: The influence of weather on cycling,10.1007/s11116-012-9398-5
+A network equilibrium approach for modelling activity-travel pattern scheduling problems in multi-modal transit networks with uncertainty,10.1007/s11116-013-9470-9
+A complex network approach to understand commercial vehicle movement,10.1007/s11116-012-9439-0
+Tour-based mode choice of joint household travel patterns on weekend and weekday,10.1007/s11116-013-9479-0
+Hubris or humility? Accuracy issues for the next 50 years of travel demand modeling,10.1007/s11116-013-9497-y
+Sample size requirements for stated choice experiments,10.1007/s11116-013-9451-z
+Using value of statistical life for the ex ante evaluation of transport policy options: A discussion based on ethical theory,10.1007/s11116-012-9425-6
+Analyzing commuter train user behavior: A decision framework for access mode and station choice,10.1007/s11116-013-9509-y
+Agent-based model for continuous activity planning with an open planning horizon,10.1007/s11116-014-9512-y
+A household-level activity pattern generation model with an application for Southern California,10.1007/s11116-013-9452-y
+Impact of fuel price on vehicle miles traveled (VMT): Do the poor respond in the same way as the rich?,10.1007/s11116-013-9478-1
+Assessing the effects of stochastic perception error under travel time variability,10.1007/s11116-012-9433-6
+"Changing demographics and young adult driver license decline in Melbourne, Australia (1994-2009)",10.1007/s11116-013-9496-z
+Recent developments in national and international freight transport models within Europe,10.1007/s11116-012-9422-9
+"Values, attitudes and travel behavior: A hierarchical latent variable mixed logit model of travel mode choice",10.1007/s11116-013-9504-3
+Managing a smart bicycle system when demand outstrips supply: The case of the university community in Seville,10.1007/s11116-012-9424-7
+What do commuters think travel time reliability is worth? Calculating economic value of reducing the frequency and extent of unexpected delays,10.1007/s11116-012-9448-z
+Complementing distance based charges with discounted registration fees in the reform of road user charges: The impact for motorists and government revenue,10.1007/s11116-013-9473-6
+Envisioning an emission diet: Application of travel demand mechanisms to facilitate policy decision making,10.1007/s11116-013-9511-4
+"Decision makers and socializers, social networks and the role of individuals as participants",10.1007/s11116-013-9465-6
+The return on investment for taxi companies transitioning to electric vehicles: A case study in San Francisco,10.1007/s11116-013-9486-1
+A bikeway network design model for urban areas,10.1007/s11116-012-9409-6
+Learning-based framework for transit assignment modeling under information provision,10.1007/s11116-013-9510-5
+"Household-level commuting mode choices, car allocation and car ownership level choices of two-worker households: The case of the city of Toronto",10.1007/s11116-014-9518-5
+A flexible model structure approach for discrete choice models,10.1007/s11116-012-9431-8
+Demand for taxi services: New elasticity evidence,10.1007/s11116-013-9482-5
+A multi-criteria decision support methodology for implementing truck operation strategies,10.1007/s11116-012-9432-7
+The revenue and environmental benefits of new off-peak commuter rail service: The case of the Pascack Valley line in New Jersey,10.1007/s11116-013-9495-0
+Attitudes of bus operators towards real-time transit information tools,10.1007/s11116-013-9450-0
+Road pricing with complications,10.1007/s11116-012-9442-5
+Expanding the applicability of random regret minimization for route choice analysis,10.1007/s11116-013-9489-y
+The measure of all things: Reflections on changing conceptions of the individual in travel demand modeling,10.1007/s11116-013-9490-5
+How do built-environment factors affect travel behavior? A spatial analysis at different geographic scales,10.1007/s11116-013-9462-9
+Dynamic process model of mass effects on travel demand,10.1007/s11116-013-9460-y
+New evidence on walking distances to transit stops: Identifying redundancies and gaps using variable service areas,10.1007/s11116-013-9508-z
+Estimation of a constrained multinomial logit model,10.1007/s11116-012-9435-4
+Simulating the environmental effects of isolated and area-wide traffic calming schemes using traffic simulation and microscopic emission modeling,10.1007/s11116-014-9513-x
+Credible commitment and congestion pricing,10.1007/s11116-012-9430-9
+Reviewing the axial-line approach to capturing vehicular trip-makers' route-choice decisions with ground reality,10.1007/s11116-012-9436-3
+"On modeling telecommuting behavior: Option, choice, and frequency",10.1007/s11116-012-9429-2
+Changing household car ownership level and life cycle events: An action in anticipation or an action on occurrence,10.1007/s11116-013-9507-0
+Calibrating a social-force-based pedestrian walking model based on maximum likelihood estimation,10.1007/s11116-012-9411-z
+Assessing the employment agglomeration and social accessibility impacts of high speed rail in Eastern Australia,10.1007/s11116-013-9480-7
+Analysis of Metro ridership at station level and station-to-station level in Nanjing: An approach based on direct demand models,10.1007/s11116-013-9492-3
+Evaluating light rail sketch planning: Actual versus predicted station boardings in Phoenix,10.1007/s11116-013-9499-9
+The effect of work-related factors on the bicycle commute mode choice in the Netherlands,10.1007/s11116-012-9399-4
+The effect of travel time variability on route choice decision: a generalized linear mixed model based analysis,10.1007/s11116-013-9481-6
+The acceptability of road pricing in Vienna: The preference patterns of car drivers,10.1007/s11116-013-9485-2
+Changes in travel mode use after residential relocation: A contribution to mobility biographies,10.1007/s11116-012-9417-6
+Multilevel modelling of Demand Responsive Transport (DRT) trips in Greater Manchester based on area-wide socio-economic data,10.1007/s11116-013-9506-1
+Making use of respondent reported processing information to understand attribute importance: A latent variable scaling approach,10.1007/s11116-012-9420-y
+"Explaining the ""immigrant effect"" on auto use: The influences of neighborhoods and preferences",10.1007/s11116-013-9475-4
+Rules for aggregated satisfaction with work commutes,10.1007/s11116-013-9484-3
+The influence of personality on acceptability of sustainable transport policies,10.1007/s11116-013-9502-5
+Persuasive communication aimed at public transportation-oriented residential choice and the promotion of public transport,10.1007/s11116-013-9472-7
+An empirical comparison of travel choice models that capture preferences for compromise alternatives,10.1007/s11116-012-9444-3
+A long panel survey to elicit variation in preferences and attitudes in the choice of electric vehicles,10.1007/s11116-014-9517-6
+"""If only I had taken the other road..."": Regret, risk and reinforced learning in informed route-choice",10.1007/s11116-012-9426-5
+Rescuing the captive [mode] user: An alternative approach to transport market segmentation,10.1007/s11116-012-9437-2
+Passengers' activities during short trips on the London Underground,10.1007/s11116-012-9419-4
+"Examining the relationship between active travel, weather, and the built environment: a multilevel approach using a GPS-enhanced dataset",10.1007/s11116-013-9476-3
+The impact of a financial constraint on the spatial structure of public transport services,10.1007/s11116-013-9461-x
+"Covariance, identification, and finite-sample performance of the MSL and Bayes estimators of a logit model with latent attributes",10.1007/s11116-012-9434-5
+"It's not that I don't care, I just don't care very much: Confounding between attribute non-attendance and taste heterogeneity",10.1007/s11116-012-9438-1
+A model for work activity schedules with synchronization for multiple-worker households,10.1007/s11116-013-9469-2
+An aggregate approach to model evacuee behavior for no-notice evacuation operations,10.1007/s11116-012-9440-7
+Multi-state supernetwork framework for the two-person joint travel problem,10.1007/s11116-013-9466-5
+Representing and estimating interactions between activities in a need-based model of activity generation,10.1007/s11116-012-9423-8
+Putting the blue pencil away and taking down the name board,10.1007/s11116-013-9505-2
+"Erratum to Transport effects of e-commerce: What can be learned after years of research? (Transportation, 10.1007/s11116-013-9457-6)",10.1007/s11116-013-9477-2
+"Behavioural implications of preferences, risk attitudes and beliefs in modelling risky travel choice with travel time variability",10.1007/s11116-012-9445-2
+Has the transport-led economic growth effect reached a peak in China? A panel threshold regression approach,10.1007/s11116-013-9503-4
+A general theory of traffic movement: The 1955 ITE past presidents' award paper,10.1007/s11116-013-9487-0
+A Bayesian method for estimating traffic flows based on plate scanning,10.1007/s11116-012-9443-4
+Effects of household structure and accessibility on travel,10.1007/s11116-013-9468-3
+Turning cities inside out: Transportation and the resurgence of downtowns in North America,10.1007/s11116-013-9501-6
+Economical welfare maximisation analysis: Assessing the use of existing Park-and-Ride services,10.1007/s11116-013-9498-x
+Mitigating supply and price volatilities in Singapore’s vehicle quota system,10.1007/s11116-014-9542-5
+Inter-personal interactions and constraints in travel behavior within households and social networks,10.1007/s11116-013-9474-5
+Not driving alone? American commuting in the twenty-first century,10.1007/s11116-011-9374-5
+Importance of traveler attitudes in the choice of public transportation to work: Findings from the Regional Transportation Authority Attitudinal Survey,10.1007/s11116-011-9336-y
+Incorporating crowding into the San Francisco activity-based travel model,10.1007/s11116-012-9405-x
+Well-being and activity-based models,10.1007/s11116-012-9387-8
+"Impact of ICT access on personal activity space and greenhouse gas production: Evidence from Quebec City, Canada",10.1007/s11116-012-9428-3
+"""I can do perfectly well without a car!"": An exploration of stated preferences for middle-distance travel",10.1007/s11116-010-9315-8
+Allowing for heterogeneous decision rules in discrete choice models: An approach and four case studies,10.1007/s11116-011-9365-6
+Multi-dimensional advances in travel modeling,10.1007/s11116-011-9361-x
+Does regional travel time unreliability influence mode choice?,10.1007/s11116-011-9335-z
+The interactions between e-shopping and traditional in-store shopping: An application of structural equations model,10.1007/s11116-011-9376-3
+Advances in population synthesis: Fitting many attributes per agent and fitting to household and person margins simultaneously,10.1007/s11116-011-9367-4
+Financial lessons from Asian experience in constructing and operating high speed train networks,10.1007/s11116-011-9348-7
+Latent variables and route choice behavior,10.1007/s11116-011-9344-y
+Transport infrastructure and services: An Asia and developing world,10.1007/s11116-011-9371-8
+Trial-and-error method for congestion pricing scheme under side-constrained probit-based stochastic user equilibrium conditions,10.1007/s11116-011-9346-9
+"Tradeoffs among free-flow speed, capacity, cost, and environmental footprint in highway design",10.1007/s11116-012-9395-8
+Ridership drivers of bus rapid transit systems,10.1007/s11116-012-9392-y
+Unreliable trains and induced rescheduling: Implications for cost-benefit analysis,10.1007/s11116-011-9345-x
+"Erratum to Ridership drivers of bus rapid transit systems (Transportation, 10.1007/s11116-012-9392-y)",10.1007/s11116-012-9416-7
+Comparing the performance of models for wider economic benefits of transport infrastructure: Results of a Dutch case study,10.1007/s11116-011-9383-4
+The impact of rail access on condominium prices in Hamburg,10.1007/s11116-011-9379-0
+How can we alter our carbon footprint? Estimating GHG emissions based on travel survey information,10.1007/s11116-012-9415-8
+Characteristics of premium transit services that affect mode choice,10.1007/s11116-011-9334-0
+Substance precedes methodology: On cost-benefit analysis and equity,10.1007/s11116-011-9372-7
+"Simulating the impacts of household travel on greenhouse gas emissions, urban air quality, and population exposure",10.1007/s11116-011-9362-9
+Does the choice model method and/or the data matter?,10.1007/s11116-011-9329-x
+Context-dependent influence of road attributes and pricing policies on route choice behavior of truck drivers: Results of a conjoint choice experiment,10.1007/s11116-012-9391-z
+Generation of logistics networks in freight transportation models,10.1007/s11116-012-9386-9
+An analysis of soft transport policy measures implemented in Sweden to reduce private car use,10.1007/s11116-012-9412-y
+When the internet is not enough: Toward an understanding of carpool services for service workers,10.1007/s11116-011-9384-3
+Optimizing bus-size and headway in transit networks,10.1007/s11116-011-9332-2
+Large-scale application of MILATRAS: Case study of the Toronto transit network,10.1007/s11116-011-9358-5
+Traffic forecasts under uncertainty and capacity constraints,10.1007/s11116-011-9325-1
+Developing an integrated scobit-based activity participation and time allocation model to explore influence of childcare on women's time use behaviour,10.1007/s11116-011-9321-5
+A cost performance analysis of transport infrastructure construction in Slovenia,10.1007/s11116-011-9319-z
+Household travel attributes transferability analysis: Application of a hierarchical rule based approach,10.1007/s11116-011-9339-8
+"Involvement in clubs or voluntary associations, social networks and activity generation: A path analysis",10.1007/s11116-012-9403-z
+An assessment of cost management regimes in British rail infrastructure provision,10.1007/s11116-012-9389-6
+Measuring quality of service in dial-a-ride operations: The case of a Canadian city,10.1007/s11116-011-9375-4
+Intermodal exchange stations in the city of Madrid,10.1007/s11116-011-9377-2
+Spatial epidemiologic analysis of relative collision risk factors among urban bicyclists and pedestrians,10.1007/s11116-011-9363-8
+Identifying variations and co-variations in discrete choice models,10.1007/s11116-010-9317-6
+Modelling commuting mode choice with explicit consideration of carpool in the choice set formation,10.1007/s11116-011-9333-1
+Analysis of long-distance vacation travel demand in the United States: A multiple discrete-continuous choice framework,10.1007/s11116-012-9397-6
+Exploring traffic flow databases using space-time plots and data cubes,10.1007/s11116-011-9343-z
+Can scale and coefficient heterogeneity be separated in random coefficients models?,10.1007/s11116-012-9394-9
+Roadway and traffic characteristics for bicycling,10.1007/s11116-011-9353-x
+Professional workers @ work: Importance of work activities for electronic and face-to-face communications in the Netherlands,10.1007/s11116-012-9400-2
+Assuring finite moments for willingness to pay in random coefficient models,10.1007/s11116-011-9331-3
+Performance assessment of bus transport reform in Seoul,10.1007/s11116-011-9330-4
+Modeling the spatial and temporal dimensions of recreational activity participation with a focus on physical activities,10.1007/s11116-011-9356-7
+Modelling the dynamics of bus use in a changing travel environment using panel data,10.1007/s11116-010-9312-y
+"Assessing the impact of the built environment on travel behavior: A case study of Buffalo, New York",10.1007/s11116-011-9337-x
+Can rural older drivers meet their needs without a car? Stated adaptation responses from a GPS travel diary survey,10.1007/s11116-011-9323-3
+Transport infrastructure and regional economic growth: Evidence from China,10.1007/s11116-011-9349-6
+Commuting trips within tours: How is commuting related to land use?,10.1007/s11116-010-9309-6
+Using ordered attitudinal indicators in a latent variable choice model: A study of the impact of security on rail travel behaviour,10.1007/s11116-011-9351-z
+The influence of interview location on the value of travel time savings,10.1007/s11116-011-9378-1
+Participation and desire: Leisure activities among Canadian adults with disabilities,10.1007/s11116-012-9385-x
+Modelling travellers' risky choice in a revealed preference context: A comparison of EUT and non-EUT approaches,10.1007/s11116-012-9408-7
+Justice in transport as justice in accessibility: Applying Walzer's 'Spheres of Justice' to the transport sector,10.1007/s11116-012-9388-7
+Feasibility of using time-space prism to represent available opportunities and choice sets for destination choice models in the context of dynamic urban environments,10.1007/s11116-012-9407-8
+Review and meta-analysis of U.K. time elasticities of travel demand,10.1007/s11116-011-9369-2
+A review on travel behaviour modelling in dynamic traffic simulation models for evacuations,10.1007/s11116-011-9320-6
+Cycling to work in 90 large American cities: New evidence on the role of bike paths and lanes,10.1007/s11116-011-9355-8
+E-bikes and urban transportation: Emerging issues and unresolved questions,10.1007/s11116-011-9328-y
+The university workers' willingness to pay for commuting,10.1007/s11116-012-9414-9
+A dichotomous choice survey for quantifying option and non-use values of bus services in Korea,10.1007/s11116-011-9326-0
+She's got a ticket to ride: Gender and public transit passes,10.1007/s11116-011-9381-6
+Combining web and face-to-face in travel surveys: Comparability challenges?,10.1007/s11116-012-9393-x
+Some managerial and technical issues in transport sector development projects,10.1007/s11116-011-9352-y
+Observability in traffic networks. Plate scanning added by counting information,10.1007/s11116-012-9390-0
+Interdependencies between turning points in life and long-term mobility decisions,10.1007/s11116-012-9404-y
+Current issues in mode choice modeling,10.1007/s11116-011-9340-2
+An analysis of Metro ridership at the station-to-station level in Seoul,10.1007/s11116-011-9368-3
+Quantifying the transport-related impacts of parental school choice in England,10.1007/s11116-012-9410-0
+Working on the train: From 'dead time' to productive and vital time,10.1007/s11116-012-9396-7
+Solution methods for the taxi pooling problem,10.1007/s11116-011-9354-9
+Hot lane policies and their implications,10.1007/s11116-011-9382-5
+Analysis of the environmental benefits of a motorcycle idling stop policy at urban intersections,10.1007/s11116-010-9318-5
+Flexible spatial dependence structures for unordered multinomial choice models: Formulation and application to teenagers' activity participation,10.1007/s11116-011-9370-9
+Walking to the bus: Perceived versus actual walking distance to bus stops for older adults,10.1007/s11116-011-9341-1
+A conceptual and methodological framework of leisure activity loyalty accommodating the travel context,10.1007/s11116-011-9342-0
+Income-contingent user preferences in policy evaluation: Application and discussion based on multi-agent transport simulations,10.1007/s11116-011-9357-6
+A joint model for vehicle type and fuel type choice: Evidence from a cross-nested logit study,10.1007/s11116-011-9366-5
+Microeconomic determinants of dry bulk shipping freight rates and contract times,10.1007/s11116-010-9308-7
+"Modeling interdependencies between vehicle transaction, residential relocation and job change",10.1007/s11116-011-9359-4
+Weekly activity-travel behaviour in rural Northern Ireland: Differences by context and socio-demographic,10.1007/s11116-011-9322-4
+Developing socially inclusive transportation policy: Transferring the United Kingdom policy approach to the State of Victoria?,10.1007/s11116-011-9324-2
+Donor states and donee states: Investigating geographic redistribution of the US federal-aid highway program 1974-2008,10.1007/s11116-012-9413-x
+Recent advances in activity and travel pattern modelling,10.1007/s11116-012-9401-1
+Inferring attribute non-attendance from stated choice data: Implications for willingness to pay estimates and a warning for stated choice experiment design,10.1007/s11116-011-9347-8
+Incorporating planned activities and events in a dynamic multi-day activity agenda generator,10.1007/s11116-012-9402-0
+Mobility behavior of the elderly: An attitude-based segmentation approach for a heterogeneous target group,10.1007/s11116-011-9380-7
+Estimating the agglomeration benefits of transport investments: Some tests for stability,10.1007/s11116-010-9310-0
+The usefulness of the Sequence Alignment Methods in validating rule-based activity-based forecasting models,10.1007/s11116-012-9406-9
+The role of ICTs in the transformation and the experience of travel,10.1007/s11116-012-9427-4
+A meta-analysis of the relationship between density and travel behavior,10.1007/s11116-011-9373-6
+Interactive stated choice surveys: A study of air travel behaviour,10.1007/s11116-011-9327-z
+"Modeling the choice continuum: An integrated model of residential location, auto ownership, bicycle ownership, and commute tour mode choice decisions",10.1007/s11116-011-9360-y
+Hierarchical ordering of nests in a joint mode and destination choice model,10.1007/s11116-010-9277-x
+Mode choice analysis with imprecise location information,10.1007/s11116-009-9254-4
+Working from 9 to 6? An analysis of in-home and out-of-home working schedules,10.1007/s11116-009-9257-1
+A tribute to Ryuichi Kitamura: An IATBR perspective,10.1007/s11116-009-9235-7
+Tribute to Kitamura Sensei: A great teacher,10.1007/s11116-009-9238-4
+Tribute to Ryuichi Kitamura: A reflection,10.1007/s11116-009-9237-5
+Sealed v/s open bids for certificates of entitlement under the vehicle quota system in Singapore,10.1007/s11116-010-9298-5
+Measuring dissimilarity of geographically dispersed space-time paths,10.1007/s11116-010-9286-9
+Getting by with a little help from my friends...and family: Immigrants and carpooling,10.1007/s11116-010-9262-4
+Generating twins to build weekly time use data from multiple single day OD surveys,10.1007/s11116-010-9311-z
+Generation of synthetic datasets for discrete choice analysis,10.1007/s11116-009-9228-6
+Articulating the activity-based paradigm: Reflections on the contributions of Ryuichi Kitamura,10.1007/s11116-009-9233-9
+Small area estimates of daily person-miles of travel: 2001 National Household Transportation Survey,10.1007/s11116-010-9279-8
+Estimation method for railway passengers' train choice behavior with smart card transaction data,10.1007/s11116-010-9290-0
+Built environment and pedestrian behavior at rail rapid transit stations in Bangkok,10.1007/s11116-009-9226-8
+Explaining public transport information use when a car is available: Attitude theory empirically investigated,10.1007/s11116-010-9265-1
+"Special issue on transit planning, operation and management in densely populated areas",10.1007/s11116-010-9288-7
+Subjective well-being related to satisfaction with daily travel,10.1007/s11116-010-9283-z
+An activity-based approach for scheduling multimodal transit services,10.1007/s11116-010-9291-z
+Trip distribution for limited destinations: A case study for grocery shopping trips in the Netherlands,10.1007/s11116-010-9274-0
+Evaluation of travel demand strategies: A microscopic traffic simulation approach,10.1007/s11116-010-9258-0
+Parameter transfer of common-metric attributes in choice analysis: Implications for willingness to pay,10.1007/s11116-010-9260-6
+A traffic analysis zone definition: A new methodology and algorithm,10.1007/s11116-009-9214-z
+A joint flexible econometric model system of household residential location and vehicle fleet composition/usage choices,10.1007/s11116-010-9271-3
+A comprehensive analysis of household transportation expenditures relative to other goods and services: An application to United States consumer expenditure data,10.1007/s11116-010-9264-2
+"Exploring the drivers of light rail ridership: An empirical route level analysis of selected Australian, North American and European systems",10.1007/s11116-010-9314-9
+A review of household dynamic vehicle ownership models: Holdings models versus transactions models,10.1007/s11116-009-9243-7
+Public sector comparators for UK PFI roads: Inside the black box,10.1007/s11116-010-9261-5
+Online public deliberation for a regional transportation improvement decision,10.1007/s11116-009-9219-7
+Semiparametric specification of the utility function in a travel mode choice model,10.1007/s11116-009-9253-5
+Exploring passenger anxiety associated with train travel,10.1007/s11116-010-9267-z
+Factors associated with bicycle ownership and use: A study of six small U.S. cities,10.1007/s11116-010-9269-x
+Temporal transferability of updated alternative-specific constants in disaggregate mode choice models,10.1007/s11116-009-9252-6
+Mass transit systems of Beijing: Governance evolution and analysis,10.1007/s11116-010-9289-6
+The importance of being early,10.1007/s11116-010-9301-1
+Exploring public transport usage trends in an ageing population,10.1007/s11116-009-9224-x
+"Rapid motorization in Asian cities: Urban transport infrastructure, spatial development and travel behavior",10.1007/s11116-009-9203-2
+"The British colonial 'divide and rule' concept: Its influence to transport access in inner city of George Town, Penang",10.1007/s11116-009-9193-0
+Utilization patterns of park and ride facilities among Kuala Lumpur commuters,10.1007/s11116-009-9204-1
+Motivators and deterrents of bicycling: Comparing influences on decisions to ride,10.1007/s11116-010-9284-y
+State-of-the art of freight forecast modeling: Lessons learned and the road ahead,10.1007/s11116-010-9281-1
+Impact of different criteria for identifying intra-household interactions: A case study of household time allocation,10.1007/s11116-010-9292-y
+The effects of added transportation capacity on travel: A review of theoretical and empirical results,10.1007/s11116-009-9245-5
+Modelling the social and psychological impacts of transport disadvantage,10.1007/s11116-010-9280-2
+Indirect production function and the output effect of public transit subsidies,10.1007/s11116-010-9296-7
+A multi-instrumented approach to observing the activity rescheduling decision process,10.1007/s11116-009-9225-9
+Analyzing the time frame for the transition from leisure-cyclist to commuter-cyclist,10.1007/s11116-010-9299-4
+The cost saving potential of carsharing in a US context,10.1007/s11116-010-9304-y
+Systematic budget allocation for transportation construction projects: A case in Taiwan,10.1007/s11116-009-9239-3
+Discretionary activity location choice: In-home or out-of-home?,10.1007/s11116-010-9293-x
+Behavioural responses to vehicle emissions charging,10.1007/s11116-010-9316-7
+The call of the road: Factors predicting students' car travelling intentions and behaviour,10.1007/s11116-009-9217-9
+A final word,10.1007/s11116-009-9236-6
+The validity of using activity type to structure tour-based scheduling models,10.1007/s11116-010-9285-x
+Life-style and travel demand,10.1007/s11116-009-9244-6
+Shift of reference point and implications on behavioral reaction to gains and losses,10.1007/s11116-010-9302-0
+An empirical analysis of children's after school out-of-home activity-location engagement patterns and time allocation,10.1007/s11116-010-9300-2
+"Characterizing metro networks: State, form, and structure",10.1007/s11116-009-9227-7
+"Managing passenger behavioral intention: An integrated framework for service quality, satisfaction, perceived value, and switching barriers",10.1007/s11116-010-9306-9
+Does scale heterogeneity across individuals matter? An empirical assessment of alternative logit models,10.1007/s11116-010-9259-z
+On the financial viability of mass transit development: The case of Hong Kong,10.1007/s11116-009-9251-7
+"Residential location, vehicle ownership and travel in Asia: A comparative analysis of Kei-Han-Shin and Kuala Lumpur metropolitan areas",10.1007/s11116-009-9195-y
+Origin-destination table disaggregation using biproportional least squares estimation,10.1007/s11116-010-9273-1
+Accounting for inertia in modal choices: Some new evidence using a RP/SP dataset,10.1007/s11116-011-9338-9
+An experimental analysis of intelligibility and efficiency of in-vehicle route guidance system displays,10.1007/s11116-009-9248-2
+The Santiago Panel: Measuring the effects of implementing Transantiago,10.1007/s11116-009-9223-y
+Dynamic model of activity-type choice and scheduling,10.1007/s11116-009-9218-8
+A modelling system to simulate goods movements at an urban scale,10.1007/s11116-010-9276-y
+Optimal design and benefits of a short turning strategy for a bus corridor,10.1007/s11116-010-9287-8
+"""Turn on the radio, bust out a song"": The experience of driving to work",10.1007/s11116-009-9220-1
+A random utility maximization (RUM) based dynamic activity scheduling model: Application in weekend activity scheduling,10.1007/s11116-010-9294-9
+The impacts of time of day pricing on car user behavior: Findings from the Port Authority of New York and New Jersey's initiative,10.1007/s11116-010-9307-8
+"The effect of neighbourhood characteristics, accessibility, home-work location, and demographics on commuting distances",10.1007/s11116-010-9275-z
+Analysis of personal action space using a model system with multiple choice structures,10.1007/s11116-009-9247-3
+Residential mobility and location choice: A nested logit model with sampling of alternatives,10.1007/s11116-010-9270-4
+Trip generation of vulnerable populations in three Canadian cities: A spatial ordered probit approach,10.1007/s11116-010-9263-3
+"A dynamic model system of household car ownership, trip generation, and modal split: Model development and simulation experiment",10.1007/s11116-009-9241-9
+Remembering a teacher,10.1007/s11116-009-9234-8
+Evaluation of an existing bus network using a transit network optimisation model: A case study of the Hiroshima City Bus network,10.1007/s11116-010-9297-6
+Treatment of seasonal tickets for public transport in estimation and application of mode/destination choice models,10.1007/s11116-009-9256-2
+Cross-boundary container truck congestion: The case of the Hong Kong-Pearl River Delta region,10.1007/s11116-009-9246-4
+Attitudes towards public transport in New Zealand,10.1007/s11116-010-9303-z
+"Editorial for ""Transportation"" (2010)",10.1007/s11116-010-9278-9
+Light rail routing: Do goals matter?,10.1007/s11116-010-9305-x
+Large-scale road network vulnerability analysis: A sensitivity analysis based approach,10.1007/s11116-011-9350-0
+"Regulation of the informal transport sector in Rio de Janeiro, Brazil: Welfare impacts and policy analysis",10.1007/s11116-009-9215-y
+Comparative analysis of transit assignment: Evidence from urban railway system in the Tokyo Metropolitan Area,10.1007/s11116-010-9295-8
+Employment status and commute distance of Canadians with disabilities,10.1007/s11116-010-9268-y
+Passenger experience with quality-enhanced bus service: The tyne and wear 'superoute' services,10.1007/s11116-009-9240-x
+Railway reforms: Do they influence operating efficiency?,10.1007/s11116-009-9216-x
+A time-use investigation of shopping participation in three Canadian cities: Is there evidence of social exclusion?,10.1007/s11116-010-9282-0
+"Financing public transport systems in Kuala Lumpur, Malaysia: Challenges and prospects",10.1007/s11116-009-9194-z
+An analysis of trip chaining among older London residents,10.1007/s11116-009-9222-z
+Analysis of cost estimation disclosure in environmental impact statements for surface transportation projects,10.1007/s11116-010-9313-x
+Random covariance heterogeneity in discrete choice models,10.1007/s11116-009-9255-3
+Scrutinizing individuals' leisure-shopping travel decisions to appraise activity-based models of travel demand,10.1007/s11116-010-9272-2
+Communicating something confidential while travelling by train: The use of a telephone conversation versus silent modes,10.1007/s11116-009-9212-1
+Catching a ride on the information super-highway: Toward an understanding of internet-based carpool formation and use,10.1007/s11116-010-9266-0
+Integrating land use and transport knowledge in strategy-making,10.1007/s11116-009-9221-0
+Editorial,10.1007/s11116-009-9249-1
+An analysis on long term emission benefits of a government vehicle fleet replacement plan in northern illinois,10.1007/s11116-007-9149-1
+The principles of calibrating traffic microsimulation models,10.1007/s11116-007-9156-2
+Exploring spatial variety in patterns of activity-travel behaviour: Initial results from the Toronto Travel-Activity Panel Survey (TTAPS),10.1007/s11116-008-9178-4
+Modelling daily activity program generation considering within-day and day-to-day dynamics in activity-travel behaviour,10.1007/s11116-008-9166-8
+Separation of car-dependent commuters from normal-choice riders in mode-choice analysis,10.1007/s11116-009-9209-9
+Short-term shift setting and manpower supplying under stochastic demands for air cargo terminals,10.1007/s11116-007-9151-7
+Operating costs in Norwegian toll companies: A panel data analysis,10.1007/s11116-007-9122-z
+The effect of complex models of externalities on estimated optimal tolls,10.1007/s11116-007-9157-1
+"Effect of attitudes, habit and affective appraisal on mode choice: An application to university workers",10.1007/s11116-008-9168-6
+Assessing asymmetric response effect of behavioral intention to service quality in an integrated psychological decision-making process model of intercity bus passengers: A case of Taiwan,10.1007/s11116-007-9139-3
+Uncertainty in traffic forecasts: Literature review and new results for The Netherlands,10.1007/s11116-006-9110-8
+Second best toll and capacity optimisation in networks: Solution algorithm and policy implications,10.1007/s11116-009-9187-y
+A case for measuring individuals' access to private-vehicle travel as a matter of degrees: Lessons from focus groups with Mexican immigrants in California,10.1007/s11116-008-9169-5
+Do changes in neighborhood characteristics lead to changes in travel behavior? A structural equations modeling approach,10.1007/s11116-007-9132-x
+User satisfaction with paratransit in competition with motorization in indonesia: Anticipation of future implications,10.1007/s11116-007-9119-7
+"Evaluating the pedestrian realm: Instrumental rationality, communicative rationality and phenomenology",10.1007/s11116-008-9175-7
+Bus rapid transit systems: A comparative assessment,10.1007/s11116-008-9163-y
+Defining and understanding trip chaining behaviour,10.1007/s11116-007-9134-8
+Extending stated choice analysis to recognise agent-specific attribute endogeneity in bilateral group negotiation and choice: A think piece,10.1007/s11116-007-9124-x
+"Transport models, philosophy and language",10.1007/s11116-007-9154-4
+Children's mode choice for the school trip: The role of distance and school location in walking to school,10.1007/s11116-007-9135-7
+An analysis of weekly out-of-home discretionary activity participation and time-use behavior,10.1007/s11116-009-9200-5
+"What do people know about their public transport options?: Investigating the memory representations of public transport through telephone interviews in a residential area of Stockholm, Sweden",10.1007/s11116-008-9164-x
+An integrated spatio-temporal GIS toolkit for exploring intra-household interactions,10.1007/s11116-007-9146-4
+Studying travel-related individual assessments and desires by combining hierarchically structured ordinal variables,10.1007/s11116-009-9186-z
+A copula-based joint multinomial discrete-continuous model of vehicle type choice and miles of travel,10.1007/s11116-009-9208-x
+Shifting towards environment-friendly modes: Profiling travelers using Q-methodology,10.1007/s11116-009-9206-z
+"What is responsible for the response lag of a significant change in discretionary time use: The built environment, family and social obligations, temporal constraints, or a psychological delay factor?",10.1007/s11116-008-9184-6
+Modeling residential sorting effects to understand the impact of the built environment on commute mode choice,10.1007/s11116-007-9127-7
+Transportation and land-use preferences and residents' neighborhood choices: The sufficiency of compact development in the Atlanta region,10.1007/s11116-006-9104-6
+The rapid motorization of asia: Implications for the future,10.1007/s11116-007-9123-y
+An analysis of the social context of children's weekend discretionary activity participation,10.1007/s11116-007-9125-9
+Why are work travel plans effective? Comparing conclusions from narrative and meta-analytical research synthesis,10.1007/s11116-007-9121-0
+"Understanding the relationships between private automobile availability, overall physical activity, and travel behavior in adults",10.1007/s11116-007-9150-8
+Information impact on quality of multimodal travel choices: Conceptualizations and empirical analyses,10.1007/s11116-007-9120-1
+Identifying optimal data aggregation interval sizes for link and corridor travel time estimation and forecasting,10.1007/s11116-008-9180-x
+"Immigration, residential location, car ownership, and commuting behavior: A multivariate latent class analysis from California",10.1007/s11116-008-9172-x
+Estimation of the determinants of bicycle mode share for the journey to work using census data,10.1007/s11116-007-9137-5
+Error and optimism bias in toll road traffic forecasts,10.1007/s11116-009-9199-7
+The use of a hazard-based duration model for imputation of missing personal income data,10.1007/s11116-009-9213-0
+The impact of high-speed technology on railway demand,10.1007/s11116-007-9138-4
+Road user charging design: Dealing with multi-objectives and constraints,10.1007/s11116-009-9197-9
+A hybrid model of fuzzy and AHP for handling public assessments on transportation projects,10.1007/s11116-008-9181-9
+Impacts of Information and Communication Technologies (ICT) on time use and travel behavior: A structural equations analysis,10.1007/s11116-007-9113-0
+Modeling children's school travel mode and parental escort decisions,10.1007/s11116-007-9144-6
+Examining the influence of multidestination service orientation on transit service productivity: A multivariate analysis,10.1007/s11116-007-9140-x
+The influence of built environment to the trends in commuting journeys in the Netherlands,10.1007/s11116-007-9129-5
+Activity patterns in space and time: Calculating representative Hagerstrand trajectories,10.1007/s11116-008-9162-z
+The transition to electric bikes in China: History and key reasons for rapid growth,10.1007/s11116-007-9118-8
+Specification and estimation of a spatially and temporally autocorrelated seemingly unrelated regression model: Application to crash rates in China,10.1007/s11116-007-9117-9
+Leisure mobility styles in Swiss conurbations: Construction and empirical analysis,10.1007/s11116-009-9198-8
+A week in the life of baby boomers: How do they see the spatial-temporal organization of their activities and travel?,10.1007/s11116-008-9171-y
+The role of paratransit: Some reflections based on the experience of residents' coach services in Hong Kong,10.1007/s11116-006-9111-7
+How do people respond to congestion mitigation policies? A multivariate probit model of the individual consideration of three travel-related strategy bundles,10.1007/s11116-007-9142-8
+A new approach to evaluating on-road public transport priority projects: Balancing the demand for limited road-space,10.1007/s11116-006-9107-3
+Variation of households' car ownership across time: Application of a panel data model,10.1007/s11116-009-9210-3
+Disentangling the influence of neighborhood type and self-selection on driving behavior: An application of sample selection model,10.1007/s11116-009-9189-9
+Time taken for residents to adopt a new public transport service: Examining heterogeneity through duration modelling,10.1007/s11116-008-9183-7
+Land use-transportation scenario planning: Promise and reality,10.1007/s11116-006-9108-2
+Methodology for the qualitative evaluation of pedestrian crossings at road junctions with traffic lights,10.1007/s11116-008-9161-0
+The combined effect of information and experience on drivers' route-choice behavior,10.1007/s11116-007-9143-7
+Curbing automobile use for sustainable transportation: Analysis of mode choice on short home-based trips,10.1007/s11116-008-9177-5
+Correlations between industrial demands (direct and total) for communications and transportation in the U.S. economy 1947-1997,10.1007/s11116-007-9141-9
+Influences on bicycle use,10.1007/s11116-006-9109-1
+The built environment and travel behavior: Making the connection,10.1007/s11116-007-9131-y
+Vehicle ownership and mode use: The challenge of sustainability,10.1007/s11116-009-9205-0
+The effect of the London congestion charge on road casualties: An intervention analysis,10.1007/s11116-007-9133-9
+"An analysis of children's leisure activity engagement: Examining the day of week, location, physical activity level, and fixity dimensions",10.1007/s11116-008-9173-9
+Travel mode choice: Affected by objective or subjective determinants?,10.1007/s11116-007-9112-1
+Design and development of a stated choice experiment for interdependent agents: Accounting for interactions between buyers and sellers of urban freight services,10.1007/s11116-007-9114-z
+The ambivalence of ridesharing,10.1007/s11116-006-9101-9
+The effect of financial constraints on the optimal design of public transport services,10.1007/s11116-008-9182-8
+"Comparative analysis of household car, motorcycle and bicycle ownership between Osaka metropolitan area, Japan and Kuala Lumpur, Malaysia",10.1007/s11116-009-9196-x
+"Urban form, travel time, and cost relationships with tour complexity and mode choice",10.1007/s11116-007-9136-6
+Estimating the robustness of questionnaire results: Lessons from a mixed-mode survey of expectations for tele-working and road-based business travel,10.1007/s11116-008-9185-5
+Toll product preferences and implications for alternative payment options and going cashless,10.1007/s11116-009-9188-x
+Critical success conditions of collaborative methods: A comparative evaluation of transport planning projects,10.1007/s11116-006-9000-0
+Singapore motorisation restraint and its implications on travel behaviour and urban sustainability,10.1007/s11116-007-9115-y
+More gray hair-but for whom? Scenario-based simulations of elderly activity travel patterns in 2020,10.1007/s11116-008-9170-z
+Identifying peer states for transportation system evaluation & policy analyses,10.1007/s11116-008-9158-8
+Explaining obesity with urban form: A cautionary tale,10.1007/s11116-007-9148-2
+Breaking car use habits: The effectiveness of a free one-month travelcard,10.1007/s11116-008-9160-1
+Travel behavior of special population groups,10.1007/s11116-008-9174-8
+"Traveled distance, stock and fuel efficiency of private vehicles in Canada: Price elasticities and rebound effect",10.1007/s11116-009-9211-2
+Longer-term changes in mode choice decisions in Chennai: A comparison between cross-sectional and dynamic models,10.1007/s11116-007-9116-x
+An exploratory analysis of joint-activity participation characteristics using the American time use survey,10.1007/s11116-007-9155-3
+"Model, process, technique, and the good thing",10.1007/s11116-008-9159-7
+Just pricing: The distributional effects of congestion pricing and sales taxes,10.1007/s11116-008-9165-9
+A detailed analysis of how an urban trail system affects cyclists' travel,10.1007/s11116-007-9130-z
+A methodological approach for developing and assessing business models for flexible transport systems,10.1007/s11116-008-9176-6
+Role of the built environment on mode choice decisions: Additional evidence on the impact of density,10.1007/s11116-007-9153-5
+Institutional constraints on transport policymaking: The case of company cars in Israel,10.1007/s11116-007-9152-6
+"An analysis of bicycle route choice preferences in Texas, US",10.1007/s11116-009-9201-4
+The impact of urban form on automobile travel: Disentangling causation from correlation,10.1007/s11116-007-9128-6
+Weekly rhythms in task and time allocation of households,10.1007/s11116-009-9190-3
+Using census aggregates to proxy for household characteristics: An application to vehicle ownership,10.1007/s11116-009-9191-2
+What neighborhood are you in? Empirical findings of relationships between household travel and neighborhood characteristics,10.1007/s11116-008-9167-7
+Grouping travelers on the basis of their different car and transit levels of use,10.1007/s11116-009-9207-y
+The potential demand for a urban freight consolidation centre,10.1007/s11116-007-9147-3
+Assessing the accuracy of the Sydney Household Travel Survey with GPS,10.1007/s11116-007-9126-8
+Validating the passenger traffic model for Copenhagen,10.1007/s11116-005-4335-5
+Flexible substitution patterns in models of mode and time of day choice: New evidence from the UK and the Netherlands,10.1007/s11116-006-0011-7
+The rational locator reexamined: Are travel times still stable?,10.1007/s11116-004-5507-4
+Estimating commuter mode choice: A discrete choice analysis of the impact of road pricing and parking charges,10.1007/s11116-005-5711-x
+Special issue on activity-travel decision processes,10.1007/s11116-006-0012-6
+Nature or nurture: Why do railroads carry greater freight share in the United States than in Europe?,10.1007/s11116-006-9103-7
+"Time allocation to discretionary in-home, out-of-home activities and to trips",10.1023/B:PORT.0000007228.44861.ae
+Innovative public transport oriented policies in Seoul,10.1007/s11116-005-3050-6
+Modeling drivers' diversion from normal routes under ATIS using generalized estimating equations and binomial probit link function,10.1023/B:PORT.0000025396.32909.dc
+Modelling behavioural rules for daily activity scheduling using fuzzy logic,10.1007/s11116-005-0392-z
+An analysis of weekend work activity patterns in the San Francisco Bay area,10.1007/s11116-006-0008-2
+Road pricing models with maintenance cost,10.1023/B:PORT.0000037059.61327.13
+Modeling household activity-travel interactions as parallel constrained choices,10.1007/s11116-005-5328-0
+A measurement and comparison of cost competitiveness of container ports in Southeast Asia,10.1007/s11116-006-7474-4
+Development and deployment of public transport policy and planning in Taiwan,10.1007/s11116-005-3048-0
+Modeling travel time under ATIS using mixed linear models,10.1007/s11116-005-5354-y
+How much disruption to activities could fuel shortages cause? - The British fuel crisis of September 2000,10.1023/A:1024790101698
+A conceptual analysis of the transportation impacts of B2C e-commerce,10.1023/B:PORT.0000025428.64128.d3
+Preference heterogeneity and willingness to pay for travel time savings,10.1007/s11116-005-3734-y
+An empirical investigation on the dynamic processes of activity scheduling and trip chaining,10.1007/s11116-006-7728-1
+Introduction,10.1007/s11116-005-1209-9
+The impacts of ict on leisure activities and travel: A conceptual exploration,10.1007/s11116-005-2305-6
+Short-term hourly traffic forecasts using Hong Kong Annual Traffic Census,10.1007/s11116-005-0327-8
+Planning and evaluation of passenger ferry service in Hong Kong,10.1007/s11116-005-3047-1
+Guidelines for samplers: Measuring a change in behaviour from before and after surveys,10.1007/s11116-006-0002-8
+The applicability of non-cooperative game theory in transport analysis,
+Representing mental maps and cognitive learning in micro-simulation models of activity-travel choice dynamics,10.1007/s11116-004-7964-1
+Future air traffic management systems and financial decision-making constraints,10.1023/B:PORT.0000007306.26907.22
+An exploration of the relationship between timing and duration of maintenance activities,10.1023/B:PORT.0000037060.42921.35
+The impact of travel time information on travelers' learning under uncertainty,10.1007/s11116-005-5710-y
+An application of the hierarchical fuzzy process to container port competition: Policy and strategic implications,10.1007/s11116-005-6000-4
+A model for joint choice of daily activity pattern types of household members,10.1007/s11116-005-5761-0
+A cross-country study of fairness and infringement on freedom as determinants of car owner's acceptance of road pricing,10.1023/B:PORT.0000025395.17250.49
+An analysis of the determinants of children's weekend physical activity participation,10.1007/s11116-006-0005-5
+Car ownership and attitudes towards transport modes for shopping purposes in Singapore,10.1023/A:1024701011162
+Efficiency of urban public transit: A meta analysis,10.1007/s11116-004-0939-4
+"The effect of location, mobility and socio-demographic factors on task and time allocation of households",10.1007/s11116-006-0007-3
+Modeling intra-household interactions and group decision-making,10.1007/s11116-005-6789-x
+Analysis of within-household effects and between-household differences in maintenance activity allocation,10.1007/s11116-005-5355-x
+Incorporating uncertain and incomplete subjective judgments into the evaluation procedure of transportation demand management alternatives,10.1007/s11116-005-0645-x
+Analysing demand for suburban trips: A mixed RP/SP model with latent variables and interaction effects,10.1007/s11116-005-2299-0
+Refocusing the modelling of freight distribution: Development of an economic-based framework to ervaluate supply chain behaviour in response to congestion charging,10.1007/s11116-004-7615-6
+Application of Ant System to network design problem,10.1007/s11116-004-8246-7
+Telecommuting suitability modeling: An approach based on the concept of abstract job,10.1007/s11116-005-2308-3
+Distributional impacts of road pricing: The truth behind the myth,10.1023/B:PORT.0000007234.98158.6b
+"Linking land use and transportation in a rapidly urbanizing context: A study in Delhi, India",10.1007/s11116-004-2216-y
+Household mobility tool ownership: Modeling interactions between cars and season tickets,10.1007/s11116-005-0328-7
+Network performance improvement under stochastic events with long-term effects,10.1007/s11116-004-1139-y
+Generating complete all-day activity plans with genetic algorithms,10.1007/s11116-004-8287-y
+A topological method to choose optimal solutions after solving the multi-criteria urban road network design problem,10.1007/s11116-005-3507-7
+Planning and policy of public transportation systems in Asia,10.1007/s11116-005-3045-3
+A multiple discrete-continuous model for independent- and joint-discretionary-activity participation decisions,10.1007/s11116-006-8078-8
+Measuring inefficiency in the Norwegian bus industry using multi-directional efficiency analysis,10.1023/B:PORT.0000025400.33939.6d
+"Empirical analysis of transportation investment and economic development at state, county and municipality levels",10.1007/s11116-006-7472-6
+Immobility in travel diary surveys,10.1007/s11116-006-9105-5
+Towards marginal cost pricing: A comparison of alternative pricing systems,10.1023/A:1024727924926
+The market for transportation-land use integration: Do developers want smarter growth than regulations allow?,10.1023/B:PORT.0000037086.33893.9f
+On the depreciation of automobiles: An international comparison,10.1023/B:PORT.0000037087.10954.72
+Specification of a tour-based neighborhood shopping model,10.1007/s11116-004-6992-1
+Tradeoffs between time allocations to maintenance activities/travel and discretionary activities/travel,10.1007/s11116-005-2307-4
+Should we abandon activity type analysis? Redefining activities by their salient attributes,10.1007/s11116-006-0001-9
+Promoting public transport using marketing techniques in mobility management and verifying their quantitative effects,10.1007/s11116-006-0003-7
+A multiple criteria approach for the evaluation of the rail transit networks in Istanbul,10.1023/B:PORT.0000016572.41816.d2
+Introducing alternative fuel vehicles in Hong Kong: Views from the public light bus industry,10.1007/s11116-006-7947-5
+Non-commuters: The people who walk to work or work at home,10.1023/B:PORT.0000016459.21342.9d
+Exploring the propensity to perform social activities: A social network approach,10.1007/s11116-006-8074-z
+Performance evaluation of hybrid-drive buses and potential fuel savings in Brazilian urban transit,10.1023/B:PORT.0000037119.24386.64
+Short-line railroad managers discuss their industry,10.1023/B:PORT.0000007185.58284.ed
+Network effects of intelligent speed adaptation systems,10.1023/B:PORT.0000025394.78857.13
+Modelling route choice behaviour in multi-modal transport networks,10.1007/s11116-004-7963-2
+Multioutput analysis of cargo handling firms: An application to a Spanish port,10.1007/s11116-004-8242-y
+Fatigue in long-duration travel diaries,10.1007/s11116-006-9106-4
+"Wanting to travel, more or less: Exploring the determinants of the deficit and surfeit of personal travel",10.1007/s11116-004-2219-8
+Modeling household interactions in daily in-home and out-of-home maintenance activity participation,10.1007/s11116-005-5329-z
+Experiential incrementalism: On the theory and technique to implement transport plans and policies,10.1007/s11116-005-5232-7
+Short-term prediction of travel time using neural networks on an interurban highway,10.1007/s11116-005-0219-y
+A tour-based model of travel mode choice,10.1007/s11116-004-7962-3
+Trucking industry demand for urban shared use freight terminals,10.1007/s11116-004-2218-9
+An evaluation of the accessibility benefits of commuter rail in Eastern Massachusetts using spatial hedonic price functions,10.1139/v05-264
+Does telecommuting reduce vehicle-miles traveled? An aggregate time series analysis for the U.S,10.1007/s11116-004-3046-7
+Computing dynamic user equilibria for large-scale transportation networks,10.1007/s11116-006-7473-5
+Changing the timing of activities in resolving scheduling conflicts,10.1007/s11116-006-0010-8
+Rural mobility and mode choice: Evidence from the 2001 National Household Travel Survey,10.1007/s11116-004-5508-3
+Yardsticks on the road: Regulatory contracts and cost efficiency in the Norwegian bus industry,10.1023/A:1024784517628
+Airport management: A strategic approach,10.1007/s11116-006-9102-8
+Effect of land use on decisions of shopping tour generation: A case study of three traditional neighborhoods in WA,10.1023/B:PORT.0000016578.21486.af
+"The influences of the built environment and residential self-selection on pedestrian behavior: Evidence from Austin, TX",10.1007/s11116-005-7027-2
+The effects of federal transit subsidy policy on investment decisions: The case of San Francisco's Geary Corridor,10.1023/B:PORT.0000007235.21442.d1
+Understanding travel time expenditures around the world: Exploring the notion of a travel time frontier,10.1007/s11116-006-0004-6
+Developing metro systems in the People's Republic of China: Policy and gaps,10.1007/s11116-005-3046-2
+On altruists and egoists in activity participation and travel: Who are they and do they live together?,10.1007/s11116-006-8075-y
+Estimation of parking accumulation profiles from survey data,10.1023/B:PORT.0000016579.36253.a9
+The multi-criteria road network design problem in an urban area,10.1007/s11116-006-7908-z
+A GA-based household scheduler,10.1007/s11116-005-5325-3
+The signs of the times: Imposing a globally signed condition on willingness to pay distributions,10.1007/s11116-005-2302-9
+Factors influencing support for local transportation sales tax measures,10.1007/s11116-006-0006-4
+Modelling passenger demand for parkway rail stations,10.1023/B:PORT.0000016468.14434.24
+"Neighborhood services, trip purpose, and tour-based travel",10.1023/A:1024768007730
+Determination and applications of environmental costs at different sized airports - Aircraft noise and engine emissions,10.1016/j.mehy.2005.07.023
+Land transport policy and public transport in Singapore,10.1007/s11116-005-3049-z
+What does a one-month free bus ticket do to habitual drivers? An experimental analysis of habit and attitude change,10.1023/A:1021234607980
+Transporting export-bound grain by rail: Rail rates in the post-staggers rail act period,10.1023/A:1010338003266
+A GIS-based planning approach to locating urban rail terminals,10.1023/A:1005204010958
+Changes in transport planning policy: Changes in transport planning methodology?,10.1023/A:1022562125856
+Introduction: Habitual travel choice,10.1023/A:1021230223001
+The mixed logit model: The state of practice,10.1023/A:1022558715350
+The positive utility of the commute: Modeling ideal commute time and relative desired commute amount,10.1023/A:1010366321778
+Bayesian estimation of multinomial probit models of work trip choice,10.1023/A:1023914313215
+Simulator evaluation of incident detection by transponder-equipped vehicles,10.1023/A:1015625801212
+Activity settings and travel behaviour: A social contact perspective,10.1023/a:1005207320044
+Car drivers' willingness to pay for not losing their driving licence,10.1023/A:1015637012059
+Unlimited access,10.1023/A:1010307801490
+A test of inter-modal performance measures for transit investment decisions,10.1023/A:1005234131788
+Time windows in workers' activity patterns: Empirical evidence from the Netherlands,10.1023/A:1023905020890
+Safety in the road environment: A driver behavioural response perspective,10.1023/A:1015661008598
+The relationship between property values and railroad proximity: A study based on hedonic prices and real estate brokers' appraisals,10.1023/A:1010396902050
+"TRESIS: A transportation, land use and environmental strategy impact simulator for urban areas",10.1023/A:1016335814417
+Mobile phone use while driving: Public opinions on restrictions,10.1023/A:1015698129964
+Effects of economic disincentives on private car use,10.1023/A:1016334411457
+A model of joint activity participation between household members,10.1023/A:1012995509777
+Multilevel analysis of daily time use and time allocation to activity types accounting for complex covariance structures using correlated random effects,10.1023/A:1012973004152
+Local shopping as a strategy for reducing automobile travel,10.1023/A:1011850618753
+Dimensions in elderly travel behaviour: A simplified activity-based model using lifestyle clusters,10.1023/A:1023949330747
+Assessing communicative rationality as a transportation planning paradigm,10.1023/A:1005247430522
+"A macroscopic taxi model for passenger demand, taxi utilization and level of services",10.1023/A:1005289504549
+Why do people use their cars for short trips?,10.1023/A:1023987812020
+The analysis of regulation on private highway investment under a build-operate-transfer scheme,10.1023/A:1022503428001
+Asking the right questions about telecommuting: Avoiding pitfalls in surveying homebased work,10.1023/A:1005288112292
+Modeling traffic's flow-density relation: Accommodation of multiple flow regimes and traveler types,10.1023/A:1011815913359
+Subsidized vehicle acquisition and earned income in the transition from welfare to work,10.1023/A:1024724224634
+Sustainability and automobility among the elderly: An international assessment,10.1023/A:1011802707259
+Revisiting the notion of induced traffic through a matched-pairs study,10.1023/A:1014221024304
+Conformity: How VMT-speed distributions can affect mobile emission inventories,10.1023/A:1011848516910
+Trip chaining as a barrier to the propensity to use public transport,10.1023/A:1005246916731
+Application of perceived value model to identify factors affecting passengers' repurchase intentions on city bus: A case of the Taipei metropolitan area,10.1023/A:1023983627092
+Habitual travel behaviour: Evidence from a six-week travel diary,10.1023/A:1021230507071
+A comparison of the sustainability of public and private transportation systems: Study of the Greater Toronto Area,10.1023/A:1016302913909
+Time use and activity perspectives in travel behavior research,10.1023/A:1012909228433
+A combined activity/travel choice model for congested road networks with queues,10.1023/a:1012965320081
+A computerized household activity scheduling survey,10.1023/A:1005231926405
+The analysis of travel and emission impacts of travel demand management strategies using activity-based models,10.1023/A:1014267003243
+Analysis of metropolitan highway capacity and the growth in vehicle miles of travel,10.1023/A:1005288826997
+Effects of increased awareness on choice of travel mode,10.1023/A:1021286608889
+Pseudo-dynamic travel model application to assess traveler information,10.1023/A:1015614208374
+Observing the rhythms of daily life: A six-week travel diary,10.1023/A:1014247822322
+On the goods-activities technical relations in the time allocation theory,10.1023/A:1023936911351
+"An assignment model with modified Logit, which obviates enumeration and overlapping problems",10.1023/A:1022598404823
+Optimal transport strategies for European cities,10.1023/A:1005274015858
+The rationality of transport investment packages,10.1023/A:1010396029605
+A study of the bi-directional pedestrian flow characteristics at Hong Kong signalized crosswalk facilities,10.1023/A:1014226416702
+Demand for rail travel to and from airports,10.1023/A:1014298902528
+Does habitual car use not lead to more resistance to change of travel mode?,10.1023/A:1021282523910
+On the formulation of time-space prisms to model constraints on personal activity-travel engagement,10.1023/A:1012905110686
+Origin-destination matrices estimation model using automatic vehicle identification data and its application to the Han-Shin expressway network,10.1023/A:1005239823771
+Interpreting employee telecommuting adoption: An economics perspective,10.1023/A:1005200513201
+Open skies and open gates,10.1023/A:1010368731422
+A conceptual and methdological framework for the generation of activity-travel patterns,10.1023/A:1005234603206
+Evaluation of transit operations: Data applications of Tri-Met's automated bus dispatching system,10.1023/A:1015633408953
+"Speed management via in-car devices: Effects, implications, perspectives",10.1023/A:1015643001103
+Structure and dynamics of non-suburban passenger travel demand in Indian railways,10.1023/A:1005252524145
+Mixed RP/SP models incorporating interaction effects: Modelling new suburban train services in Cagliari,10.1023/A:1016307308723
+Distance and time based road pricing trial in Dublin,10.1023/A:1005248204428
+A model for assessing the effects of dynamic travel time information via variable message signs,10.1023/A:1005235831457
+Transport policy prioritisation for Dublin,10.1023/A:1005278112631
+Running for the 7:45: The effects of public transit improvements on commuter stress,10.1023/A:1022516221808
+Critical mass: Forging a politics of sustainable mobility in the information age,10.1023/A:1011829701914
+Inconsistent choices in stated choice data. Use of the logit scaling approach to handle resulting variance increases,10.1023/A:1010351102128
+Users of a regional telephone-based traveler information system - a study of TravInfo(TM) users in the San Francisco Bay Area,10.1023/A:1005261302077
+A structural equations analysis of commuters' activity and travel patterns,10.1023/A:1005253813277
+Modeling learning and adaptation processes in activity-travel choice: A framework and numerical experiment,10.1023/A:1021290725727
+Direction dependent prices in public transport: A good idea? the back haul pricing problem for a monopolistic public transport firm,10.1023/A:1016322722832
+The valuation of commuter travel time savings for car drivers: Evaluating alternative model specifications,10.1023/A:1010302117979
+Travel time ratio: The key factor of spatial reach,10.1023/A:1005293330869
+Timing rules for major transportation investments,10.1023/A:1005235423898
+A multioutput cost function for the services of Spanish ports' infrastructure,10.1023/A:1016386131712
+Distributed work and travel behaviour: The dynamics of interactive agency choices between employers and employees,10.1023/A:1005248429131
+Evaluating efficiency in the Norwegian bus industry using data envelopment analysis,10.1023/A:1010333518966
+Micro-simulation of daily activity-travel patterns for travel demand forecasting,10.1023/A:1005259324588
