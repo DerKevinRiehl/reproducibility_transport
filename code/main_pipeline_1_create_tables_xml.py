@@ -186,7 +186,7 @@ df_article_infos.to_excel("a_processed_data/"+journal+"_articleInfos.xlsx")
 relevant_url = []
 for idx, row in df_urls.iterrows():
     url = row["url"].lower()
-    if "github" in url or "drive.google" in url or "bitbucket" in url or "sourceforge" in url or "mendeley" in url:
+    if "github" in url or "drive.google" in url or "bitbucket" in url or "sourceforge" in url or "mendeley" in url or 'docs.google.com/' in url or "youtube" in url or "zenodo" in url:
         relevant_url.append(True)
     else:
         relevant_url.append(False)
