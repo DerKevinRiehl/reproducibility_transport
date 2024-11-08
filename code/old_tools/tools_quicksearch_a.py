@@ -4,19 +4,19 @@ import pandas as pd
 # Journal 2
 # #############################################################################
 
-df_j2_a = pd.read_excel("a_processed_data/journal_2_keywords.xlsx")
-df_j2_b = pd.read_excel("a_processed_data/journal_2_articleInfos.xlsx")
-df_j2_c = pd.read_csv  ("a_processed_data/journal_2_urls.csv")
-df_j2_c = df_j2_c[df_j2_c['url'].str.contains('zenodo', case=False, na=False)] # zenodo # youtube # docs.google.com/ # dropbox # mendeley
+# df_j2_a = pd.read_excel("a_processed_data/journal_2_keywords.xlsx")
+# df_j2_b = pd.read_excel("a_processed_data/journal_2_articleInfos.xlsx")
+# df_j2_c = pd.read_csv  ("a_processed_data/journal_2_urls.csv")
+# df_j2_c = df_j2_c[df_j2_c['url'].str.contains('zenodo', case=False, na=False)] # zenodo # youtube # docs.google.com/ # dropbox # mendeley
 
-df_j2 = df_j2_b.merge(df_j2_a, on=["journal", "article_nr"], how="left")
-df_j2_c = df_j2_c.merge(df_j2, on=["journal", "article_nr"], how="left")
+# df_j2 = df_j2_b.merge(df_j2_a, on=["journal", "article_nr"], how="left")
+# df_j2_c = df_j2_c.merge(df_j2, on=["journal", "article_nr"], how="left")
 
-df_j2_c["yes"] = "yes"
-df_j2_c["l1"] = ""
-df_j2_c["l2"] = ""
+# df_j2_c["yes"] = "yes"
+# df_j2_c["l1"] = ""
+# df_j2_c["l2"] = ""
 
-df_j2_c = df_j2_c[["journal", "article_nr", "url", "yes", "l1", "l2", 'repository', "data", "simulation", "year", "doi", "date", "title", "volume", "issue"]]
+# df_j2_c = df_j2_c[["journal", "article_nr", "url", "yes", "l1", "l2", 'repository', "data", "simulation", "year", "doi", "date", "title", "volume", "issue"]]
 
 
 

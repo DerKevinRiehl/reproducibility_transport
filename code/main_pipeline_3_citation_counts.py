@@ -4,13 +4,12 @@
 ### Organization: ETH Zürich, Institute for Transport Planning and Systems (IVT)
 ### Project: Reproducibility of Simulation Studies in Transportation
 ###############################################################################
-### This file merges the single files per journal into one large file.
+### This file calls the Cross Ref API "https://api.crossref.org/works/"+doi, to
+### derive information about the citation counts for each article.
 ### Two outputs are created: 
-###    - ArticleInfos.xlsx  (containing an overview of all downloaded articles and metadata)
-###    - ArticleURLs.xlsx   (containing a list of all "relevant" repository URLs found in the articles)
-### The ArticleInfos were manually corected were metadata could not be found, and as a result modified file exists:
-###    - ArticleInfos_Manual.xlsx
+###    - Article_Citations_Crossref.csv  (containing an overview of all downloaded articles and citation data)
 ###############################################################################
+
 
 
 

@@ -10,6 +10,10 @@
 ###    - ArticleURLs.xlsx   (containing a list of all "relevant" repository URLs found in the articles)
 ### The ArticleInfos were manually corected were metadata could not be found, and as a result modified file exists:
 ###    - ArticleInfos_Manual.xlsx
+###    - ArticleInfos_URLs_manual_1.xlsx
+###    - ArticleInfos_URLs_manual_2.xlsx
+### Furthermore the found repositories were manually investigated
+###    - Repository_Review_manual.xlsx
 ###############################################################################
 
 
