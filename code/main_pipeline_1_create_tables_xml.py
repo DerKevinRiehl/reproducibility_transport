@@ -12,6 +12,7 @@
 ###    - journal_X_urls.xlsx          (containing a list of all URLs that were mentioned in each article)
 ###    - journal_X_final.xlsx         (containing a combination of all previous files, filtering only relevant URLs related to repositories)
 ### This file works for all journals what were downloaded in XML format.
+### Journals: 3,4,5,6,7,8,9,10,11,14,15
 ###############################################################################
 
 
@@ -31,8 +32,19 @@ from urllib.parse import urlparse
 ###############################################################################
 ############################## Program Settings & Parameters
 ###############################################################################
-main_path = "./data/"
-journal = "journal_7"
+main_path = "data/pipeline/data/"
+journal = "journal_2"
+# journal = "journal_3"
+# journal = "journal_4"
+# journal = "journal_5"
+# journal = "journal_6"
+# journal = "journal_7"
+# journal = "journal_8"
+# journal = "journal_9"
+# journal = "journal_10"
+# journal = "journal_11"
+# journal = "journal_14"
+# journal = "journal_15"
 
 
 
@@ -179,9 +191,9 @@ for idx, row in article_index_df.iterrows():
 df_urls = pd.DataFrame(list_article_urls, columns=["journal", "article_nr", "url"])
 df_keywords = pd.DataFrame(list_article_words, columns=["journal", "article_nr", "repository", "data", "simulation"])
 df_article_infos = pd.DataFrame(list_article_infos, columns=["journal", "article_nr", "year", "doi", "date", "title", "volume", "issue"])
-df_urls.to_csv("a_processed_data/"+journal+"_urls.csv")
-df_keywords.to_excel("a_processed_data/"+journal+"_keywords.xlsx")
-df_article_infos.to_excel("a_processed_data/"+journal+"_articleInfos.xlsx")
+df_urls.to_csv("data/pipeline/a_processed_data/"+journal+"_urls.csv")
+df_keywords.to_excel("data/pipeline/a_processed_data/"+journal+"_keywords.xlsx")
+df_article_infos.to_excel("data/pipeline/a_processed_data/"+journal+"_articleInfos.xlsx")
 
 relevant_url = []
 for idx, row in df_urls.iterrows():
@@ -196,4 +208,4 @@ df_filtered = df_filtered[df_filtered["rel"]==True]
 del df_filtered["rel"]
 df_filtered = df_filtered.merge(df_keywords, on=["journal", "article_nr"], how="left")
 df_filtered = df_filtered.merge(df_article_infos, on=["journal", "article_nr"], how="left")
-df_filtered.to_excel("a_processed_data/"+journal+"_final.xlsx")
+df_filtered.to_excel("data/pipeline/a_processed_data/"+journal+"_final.xlsx")

@@ -66,7 +66,7 @@ def getInformationFromCrossRefAPI(doi):
 # print(getInformationFromCrossRefAPI(doi))
 
 
-df = pd.read_excel("b_merged_data/ArticleInfos_manual.xlsx")
+df = pd.read_excel("data/pipeline/b_merged_data/ArticleInfos_manual.xlsx")
 def clean_doi_string(doi):
     try:
         doi_clean = doi.strip()
@@ -96,4 +96,4 @@ for idx, row in df.iterrows():
     # df[["cra_refs", "cra_cits", "cra_auths", "cra_yearp"]] = df.apply(retrieveInfo, axis=1, result_type="expand")
 
 dfX = pd.DataFrame(lst_data, columns=["num_refs", "num_cits", "num_auths", "num_yearp", "doi_clean", "journal", "article_nr"])
-dfX.to_csv("b_merged_datA/Article_Citations_Crossref.csv")
+dfX.to_csv("data/pipeline/b_merged_datA/Article_Citations_Crossref.csv")

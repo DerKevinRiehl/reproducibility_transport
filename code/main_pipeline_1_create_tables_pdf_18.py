@@ -34,7 +34,7 @@ from datetime import datetime
 ###############################################################################
 ############################## Program Settings & Parameters
 ###############################################################################
-main_path = "./data/"
+main_path = "data/pipeline/data/"
 journal = "journal_18"
 
 
@@ -230,9 +230,9 @@ for idx, row in article_index_df.iterrows():
 df_urls = pd.DataFrame(list_article_urls, columns=["journal", "article_nr", "url"])
 df_keywords = pd.DataFrame(list_article_words, columns=["journal", "article_nr", "repository", "data", "simulation"])
 df_article_infos = pd.DataFrame(list_article_infos, columns=["journal", "article_nr", "year", "doi", "date", "title", "volume", "issue"])
-df_urls.to_excel("processed_data/"+journal+"_urls.xlsx")
-df_keywords.to_excel("processed_data/"+journal+"_keywords.xlsx")
-df_article_infos.to_excel("processed_data/"+journal+"_articleInfos.xlsx")
+df_urls.to_excel("data/pipeline/processed_data/"+journal+"_urls.xlsx")
+df_keywords.to_excel("data/pipeline/processed_data/"+journal+"_keywords.xlsx")
+df_article_infos.to_excel("data/pipeline/processed_data/"+journal+"_articleInfos.xlsx")
 
 relevant_url = []
 for idx, row in df_urls.iterrows():
@@ -247,4 +247,4 @@ df_filtered = df_filtered[df_filtered["rel"]==True]
 del df_filtered["rel"]
 df_filtered = df_filtered.merge(df_keywords, on=["journal", "article_nr"], how="left")
 df_filtered = df_filtered.merge(df_article_infos, on=["journal", "article_nr"], how="left")
-df_filtered.to_excel("processed_data/"+journal+"_final.xlsx")
+df_filtered.to_excel("data/pipeline/processed_data/"+journal+"_final.xlsx")
