@@ -1,12 +1,24 @@
-# Imports
+###############################################################################
+############################## Imports
+###############################################################################
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib.lines import Line2D
 from matplotlib.ticker import MaxNLocator
 
 
-# Methods
+
+
+###############################################################################
+############################## Program Settings & Parameters
+###############################################################################
+survey_data_path = "../data/Survey/Simulation_Reproducibility_in_Transportation_Science_Submissions.csv"
+
+
+
+
+###############################################################################
+############################## Methods
+###############################################################################
 def drawQuestionBarPlot(df, question, value_space, xticklabels):
     value_counts = df[question].value_counts()
     counts = value_counts.reindex(value_space, fill_value=0)
@@ -15,7 +27,7 @@ def drawQuestionBarPlot(df, question, value_space, xticklabels):
     for bar in bars:
         height = bar.get_height()
         text = f'{height}'
-        text_width, text_height = plt.gca().get_xaxis().get_tick_padding(), plt.gca().get_yaxis().get_tick_padding()
+        _, text_height = plt.gca().get_xaxis().get_tick_padding(), plt.gca().get_yaxis().get_tick_padding()
         if height > text_height * 1.2:  # 1.2 is a buffer factor
             plt.text(bar.get_x() + bar.get_width()/2, height/2, text,
                      ha='center', va='center', color="white")
@@ -30,11 +42,18 @@ def drawQuestionBarPlot(df, question, value_space, xticklabels):
 
 
 
-# Load Data
-df = pd.read_csv("../data/Survey/Simulation_Reproducibility_in_Transportation_Science_Submissions.csv")
+###############################################################################
+############################## Load Survey Data
+###############################################################################
+df = pd.read_csv(survey_data_path)
 
+
+
+
+###############################################################################
+############################## Create Visualization
+###############################################################################
 fig = plt.figure(figsize=(10,3))
-
 
 position_order = ["Master Student", "PhD / Doctoral Student", "Post-Doc", "Assistant / Junior Professor", "Tenure Track / Senior Professor"]
 position = '2) Current Position'
