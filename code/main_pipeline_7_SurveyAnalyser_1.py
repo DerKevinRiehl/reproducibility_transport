@@ -118,7 +118,7 @@ def drawDoubleQuestionBarPlot(df, question1, question2):
     plt.yticks([], [])
 
 # Load Data
-df = pd.read_csv("Simulation_Reproducibility_in_Transportation_Science_Submissions.csv")
+df = pd.read_csv("../data/Survey/Simulation_Reproducibility_in_Transportation_Science_Submissions.csv")
 value_space = [1,2,3,4,5]
 
 

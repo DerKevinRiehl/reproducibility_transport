@@ -31,7 +31,7 @@ def drawQuestionBarPlot(df, question, value_space, xticklabels):
 
 
 # Load Data
-df = pd.read_csv("Simulation_Reproducibility_in_Transportation_Science_Submissions.csv")
+df = pd.read_csv("../data/Survey/Simulation_Reproducibility_in_Transportation_Science_Submissions.csv")
 
 fig = plt.figure(figsize=(10,3))
 
@@ -40,7 +40,7 @@ position_order = ["Master Student", "PhD / Doctoral Student", "Post-Doc", "Assis
 position = '2) Current Position'
 yticklabels = ["Master Student", "PhD Student", "Post-Doc", "Junior Professor", "Senior Professor"]
 
-plt.subplot(2,3,1)
+plt.subplot(2,4,1)
 plt.title('Reproducibility As\nSignificant Issue', fontsize=10)
 
 vote = 'The lack of reproducibility in simulation studies is a significant issue in the transportation literature'
@@ -55,8 +55,8 @@ plt.gca().xaxis.set_major_locator(MaxNLocator(integer=True))
 plt.gca().set_yticklabels(yticklabels, ha='right')
 
 
-plt.subplot(2,3,2)
-plt.title('Need For More\nTransparency (Data, Code, Models)', fontsize=10)
+plt.subplot(2,4,2)
+plt.title('Need For More Transparency\n(Data, Code, Models)', fontsize=10)
 
 vote = 'There is a need for greater transparency from researchers regarding their code, data, and simulation models'
 dfX = df[[position, vote]]
@@ -68,7 +68,7 @@ plt.xlim(1,5.5)
 plt.grid(zorder=1)
 plt.yticks([], [])
 
-plt.subplot(2,3,3)
+plt.subplot(2,4,3)
 plt.title('Mandatory Data\nAvailability Statement', fontsize=10)
 
 vote = 'Journals should mandate data availability statements and repositories \nto ensure reproducibility (e.g. GitHub, BitBucket, SourceForge, Mendeley) '
@@ -83,12 +83,35 @@ plt.gca().xaxis.set_major_locator(MaxNLocator(integer=True))
 plt.yticks([], [])
 
 
+plt.subplot(2,4,4)
+plt.title('Implemented Strategy\nIn Their Groups [%]', fontsize=10)
+
+vote = 'Our research group has implemented some type of measure to enhance reproducibility in our work'
+dfX = df[[position, vote]]
+dfX["agree"] = dfX[vote]=="Yes"
+dfX["agree2"] = dfX["agree"].astype(int)
+dfX = dfX.groupby(position)["agree"].agg(['sum', "count"]).reset_index()
+dfX["agree"] = dfX["sum"]/dfX["count"]
+dfX[position] = pd.Categorical(dfX[position], categories=position_order, ordered=True)
+dfX = dfX.sort_values(position)
+bars = plt.barh(dfX[position], dfX['agree']*100, capsize=5, error_kw={'ecolor': 'black', 'capthick': 2}, zorder=2)
+for i, bar in enumerate(bars):
+    width = bar.get_width()
+    count = dfX['count'].iloc[i]
+    plt.gca().text(width + 1, bar.get_y() + bar.get_height()/2, f'n={count}', 
+            va='center', ha='left', fontsize=10)
+plt.xlim(1,100)
+plt.grid(zorder=1)
+plt.gca().xaxis.set_major_locator(MaxNLocator(integer=True))
+plt.yticks([], [])
+plt.xticks([0, 25, 50, 75, 100])
+
 
 # position_order = ["Africa", "Asia", "Australia & Oceania", "Europe", "Middle East", "North America", "South America"]
 position = '3) Where is your research organization located?'
 # yticklabels = ["Africa", "Asia", "Australia & Oceania", "Europe", "Middle East", "North America", "South America"]
 
-plt.subplot(2,3,1+3)
+plt.subplot(2,4,1+4)
 
 vote = 'The lack of reproducibility in simulation studies is a significant issue in the transportation literature'
 dfX = df[[position, vote]]
@@ -102,7 +125,7 @@ plt.gca().xaxis.set_major_locator(MaxNLocator(integer=True))
 # plt.gca().set_yticklabels(yticklabels, ha='right')
 
 
-plt.subplot(2,3,2+3)
+plt.subplot(2,4,2+4)
 
 vote = 'There is a need for greater transparency from researchers regarding their code, data, and simulation models'
 dfX = df[[position, vote]]
@@ -114,7 +137,7 @@ plt.xlim(1,5.5)
 plt.grid(zorder=1)
 plt.yticks([], [])
 
-plt.subplot(2,3,3+3)
+plt.subplot(2,4,3+4)
 
 vote = 'Journals should mandate data availability statements and repositories \nto ensure reproducibility (e.g. GitHub, BitBucket, SourceForge, Mendeley) '
 dfX = df[[position, vote]]
@@ -127,6 +150,28 @@ plt.grid(zorder=1)
 plt.gca().xaxis.set_major_locator(MaxNLocator(integer=True))
 plt.yticks([], [])
 
+
+plt.subplot(2,4,4+4)
+
+vote = 'Our research group has implemented some type of measure to enhance reproducibility in our work'
+dfX = df[[position, vote]]
+dfX["agree"] = dfX[vote]=="Yes"
+dfX["agree2"] = dfX["agree"].astype(int)
+dfX = dfX.groupby(position)["agree"].agg(['sum', "count"]).reset_index()
+dfX["agree"] = dfX["sum"]/dfX["count"]
+# dfX[position] = pd.Categorical(dfX[position], categories=position_order, ordered=True)
+dfX = dfX.sort_values(position)
+bars = plt.barh(dfX[position], dfX['agree']*100, capsize=5, error_kw={'ecolor': 'black', 'capthick': 2}, zorder=2)
+for i, bar in enumerate(bars):
+    width = bar.get_width()
+    count = dfX['count'].iloc[i]
+    plt.gca().text(width + 1, bar.get_y() + bar.get_height()/2, f'n={count}', 
+            va='center', ha='left', fontsize=10)
+plt.xlim(1,100)
+plt.grid(zorder=1)
+plt.gca().xaxis.set_major_locator(MaxNLocator(integer=True))
+plt.yticks([], [])
+plt.xticks([0, 25, 50, 75, 100])
 
 
 plt.tight_layout()

@@ -247,20 +247,32 @@ plt.tight_layout()
 ###############################################################################
 ############################## Analysis 4: Reproducibility And Professionality Of Journal
 ###############################################################################
-df_articleinfos_valid_l5y = df_articleinfos_valid[df_articleinfos_valid[year_col]>=year_threshold]
-df_articleinfos_valid_l5y = df_articleinfos_valid_l5y[df_articleinfos_valid_l5y[simu_col] >= simulation_threshold]
-df_articleinfos_valid_l5y['repo_score'] = df_articleinfos_valid_l5y['repo_score'].fillna(0)
-df_articleinfos_valid_l5y = df_articleinfos_valid_l5y.merge(df_jif_infos, left_on=["journal", "article_year"], right_on=["Nr", "year"], how="left")
+df_articleinfos_valid_l5y2 = df_articleinfos_valid[df_articleinfos_valid[year_col]>=year_threshold]
+df_articleinfos_valid_l5y2 = df_articleinfos_valid_l5y2[df_articleinfos_valid_l5y2[simu_col] >= simulation_threshold]
+df_articleinfos_valid_l5y2['repo_score'] = df_articleinfos_valid_l5y2['repo_score'].fillna(0)
+df_articleinfos_valid_l5y2 = df_articleinfos_valid_l5y2.merge(df_jif_infos, left_on=["journal", "article_year"], right_on=["Nr", "year"], how="left")
+df_articleinfos_valid_l5y2["has_repo"] = df_articleinfos_valid_l5y2["repo_score"]>0
+df_articleinfos_valid_l5y2['has_repo'] = df_articleinfos_valid_l5y2['has_repo'].astype(int)
 
-sns.violinplot(x='repo_score', y='value', data=df_articleinfos_valid_l5y)
-plt.title('Distribution of Repo Scores by Journal Impact Factor Category', fontsize=16)
-plt.ylabel('Journal Impact Factor Category', fontsize=14)
-plt.xlabel('Repo Score', fontsize=14)
-plt.xticks(range(6), ['0', '1', '2', '3', '4', '5'])  # Ensure all 
+df_articleinfos_valid_l5y3 = df_articleinfos_valid_l5y2[df_articleinfos_valid_l5y2["repo_score"]>0]
 
 
-import sys
-sys.exit(0)
+# sns.violinplot(y='repo_score', x='value', orient='h', data=df_articleinfos_valid_l5y2)
+# plt.xlabel('Journal Impact Factor', fontsize=14)
+# plt.ylabel('Repo Score', fontsize=14)
+# plt.yticks(range(6), ['0', '1', '2', '3', '4', '5'])  # Ensure all 
+
+# df_articleinfos_valid_l5y2['value_bins'] = pd.cut(df_articleinfos_valid_l5y2['value'], bins=20)
+# numeric_columns = df_articleinfos_valid_l5y2.select_dtypes(include=[np.number]).columns
+# numeric_columns = numeric_columns.drop(['value'])
+# result = df_articleinfos_valid_l5y2.groupby('value_bins')[numeric_columns].mean().reset_index()
+# result['value_bins_str'] = result['value_bins'].apply(lambda x: f"{x.mid:.2f}")
+# plt.bar(result["value_bins_str"], result["repo_score"])
+# plt.xlabel('Journal Impact Factor', fontsize=14)
+# plt.ylabel('Av. Repo Score', fontsize=14)
+
+# import sys
+# sys.exit(0)
 
 
 
@@ -301,7 +313,8 @@ plt.figure(figsize=(10,3))
 plt.subplot(1,3,1)
 plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["n_repo"]/df_scatter_journal_data["n_simstud"]*100, color="black")
 plt.xlabel("Journal Impact (h5-median)")
-plt.ylabel("Share of Simulation Studies\nWith Repository [%]")
+# plt.ylabel("Share of Simulation Studies\nWith Repository [%]")
+plt.ylabel("has Repository [%]")
 
 df_scatter_journal_data2 = df_scatter_journal_data.dropna()
 df_scatter_journal_data2 = df_scatter_journal_data2.sort_values(by="h5-median", ascending=True)
@@ -312,28 +325,60 @@ p = np.poly1d(z)
 plt.plot(x, p(x), "--", color="gray")
 del df_scatter_journal_data2
 
-plt.subplot(1,3,2)
-colors = cm.viridis(np.linspace(0, 1, 6))
-plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["n_video"]/df_scatter_journal_data["n_repo"]*100, label="video", color=colors[0])
-plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["n_code"]/df_scatter_journal_data["n_repo"]*100, label="code", color=colors[1])
-plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["n_dataset"]/df_scatter_journal_data["n_repo"]*100, label="data", color=colors[2])
-plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["n_model"]/df_scatter_journal_data["n_repo"]*100, label="model", color=colors[3])
-plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["n_documentation"]/df_scatter_journal_data["n_repo"]*100, label="documentation", color=colors[4])
-plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["n_license"]/df_scatter_journal_data["n_repo"]*100, label="license", color=colors[5])
-
-plt.xlabel("Journal Impact (h5-median)")
-plt.ylabel("Share of Repositories [%]")
-plt.legend(loc='upper center', bbox_to_anchor=(0.5, 1.25), ncol=3, fontsize='x-small')
-
 plt.subplot(1,3,3)
-plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["av_reposcore"], color="black")
-plt.xlabel("Journal Impact (h5-median)")
-plt.ylabel("Av. Repo Score")
+
+sns.violinplot(y='repo_score', x='value', orient='h', data=df_articleinfos_valid_l5y2, color='C0')
+plt.xlabel('Journal Impact Factor (Crossref)')
+plt.ylabel('Repository Score')
+plt.yticks(range(6), ['0', '1', '2', '3', '4', '5'])  # Ensure all 
+# colors = cm.viridis(np.linspace(0, 1, 6))
+# plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["n_video"]/df_scatter_journal_data["n_repo"]*100, label="video", color=colors[0])
+# plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["n_code"]/df_scatter_journal_data["n_repo"]*100, label="code", color=colors[1])
+# plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["n_dataset"]/df_scatter_journal_data["n_repo"]*100, label="data", color=colors[2])
+# plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["n_model"]/df_scatter_journal_data["n_repo"]*100, label="model", color=colors[3])
+# plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["n_documentation"]/df_scatter_journal_data["n_repo"]*100, label="documentation", color=colors[4])
+# plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["n_license"]/df_scatter_journal_data["n_repo"]*100, label="license", color=colors[5])
+
+# plt.xlabel("Journal Impact (h5-median)")
+# plt.ylabel("Share of Repositories [%]")
+# plt.legend(loc='upper center', bbox_to_anchor=(0.5, 1.25), ncol=3, fontsize='x-small')
+
+plt.subplot(1,3,2)
+# plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["av_reposcore"], color="black")
+# plt.xlabel("Journal Impact (h5-median)")
+# plt.ylabel("Av. Repo Score")
+
+df_articleinfos_valid_l5y2['value_bins'] = pd.cut(df_articleinfos_valid_l5y2['value'], bins=10)
+numeric_columns = df_articleinfos_valid_l5y2.select_dtypes(include=[np.number]).columns
+numeric_columns = numeric_columns.drop(['value'])
+result = df_articleinfos_valid_l5y2.groupby('value_bins')[numeric_columns].mean().reset_index()
+result['value_bins_str'] = result['value_bins'].apply(lambda x: f"{x.mid:.2f}")
+
+df_articleinfos_valid_l5y3['value_bins'] = pd.cut(df_articleinfos_valid_l5y3['value'], bins=10)
+numeric_columns3 = df_articleinfos_valid_l5y3.select_dtypes(include=[np.number]).columns
+numeric_columns3 = numeric_columns3.drop(['value'])
+result3 = df_articleinfos_valid_l5y3.groupby('value_bins')[numeric_columns3].mean().reset_index()
+result3['value_bins_str'] = result3['value_bins'].apply(lambda x: f"{x.mid:.2f}")
+
+x = np.arange(len(result["value_bins_str"]))
+# plt.bar(result["value_bins_str"], result["repo_score"])
+plt.bar(result["value_bins_str"], np.asarray(result["has_repo"])*100)
+plt.xlabel('Journal Impact Factor (Crossref)')
+plt.ylabel('has Repository [%]')
+
+num_ticks = 5  # You can adjust this number to show more or fewer ticks
+step = len(result) // (num_ticks - 1)
+tick_locations = range(0, len(result), step)
+tick_labels = [result["value_bins_str"][i] for i in tick_locations]
+plt.xticks(tick_locations, tick_labels, ha='right')
 
 plt.tight_layout()
-plt.subplots_adjust(top=0.835, bottom=0.164, wspace=0.256)
+# plt.subplots_adjust(top=0.835, bottom=0.164, wspace=0.256)
+plt.subplots_adjust(top=0.95, bottom=0.164, wspace=0.256)
 
 
+import sys
+sys.exit(0)
 
 
 ###############################################################################
