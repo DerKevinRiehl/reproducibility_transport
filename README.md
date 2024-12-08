@@ -1,6 +1,7 @@
 # Simulation study reproducibility - an inventory & recommendations for the field of transportation
 
 In this repository you can find the source code used to render the transportation simulation study article corpus dataset, to analyse the survey outcome, and to empirically assess the article corpus dataset.  
+Moreover, there are screenshots from the survey website on "tally.so".
 
 All scripts are developed with Python 3.9 and serve as documentation of the specific analysis steps. Additional software packages and versions can be found in `requirements.txt`.
 

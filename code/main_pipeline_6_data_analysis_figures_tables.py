@@ -313,7 +313,7 @@ plt.subplot(1,3,1)
 plt.scatter(df_scatter_journal_data["h5-median"], df_scatter_journal_data["n_repo"]/df_scatter_journal_data["n_simstud"]*100, color="black")
 plt.xlabel("Journal Impact (h5-median)")
 # plt.ylabel("Share of Simulation Studies\nWith Repository [%]")
-plt.ylabel("has Repository [%]")
+plt.ylabel("with Repository [%]")
 
 df_scatter_journal_data2 = df_scatter_journal_data.dropna()
 df_scatter_journal_data2 = df_scatter_journal_data2.sort_values(by="h5-median", ascending=True)
@@ -363,7 +363,7 @@ x = np.arange(len(result["value_bins_str"]))
 # plt.bar(result["value_bins_str"], result["repo_score"])
 plt.bar(result["value_bins_str"], np.asarray(result["has_repo"])*100)
 plt.xlabel('Journal Impact Factor (Crossref)')
-plt.ylabel('has Repository [%]')
+plt.ylabel('with Repository [%]')
 
 num_ticks = 5  # You can adjust this number to show more or fewer ticks
 step = len(result) // (num_ticks - 1)
@@ -376,8 +376,8 @@ plt.tight_layout()
 plt.subplots_adjust(top=0.95, bottom=0.164, wspace=0.256)
 
 
-import sys
-sys.exit(0)
+# import sys
+# sys.exit(0)
 
 
 ###############################################################################
@@ -428,7 +428,8 @@ plt.plot(df_reprod_time[year_col], df_reprod_time["n_model"]/df_reprod_time["cou
 plt.plot(df_reprod_time[year_col], df_reprod_time["n_documentation"]/df_reprod_time["count"]*100, label="has documentation")
 plt.plot(df_reprod_time[year_col], df_reprod_time["n_license"]/df_reprod_time["count"]*100, label="has license")
 plt.xlabel("Year")
-plt.ylabel("Share Of Simulation Study\nWith Repository [%]")
+# plt.ylabel("Share Of Simulation Study\nWith Repository [%]")
+plt.ylabel("Repository With ... [%]")
 plt.legend(loc='upper center', bbox_to_anchor=(0.5, 1.3), ncol=3, fontsize='x-small')
 plt.ylim(0,100)
 
@@ -442,14 +443,15 @@ plt.gca().stackplot(df_reprod_time['article_year'],
              labels=['Level 1', 'Level 2', 'Level 3', 'Level 4', 'Level 5'],
              colors=plt.cm.Greys(np.linspace(0.2, 0.8, 5)))
 plt.xlabel("Year")
-plt.ylabel("Share Of Simulation Study\nWith Repository [%]")
+# plt.ylabel("Share Of Simulation Study\nWith Repository [%]")
+plt.ylabel("Repository With ... Score [%]")
 plt.legend(loc='upper center', bbox_to_anchor=(0.5, 1.3), ncol=3, fontsize='x-small')
 plt.ylim(0,100)
 
 plt.subplot(1,3,3)
 plt.plot(df_reprod_time[year_col], df_reprod_time["av_reposcore"], label="Average Level")
 plt.xlabel("Year")
-plt.ylabel("Average Repository Level")
+plt.ylabel("Avg. Repository Level")
 plt.ylim(0,5)
 
 plt.tight_layout()
