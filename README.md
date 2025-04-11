@@ -33,5 +33,5 @@ For further details please review the exhaustive documentation in the single pyt
 
 If you find our work, insights or dataset interesting, please feel free to cite our work upon usage:
 ```
-Kevin Riehl, Anastasios Kouvelas, Michalis Makridis.2024. Simulation study reproducibility - an inventory & recommendations for the field of transportation.  
+Riehl, K., Kouvelas, A. & Makridis, M.A. Revisiting reproducibility in transportation simulation studies. Eur. Transp. Res. Rev. 17, 22 (2025). https://doi.org/10.1186/s12544-025-00718-9
 ```
